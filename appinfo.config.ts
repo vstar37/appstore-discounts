@@ -649,4 +649,5 @@ export const appConfig: AppConfig[] = [
   { id: 1642682818, name: '熊猫吃短信2 - 垃圾短信拦截' },
   { id: 1319191852, name: '熊猫吃短信 - 垃圾短信过滤' },
   { id: 1067198688, name: '彩云天气pro' },
+  { id: 955297617, name: 'CodeRunner 4' },
 ]
