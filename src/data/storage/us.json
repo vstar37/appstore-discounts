@@ -8336,6 +8336,27 @@
       ]
     ]
   },
+  "955297617": {
+    "name": "CodeRunner 4",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1744550467053,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "956086985": {
     "name": "Dollar Bill Origami",
     "maxPriceInfo": {
