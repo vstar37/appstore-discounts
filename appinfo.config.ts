@@ -374,10 +374,6 @@ export const appConfig: AppConfig[] = [
     name: ['安全笔记+ Pro', { us: 'Safety Note+ Pro' }],
   },
   {
-    id: 505904421,
-    name: 'AirDisk Pro',
-  },
-  {
     id: 1527841661,
     name: ['沙盒星球', { us: 'Sandbox Planet' }],
   },
@@ -398,13 +394,6 @@ export const appConfig: AppConfig[] = [
     name: 'BreatheIn: Calm Breathing',
   },
   {
-    id: 431033044,
-    name: [
-      'Phone Drive - 云储存管理和文件共享',
-      { us: 'Phone Drive: File Storage Sync' },
-    ],
-  },
-  {
     id: 1309638846,
     name: [
       'Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜',
@@ -417,10 +406,6 @@ export const appConfig: AppConfig[] = [
       '照片同步-导出备份相册照片视频',
       { us: 'PhotoSync-Backup your photos' },
     ],
-  },
-  {
-    id: 456637671,
-    name: ['安全监控照片+视频Pro', { us: 'Safety Photo+Video Pro' }],
   },
   {
     id: 1453318714,
@@ -446,13 +431,6 @@ export const appConfig: AppConfig[] = [
     name: ['FocusDots · Focus What Matters', { cn: 'FocusDots · 专注于当下' }],
   },
   { id: 6479307181, name: ['Ghostly Detector', { cn: '灵体侦测器' }] },
-  {
-    id: 488674899,
-    name: [
-      'RAIN RADAR °- sky weather NOAA',
-      { cn: '雨雷達-實時天氣圖。 亞洲和中國。°' },
-    ],
-  },
   {
     id: 1636719674,
     name: [
