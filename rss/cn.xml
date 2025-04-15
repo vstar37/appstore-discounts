@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-04-14T21:24:16.308Z</updated>
+    <updated>2025-04-15T06:34:19.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,49 +21,59 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-14T21:24:16.309Z</updated>
+        <updated>2025-04-15T06:34:19.629Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-1744665602011</id>
-        <link href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-04-14T21:20:02.011Z</updated>
-        <summary type="html"><![CDATA[Lifetime license: ¥698.00 → ¥328.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/49/b6/0049b686-14d3-7d8b-ff9b-c82e718a9fc7/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-1744698679039</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2025-04-15T06:31:19.039Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥128.00 → ¥98.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/b7/d9/a5b7d90c-d160-feaa-77e0-3415ffb21a65/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>Lifetime license：</strong><span>¥698.00</span> → <b>
-  <strong>¥328.00</strong>
+    <strong>永久会员：</strong><span>¥128.00</span> → <b>
+  <strong>¥98.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
+  这是一款关于生、死、心愿的App。
 
-* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
-* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
-* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
-* BACKUPS: Secure your setup and restore it easily when needed.
-* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
-* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
-* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
-* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
-* LOGS: Monitor all activities and changes in your smart home.
-* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
 
-Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
+时针转动，生命流逝。
 
-For more information, visit our website: https://www.controllerforhomekit.com
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
 
-Privacy Policy: 
-https://controllerforhomekit.com/privacy-en/
+有时候，你虽然从相片里看见自己10年前的样子，却几乎忘了10年前自己是个什么样的人，那时在想些什么，又有过怎样的心愿。
 
-Terms of Use: 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
+美国诗人纳·斯待尔在87岁那年写过一首诗：《我会采更多的雏菊》，摘取片段于下。
+
+如果我能够从头活过， 
+我会试着犯更多的错。 
+
+我会放松一点，我会灵活一点。 
+我会比这一趟过得傻。 
+很少有什么事情能让我当真。 
+
+我会疯狂一些，我会少讲点卫生。 
+我会冒更多的险。我会更经常的旅行。 
+我会爬更多的山，游更多的河，看更多的日落。 
+我会多吃冰激凌，少吃豆子。 
+我会惹更多的麻烦，可是不在想象中担忧。
+
+噢，我有过难忘的时刻。 
+如果我能够重来一次，我会要更多这样的时刻。 
+
+我会更经常的逃学。 
+我不会考那么高的分数，除非是一不小心。
+我会多骑些旋转木马， 
+我会采更多的雏菊。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/b6/96/deb696dd-ffc8-e15f-b892-47b0f530ca8a/a0606457-13fe-49c0-91d1-fd7ce7638b22_iPhone_8_Plus-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b8/16/d0/b816d05e-105f-1b10-e59b-7802f2f97a6d/d9084599-4630-43d7-93ce-d8595790483a_iPhone_8_Plus-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/99/b0/3099b0ed-b44d-2e3b-5feb-9163e7e9bb19/3b3d3f2b-ede1-49fb-9d35-5ad5cd78f6f5_iPhone_8_Plus-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b6/87/6e/b6876ecf-9d87-2981-9bac-813142c060a4/22964a37-2540-4866-8945-efaae1914b29_iPhone_8_Plus-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4f/da/90/4fda90bf-daaf-734c-c9d6-fef5b44fe1b5/8886cbe3-1e61-4c9b-ad23-aa04b3096142_iPhone_8_Plus-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b3/48/6f/b3486f38-57a7-1f0e-f158-89ac49fe51d0/47f3dd4b-195b-4c40-ac48-020df4692b16_iPhone_8_Plus-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8a/50/45/8a5045bc-02a6-be01-6a08-95a0adb02687/4828ce0f-6095-431a-9056-76f31a02f3db_iPhone_8_Plus-6.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>
