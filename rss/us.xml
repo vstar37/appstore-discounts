@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-04-15T06:34:19.632Z</updated>
+    <updated>2025-04-15T07:26:18.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,75 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-15T06:34:19.632Z</updated>
+        <updated>2025-04-15T07:26:18.332Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
-        <id>生辰 — 桌面时间小组件-1744698679039</id>
-        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
-        <updated>2025-04-15T06:31:19.039Z</updated>
-        <summary type="html"><![CDATA[永久会员: $19.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/b7/d9/a5b7d90c-d160-feaa-77e0-3415ffb21a65/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>永久会员：</strong><span>$19.99</span> → <b>
-  <strong>$14.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  这是一款关于生、死、心愿的App。
+        <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
+        <id>FyTube - YouTube Without Ads-1744701810851</id>
+        <link href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4"/>
+        <updated>2025-04-15T07:23:30.851Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/db/1b/a8db1bb3-77fa-d0cb-6ee3-e4cc4ca820ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Our app connects to YouTube in real-time and allows you to play any video. FyTube has special features such as: playback with the screen locked, as well as other well-known features like: activating subtitles, changing playback speed, full-screen mode, rewinding… we also added search filters by upload date so you don’t miss a single video of the topics you love the most!
 
-小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+SPECIAL FEATURES
 
-时针转动，生命流逝。
+PLAYBACK WITH LOCKED SCREEN:
+This feature allows you to keep listening to the audio of your videos while your device’s screen is locked, ideal for listening to music or your favorite songs while driving, or when you just want to relax with the audio in the background.
 
-有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+How to activate:
+Simply lock your device’s screen and you’ll see your player use Play, continuing to listen to the audio of your video without interruption :)
 
-有时候，你虽然从相片里看见自己10年前的样子，却几乎忘了10年前自己是个什么样的人，那时在想些什么，又有过怎样的心愿。
+Need help using these features? Visit: fydub.com/fytube
 
-美国诗人纳·斯待尔在87岁那年写过一首诗：《我会采更多的雏菊》，摘取片段于下。
+BASIC FEATURES
 
-如果我能够从头活过， 
-我会试着犯更多的错。 
+• Full-screen video playback with high-quality videos.
+• Easy-to-use interface, friendly design.
+• Fast forward and rewind your video whenever you want, never miss the most interesting parts.
+• Subtitle activation.
+• Change playback speed to your liking.
+• Search engine with smart filters by upload date: day, week, month, year, all.
+• In each video, you’ll find a related videos section to discover more interesting content.
+• Discover the latest videos and don’t miss the latest news from around the world.
+• Our app connects directly to YouTube, allowing you to find any video.
+• Enjoy content on any AirPlay-compatible device.
+• VoiceOver available.
+• No user creation required.
+• We don’t store cache, cookies, or personal data without your authorization, watch your favorite videos safely.
+• Interface available in 29 languages.
+• NO ADS INTERRUPTIONS, NO SUBSCRIPTIONS.
 
-我会放松一点，我会灵活一点。 
-我会比这一趟过得傻。 
-很少有什么事情能让我当真。 
+Get FyTube with a one-time payment and start a new ad-free, subscription-free video streaming experience.
 
-我会疯狂一些，我会少讲点卫生。 
-我会冒更多的险。我会更经常的旅行。 
-我会爬更多的山，游更多的河，看更多的日落。 
-我会多吃冰激凌，少吃豆子。 
-我会惹更多的麻烦，可是不在想象中担忧。
+Minimum requirements:
+• iOS 13 or higher.
+• 3G connection or higher.
 
-噢，我有过难忘的时刻。 
-如果我能够重来一次，我会要更多这样的时刻。 
+Privacy Policy:
+https://fydub.com/privacy-policy_fytube
 
-我会更经常的逃学。 
-我不会考那么高的分数，除非是一不小心。
-我会多骑些旋转木马， 
-我会采更多的雏菊。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/b6/96/deb696dd-ffc8-e15f-b892-47b0f530ca8a/a0606457-13fe-49c0-91d1-fd7ce7638b22_iPhone_8_Plus-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b8/16/d0/b816d05e-105f-1b10-e59b-7802f2f97a6d/d9084599-4630-43d7-93ce-d8595790483a_iPhone_8_Plus-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/99/b0/3099b0ed-b44d-2e3b-5feb-9163e7e9bb19/3b3d3f2b-ede1-49fb-9d35-5ad5cd78f6f5_iPhone_8_Plus-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b6/87/6e/b6876ecf-9d87-2981-9bac-813142c060a4/22964a37-2540-4866-8945-efaae1914b29_iPhone_8_Plus-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/4f/da/90/4fda90bf-daaf-734c-c9d6-fef5b44fe1b5/8886cbe3-1e61-4c9b-ad23-aa04b3096142_iPhone_8_Plus-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b3/48/6f/b3486f38-57a7-1f0e-f158-89ac49fe51d0/47f3dd4b-195b-4c40-ac48-020df4692b16_iPhone_8_Plus-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8a/50/45/8a5045bc-02a6-be01-6a08-95a0adb02687/4828ce0f-6095-431a-9056-76f31a02f3db_iPhone_8_Plus-6.jpg/392x696bb.jpg" />]]></content>
+Terms of Service:
+https://fydub.com/terms-of-service_fytube
+
+Words related to our application:
+youtube, youtobe,youtube youtube music,youtube vanced,youtube ad blocker,no subscription, skip youtube ads, music without ad, music no ads, no ads, app youtube, youtube adblocker, without ads,without ads,block popups,ads remover,pop up blocker,ad-block,blocking ads,adblock for youtube,content blocker,ad blockers,ad blocking,ad blocker,been choice,adblocker,ad-blocker,ad block plus,adblock pro,ad free,block ads,adblock browser,Adblock,ad blocker plus,skip youtube,ads,youtube singing,sin anuncios,music without ad,free you tube red,youtube adblocker,ad skip,block ad,free youtube,video-ads,adblocker youtube,abblocker,stop ads
+
+If you have any questions on how to use FyTube, visit fydub.com/fytube or write to us, we’ll be happy to assist you, we answer all our emails: fytube@fydub.com
+
+FyTube works with YouTube. The YouTube brand and logo are registered trademarks of Google, Inc. All rights reserved.
+
+© FyTube®.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/0e/93/070e9309-88ed-23d9-e67a-d0f7094d738a/cf0a4645-e4c7-45bc-80be-ab665a8f6408_IMG2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b8/6b/41b86b5b-79e0-b5f0-773d-e2ed9269ba2f/3899c162-1e28-45dd-bdf2-25d7db7b2f2d_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7f/46/9f7f4675-d23d-62e2-024e-d7b7093d28a0/b6243bbd-cf1f-4a6a-8282-268afbb1b5ae_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/ae/d9/d3aed975-6cbb-5744-0b90-93c59b742192/d816a813-16bd-4c0c-9dae-b3007f5a0e15_imagen2-ok2.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
