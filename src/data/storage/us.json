@@ -9082,6 +9082,20 @@
     "history": [
       [
         {
+          "timestamp": 1744830950239,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1731071151735,
           "price": 0,
           "formattedPrice": "Free",
@@ -10817,6 +10831,24 @@
       "Happy Otaku Pack Vol.20": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744830950239,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Valentine Stage": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744344146991,
@@ -15874,6 +15906,25 @@
       "Editable Neuroscience Sticker": "$15.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744830950239,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Neuroscience Sticker Book (w/": "$15.99",
+            "Physiology Sticker Book (w/ No": "$14.99",
+            "Customizable Medical Sticker B": "$15.99",
+            "Editable Physiology Sticker Bo": "$14.99",
+            "Digital Concept Map Notebook -": "$6.99",
+            "Digital Pathophysiology Notebo": "$6.99",
+            "170+ All-in-One Digital Planni": "$1.99",
+            "15-Minute Digital Daily Planne": "$8.99",
+            "2025 Daily Planner - Landscape": "$9.99",
+            "Editable Neuroscience Sticker": "$15.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744365734222,
