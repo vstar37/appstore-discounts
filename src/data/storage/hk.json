@@ -9401,14 +9401,29 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Parallels Desktop for Mac": "HK$ 748.00",
-      "Parallels Desktop for Mac #4": "HK$ 748.00",
-      "訂閱 (1 年)": "HK$ 748.00",
-      "Parallels Desktop for Mac #2": "HK$ 748.00",
-      "Parallels Desktop for Mac #3": "HK$ 748.00",
-      "Parallels Desktop for Mac #5": "HK$ 748.00"
+      "Parallels Desktop for Mac": "HK$ 588.00",
+      "Parallels Desktop for Mac #4": "HK$ 588.00",
+      "訂閱 (1 年)": "HK$ 588.00",
+      "Parallels Desktop for Mac #2": "HK$ 588.00",
+      "Parallels Desktop for Mac #3": "HK$ 588.00",
+      "Parallels Desktop for Mac #5": "HK$ 588.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744899626060,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "HK$ 588.00",
+            "Parallels Desktop for Mac #4": "HK$ 588.00",
+            "訂閱 (1 年)": "HK$ 588.00",
+            "Parallels Desktop for Mac #2": "HK$ 588.00",
+            "Parallels Desktop for Mac #3": "HK$ 588.00",
+            "Parallels Desktop for Mac #5": "HK$ 588.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743282125731,
@@ -10526,6 +10541,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744899626060,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743688946609,
@@ -16103,6 +16126,14 @@
     "history": [
       [
         {
+          "timestamp": 1744899626060,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743688946609,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -21332,6 +21363,21 @@
       "5000 GP": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1744899626060,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Remove Ad": "HK$ 22.00",
+            "120000 GP": "HK$ 148.00",
+            "200000 GP": "HK$ 228.00",
+            "25000 GP": "HK$ 48.00",
+            "50000 GP": "HK$ 88.00",
+            "5000 GP": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1741960940054,
