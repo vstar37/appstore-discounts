@@ -8960,6 +8960,14 @@
     "history": [
       [
         {
+          "timestamp": 1744921399859,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "$190.00"
+          }
+        },
+        {
           "timestamp": 1744917441999,
           "price": 0,
           "formattedPrice": "免費",
