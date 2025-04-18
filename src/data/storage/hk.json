@@ -23853,6 +23853,14 @@
     "history": [
       [
         {
+          "timestamp": 1744957838712,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744726910409,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
