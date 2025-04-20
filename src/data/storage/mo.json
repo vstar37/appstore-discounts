@@ -4132,6 +4132,16 @@
     "history": [
       [
         {
+          "timestamp": 1745158750271,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743898155065,
           "price": 0,
           "formattedPrice": "免費",
@@ -8260,10 +8270,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745158750271,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1722784406759,
