@@ -9133,6 +9133,19 @@
     "history": [
       [
         {
+          "timestamp": 1745162406998,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
+        {
           "timestamp": 1745158750271,
           "price": 0,
           "formattedPrice": "Free",
