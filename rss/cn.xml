@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-04-20T14:22:17.948Z</updated>
+    <updated>2025-04-21T19:21:18.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,55 +21,46 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-20T14:22:17.949Z</updated>
+        <updated>2025-04-21T19:21:18.713Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[方便面 - 朋友圈图文排版好帮手]]></title>
-        <id>方便面 - 朋友圈图文排版好帮手-1745158750271</id>
-        <link href="https://apps.apple.com/cn/app/%E6%96%B9%E4%BE%BF%E9%9D%A2-%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%9B%BE%E6%96%87%E6%8E%92%E7%89%88%E5%A5%BD%E5%B8%AE%E6%89%8B/id1255627901?uo=4"/>
-        <updated>2025-04-20T14:19:10.271Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%96%B9%E4%BE%BF%E9%9D%A2-%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%9B%BE%E6%96%87%E6%8E%92%E7%89%88%E5%A5%BD%E5%B8%AE%E6%89%8B/id1255627901?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/7a/d6/597ad658-2e09-d525-e068-64b5bd7fee8f/AppIcon_v1-0-0-1x_U007ephone-0-0-85-220.jpeg/60x60bb.jpg" />
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1745263082153</id>
+        <link href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-04-21T19:18:02.153Z</updated>
+        <summary type="html"><![CDATA[价格: ¥48.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ba/5a/b9ba5a7e-2846-fa81-ac76-66a869367861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
+  优惠信息（价格：<span>¥48.00</span> → <b>
   <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  《方便面》使用者平均一分钟就能够制作出一张语录图片，速度比实际泡一碗方便面还要快！
+  从手腕上监控你的iPhone电池电量。
 
-有时候，灵感在一瞬之间就溜走了，但是有了《方便面》，你能够即时记录灵感并制成图片，轻松分享到自己的朋友圈！
+Juice Watch 是一个简单的应用程序，旨在做好两件事：
 
-【感谢网友一致盛赞】
-• 这是我一直在期待的app！好用（By 匿名鳄鱼）
-• 非常简洁有力的APP ......太可爱了！（By 爆肝的菜鸟工程师）
-• 更多好评持续搜集中，欢迎你一起留下评论，让我们为你做得更好
+•在Apple Watch上显示配对iPhone的电池电量
 
-【方便面是什么？】
-《方便面》是一款专业级的文字编辑神器，不只内附多款颜色与字型，还提供个人水印、企业 Logo 的上传。使用《方便面》，你可以在社群软件上发挥创意展现个人特色，成为众人的目光焦点！
+•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
 
-【方便面可以做什么？】
-• 语录图
-• 表情包
-• 单字卡
-• 便利贴
-• 邀请函
-• 心情纪录
-• 社群贴文等
+只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
 
-【经典原味有什么特色？】
-• 多达 10 种丰富字体
-• 可自订文字、背景、边框颜色
-• 可以从相簿挑选照片当作背景
-• 可搜寻免费图库上海量图片素材
-• 多款滤镜与雾化特效可套用到照片上
-• 可以为图片添加手写签名
-• 幸运签诗可以编辑与收藏
-• 全 App 内无广告，版面干净不扰人
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/c2/6e/5ac26e4f-a9f3-390c-36c8-72dd565a0329/e5e35a10-d759-4644-917f-c4ab6a979bf7_Frame_187.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/80/87/2b80872d-19ae-8528-7fff-1603413660f7/mzl.wxfqdtzx.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/62/f6/e062f66b-0cca-f9f9-e561-83aecb9523fc/mzl.ilvqdioe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f8/68/4ff86817-0e4e-1539-2d02-667828fdb361/mzl.knlserrt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a2/18/18a21894-19ef-853e-0e06-eab5d4fb6815/mzl.sikznbbu.png/392x696bb.png" />]]></content>
+你可以同时看到iPhone和Apple Watch的电池电量。
+
+当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任何范围，从 50 %到 100 %）时，可以在你的 Apple Watch 上收到通知提醒。
+
+你可以设置电池低电量通知提醒，当你的Apple Watch或者iPhone电池电量不足时收到通知提醒。
+
+Juice Watch具有多种复杂功能，所以你可以在自己喜欢的表盘上使用它。
+
+你还可以使用这个应用程序从配对的iPhone上查看Apple Watch的电池电量。 当Apple Watch在其他地方充电时，可能会很起作用。
+
+请注意，Apple Watch上显示的iPhone电池电量并不是实时的。 它大约每5-60分钟定期刷新一次。 配对的iPhone上所显示的Apple Watch的电池电量则以大致相同的速率刷新。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/93/c4/a093c457-f9eb-7a0e-4ec8-e884294d9e35/85c225a8-7133-4dce-93da-d1421b26426e_5.5_inch_-_1_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/15/70/31157006-4bcc-b282-6306-1fe9682d4c5c/b28e8371-2da8-403c-ae2b-f6cb92f4a34f_5.5_inch_-_2_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/4b/4c/f24b4c89-3fcd-20c9-7948-6fd43fae3717/4738d87c-93b1-4532-8668-0d4f8f462601_5.5_inch_-_3_-_cn.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
