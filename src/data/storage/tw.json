@@ -10790,6 +10790,14 @@
     "history": [
       [
         {
+          "timestamp": 1745245204276,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745158750271,
           "price": 0,
           "formattedPrice": "免費",
@@ -20688,6 +20696,21 @@
       "Remove Ad": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745245204276,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "120000 GP": "$690.00",
+            "200000 GP": "$990.00",
+            "25000 GP": "$190.00",
+            "50000 GP": "$320.00",
+            "5000 GP": "$60.00",
+            "Remove Ad": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744899626060,
