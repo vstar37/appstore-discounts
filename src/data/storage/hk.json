@@ -9729,7 +9729,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能視頻播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -20817,6 +20817,14 @@
     "history": [
       [
         {
+          "timestamp": 1745331687926,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1745263082153,
           "price": 0,
           "formattedPrice": "免費",
@@ -25369,6 +25377,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745331687926,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,

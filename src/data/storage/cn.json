@@ -8990,7 +8990,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能视频播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
@@ -10681,6 +10681,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745331687926,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
         {
           "timestamp": 1745328680327,
           "price": 22,
@@ -13385,6 +13402,25 @@
       "肥宅快乐包 Vol.20": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745331687926,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "肥宅快乐包 Vol.20": "¥25.00",
+            "喵斯快跑·传奇": "¥25.00",
+            "宇宙电台 2024": "¥25.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "MD 级战术教育光盘": "¥18.00",
+            "东方暮乐团 -肆-": "¥25.00",
+            "东方暮乐团 组合包100": "¥100.00",
+            "东方暮乐团 组合包88": "¥88.00",
+            "东方暮乐团 组合包78": "¥78.00",
+            "东方暮乐团 组合包75": "¥75.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744950342116,
@@ -19103,6 +19139,14 @@
     "history": [
       [
         {
+          "timestamp": 1745331687926,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1745263082153,
           "price": 0,
           "formattedPrice": "免费",
@@ -23206,6 +23250,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745331687926,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,

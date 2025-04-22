@@ -9941,7 +9941,7 @@
     ]
   },
   "1136220934": {
-    "name": "Infuse - 智能視頻播放器",
+    "name": "Infuse",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
@@ -11787,6 +11787,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745331687926,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "肥宅快樂包 Vol.20": "$130.00",
+            "喵斯快跑·傳奇": "$130.00",
+            "宇宙電台 2024": "$130.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "MD 級戰術教育BD": "$100.00",
+            "東方暮樂團 -肆-": "$130.00",
+            "東方暮樂團  組合包100": "$530.00",
+            "東方暮樂團  組合包88": "$430.00",
+            "東方暮樂團  組合包78": "$390.00",
+            "東方暮樂團  組合包75": "$390.00"
+          }
+        },
         {
           "timestamp": 1745295937470,
           "price": 100,
@@ -19718,6 +19735,14 @@
     "history": [
       [
         {
+          "timestamp": 1745331687926,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        },
+        {
           "timestamp": 1745263082153,
           "price": 0,
           "formattedPrice": "免費",
@@ -24340,6 +24365,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745331687926,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743429744487,
