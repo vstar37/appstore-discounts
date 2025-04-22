@@ -9565,6 +9565,20 @@
     "history": [
       [
         {
+          "timestamp": 1745360433044,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "HK$ 588.00",
+            "Parallels Desktop for Mac #4": "HK$ 588.00",
+            "Parallels Desktop for Mac #3": "HK$ 588.00",
+            "Parallels Desktop for Mac": "HK$ 588.00",
+            "Parallels Desktop for Mac #2": "HK$ 588.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745058033558,
           "price": 0,
           "formattedPrice": "免費",
@@ -11698,6 +11712,25 @@
       "肥宅快樂包 Vol.20": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745360433044,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_0": "HK$ 218.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "喵斯快跑·傳奇": "HK$ 28.00",
+            "肥宅快樂包 SP": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745295937470,
