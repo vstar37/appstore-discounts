@@ -19279,6 +19279,16 @@
     "history": [
       [
         {
+          "timestamp": 1745377545612,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745263082153,
           "price": 0,
           "formattedPrice": "Free",
@@ -24297,6 +24307,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745377545612,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hello World!": "$0.99",
+            "Home Sweet Home": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743477616558,
