@@ -9999,6 +9999,21 @@
     "history": [
       [
         {
+          "timestamp": 1745479331281,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1745476304365,
           "price": 0,
           "formattedPrice": "Free",
@@ -14978,14 +14993,22 @@
   "6499198824": {
     "name": "ScanGo - PDF Document Scanner",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free"
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745479331281,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
