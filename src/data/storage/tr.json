@@ -9920,7 +9920,16 @@
       "170+ All-in-One Digital Planni": "₺99,99",
       "15-Minute Digital Daily Planne": "₺399,99",
       "2025 Daily Planner - Landscape": "₺449,99",
-      "Editable Neuroscience Sticker": "₺699,99"
+      "Editable Neuroscience Sticker": "₺699,99",
+      "2025-2026 Student Planner Port": "₺499,99",
+      "2025-26 Comfort Place planner": "₺399,99",
+      "2025-2026 ADHD Portrait Planne": "₺499,99",
+      "Time-Block Planner (Landscape)": "₺399,99",
+      "Daily Task Planner (Landscape)": "₺399,99",
+      "Coquette Stickers": "₺99,99",
+      "2025 ADHD Digital Planner Appl": "₺499,99",
+      "ADHD Focus Planner (Sun. Start": "₺499,99",
+      "2025 ADHD Digital Planner Goog": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -9976,9 +9985,36 @@
       "170+ All-in-One Digital Planni": "₺99,99",
       "15-Minute Digital Daily Planne": "₺399,99",
       "2025 Daily Planner - Landscape": "₺449,99",
-      "Editable Neuroscience Sticker": "₺699,99"
+      "Editable Neuroscience Sticker": "₺699,99",
+      "2025-2026 Student Planner Port": "₺499,99",
+      "2025-26 Comfort Place planner": "₺399,99",
+      "2025-2026 ADHD Portrait Planne": "₺499,99",
+      "Time-Block Planner (Landscape)": "₺399,99",
+      "Daily Task Planner (Landscape)": "₺399,99",
+      "Coquette Stickers": "₺99,99",
+      "2025 ADHD Digital Planner Appl": "₺499,99",
+      "ADHD Focus Planner (Sun. Start": "₺499,99",
+      "2025 ADHD Digital Planner Goog": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745476304365,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2025-2026 Student Planner Port": "₺499,99",
+            "2025-26 Comfort Place planner": "₺399,99",
+            "2025-2026 ADHD Portrait Planne": "₺499,99",
+            "Time-Block Planner (Landscape)": "₺399,99",
+            "Daily Task Planner (Landscape)": "₺399,99",
+            "Coquette Stickers": "₺99,99",
+            "2025 ADHD Digital Planner Appl": "₺499,99",
+            "ADHD Focus Planner (Sun. Start": "₺499,99",
+            "2025 ADHD Digital Planner Goog": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744907262352,
