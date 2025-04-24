@@ -7715,7 +7715,9 @@
       "488元": "USD 74.99",
       "218元": "USD 31.99",
       "118元": "USD 17.99",
-      "50元": "USD 7.99"
+      "50元": "USD 7.99",
+      "6元": "USD 0.99",
+      "18元": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7729,9 +7731,30 @@
       "488元": "USD 74.99",
       "218元": "USD 31.99",
       "118元": "USD 17.99",
-      "50元": "USD 7.99"
+      "50元": "USD 7.99",
+      "6元": "USD 0.99",
+      "18元": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745504454837,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "6元": "USD 0.99",
+            "18元": "USD 2.99",
+            "50元": "USD 7.99",
+            "118元": "USD 17.99",
+            "218元": "USD 31.99",
+            "488元": "USD 74.99",
+            "618元": "USD 94.99",
+            "998元": "USD 149.99",
+            "私信付费3元": "USD 0.99",
+            "私信付费6元": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -9289,6 +9312,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745504454837,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Rin·Len's Mirrorland": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1745501529707,
           "price": 2.99,
