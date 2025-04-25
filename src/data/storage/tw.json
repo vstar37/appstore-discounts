@@ -17220,6 +17220,21 @@
     "history": [
       [
         {
+          "timestamp": 1745601516408,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "$320.00",
+            "GoodNotes 5完整版解鎖": "$320.00",
+            "Goodnotes 6 一次性付款": "$770.00",
+            "Goodnotes 6 免費試用": "$0.00",
+            "虛線方格：草稿紙張": "$30.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "$0.00",
+            "好心智雜誌": "$0.00",
+            "秋貓貼紙組": "$0.00"
+          }
+        },
+        {
           "timestamp": 1745598416345,
           "price": 0,
           "formattedPrice": "免費",
@@ -19933,6 +19948,16 @@
       "Value for Value": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745601516408,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745331687926,
