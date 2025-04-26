@@ -7295,12 +7295,26 @@
       "price": 0,
       "formattedPrice": "免费",
       "生辰-年度会员": "¥68.00",
-      "生辰-季度会员": "¥68.00",
+      "生辰-季度会员": "¥22.00",
       "生辰年度会员": "¥58.00",
       "月度会员": "¥15.00",
       "永久会员": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745662857976,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "生辰年度会员": "¥78.00",
+            "月度会员": "¥15.00",
+            "生辰-季度会员": "¥22.00",
+            "永久会员": "¥88.00",
+            "生辰-年度会员": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745144530935,
@@ -10290,6 +10304,19 @@
       "Monthly Subscription": "¥35.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745662857976,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO yearly subscription": "¥173.00",
+            "Yearly Subscription": "¥138.00",
+            "Lifetime license": "¥328.00",
+            "Monthly Subscription": "¥35.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744669232818,
