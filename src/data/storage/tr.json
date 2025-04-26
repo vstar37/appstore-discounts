@@ -10928,7 +10928,7 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "Advanced Features": "₺4,99"
+      "Advanced Features": "₺99,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -10936,6 +10936,16 @@
       "Advanced Features": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745659239922,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Advanced Features": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,

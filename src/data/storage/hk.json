@@ -20839,7 +20839,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Advanced Features": "HK$ 8.00"
+      "Advanced Features": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -20847,6 +20847,16 @@
       "Advanced Features": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745659239922,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Advanced Features": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722267783313,

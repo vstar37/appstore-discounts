@@ -19687,7 +19687,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Advanced Features": "$30.00"
+      "Advanced Features": "$60.00"
     },
     "minPriceInfo": {
       "price": 10,
@@ -19695,6 +19695,16 @@
       "Advanced Features": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745659239922,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Advanced Features": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1722267783313,
