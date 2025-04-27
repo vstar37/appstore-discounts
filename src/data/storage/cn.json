@@ -99,6 +99,25 @@
     "history": [
       [
         {
+          "timestamp": 1745742332707,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "通用型套餐-25元": "¥25.00",
+            "通用型套餐-159元": "¥159.00",
+            "通用型套餐-318元": "¥318.00",
+            "通用型套餐-718元": "¥718.00",
+            "通用型套餐-468元": "¥468.00",
+            "通用型套餐-408元": "¥408.00",
+            "通用型套餐-329元": "¥329.00",
+            "免广告会员十二个月15元": "¥15.00",
+            "免广告会员三个月": "¥8.00",
+            "免广告会员十二个月": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1741467717194,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -10775,6 +10794,25 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745742332707,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Pack": "¥8.00",
+            "Geometric Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Color Frame Pack": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745331687926,
