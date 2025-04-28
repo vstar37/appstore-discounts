@@ -16276,6 +16276,16 @@
     "history": [
       [
         {
+          "timestamp": 1745805045486,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743516144245,
           "price": 0,
           "formattedPrice": "免費",

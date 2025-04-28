@@ -21177,6 +21177,16 @@
     "history": [
       [
         {
+          "timestamp": 1745805045486,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743563675880,
           "price": 0,
           "formattedPrice": "Free",

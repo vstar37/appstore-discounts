@@ -12319,6 +12319,16 @@
     "history": [
       [
         {
+          "timestamp": 1745805045486,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1743548539636,
           "price": 0,
           "formattedPrice": "Free",
