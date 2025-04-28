@@ -115,6 +115,23 @@
     "history": [
       [
         {
+          "timestamp": 1745850278637,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6香蕉贝": "HK$ 8.00",
+            "连续包年": "HK$ 288.00",
+            "30香蕉贝": "HK$ 32.00",
+            "连续包季": "HK$ 88.00",
+            "68香蕉贝": "HK$ 88.00",
+            "128香蕉贝": "HK$ 148.00",
+            "免广告会员十二个月": "HK$ 18.00",
+            "同步账本高级功能月套餐": "HK$ 18.00",
+            "12香蕉贝": "HK$ 18.00",
+            "14香蕉贝": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1745847689713,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -11183,6 +11200,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745850278637,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1745847689713,
           "price": 22,
