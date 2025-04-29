@@ -9939,7 +9939,16 @@
       "Coquette Stickers": "₺99,99",
       "2025 ADHD Digital Planner Appl": "₺499,99",
       "ADHD Focus Planner (Sun. Start": "₺499,99",
-      "2025 ADHD Digital Planner Goog": "₺499,99"
+      "2025 ADHD Digital Planner Goog": "₺499,99",
+      "Coloring Book – Cute Food Kawa": "₺249,99",
+      "Coloring Book – Kawaii Animals": "₺249,99",
+      "Coloring Book – Kawaii Avocado": "₺249,99",
+      "Mandala Coloring Book": "₺249,99",
+      "The 'Smart' To Do List - Apple": "₺299,99",
+      "Planeador Digital 2025 (Portug": "₺449,99",
+      "The Ultimate Digital Recipe Bo": "₺349,99",
+      "Digital Pharmacology Notebook": "₺249,99",
+      "Smart Meeting Notes - Green (A": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10004,9 +10013,37 @@
       "Coquette Stickers": "₺99,99",
       "2025 ADHD Digital Planner Appl": "₺499,99",
       "ADHD Focus Planner (Sun. Start": "₺499,99",
-      "2025 ADHD Digital Planner Goog": "₺499,99"
+      "2025 ADHD Digital Planner Goog": "₺499,99",
+      "Coloring Book – Cute Food Kawa": "₺249,99",
+      "Coloring Book – Kawaii Animals": "₺249,99",
+      "Coloring Book – Kawaii Avocado": "₺249,99",
+      "Mandala Coloring Book": "₺249,99",
+      "The 'Smart' To Do List - Apple": "₺299,99",
+      "Planeador Digital 2025 (Portug": "₺449,99",
+      "The Ultimate Digital Recipe Bo": "₺349,99",
+      "Digital Pharmacology Notebook": "₺249,99",
+      "Smart Meeting Notes - Green (A": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745947193321,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2025 ADHD Digital Planner Appl": "₺499,99",
+            "Coloring Book – Cute Food Kawa": "₺249,99",
+            "Coloring Book – Kawaii Animals": "₺249,99",
+            "Coloring Book – Kawaii Avocado": "₺249,99",
+            "Mandala Coloring Book": "₺249,99",
+            "The 'Smart' To Do List - Apple": "₺299,99",
+            "Planeador Digital 2025 (Portug": "₺449,99",
+            "The Ultimate Digital Recipe Bo": "₺349,99",
+            "Digital Pharmacology Notebook": "₺249,99",
+            "Smart Meeting Notes - Green (A": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745479331281,
