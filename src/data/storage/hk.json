@@ -8211,7 +8211,9 @@
       "超值進階寶石包": "HK$ 58.00",
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
-      "Advanced Package": "HK$ 22.00"
+      "Advanced Package": "HK$ 22.00",
+      "2025 Birthday Package": "HK$ 118.00",
+      "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -8230,9 +8232,30 @@
       "超值進階寶石包": "HK$ 58.00",
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
-      "Advanced Package": "HK$ 22.00"
+      "Advanced Package": "HK$ 22.00",
+      "2025 Birthday Package": "HK$ 118.00",
+      "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745951373438,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一大袋寶石": "HK$ 88.00",
+            "超值進階寶石包": "HK$ 58.00",
+            "一推車寶石": "HK$ 188.00",
+            "2025 Birthday Package": "HK$ 118.00",
+            "2025 Birthday Package (Basic)": "HK$ 88.00",
+            "Elite Package": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744059739231,

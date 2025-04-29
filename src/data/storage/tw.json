@@ -8008,7 +8008,9 @@
       "Elite Package": "$320.00",
       "Supreme Package": "$150.00",
       "Advanced Package": "$90.00",
-      "Starter Package": "$30.00"
+      "Starter Package": "$30.00",
+      "2025 Birthday Package": "$490.00",
+      "2025 Birthday Package (Basic)": "$320.00"
     },
     "minPriceInfo": {
       "price": 130,
@@ -8028,9 +8030,30 @@
       "Elite Package": "$320.00",
       "Supreme Package": "$150.00",
       "Advanced Package": "$90.00",
-      "Starter Package": "$30.00"
+      "Starter Package": "$30.00",
+      "2025 Birthday Package": "$490.00",
+      "2025 Birthday Package (Basic)": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1745951373438,
+          "price": 130,
+          "formattedPrice": "$130.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "$60.00",
+            "一瓶陽光菁華": "$30.00",
+            "超值進階寶石包": "$210.00",
+            "一鏟子寶石": "$30.00",
+            "一小盆寶石": "$150.00",
+            "一大袋寶石": "$330.00",
+            "一推車寶石": "$670.00",
+            "2025 Birthday Package": "$490.00",
+            "2025 Birthday Package (Basic)": "$320.00",
+            "Elite Package": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744066938488,
@@ -11967,6 +11990,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745951373438,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "新手上路包": "$33.00",
+            "MSR特選曲目組合包": "$190.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
         {
           "timestamp": 1745947193321,
           "price": 100,
