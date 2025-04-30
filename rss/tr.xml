@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-04-30T05:25:05.814Z</updated>
+    <updated>2025-04-30T17:22:18.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,61 +21,48 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-30T05:25:05.815Z</updated>
+        <updated>2025-04-30T17:22:18.981Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MuseDash]]></title>
-        <id>MuseDash-1745990506736</id>
-        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
-        <updated>2025-04-30T05:21:46.736Z</updated>
-        <summary type="html"><![CDATA[Rin·Len's Mirrorland: ₺399,99 → ₺249,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/8e/a2/948ea257-2b89-ff0d-3a9f-3df0729bd7b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Rin·Len's Mirrorland：</strong><span>₺399,99</span> → <b>
-  <strong>₺249,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  "Hitting while listening to music."
-"Is that the call from another world?"
-[Game Starts Now—!!]
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1746033554323</id>
+        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-04-30T17:19:14.323Z</updated>
+        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ba/5a/b9ba5a7e-2846-fa81-ac76-66a869367861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺299,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Monitor your iPhone battery level from your wrist.
 
-Lovely girls
-or rhythmic music?
-If there’s a place for you to have them both…
-It must be the paradise of parkour & rhythm game  — Muse Dash!!
+Juice Watch is a simple app designed to do two things well:
 
-Huh?! Not your forte? It doesn’t matter!
-Who says you must have a strong sense of rhythm to win?
-Avoid is also a valid option (?)
-As long as you have 100% of passion, courage, and… love for lovely girls~
-Rhythm and fight won’t be an issue
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-[Gameplay]
-Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
-What an easy, beginner-friendly rhythm game
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-[Media Review]
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+You can see both your iPhone and Apple Watch battery levels on the same complication.
 
-Languages Supported:
-English
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
 
-Feedback: https://service.peropero.net/
-Twitter:@MuseDash_EN
-@PeroPeroGuys
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/42/7e/aa427e15-2195-d1da-bd00-561b4b1613c2/0f23885b-2c61-422a-9f33-bee2e2bbb3e4__U5546_U5e97_U4ecb_U7ecd_U56fe2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1c/04/461c047d-8ad6-28eb-15f3-e9ac31110725/mzl.zxynvrdp.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3c/16/983c16d5-99f8-405e-2d07-e32588b032c2/mzl.mtaywkvt.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/13/0f/ed130f2f-8499-8121-bb96-410459f60caf/mzl.tkjlcmcz.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/33/e7/5633e783-fd8d-7231-ef22-8201760cedaa/mzl.fcrrxdwr.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/7a/ef/6e7aef19-77f8-a793-5a33-e8578b0fdc2e/mzl.zdpmpaou.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/2f/5c/b92f5c2e-09b7-4a6b-5ca9-6f7eaf40da0d/8e497735-7b98-4a22-b797-631efddc9bbe__U5546_U5e97_U4ecb_U7ecd_U56fe3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6f/63/df6f63b7-f589-142a-cf2d-3232a87ea316/mzl.iysbmpmj.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e1/d5/41e1d5da-cf37-22f1-0d20-96c62d227ba8/mzl.fzuifspr.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a4/11/34a41100-a3c6-d364-3005-275f77c2c293/mzl.ptdbrreq.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/c0/41/70c04132-2d2b-d69b-bf8e-ca689bd3436e/mzl.jjmzoeqv.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/9a/f8/509af894-7f2b-7a15-0cca-e2a1edcdd5e6/mzl.jhtfehhg.jpg/552x414bb.jpg" />]]></content>
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
