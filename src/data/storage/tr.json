@@ -6733,6 +6733,14 @@
     "history": [
       [
         {
+          "timestamp": 1746055260280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744326144366,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -7269,6 +7277,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746055260280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744931995874,
@@ -7893,6 +7909,25 @@
       "MUSE RADIO FM105": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746055260280,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Endless Pirouette": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "MSR Anthology_Vol.02": "₺179,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745990506736,
@@ -9323,6 +9358,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746055260280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744931995874,
@@ -10787,6 +10830,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746055260280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744326144366,
@@ -12812,6 +12863,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746055260280,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744239726946,
