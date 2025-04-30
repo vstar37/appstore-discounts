@@ -81,6 +81,25 @@
     "history": [
       [
         {
+          "timestamp": 1745982458282,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "通用型套餐-25元": "USD 3.99",
+            "通用型套餐-159元": "USD 22.99",
+            "通用型套餐-318元": "USD 49.99",
+            "通用型套餐-718元": "USD 99.99",
+            "通用型套餐-468元": "USD 69.99",
+            "通用型套餐-408元": "USD 59.99",
+            "通用型套餐-329元": "USD 49.99",
+            "免广告会员十二个月15元": "USD 1.99",
+            "免广告会员三个月": "USD 0.99",
+            "免广告会员十二个月": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745069187770,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -7580,6 +7599,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1745982458282,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "訂閱 (1 年)": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99",
+            "Parallels Desktop for Mac #5": "USD 79.99"
+          }
+        },
         {
           "timestamp": 1745977708233,
           "price": 0,
