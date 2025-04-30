@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-04-29T23:23:18.571Z</updated>
+    <updated>2025-04-30T04:29:19.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,108 +21,35 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-29T23:23:18.572Z</updated>
+        <updated>2025-04-30T04:29:19.579Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
-        <id>Safety Note+ Pro-1745968800712</id>
-        <link href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4"/>
-        <updated>2025-04-29T23:20:00.712Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/08/7b/b8087be7-65dd-1319-9208-e82bc3f867ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Introducing Safety Note+: Keep Your Most Private Notes Secure
-
-Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
-
-Key Features:
-
-• Advanced security system: Utilizing state-of-the-art technology to protect your notes
-• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
-• Biometric support: Unlock the app using TouchID or FaceID for added convenience
-• Intruder report: Capture photos of unauthorized individuals attempting to access your app
-• Decoy password: Conceal your real privacy with a decoy password
-• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
-• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
-• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
-• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
-• Note organization: Create, sort, move, and copy notes within folders
-• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
-• Additional features: Auto-save, note search, email notes, and full orientation support
-• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
-
-Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
-
-Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
-
-Visit us at:
-Website: https://sixbytes.io
-Twitter: https://twitter.com/SixbytesApp
-Facebook: https://www.facebook.com/sixbytesapp
-
-For more information, please refer to our Terms of Service and Privacy Policy:
-Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
-Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Manhunt]]></title>
-        <id>Cyber Manhunt-1745968800712</id>
-        <link href="https://apps.apple.com/tr/app/cyber-manhunt/id1644917705?uo=4"/>
-        <updated>2025-04-29T23:20:00.712Z</updated>
-        <summary type="html"><![CDATA[Price: ₺229,99 → ₺129,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/cyber-manhunt/id1644917705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[ClashX - 服务监控面板]]></title>
+        <id>ClashX - 服务监控面板-1745987164984</id>
+        <link href="https://apps.apple.com/tr/app/clashx-%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF/id6444824570?uo=4"/>
+        <updated>2025-04-30T04:26:04.984Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/clashx-%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7%E9%9D%A2%E6%9D%BF/id6444824570?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cc/64/d9cc64f9-43c2-6e35-1192-48fd23190d1d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
 </a><h2>
   Discount Information（Price：<span>₺229,99</span> → <b>
-  <strong>₺129,99</strong>
+  <strong>₺179,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Cyber Manhunt is a Cyber-Style, Realistic- Society theme, Story-Rich indie game. The game taked place in the Republic of Alivia with some different theme stories ,but the fate of the characters is closely related in there. It will focus on social issues liking big data, hacking, citizen privacy etc... 
+  ClashX can effectively increase your productivity to manage server.
 
-We want to reveal the profound themes behind the stories with wonderful plots and gamification. And let players pay more attention to Cyber Violence and Privacy Breaches.
-
-[Contents]
-◆Chapter I: Death of a Programmer
-The CEO of a company committed suicide by jumping off a building, and claimed that he was extorted tens of millions by his wife. While his wife posted photos of domestic violence on social networks. Who is lying?
-◆Chapter II: Invisible Eyes
-The indecent video of the female college student went viral on the Internet. At this moment, she was already socially dead. Who is the initiator? Who should protect the safety of women?
-◆Chapter III: The Evidence Vanishes
-The student council president, who is both excellent in character and study, suddenly disappeared. The bullying incident made the case more complicated. Who is the murderer and who is the victim?
-◆Chapter IV: The Price of Humiliation
-The female singer has been exposed again! Threatening letters, hype, the suicide of former girl group members... The Internet has set off a public opinion carnival again!
-◆Chapter V: Immortal Code
-When the society is in madness, are you willing to join the Immortal Code to obtain true love and immortality?
-◆DLC: Home Sweet Home
-Behind this seemingly sweet and happy family, everyone has their own secrets, what is the truth hidden behind?!
-◆DLC: Hello World!
-Senior researcher of Titan Dr. Lucrezia died in a terrible car accident on the spot, but the fellow Benjamin took escape from death. But he did not realize that he was about to be involved in a huge conspiracy…
-
-[Features]
-◆Highly Immersive: Gamers play as a hacker in the game, accepts the commission of the company, and solve dangerous incidents.
-◆Rich Gameplay: There are lots of features of Social Engineering in the game, which is including Detecting, Tracking, Puzzles-Solving, Destroying and Hacking etc..
-◆Wonderful Plots: Each chapter in the game will reflect a current hot social topic, such as: Sneak Shot, Cyber Violence, School Bullying, etc...
-◆Multiple Roles: There are many different roles in this game with a flash of personality. Their stories would be dug by yourself.
-◆Fully Dubbing: All the characters in the game have their own voice actors that make the game experience more immersive.
-◆Original Music: There are some original songs in the game, and the lyrics and vocals are all completed by the studio.
-
-[Gameplay]
-◆Web Search: You should collect basic information about the targets through the Internet search.
-◆Database: You can use the database to get deep information about targets.
-◆Crack: You would get passwords based on the obtained target's information, and use it to log in to accounts of different platforms.
-◆Chat: The exciting thing is that you need to chat with targets by disguise and use the information to get the trust of the target.
-◆Phishing: You can send phishing links to hack the targets' hardware devices, and get private information.
-◆Picture Analysis: You can get valuable information and relevant clues from pictures.
-More advanced hacking methods will be unlocked later!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/09/63/1f/09631f1f-c8d2-53cb-382c-2aaaa8b03978/b06ed38e-0bfc-4d1f-abe9-9557edcbe6bc_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/8c/ca/1c8cca77-4287-a14e-96ae-4978b2e85dcc/a065e6bb-677c-4d4b-90c2-5355ad574556_QQ20220928-0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/65/f4/8f/65f48f21-3bb5-a5e6-50f0-557cdfe54791/d6c8bead-b708-496d-a380-fdeab0fa31fe_QQ20220928-20.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a0/a5/20/a0a520c4-7bc6-6a85-db49-1f0f12804899/4c294ed6-ffde-4d46-a2db-9c675c61cc39_QQ20220928-12.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/9b/23/829b23ff-7070-6689-e77b-e73c9d454f89/103a1775-25cd-41cc-8c0a-837d74af7c99_QQ20220928-26.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/89/cd/71/89cd71f6-86b0-e129-c1f5-4577f34ad5ce/7ec5bf86-6f3c-4041-bd44-4d03877a0ee6_QQ20220928-7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/04/79/7e0479c8-4fa7-416d-c6fe-46c59a13875e/ec5aac03-6ba0-44f2-801a-3a8698b9afa2_QQ20220928-22.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/12/30/ef1230f7-5e7e-cafc-9f0a-c8743ad96bfa/c3241fe6-d425-43ad-ac70-368efb3ebfa8_QQ20220928-13.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/80/82/3c808259-f015-aa29-6242-0bce1a31acdb/b45eb479-f7b9-4afa-8eac-a99f1330de83_QQ20220928-3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/f0/aa/2bf0aaac-0c6c-60c0-a8b6-12e4da31826a/a785652f-3c39-481f-8f20-c09bada5b0f5_QQ20220928-10.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5a/35/46/5a3546b4-a80d-70a3-8cee-bdff3e5d5ff2/8a0a9c33-737f-4e1a-9501-f6edd3f2fc0a_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/25/b0/f1/25b0f1d1-b16e-0a96-c63b-655b0e6683ea/6ee61743-1842-4e11-a322-57a37dcc172b_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e0/a9/64/e0a96496-02e8-22bf-b9f5-f02af0eab486/24d70c38-e6b3-4b4c-828e-6bd21df7c27e_14.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/40/94/4b/40944bf0-9b22-2e82-0bba-8c094de44ce6/262a467c-9ad2-43d8-a1c8-a715873244d8_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/63/9a/43639aef-482c-990a-61c9-59becde605b9/66656253-8920-45d1-8c2b-8e9cfd5eb052_y1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/be/7a/28/be7a28e8-e7b8-5ec9-480e-1088dcb58579/396cc804-72a5-4d15-a546-d4114e8e8dde_16.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/38/bf/8e38bfb6-14df-6a28-f7ce-69d4a49c06b2/b0d20e51-a57d-4068-8444-c6a87197561b_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/39/6e/a9396eb3-24e1-db39-3d64-f7d56261d41a/66fb9935-dda0-441c-8fc2-cf284e962e37_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9b/2a/d0/9b2ad0bd-647b-ed1c-7354-0a6f494b766c/5668175f-307c-42f5-b0a9-d37863b5452e_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/02/0c/9e/020c9e79-8d17-a3c0-b452-bee53ef3d38d/3375bfc3-a40a-46f0-8f0e-f78fb1e5d866_13.jpg/552x414bb.jpg" />]]></content>
+- Delay test
+- Manage Server
+- Status monitor
+- Switch proxy
+- Query log
+- Config Modify
+- Policy Group
+- Support Provider Proxy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/a6/9b/4ba69b4a-f51e-7358-fe36-40809216855e/3f6621eb-f486-4d58-9388-84ee73256e1d_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-09_at_16.59.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/f7/52/d4f7521f-624f-3c60-cc7d-08de050f0319/b659beed-b15c-4f64-b3f8-339e370d4cd2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-09_at_16.59.29.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/80/5f/9e805fe8-677a-2a0b-082b-90427aef4015/1c8d760f-4ec4-46d9-8123-38c6e7ed453b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-02-09_at_17.02.05.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/de/2c/22de2ccd-1900-b23b-aefb-327f13f4fed8/ee2090f8-6b9f-41b9-be3b-40ea971cc8ed_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2023-01-29_at_17.59.34.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
