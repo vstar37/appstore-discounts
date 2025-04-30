@@ -10308,6 +10308,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -11131,6 +11139,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744899626060,
@@ -12108,6 +12124,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746022890558,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 28.00",
+            "新手上路包": "HK$ 8.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1745954277138,
           "price": 23,
@@ -17118,6 +17151,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744899626060,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -20913,6 +20954,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -23553,6 +23602,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744207375612,

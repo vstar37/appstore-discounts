@@ -9458,6 +9458,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -9607,6 +9615,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -9738,6 +9754,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744293741935,
@@ -10708,6 +10732,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744899626060,
@@ -13740,6 +13772,23 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "unlockall_0": "¥188.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "MSR特选曲目组合包": "¥25.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "新手上路包": "¥8.00",
+            "unlockall_29": "¥228.00",
+            "MSR特选曲目组合包_Vol.02": "¥25.00",
+            "cyTus": "¥40.00",
+            "Nyanya Universe!": "¥25.00"
+          }
+        },
+        {
           "timestamp": 1746016994514,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -16028,6 +16077,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744899626060,
@@ -18682,6 +18739,14 @@
     "history": [
       [
         {
+          "timestamp": 1746022890558,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744293741935,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -19386,6 +19451,22 @@
       "秘灵": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "追加內容·「深入黑雾」": "¥6.00",
+            "遗忘之潮": "¥18.00",
+            "皇座之舞": "¥12.00",
+            "泰伦斯先驱者套装": "¥6.00",
+            "成人礼": "¥6.00",
+            "睡美人套装": "¥6.00",
+            "秘灵": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738594943371,
@@ -20573,6 +20654,20 @@
       "解锁《一路向海》DLC捆绑包": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥6.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743433338162,
@@ -22051,6 +22146,14 @@
       "formattedPrice": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744207375612,
@@ -24545,6 +24648,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746022890558,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744293741935,
