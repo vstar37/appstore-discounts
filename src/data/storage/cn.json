@@ -7113,6 +7113,14 @@
     "history": [
       [
         {
+          "timestamp": 1746109183081,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741528928419,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -13807,7 +13815,7 @@
       "东方暮乐团 -壹-": "¥25.00",
       "MSR特选曲目组合包": "¥25.00",
       "暮 色 電 台 FM101": "¥25.00",
-      "Let's GROOVE": "¥25.00",
+      "Let's GROOVE": "¥18.00",
       "Miku in Museland": "¥40.00",
       "Rin·Len's Mirrorland": "¥40.00",
       "cyTus": "¥25.00",
@@ -13842,6 +13850,25 @@
       "阿古亚星兜风指南": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746109183081,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥25.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥18.00",
+            "新手上路包": "¥8.00",
+            "MSR特选曲目组合包_Vol.02": "¥25.00",
+            "unlockall_29": "¥228.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746022890558,
@@ -19754,6 +19781,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746109183081,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1746033554323,
           "price": 0,

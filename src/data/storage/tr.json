@@ -7050,9 +7050,22 @@
       "PRO yearly subscription": "₺579,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
-      "Lifetime license": "₺3.999,99"
+      "Lifetime license": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746109183081,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺579,99",
+            "Lifetime license": "₺1.499,99",
+            "Monthly Subscription": "₺109,99",
+            "Yearly Subscription": "₺459,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
