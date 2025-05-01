@@ -5533,6 +5533,14 @@
     "history": [
       [
         {
+          "timestamp": 1746141636243,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1741561346050,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -7904,7 +7912,7 @@
       "Miku in Museland": "₺229,99",
       "MUSE RADIO FM103": "₺99,99",
       "cyTus": "₺229,99",
-      "Let's GROOVE": "₺149,99",
+      "Let's GROOVE": "₺129,99",
       "Ola Dash": "₺149,99",
       "Muse Radio FM101": "₺149,99",
       "Novice Rider Pack": "₺39,99",
@@ -7933,6 +7941,25 @@
       "MUSE RADIO FM105": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746141636243,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.02": "₺179,99",
+            "Endless Pirouette": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746055260280,
@@ -11396,6 +11423,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746141636243,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746033554323,
