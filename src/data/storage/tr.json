@@ -7055,6 +7055,17 @@
     "history": [
       [
         {
+          "timestamp": 1746112944896,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺579,99",
+            "Yearly Subscription": "₺459,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        },
+        {
           "timestamp": 1746109183081,
           "price": 0,
           "formattedPrice": "Free",
