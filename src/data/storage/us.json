@@ -25988,6 +25988,25 @@
     "history": [
       [
         {
+          "timestamp": 1746103354899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745220096306,
           "price": 0,
           "formattedPrice": "Free",
