@@ -4735,6 +4735,23 @@
     "history": [
       [
         {
+          "timestamp": 1746170489647,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "波恩哈特": "¥48.00",
+            "阿什比特": "¥48.00",
+            "大型英雄包 2": "¥88.00",
+            "纽维斯": "¥8.00",
+            "沙塔尔": "¥22.00",
+            "但丁": "¥38.00",
+            "黑棘船长": "¥8.00",
+            "英雄包 1": "¥15.00",
+            "德得尔": "¥8.00",
+            "英雄包 3": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1746167473933,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -6629,8 +6646,8 @@
       "Supreme Package": "¥38.00",
       "Advanced Package": "¥22.00",
       "Starter Package": "¥8.00",
-      "2025 Birthday Package": "¥98.00",
-      "2025 Birthday Package (Basic)": "¥68.00"
+      "2025 Birthday Package": "¥128.00",
+      "2025 Birthday Package (Basic)": "¥88.00"
     },
     "minPriceInfo": {
       "price": 25,
@@ -6655,6 +6672,25 @@
       "2025 Birthday Package (Basic)": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746170489647,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥6.00",
+            "一小盆宝石": "¥30.00",
+            "超值进阶宝石包": "¥42.00",
+            "一大袋宝石": "¥67.00",
+            "一推车宝石": "¥133.00",
+            "2025 Birthday Package": "¥128.00",
+            "2025 Birthday Package (Basic)": "¥88.00",
+            "Elite Package": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745951373438,

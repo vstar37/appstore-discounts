@@ -115,6 +115,23 @@
     "history": [
       [
         {
+          "timestamp": 1746170489647,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "连续包年": "HK$ 288.00",
+            "6香蕉贝": "HK$ 8.00",
+            "30香蕉贝": "HK$ 32.00",
+            "连续包季": "HK$ 88.00",
+            "68香蕉贝": "HK$ 88.00",
+            "128香蕉贝": "HK$ 148.00",
+            "免广告会员十二个月": "HK$ 18.00",
+            "同步账本高级功能月套餐": "HK$ 18.00",
+            "12香蕉贝": "HK$ 18.00",
+            "14香蕉贝": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1746167473933,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -8322,8 +8339,8 @@
       "Elite Package": "HK$ 88.00",
       "Supreme Package": "HK$ 38.00",
       "Advanced Package": "HK$ 22.00",
-      "2025 Birthday Package": "HK$ 118.00",
-      "2025 Birthday Package (Basic)": "HK$ 88.00"
+      "2025 Birthday Package": "HK$ 148.00",
+      "2025 Birthday Package (Basic)": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 28,
@@ -8347,6 +8364,25 @@
       "2025 Birthday Package (Basic)": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746170489647,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一大袋寶石": "HK$ 88.00",
+            "超值進階寶石包": "HK$ 58.00",
+            "一推車寶石": "HK$ 188.00",
+            "2025 Birthday Package": "HK$ 148.00",
+            "2025 Birthday Package (Basic)": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745951373438,
