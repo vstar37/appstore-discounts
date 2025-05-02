@@ -10195,10 +10195,23 @@
       "formattedPrice": "Free",
       "PRO yearly subscription": "$29.99",
       "Yearly Subscription": "$19.99",
-      "Lifetime license": "$99.99",
+      "Lifetime license": "$49.99",
       "Monthly Subscription": "$5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746189765904,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$29.99",
+            "Lifetime license": "$49.99",
+            "Monthly Subscription": "$5.49",
+            "Yearly Subscription": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725237485711,
