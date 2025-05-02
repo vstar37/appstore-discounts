@@ -6694,6 +6694,23 @@
     "history": [
       [
         {
+          "timestamp": 1746159950771,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "私信付费1元": "₺39,99",
+            "私信付费8元": "₺39,99",
+            "私信付费6元": "₺39,99",
+            "私信付费3元": "₺39,99",
+            "998元": "₺6.999,99",
+            "618元": "₺3.999,99",
+            "488元": "₺3.499,99",
+            "218元": "₺1.499,99",
+            "118元": "₺799,99",
+            "50元": "₺349,99"
+          }
+        },
+        {
           "timestamp": 1746155371939,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -7923,7 +7940,8 @@
       "Muse Dash・Legend": "₺179,99",
       "Happy Otaku Pack Vol.20": "₺179,99",
       "unlockall_17": "₺699,99",
-      "MUSE RADIO FM105": "₺129,99"
+      "MUSE RADIO FM105": "₺129,99",
+      "Gambler's Tricks": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -7961,10 +7979,28 @@
       "Muse Dash・Legend": "₺129,99",
       "Happy Otaku Pack Vol.20": "₺179,99",
       "unlockall_17": "₺699,99",
-      "MUSE RADIO FM105": "₺129,99"
+      "MUSE RADIO FM105": "₺129,99",
+      "Gambler's Tricks": "₺179,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1746159950771,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.02": "₺179,99",
+            "Gambler's Tricks": "₺179,99",
+            "Endless Pirouette": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99"
+          }
+        },
         {
           "timestamp": 1746141636243,
           "price": 129.99,
