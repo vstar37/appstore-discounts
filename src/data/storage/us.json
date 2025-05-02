@@ -16220,6 +16220,16 @@
     "history": [
       [
         {
+          "timestamp": 1746203246257,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746030482348,
           "price": 0,
           "formattedPrice": "Free",
