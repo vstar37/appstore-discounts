@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-03T14:22:06.694Z</updated>
+    <updated>2025-05-03T15:24:05.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,79 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-03T14:22:06.694Z</updated>
+        <updated>2025-05-03T15:24:05.754Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ScanGo - PDF Document Scanner]]></title>
-        <id>ScanGo - PDF Document Scanner-1746281928627</id>
-        <link href="https://apps.apple.com/tw/app/scango-pdf-document-scanner/id6499198824?uo=4"/>
-        <updated>2025-05-03T14:18:48.627Z</updated>
-        <summary type="html"><![CDATA[价格: $290.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/scango-pdf-document-scanner/id6499198824?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/1e/45/6d1e455d-c7be-2ea9-edcc-13bcbe56e820/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$290.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  WHAT IS ScanGo?
-ScanGo is a little, simple, flexible, easy-to-use app with kinds of features satisfying different situations in your iPhone. It allows you to scan documents, certificates, credit cards, invoices, receipts, tickets and any paper with high quality image & PDF output. Also, you can extract text by OCR function from any scans just by one tap.
-It is also a camera scanner with concise, efficient user interface whose main tone is black & white with teal & chrome yellow embellished throughout the app. 
+        <title type="html"><![CDATA[Day One]]></title>
+        <id>Day One-1746285645244</id>
+        <link href="https://apps.apple.com/tw/app/day-one/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-05-03T15:20:45.244Z</updated>
+        <summary type="html"><![CDATA[Premium: $1,090.00 → $190.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-one/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/a4/28/2fa428d8-cf41-7284-cabe-d81d1cd18852/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>$1,090.00</span> → <b>
+  <strong>$190.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Apple 年度最佳應用程式 Day One，全球下載次數超過 1,500 萬次，獲得 200,000 次 5 星評價，徹底改變了寫日記的方式，讓你記錄生活中的點點滴滴。  在全球最值得信賴的數位日記中安全地儲存音訊、影片、照片、筆記等其他內容。
 
-HOW TO SCAN DOCS?
-- Scan everything by one click, of course you can choose to scan from Photos or Camera.
-- Edit docs after scanning immediately, including add, rotate, adjust, reorder and delete pages.
-- Rotate, Crop and Adjust filter to get high quality scans.
-- Provided five filter modes to enhance your scans - Original, B&W 1, B&W 2, Color, Grayscale. What’s more, each filter can be adjusted for its own Brightness, Contrast, Saturation and Sharpness.
+「Day One 創造珍貴的回憶，近乎完美：完全隱密的數位空間。」 –《紐約時報》
 
-HOW TO MANAGE DOCS?
-- The Recents module on home page shows your recently added docs, which helps to find them faster.
-- Add folders and sub-folders to manage scanned docs.
-- Rename folders and documents to make them more distinguishable.
-- Important and urgent documents can be Starred for faster access.
-- Search function helps to find the doc you need from a dizzying array.
-- Every folder, doc and page can be shared with email, Dropbox, Google Drive, Evernote etc. or Wifi directly.
-- Save scans as JPEG to Photos.
-- Move/Copy/Delete docs and pages.
-- Print scans directly within app once you connect to a Printer.
-- Fax scans directly if you have Fax Pro app installed.
+「Day One 讓寫日記變得輕鬆愉快。」 – 《連線》
 
-AFRAID OF DATA LOSS?
-ScanGo supports syncing data with iCloud. 
+「這款優異的日記應用程式賞心悅目、簡單好用，讓競爭對手難以超越。」–《Macworld》
 
-MAKE THE APP MORE EFFICIENT
-CONVENIENT - Turn on the camera immediately whenever you open the app.
-HANDY - Save scans to Photos automatically.
-EASY - Auto edge detection and enhancement.
-SIMPLE - Share docs and folders in default PDF size.
-SECURE - Protect your documents with passcode.
+為什麼選擇 Day One？
 
-MORE QUESTIONS?
-If you have any problems with ScanGo, please email us at scango@beesoft.io, we’ll help to figure it out asap.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/82/ed/6382edc3-86ba-8be8-f363-8696fd9ff982/beebf334-d06d-4c3f-b83c-890cf91fb0fa_1_1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/5d/a7/275da76e-d458-8618-d0c2-a3da8971554c/6663cd86-b801-46ee-bb6e-2058bb900ad6_2_1290x2796.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3e/53/453e5312-6340-9316-f9e2-cc36c174fe32/40aeb454-3cae-45b4-8a65-b8048b3b8e9a_4__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/f7/bd/26f7bd99-4022-2df7-aa8b-8f3fe1cdc992/aa356b49-41e8-4d5d-9be5-03a01762671b_5__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/29/db/0f29db5c-e2fb-b610-ccbd-431242becc3f/367d19fb-5da1-45db-9ff2-e2cafb095b43_3__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/1c/88/cb1c8896-876f-a13c-b67a-b9718b5cde5a/959a7756-5a7b-498d-9745-93697804f04d_6__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/83/9f/59839f19-dc06-4837-6e65-f097fb68e6d6/44a8b5dd-2ffd-4699-bdad-2185d19d19b1_7__1242x2208.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/70/26717095-4a27-4211-ab49-ba2cf0b3cc80/7acfa597-c836-490c-bd6f-0e53a1a74063_1_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/75/a5/b075a5bd-7ea2-9600-7c63-f04b10cdb1f3/6226684f-fbab-4928-a5a0-1e5d4cbe2d26_2_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/02/57/7d025733-5b6d-475f-cfb4-37721859d8a8/548775bc-021d-454b-9556-42d5e25c96ca_4_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/37/55/ca3755c4-4231-fe1b-4586-75025db4a841/2558231f-1c68-45ff-b04b-faede842d5b6_5_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/a4/08/dfa4082f-7fde-af6f-365e-e4159f5ff9cb/1d17f694-d14c-4300-846f-39f641a2add5_3_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/f7/54/c9f754fe-8847-6e87-a97d-156f74e42afb/27fed70d-43f7-47c6-8d1a-657e6e6bdbdf_6_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/57/ec/9557ecf5-151d-eb36-be6c-7008b52c641d/b0375fbb-b328-4cc8-996f-da478d3ce926_7_2048x2732.png/576x768bb.png" />]]></content>
+Day One 是原創日記應用程式。十年來持續更新並增添功能，打造全球最隱密、最值得信賴，也最好用的日記平台。
+
+簡單好用，讓人著迷
+
+• 獲獎設計，美觀大方
+• 無限文本條目
+• 無限量照片和影片*
+•強大的 RTF 文字格式與 Markdown
+• 記錄生活點滴的全新方式*
+
+私密又安全
+
+• 自動備份，妥善保護日記條目
+• 端對端加密，100% 確保日記隱密
+•透過密碼或 TouchID 保障日記條目安全
+•提供多種匯出選項 (pdf、純文字、JSON 等)，確保日記條目永遠歸你所有
+
+養成並保持習慣
+
+•可設定的提醒通知
+• 每日不重覆的日記提示，消除你的撰寫障礙
+•可自訂範本讓你省下時間，並讓版面看起來井井有條
+• 今日檢視讓你快速查看今天去過哪些地方、做了哪些事
+
+隨時隨地寫日記
+
+• 跨平台應用程式，可在 iPhone、Apple Watch、iPad 和 Mac 上使用
+• 可透過電子郵件直接傳送條目到日記中
+
+專為記錄回憶打造
+
+• 「在這一天」功能讓你重溫過往回憶
+• 標籤、我的最愛和搜尋篩選條件讓你輕鬆找到所需內容
+• 「地圖檢視」讓你快速查看已記錄的所有地點
+
+*Day One 是款提供使用者永久免費使用的應用程式，完全不限條目數量。 Day One Premium 會員另可享有無限量照片、影片及同步功能。 立即開始免費試用。
+
+隱私權政策：https://dayoneapp.com/privacy-policy/
+
+使用條款：https://dayoneapp.com/terms-of-use/
+
+如需技術協助或有其他問題，請前往：https://dayoneapp.com/contact/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/e4/aa/94e4aa5c-d12f-ab46-eb6f-72d53bc49740/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/f7/e8/35f7e86f-f349-6420-1fd9-f6ccc0db5b25/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/b7/f0/2db7f06a-cc6b-0fd4-945f-59d1b573bd16/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/bc/27/39bc27bc-8156-3c68-1ade-8f0d5e95dba2/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/d2/78/4cd27800-3d0f-f3b3-9b5c-f4a40086d27a/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/0f/46/fb0f46d4-0495-3945-c203-f4244be9700b/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
