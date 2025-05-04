@@ -7235,6 +7235,14 @@
     "history": [
       [
         {
+          "timestamp": 1746368313213,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746109183081,
           "price": 0,
           "formattedPrice": "免费",
@@ -19003,6 +19011,14 @@
     "history": [
       [
         {
+          "timestamp": 1746368313213,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742738516360,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -19848,6 +19864,22 @@
       "秘灵": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746368313213,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "追加內容·「深入黑雾」": "¥6.00",
+            "遗忘之潮": "¥18.00",
+            "皇座之舞": "¥12.00",
+            "泰伦斯先驱者套装": "¥6.00",
+            "成人礼": "¥6.00",
+            "睡美人套装": "¥6.00",
+            "秘灵": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746022890558,
