@@ -20112,6 +20112,16 @@
     "history": [
       [
         {
+          "timestamp": 1746390142924,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746109183081,
           "price": 48,
           "formattedPrice": "¥48.00",
