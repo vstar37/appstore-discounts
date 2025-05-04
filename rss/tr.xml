@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-03T23:23:03.509Z</updated>
+    <updated>2025-05-04T23:23:17.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,89 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-03T23:23:03.510Z</updated>
+        <updated>2025-05-04T23:23:17.105Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ScanGo - PDF Document Scanner]]></title>
-        <id>ScanGo - PDF Document Scanner-1746314381787</id>
-        <link href="https://apps.apple.com/tr/app/scango-pdf-document-scanner/id6499198824?uo=4"/>
-        <updated>2025-05-03T23:19:41.787Z</updated>
-        <summary type="html"><![CDATA[Price: ₺349,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/scango-pdf-document-scanner/id6499198824?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/1e/45/6d1e455d-c7be-2ea9-edcc-13bcbe56e820/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Vostok — Story Maker]]></title>
+        <id>Vostok — Story Maker-1746400794591</id>
+        <link href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4"/>
+        <updated>2025-05-04T23:19:54.591Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺349,99</span> → <b>
+  Discount Information（Price：<span>₺19,99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  WHAT IS ScanGo?
-ScanGo is a little, simple, flexible, easy-to-use app with kinds of features satisfying different situations in your iPhone. It allows you to scan documents, certificates, credit cards, invoices, receipts, tickets and any paper with high quality image & PDF output. Also, you can extract text by OCR function from any scans just by one tap.
-It is also a camera scanner with concise, efficient user interface whose main tone is black & white with teal & chrome yellow embellished throughout the app. 
+  Welcome to Vostok – your ultimate companion for crafting captivating stories and stunning collages, designed to elevate your social media presence! With Vostok, transforming your ideas into professional-grade posts and stories is now a breeze.
 
-HOW TO SCAN DOCS?
-- Scan everything by one click, of course you can choose to scan from Photos or Camera.
-- Edit docs after scanning immediately, including add, rotate, adjust, reorder and delete pages.
-- Rotate, Crop and Adjust filter to get high quality scans.
-- Provided five filter modes to enhance your scans - Original, B&W 1, B&W 2, Color, Grayscale. What’s more, each filter can be adjusted for its own Brightness, Contrast, Saturation and Sharpness.
+Whether you're a blogger, photographer, or simply love sharing your life's moments on social media, Vostok provides all the tools you need to create content that will make an impact. Our sleek and user-friendly app seamlessly combines your passion for photography and storytelling, offering a dynamic platform to showcase your awe-inspiring moments.
 
-HOW TO MANAGE DOCS?
-- The Recents module on home page shows your recently added docs, which helps to find them faster.
-- Add folders and sub-folders to manage scanned docs.
-- Rename folders and documents to make them more distinguishable.
-- Important and urgent documents can be Starred for faster access.
-- Search function helps to find the doc you need from a dizzying array.
-- Every folder, doc and page can be shared with email, Dropbox, Google Drive, Evernote etc. or Wifi directly.
-- Save scans as JPEG to Photos.
-- Move/Copy/Delete docs and pages.
-- Print scans directly within app once you connect to a Printer.
-- Fax scans directly if you have Fax Pro app installed.
+Embracing a minimalist style, Vostok becomes your canvas for unlimited creativity. A vast collection of templates, stickers, and effects empowers you to design unique stories that reflect your individuality.
 
-AFRAID OF DATA LOSS?
-ScanGo supports syncing data with iCloud. 
+But Vostok goes beyond creative freedom; it's all about simplicity. Our intuitive interface makes editing and sharing your content effortless, freeing up more time for you to focus on crafting compelling narratives that your followers will adore.
 
-MAKE THE APP MORE EFFICIENT
-CONVENIENT - Turn on the camera immediately whenever you open the app.
-HANDY - Save scans to Photos automatically.
-EASY - Auto edge detection and enhancement.
-SIMPLE - Share docs and folders in default PDF size.
-SECURE - Protect your documents with passcode.
+No more waiting! Embark on your Vostok journey today and craft captivating posts and stories that leave a lasting impression!
 
-MORE QUESTIONS?
-If you have any problems with ScanGo, please email us at scango@beesoft.io, we’ll help to figure it out asap.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/82/ed/6382edc3-86ba-8be8-f363-8696fd9ff982/beebf334-d06d-4c3f-b83c-890cf91fb0fa_1_1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/5d/a7/275da76e-d458-8618-d0c2-a3da8971554c/6663cd86-b801-46ee-bb6e-2058bb900ad6_2_1290x2796.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/3e/53/453e5312-6340-9316-f9e2-cc36c174fe32/40aeb454-3cae-45b4-8a65-b8048b3b8e9a_4__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/f7/bd/26f7bd99-4022-2df7-aa8b-8f3fe1cdc992/aa356b49-41e8-4d5d-9be5-03a01762671b_5__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/29/db/0f29db5c-e2fb-b610-ccbd-431242becc3f/367d19fb-5da1-45db-9ff2-e2cafb095b43_3__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/1c/88/cb1c8896-876f-a13c-b67a-b9718b5cde5a/959a7756-5a7b-498d-9745-93697804f04d_6__1242x2208.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/83/9f/59839f19-dc06-4837-6e65-f097fb68e6d6/44a8b5dd-2ffd-4699-bdad-2185d19d19b1_7__1242x2208.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/71/70/26717095-4a27-4211-ab49-ba2cf0b3cc80/7acfa597-c836-490c-bd6f-0e53a1a74063_1_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/75/a5/b075a5bd-7ea2-9600-7c63-f04b10cdb1f3/6226684f-fbab-4928-a5a0-1e5d4cbe2d26_2_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/02/57/7d025733-5b6d-475f-cfb4-37721859d8a8/548775bc-021d-454b-9556-42d5e25c96ca_4_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/37/55/ca3755c4-4231-fe1b-4586-75025db4a841/2558231f-1c68-45ff-b04b-faede842d5b6_5_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/a4/08/dfa4082f-7fde-af6f-365e-e4159f5ff9cb/1d17f694-d14c-4300-846f-39f641a2add5_3_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/f7/54/c9f754fe-8847-6e87-a97d-156f74e42afb/27fed70d-43f7-47c6-8d1a-657e6e6bdbdf_6_2048x2732.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/57/ec/9557ecf5-151d-eb36-be6c-7008b52c641d/b0375fbb-b328-4cc8-996f-da478d3ce926_7_2048x2732.png/576x768bb.png" />]]></content>
+Here's a glimpse of some of our features:
+
+· 200+ design templates for social media
+· Exclusive fonts with Cyrillic support
+· 450+ unique stickers
+· Atmospheric dust and grain effects for photos
+· Variety of backgrounds: paper textures, marble, gradients, colors
+· Ad-free with no subscription requirements
+· Dark mode compatibility
+
+Recognized as one of the Best Apps of 2019 by Apple.
+
+With over 200+ templates, Vostok is your go-to toolkit for creating standout social media content.
+
+We eagerly look forward to your ideas and feedback.
+Connect with us at hello@vostokapp.ru or drop us a direct message on Instagram at @vostokapp.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1746400794591</id>
+        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-05-04T23:19:54.591Z</updated>
+        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺299,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Monitor your iPhone battery level from your wrist.
+
+Juice Watch is a simple app designed to do two things well:
+
+• Show the battery level of the paired iPhone in a complication on Apple Watch
+
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+
+You can see both your iPhone and Apple Watch battery levels on the same complication.
+
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
