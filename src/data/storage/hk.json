@@ -12333,6 +12333,23 @@
     "history": [
       [
         {
+          "timestamp": 1746454972020,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 23.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "cyTus": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1746419232839,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -23491,6 +23508,16 @@
       "Filebar Pro Lifetime": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746454972020,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745805045486,
