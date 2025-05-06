@@ -10895,6 +10895,16 @@
     "history": [
       [
         {
+          "timestamp": 1746496176119,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1739150954029,
           "price": 0,
           "formattedPrice": "免費",
