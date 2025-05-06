@@ -16929,14 +16929,22 @@
   "1400652313": {
     "name": "冰钓大师",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "¥6.00"
+      "price": 12,
+      "formattedPrice": "¥12.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746523473412,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746454972020,
