@@ -20571,6 +20571,16 @@
     "history": [
       [
         {
+          "timestamp": 1746541331510,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746390142924,
           "price": 0,
           "formattedPrice": "免費",
@@ -24153,6 +24163,16 @@
       "Mr. X Nightmare DLC": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746541331510,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744034543204,
