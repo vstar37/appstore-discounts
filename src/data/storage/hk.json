@@ -18000,8 +18000,8 @@
   "1437479513": {
     "name": "逃脱者：困境突围",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "偉大的統治": "HK$ 22.00",
       "邪惡病房": "HK$ 22.00",
       "異象號": "HK$ 18.00"
@@ -18014,6 +18014,18 @@
       "異象號": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746505592316,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "偉大的統治": "HK$ 18.00",
+            "邪惡病房": "HK$ 22.00",
+            "異象號": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737532955262,
