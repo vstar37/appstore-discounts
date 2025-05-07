@@ -10418,6 +10418,24 @@
     "history": [
       [
         {
+          "timestamp": 1746649521889,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2025 ADHD Digital Planner Appl": "₺499,99",
+            "Coloring Book – Cute Food Kawa": "₺249,99",
+            "Coloring Book – Kawaii Animals": "₺249,99",
+            "Coloring Book – Kawaii Avocado": "₺249,99",
+            "Mandala Coloring Book": "₺249,99",
+            "The 'Smart' To Do List - Apple": "₺299,99",
+            "Planeador Digital 2025 (Portug": "₺449,99",
+            "The Ultimate Digital Recipe Bo": "₺349,99",
+            "Digital Pharmacology Notebook": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745951373438,
           "price": 0,
           "formattedPrice": "Free",
