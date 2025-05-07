@@ -6750,7 +6750,9 @@
       "Advanced Package": "¥22.00",
       "Starter Package": "¥8.00",
       "2025 Birthday Package": "¥128.00",
-      "2025 Birthday Package (Basic)": "¥88.00"
+      "2025 Birthday Package (Basic)": "¥88.00",
+      "森日豪华礼包": "¥128.00",
+      "森日精选礼包": "¥88.00"
     },
     "minPriceInfo": {
       "price": 25,
@@ -6772,9 +6774,30 @@
       "Advanced Package": "¥22.00",
       "Starter Package": "¥8.00",
       "2025 Birthday Package": "¥98.00",
-      "2025 Birthday Package (Basic)": "¥68.00"
+      "2025 Birthday Package (Basic)": "¥68.00",
+      "森日豪华礼包": "¥128.00",
+      "森日精选礼包": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746582610879,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥6.00",
+            "一小盆宝石": "¥30.00",
+            "一大袋宝石": "¥67.00",
+            "超值进阶宝石包": "¥42.00",
+            "一推车宝石": "¥133.00",
+            "森日豪华礼包": "¥128.00",
+            "森日精选礼包": "¥88.00",
+            "Elite Package": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746170489647,
@@ -12013,6 +12036,25 @@
       "合作角色捆绑包": "¥102.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746582610879,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "完整版解锁": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746505592316,
