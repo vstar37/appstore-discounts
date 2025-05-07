@@ -18221,14 +18221,22 @@
   "1443988620": {
     "name": "Quantumult X",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746599516671,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
