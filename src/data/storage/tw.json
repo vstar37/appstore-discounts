@@ -7240,6 +7240,14 @@
     "history": [
       [
         {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -11003,7 +11011,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "PRO yearly subscription": "$820.00",
+      "PRO yearly subscription": "$1,190.00",
       "Yearly Subscription": "$650.00",
       "Lifetime license": "$2,990.00",
       "Monthly Subscription": "$170.00"
@@ -11017,6 +11025,19 @@
       "Monthly Subscription": "$170.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$1,190.00",
+            "Yearly Subscription": "$650.00",
+            "Lifetime license": "$2,990.00",
+            "Monthly Subscription": "$170.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1739682132299,
@@ -17803,6 +17824,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "$320.00",
+            "GoodNotes 5完整版解鎖": "$320.00",
+            "Goodnotes 6 一次性付款": "$770.00",
+            "Goodnotes 6 免費試用": "$0.00",
+            "虛線方格：草稿紙張": "$30.00",
+            "好心智雜誌": "$0.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "$0.00",
+            "秋貓貼紙組": "$0.00"
+          }
+        },
         {
           "timestamp": 1746624877588,
           "price": 0,

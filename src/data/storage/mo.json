@@ -5179,6 +5179,14 @@
     "history": [
       [
         {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -8493,7 +8501,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Yearly Subscription": "USD 19.99",
-      "PRO yearly subscription": "USD 24.99",
+      "PRO yearly subscription": "USD 34.99",
       "Lifetime license": "USD 99.99",
       "Monthly Subscription": "USD 5.49"
     },
@@ -8506,6 +8514,19 @@
       "Monthly Subscription": "USD 5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "USD 34.99",
+            "Yearly Subscription": "USD 19.99",
+            "Lifetime license": "USD 49.99",
+            "Monthly Subscription": "USD 5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1737345750455,

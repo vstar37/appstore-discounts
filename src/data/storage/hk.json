@@ -115,6 +115,23 @@
     "history": [
       [
         {
+          "timestamp": 1746627787690,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "连续包年": "HK$ 288.00",
+            "6香蕉贝": "HK$ 8.00",
+            "30香蕉贝": "HK$ 32.00",
+            "连续包季": "HK$ 88.00",
+            "68香蕉贝": "HK$ 88.00",
+            "128香蕉贝": "HK$ 148.00",
+            "免广告会员十二个月": "HK$ 18.00",
+            "同步账本高级功能月套餐": "HK$ 18.00",
+            "12香蕉贝": "HK$ 18.00",
+            "14香蕉贝": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1746624877588,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -7465,6 +7482,14 @@
     "history": [
       [
         {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -10921,7 +10946,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "PRO yearly subscription": "HK$ 198.00",
+      "PRO yearly subscription": "HK$ 288.00",
       "Yearly Subscription": "HK$ 158.00",
       "Lifetime license": "HK$ 788.00",
       "Monthly Subscription": "HK$ 43.00"
@@ -10935,6 +10960,19 @@
       "Monthly Subscription": "HK$ 43.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746159950771,

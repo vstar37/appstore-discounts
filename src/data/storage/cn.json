@@ -5921,6 +5921,14 @@
     "history": [
       [
         {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743170537226,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -10779,7 +10787,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "PRO yearly subscription": "¥173.00",
+      "PRO yearly subscription": "¥228.00",
       "Lifetime license": "¥698.00",
       "Yearly Subscription": "¥138.00",
       "Monthly Subscription": "¥35.00"
@@ -10793,6 +10801,19 @@
       "Monthly Subscription": "¥35.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746627787690,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO yearly subscription": "¥228.00",
+            "Yearly Subscription": "¥138.00",
+            "Lifetime license": "¥698.00",
+            "Monthly Subscription": "¥35.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745666172519,
