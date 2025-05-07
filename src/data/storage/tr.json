@@ -3112,6 +3112,25 @@
     "history": [
       [
         {
+          "timestamp": 1746660044631,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺129,99",
+            "Sha'tra": "₺39,99",
+            "Grawl": "₺39,99",
+            "Kutsao": "₺39,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746400794591,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -4343,6 +4362,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746660044631,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743202933017,
@@ -7220,12 +7247,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO yearly subscription": "₺579,99",
+      "PRO yearly subscription": "₺1.499,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
       "Lifetime license": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746660044631,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺1.499,99",
+            "Yearly Subscription": "₺459,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746112944896,
@@ -11706,6 +11746,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746660044631,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746573622648,
