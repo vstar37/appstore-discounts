@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-05-07T14:26:20.858Z</updated>
+    <updated>2025-05-07T18:33:17.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,44 +21,68 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-07T14:26:20.858Z</updated>
+        <updated>2025-05-07T18:33:17.567Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FocusDots · 專注於當下]]></title>
-        <id>FocusDots · 專注於當下-1746627787690</id>
-        <link href="https://apps.apple.com/tw/app/focusdots-%E5%B0%88%E6%B3%A8%E6%96%BC%E7%95%B6%E4%B8%8B/id703265535?uo=4"/>
-        <updated>2025-05-07T14:23:07.690Z</updated>
-        <summary type="html"><![CDATA[价格: $60.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/focusdots-%E5%B0%88%E6%B3%A8%E6%96%BC%E7%95%B6%E4%B8%8B/id703265535?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/5f/f2/5c5ff2c2-8aef-dd3e-4087-0b648e068bf3/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1746642618290</id>
+        <link href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
+        <updated>2025-05-07T18:30:18.290Z</updated>
+        <summary type="html"><![CDATA[价格: $60.00 → $30.00<br/>骷心巫龍: $220.00 → $150.00<br/>黑龍灰霸齒: $220.00 → $150.00<br/>剎陀羅: $90.00 → $30.00<br/>但丁: $150.00 → $90.00<br/>庫紹: $90.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
 </a><h2>
   优惠信息（价格：<span>$60.00</span> → <b>
-  <strong>免費</strong>
+  <strong>$30.00</strong>
 </b>）
-</h2><h2>应用描述</h2><p>
-  感謝您使用FocusDots！這是一個簡單的時間管理應用，將提高您的工作效率。
+</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>骷心巫龍：</strong><span>$220.00</span> → <b>
+  <strong>$150.00</strong>
+</b>
+  </li><li>
+    <strong>黑龍灰霸齒：</strong><span>$220.00</span> → <b>
+  <strong>$150.00</strong>
+</b>
+  </li><li>
+    <strong>剎陀羅：</strong><span>$90.00</span> → <b>
+  <strong>$30.00</strong>
+</b>
+  </li><li>
+    <strong>但丁：</strong><span>$150.00</span> → <b>
+  <strong>$90.00</strong>
+</b>
+  </li><li>
+    <strong>庫紹：</strong><span>$90.00</span> → <b>
+  <strong>$30.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  全球最讓人欲罷不能的防禦遊戲歸來——歡迎來到《王國保衛戰：前線！》
 
-有時候，保持注意力集中在任務上可能並不容易。FocusDots是一個精美設計的計時器，旨在提高您對任務的專注，並丟棄可能分散注意力的活動。
+空前盛大激烈的王國保衛戰：「前線」是全新的關卡，帶來迅猛刺激、扣人心弦的玩法，讓這款原創遊戲成為廣受歡迎的獲獎佳作。在這場史詩級的冒險（災難）中，可點擊你的部隊，配合最新的防禦塔、關卡、英雄和更多好東東，守衛異國大陸，抵禦飛龍、食人植物和地下世界恐怖族群的侵擾，把敵人統統殲滅。（別擔心，前作舊版的好東東，全都有保留。現在是經典復刻版。） 
 
-FocusDots是一個簡單的時間管理應用，包含四個簡單的步驟：
+《王國保衛戰：前線》內容豐富，像是全新升級的火炮讓你垂涎，像素畫面帶給你娛樂好享受！
 
-1) 決定要完成的單個任務。
-2) 啟動FocusDots並在計時器結束前（25分鐘）專注於該任務。
-3) 休息一下（5分鐘）。
-4) 完成四個Dots後，休息更長時間（15分鐘）。
+遊戲特點 
 
-特點：
-- 優雅的極簡設計
-- 每日總結
-- 精美設計主題
-- 激勵引用語
-- 可為您的任務自定義計時器時長
+· 鞏固異國大陸的前線——堅守沙漠、叢林還有地下世界的陣地 
+· 8種特別防禦塔升級！用弩弓堡壘、聖殿騎士、死靈法師，還有地震機把敵人切開、燒焦并踩碎 - 嘿，這次真的很不一樣哦 
+· 超過18種防禦塔技能！釋放死亡騎士、瘟疫雲或刺客，去竊取敵人寶藏，暗殺敵人！
+· 超過40種具有特殊技能的敵人！隨時待命，對抗沙漠塵暴、部落薩滿、遊牧部落和地下恐怖生物 · 16位傳奇英雄。選擇你的戰士，訓練他們的技能！
+· 每一關都有特別的部隊和特色！當心黑龍！
+· 殘酷的頭目戰鬥！嘿！早就告訴你要升級啦…
+· 超過70個成就，需要數小時去完成！
+· 經典、鋼鐵和英雄模式挑戰你的戰術技能！
+· 3種難度模式！準備好迎接真正的挑戰了嗎？開啟困難模式吧！悅耳的配樂、雄渾的配音，還有精緻美術，都能讓你沉浸！（还有卡通血液，效果逼真。）
+· 遊戲内有百科全書！真正的勇士知己知彼…還對自己的防禦塔了如指掌。
+學起來！
 
-感謝您選擇FocusDots！我們由衷感謝您的支持，希望我們的應用能幫助您提高生產力和時間管理技巧。如果您有任何反饋或建議，我們非常樂意聽取！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/f0/04/43f00472-2b4f-1bbe-f24d-8a0031f8ce5b/4dbcc262-6737-4442-858b-22fa348e3549_0__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/d6/64/61d66405-93e5-b25c-8c74-962e7a2c6b51/dee3ec66-a1ae-464c-833c-6add0e7fccc9_1__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/61/53/e961538c-4bcc-cefc-ecf2-bea284c353c4/40caa804-c214-4556-820b-5f8a5bc69dc5_2__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/bb/da/a6bbda55-a111-8f6c-40d3-28aef598a316/a31449e5-c435-4078-ac1b-e4c26e810dc6_3__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/00/41/a60041f2-d44c-35cc-7d65-a1200438ab21/f8534652-96aa-4eb0-9f1f-728bc0ac43bd_4__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/57/92/e6/5792e661-1de2-b874-4ad2-55733b603ae6/040b21bd-9d3f-44fb-b9ae-0a7cd89b94b0_5__U2013_2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
+《王國保衛戰》廣受好評：IGN編輯推薦、Slide To Play必玩遊戲、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、Touch Arcade評分4.5/5、CNET最佳iPad遊戲"
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/98/7a/86/987a86d2-fdb1-93d6-ba72-e32a563ec0fa/ab71f5a8-b824-46e2-9c67-e442db053624_screenshots_2208x12420016.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ff/49/dd/ff49ddf9-00c2-fe09-6b29-6e4ead585b5a/1c6165ce-f40b-41d0-8c57-c38b7f0080dc_screenshots_2208x12420017.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d5/1a/63/d51a63ea-b85f-01e0-3e8f-0c1a04ba2c00/55a5e131-875d-487f-b5d4-6a440c301c2c_screenshots_2208x12420018.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/86/24/c6/8624c6d9-e06a-3f13-1a90-9b42e359d98e/89bba438-5cbd-490f-a8bd-b230e3356943_screenshots_2208x12420019.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/28/f5/34/28f53413-955e-ae5b-bf70-bd22588e1d5d/c94c30c3-70f6-48eb-ac13-8d076a524ec9_screenshots_2208x12420020.jpg/406x228bb.jpg" />]]></content>
     </entry>
 </feed>
