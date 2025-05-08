@@ -5171,6 +5171,21 @@
     "history": [
       [
         {
+          "timestamp": 1746714034936,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746582610879,
           "price": 179.99,
           "formattedPrice": "₺179,99",

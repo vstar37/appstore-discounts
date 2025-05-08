@@ -7647,6 +7647,20 @@
     "history": [
       [
         {
+          "timestamp": 1746714034936,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久会员": "¥98.00",
+            "生辰-年度会员": "¥88.00",
+            "生辰-季度会员": "¥88.00",
+            "生辰年度会员": "¥78.00",
+            "月度会员": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745662857976,
           "price": 0,
           "formattedPrice": "免费",
@@ -20502,6 +20516,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1746714034936,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1746645538061,
           "price": 0,
