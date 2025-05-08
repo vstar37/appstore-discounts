@@ -4923,6 +4923,25 @@
     "history": [
       [
         {
+          "timestamp": 1746673978939,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$4.99",
+            "Ashbite": "$4.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Dante": "$2.99",
+            "Grawl": "$0.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746527057514,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -7047,6 +7066,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746673978939,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743217899620,
@@ -10331,7 +10358,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO yearly subscription": "$29.99",
+      "PRO yearly subscription": "$39.99",
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$99.99",
       "Monthly Subscription": "$5.49"
@@ -10345,6 +10372,19 @@
       "Monthly Subscription": "$5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746673978939,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$39.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746192636846,
@@ -20134,6 +20174,16 @@
     "history": [
       [
         {
+          "timestamp": 1746673978939,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746587508232,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -25641,6 +25691,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746673978939,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1740715360316,
