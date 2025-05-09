@@ -20524,6 +20524,14 @@
     "history": [
       [
         {
+          "timestamp": 1746818256546,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743343327243,
           "price": 15,
           "formattedPrice": "¥15.00",
