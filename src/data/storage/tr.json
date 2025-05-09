@@ -4401,6 +4401,14 @@
     "history": [
       [
         {
+          "timestamp": 1746832788695,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746660044631,
           "price": 0,
           "formattedPrice": "Free",
@@ -8219,6 +8227,25 @@
     "history": [
       [
         {
+          "timestamp": 1746832788695,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "Endless Pirouette": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Gambler's Tricks": "₺179,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746487248743,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -11180,6 +11207,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1746832788695,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746400794591,
