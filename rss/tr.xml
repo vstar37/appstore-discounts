@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-09T19:20:20.956Z</updated>
+    <updated>2025-05-10T05:23:10.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,79 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-09T19:20:20.956Z</updated>
+        <updated>2025-05-10T05:23:10.884Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-1746818256546</id>
-        <link href="https://apps.apple.com/tr/app/breathein-calm-breathing/id1481100296?uo=4"/>
-        <updated>2025-05-09T19:17:36.546Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺9,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/breathein-calm-breathing/id1481100296?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺9,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.
+        <title type="html"><![CDATA[Day One]]></title>
+        <id>Day One-1746854391301</id>
+        <link href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-05-10T05:19:51.301Z</updated>
+        <summary type="html"><![CDATA[Premium: ₺389,99 → ₺122,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b4/20/8fb4204d-d570-68a2-684e-36fac7a3a216/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>₺389,99</span> → <b>
+  <strong>₺122,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling letting you record your life as you live it. Securely save audio, video, photos, notes, and more in the world’s most trusted digital journal. 
 
-Rediscover Calm and Energy
+“Day One creates something so rare it feels almost sacred: A completely private digital space.” – New York Times
 
-Deep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.
+“Day One makes keeping a journal delightfully easy.” – Wired
 
-Expertly Curated Practices
+“This superb journaling app remains pleasant to behold, easy to use, and a tough act for any rival to follow.” – Macworld
 
-We've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!
+WHY DAY ONE?
 
-Seamless Apple Health Integration
+Day One is the original journal app and a decade of updates and feature additions make it the most private, trusted, and easiest-to-use journaling platform in the world. 
 
-Track your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.
+SIMPLE TO USE, EASY TO LOVE
 
-Explore a Range of Techniques
+• Beautiful, award-winning design
+• Unlimited text entries 
+• Unlimited photos and videos*
+• Powerful rich text formatting with markdown
+• Different journals for every aspect of your life*
 
-- Square Breathing (4-4-4-4): Regain control and calm your mind.
-- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.
-- Bee Breathing: Soothe your mind with this relaxing technique.
-- Coherent Breathing: Improve your well-being through HRV enhancement.
-- Transform Your Life, One Breath at a Time
+PRIVATE AND SECURE 
 
-Conquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
+• Automatic backups keep your journal entries safe
+• End-to-end encryption, which is a fancy way of saying your entries are 100% private
+• Journal entries stay secure with passcode or TouchID
+• Export options (pdf, plain text, JSON, etc.) ensure your entries always stay yours
+
+FORM A HABIT & STAY CONSISTENT 
+
+• Programmable reminder notifications
+• Unique, daily journal prompts help eliminate writer’s cramp 
+• Customizable templates save time and add organization to entries
+• Today view provides a summary of where you’ve been and what you’ve done
+
+JOURNAL FROM WHEREVER, WHENEVER
+
+• Cross-platform apps available on iPhone, Apple Watch, iPad, and Mac 
+• The ability to email entries straight to your journal
+
+BUILT FOR REMINISCING
+
+• On This Day feature allows you to revisit past memories
+• Tags, favorites, and search filters make it easy to find what you’re looking for
+• Map view quickly shows all the places you’ve journaled from
+
+*Day One is FREE to use forever with unlimited entries. Additional features, including unlimited photos, videos, and sync are available with a Day One Premium membership. Start a free trial today. 
+
+Privacy Policy: https://dayoneapp.com/privacy-policy/
+
+Terms of Use: https://dayoneapp.com/terms-of-use/
+
+For technical assistance or other inquiries: https://dayoneapp.com/contact/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/10/02/61100204-5424-353f-4eb7-ef318112e404/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/dd/00/2add00e4-71ec-5824-0da7-9155edcd0aba/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/70/63/ce7063f7-e040-b2a1-0dd8-84fde320e092/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ae/76/c0ae766c-cf1f-bbe5-3e63-c224e0a4dc6f/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/4b/4a/684b4af4-446e-1430-5966-7e1f4bcbbcd3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/51/43/fc51434d-542b-740a-28e4-d02a4b9d06f9/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
