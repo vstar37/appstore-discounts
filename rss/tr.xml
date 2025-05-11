@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-11T15:23:17.592Z</updated>
+    <updated>2025-05-11T17:20:16.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,68 +21,113 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-11T15:23:17.592Z</updated>
+        <updated>2025-05-11T17:20:16.233Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-1746976831076</id>
-        <link href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-05-11T15:20:31.076Z</updated>
-        <summary type="html"><![CDATA[Price: ₺4,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺4,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  「Card.Note」：每个念头都值得用心记录
+        <title type="html"><![CDATA[CamScanner + | PDF Scanner]]></title>
+        <id>CamScanner + | PDF Scanner-1746983816897</id>
+        <link href="https://apps.apple.com/tr/app/camscanner-pdf-scanner/id388624839?uo=4"/>
+        <updated>2025-05-11T17:16:56.897Z</updated>
+        <summary type="html"><![CDATA[CamScanner Premium: ₺329,99 → ₺129,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/camscanner-pdf-scanner/id388624839?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/48/54/df4854b0-5d33-7aa2-9ae8-bf2cff8b8d65/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>CamScanner Premium：</strong><span>₺329,99</span> → <b>
+  <strong>₺129,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Scan docs into clear & sharp image/PDF, to email, fax, print or save to cloud.
 
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
+* Over 200,000 new registrations per day
+* App Store Best of 2014
+* CamScanner, 50 Best iPhone Apps, 2013 Edition – TIME
 
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
+----Paid App Features----
+* All features that the free version has
+* Recognize and extract texts from a single page
+* Larger cloud space of 400M (200M for free version)
+* Export PDFs without watermark "Scanned by CamScanner"
+* Ad-free
 
-「Card.Note」九大特点：
 
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
+Features:
 
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
+*Mobile Scanner
+Use your phone camera to scan receipts, notes, invoices, whiteboard discussions, business cards, certificates, etc. 
 
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
+*Optimize Scan Quality
+Smart cropping and auto enhancing make the texts and graphics look clear and sharp. 
 
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
+*Extract Texts from Image
+OCR (optical character recognition) feature extracts texts from single page for further editing or sharing. (Paid app only)
 
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
+*Share PDF/JPEG Files
+Easily share documents in PDF or JPEG format with others via social media, email attachment or sending the doc link. 
 
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
+*AirPrint & Fax Documents
+Instantly print out docs in CamScanner with nearby printer via AirPrint; directly fax docs to over 30 countries from the app.
 
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
+*Collaboration
+Invite friends or colleagues to view and comment on your scans in a group. (Registrants only)
 
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
+*Advanced Editing
+Making annotations or adding customized watermark on docs are made available for you.
 
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
+*Secure Important Docs
+Set passcode for viewing important docs; meanwhile, when sending doc link, you can set password to protect it.
 
-感谢下载，生活愉快。
+*Sync across Platforms
+Sign up to sync documents on the go. Just sign in to any smartphone, tablet or computer (visit CamScanner website) you own and you can view, edit and share any document. 
 
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
+Premium Subscription Service:
+1. Edit OCR results and notes of the entire doc, exporting as .txt file
+2. Create Doc Collage for multiple pages
+3. Add 10G cloud space
+4. Add 40 extra collaborators
+5. Send doc link with password protection and expiration date
+6. Auto upload docs to Box, Google Drive, Dropbox, Evernote and OneDrive
+7. Batch download PDF files in web app
+8. Every benefit registrants enjoys
+9. Everything paid app offers
+
+Payment models for Premium subscription:
+-4.99 USD/month
+-49.99 USD/year
+
+• Payment will be charged to iTunes Account at confirmation of purchase.
+• Account will be charged for renewal within 24-hours prior to the end of the current subscription period.
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+• Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+For Terms of Use, please visit
+https://www.camscanner.com/app/service?language=en-us
+For Privacy Policy, please visit https://www.camscanner.com/app/privacy?language=en-us
+
+
+CamScanner users scan and manage 
+* Bill, Invoice, Contract, Tax Roll, Business Card…
+* Whiteboard, Memo, Script, Letter…
+* Blackboard, Note, PPT, Book, Article…
+* Credential, Certificate, Identity Documents…
+
+3rd Party Cloud Storage Services Supported:
+-Box, Google Drive, Evernote, Dropbox, OneDrive
+
+
+We’d love to hear your feedback: isupport@intsig.com
+Follow us on Twitter: @CamScanner
+Like us on Facebook: CamScanner
+Follow us on Google+: CamScanner
+
+Check out other INTSIG’s products:
+CamCard - Business Card Reader
+CamDictionary - Snap Translator
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/62/fb/4b62fb60-a509-9442-d74c-49ff105a9c5d/5d3f1bdd-4c4a-4a55-9fd5-8716ce47c623_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/29/70/3129701b-72b0-da8b-3e60-95fa71e6f875/ccb5b497-09f0-4aaa-b2e2-583e919bd12d_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/73/ae/75/73ae7540-0664-7ed5-83bb-7f8cafcf3168/676de223-454a-4af4-b7bf-9b90c2e06d43_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/db/f5/82dbf545-1d55-fb8b-af4a-ba8c2f8685db/e5921c4e-b540-4b95-9294-34dc282efe17_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/c2/3c/30c23cbc-d6a6-a203-4580-7f3c8c76b4bb/d3ad4b15-1e6b-4136-b9e1-562095ba7ddd_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/34/15/f6/3415f692-dde8-a7cb-2f05-dbe94561273a/7655b638-39be-498d-be60-1ef7dc562b04_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/2c/81/a32c8135-7cf7-f104-6925-ec020fc1f032/1c582de1-3bad-4a9d-a973-e94b5c8b0759_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/04/08/b904083a-e310-8800-bc70-a5aaa8cad206/b676d48d-e982-49ff-a144-2504ed765068_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-8.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
