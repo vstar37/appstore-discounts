@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-10T05:23:10.883Z</updated>
+    <updated>2025-05-11T07:23:17.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,51 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-10T05:23:10.884Z</updated>
+        <updated>2025-05-11T07:23:17.298Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One]]></title>
-        <id>Day One-1746854391301</id>
-        <link href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-05-10T05:19:51.301Z</updated>
-        <summary type="html"><![CDATA[Premium: ₺389,99 → ₺122,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b4/20/8fb4204d-d570-68a2-684e-36fac7a3a216/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>₺389,99</span> → <b>
-  <strong>₺122,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling letting you record your life as you live it. Securely save audio, video, photos, notes, and more in the world’s most trusted digital journal. 
+        <title type="html"><![CDATA[Vostok — Story Maker]]></title>
+        <id>Vostok — Story Maker-1746947997621</id>
+        <link href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4"/>
+        <updated>2025-05-11T07:19:57.621Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → ₺9,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺19,99</span> → <b>
+  <strong>₺9,99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Welcome to Vostok – your ultimate companion for crafting captivating stories and stunning collages, designed to elevate your social media presence! With Vostok, transforming your ideas into professional-grade posts and stories is now a breeze.
 
-“Day One creates something so rare it feels almost sacred: A completely private digital space.” – New York Times
+Whether you're a blogger, photographer, or simply love sharing your life's moments on social media, Vostok provides all the tools you need to create content that will make an impact. Our sleek and user-friendly app seamlessly combines your passion for photography and storytelling, offering a dynamic platform to showcase your awe-inspiring moments.
 
-“Day One makes keeping a journal delightfully easy.” – Wired
+Embracing a minimalist style, Vostok becomes your canvas for unlimited creativity. A vast collection of templates, stickers, and effects empowers you to design unique stories that reflect your individuality.
 
-“This superb journaling app remains pleasant to behold, easy to use, and a tough act for any rival to follow.” – Macworld
+But Vostok goes beyond creative freedom; it's all about simplicity. Our intuitive interface makes editing and sharing your content effortless, freeing up more time for you to focus on crafting compelling narratives that your followers will adore.
 
-WHY DAY ONE?
+No more waiting! Embark on your Vostok journey today and craft captivating posts and stories that leave a lasting impression!
 
-Day One is the original journal app and a decade of updates and feature additions make it the most private, trusted, and easiest-to-use journaling platform in the world. 
+Here's a glimpse of some of our features:
 
-SIMPLE TO USE, EASY TO LOVE
+· 200+ design templates for social media
+· Exclusive fonts with Cyrillic support
+· 450+ unique stickers
+· Atmospheric dust and grain effects for photos
+· Variety of backgrounds: paper textures, marble, gradients, colors
+· Ad-free with no subscription requirements
+· Dark mode compatibility
 
-• Beautiful, award-winning design
-• Unlimited text entries 
-• Unlimited photos and videos*
-• Powerful rich text formatting with markdown
-• Different journals for every aspect of your life*
+Recognized as one of the Best Apps of 2019 by Apple.
 
-PRIVATE AND SECURE 
+With over 200+ templates, Vostok is your go-to toolkit for creating standout social media content.
 
-• Automatic backups keep your journal entries safe
-• End-to-end encryption, which is a fancy way of saying your entries are 100% private
-• Journal entries stay secure with passcode or TouchID
-• Export options (pdf, plain text, JSON, etc.) ensure your entries always stay yours
-
-FORM A HABIT & STAY CONSISTENT 
-
-• Programmable reminder notifications
-• Unique, daily journal prompts help eliminate writer’s cramp 
-• Customizable templates save time and add organization to entries
-• Today view provides a summary of where you’ve been and what you’ve done
-
-JOURNAL FROM WHEREVER, WHENEVER
-
-• Cross-platform apps available on iPhone, Apple Watch, iPad, and Mac 
-• The ability to email entries straight to your journal
-
-BUILT FOR REMINISCING
-
-• On This Day feature allows you to revisit past memories
-• Tags, favorites, and search filters make it easy to find what you’re looking for
-• Map view quickly shows all the places you’ve journaled from
-
-*Day One is FREE to use forever with unlimited entries. Additional features, including unlimited photos, videos, and sync are available with a Day One Premium membership. Start a free trial today. 
-
-Privacy Policy: https://dayoneapp.com/privacy-policy/
-
-Terms of Use: https://dayoneapp.com/terms-of-use/
-
-For technical assistance or other inquiries: https://dayoneapp.com/contact/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/10/02/61100204-5424-353f-4eb7-ef318112e404/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/dd/00/2add00e4-71ec-5824-0da7-9155edcd0aba/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/70/63/ce7063f7-e040-b2a1-0dd8-84fde320e092/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ae/76/c0ae766c-cf1f-bbe5-3e63-c224e0a4dc6f/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/4b/4a/684b4af4-446e-1430-5966-7e1f4bcbbcd3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/51/43/fc51434d-542b-740a-28e4-d02a4b9d06f9/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+We eagerly look forward to your ideas and feedback.
+Connect with us at hello@vostokapp.ru or drop us a direct message on Instagram at @vostokapp.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
