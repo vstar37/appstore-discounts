@@ -8248,7 +8248,8 @@
       "Happy Otaku Pack Vol.20": "₺179,99",
       "unlockall_17": "₺699,99",
       "MUSE RADIO FM105": "₺129,99",
-      "Gambler's Tricks": "₺179,99"
+      "Gambler's Tricks": "₺179,99",
+      "Aquaria Cruising Guide": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -8287,9 +8288,29 @@
       "Happy Otaku Pack Vol.20": "₺179,99",
       "unlockall_17": "₺699,99",
       "MUSE RADIO FM105": "₺129,99",
-      "Gambler's Tricks": "₺179,99"
+      "Gambler's Tricks": "₺179,99",
+      "Aquaria Cruising Guide": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747031619715,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Aquaria Cruising Guide": "₺179,99",
+            "Happy Otaku Pack Vol.20": "₺179,99",
+            "Muse Dash・Legend": "₺179,99",
+            "Cosmic Radio 2024": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Touhou Mugakudan -IV-": "₺179,99",
+            "Touhou Collection Bundle100": "₺699,99",
+            "Touhou Collection Bundle88": "₺599,99",
+            "Touhou Collection Bundle78": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746851194708,
