@@ -9170,14 +9170,22 @@
   "953426154": {
     "name": "Be Focused Pro – 專工作學習番茄計時器",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 98,
+      "formattedPrice": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747054079615,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746426778285,

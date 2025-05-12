@@ -9100,14 +9100,22 @@
   "953426154": {
     "name": "Be Focused Pro – 專工作學習番茄計時器",
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747054079615,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746426778285,
