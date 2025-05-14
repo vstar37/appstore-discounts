@@ -10647,7 +10647,16 @@
       "Planeador Digital 2025 (Portug": "₺449,99",
       "The Ultimate Digital Recipe Bo": "₺349,99",
       "Digital Pharmacology Notebook": "₺249,99",
-      "Smart Meeting Notes - Green (A": "₺499,99"
+      "Smart Meeting Notes - Green (A": "₺499,99",
+      "Organized Study Planner (Rainb": "₺499,99",
+      "Business Lifestyle Planner (Br": "₺499,99",
+      "2025-2026 Smart Study Planner": "₺499,99",
+      "12 Tab Paper Texture Study Not": "₺299,99",
+      "Study Notebook with 120 Templa": "₺299,99",
+      "Ultimate 2700 + Sticker Pack b": "₺179,99",
+      "Business Minutes Notebook (Mon": "₺299,99",
+      "Study & Plan Organizer Noteboo": "₺299,99",
+      "Pastel Study Notebook": "₺299,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10721,9 +10730,36 @@
       "Planeador Digital 2025 (Portug": "₺449,99",
       "The Ultimate Digital Recipe Bo": "₺349,99",
       "Digital Pharmacology Notebook": "₺249,99",
-      "Smart Meeting Notes - Green (A": "₺499,99"
+      "Smart Meeting Notes - Green (A": "₺499,99",
+      "Organized Study Planner (Rainb": "₺499,99",
+      "Business Lifestyle Planner (Br": "₺499,99",
+      "2025-2026 Smart Study Planner": "₺499,99",
+      "12 Tab Paper Texture Study Not": "₺299,99",
+      "Study Notebook with 120 Templa": "₺299,99",
+      "Ultimate 2700 + Sticker Pack b": "₺179,99",
+      "Business Minutes Notebook (Mon": "₺299,99",
+      "Study & Plan Organizer Noteboo": "₺299,99",
+      "Pastel Study Notebook": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747232588783,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Organized Study Planner (Rainb": "₺499,99",
+            "Business Lifestyle Planner (Br": "₺499,99",
+            "2025-2026 Smart Study Planner": "₺499,99",
+            "12 Tab Paper Texture Study Not": "₺299,99",
+            "Study Notebook with 120 Templa": "₺299,99",
+            "Ultimate 2700 + Sticker Pack b": "₺179,99",
+            "Business Minutes Notebook (Mon": "₺299,99",
+            "Study & Plan Organizer Noteboo": "₺299,99",
+            "Pastel Study Notebook": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746652717744,

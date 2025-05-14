@@ -9517,6 +9517,20 @@
     "history": [
       [
         {
+          "timestamp": 1747232588783,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "Annual Special SVIP": "$12.99",
+            "3-Year SVIP": "$24.99"
+          }
+        },
+        {
           "timestamp": 1747229584608,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -9689,6 +9703,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747232588783,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
         {
           "timestamp": 1747229584608,
           "price": 0,
