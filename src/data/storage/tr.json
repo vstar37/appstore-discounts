@@ -8302,6 +8302,24 @@
     "history": [
       [
         {
+          "timestamp": 1747196826307,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Rin·Len's Mirrorland": "₺399,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺179,99",
+            "MUSE RADIO FM104": "₺179,99",
+            "Muse Radio FM101": "₺179,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747110461798,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -12577,6 +12595,20 @@
       "6包野果": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747196826307,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746742859416,
