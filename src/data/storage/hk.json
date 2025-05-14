@@ -11821,6 +11821,25 @@
     "history": [
       [
         {
+          "timestamp": 1747229584608,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746299766433,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -26257,6 +26276,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747229584608,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745590813784,
