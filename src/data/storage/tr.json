@@ -10695,7 +10695,16 @@
       "Ultimate 2700 + Sticker Pack b": "₺179,99",
       "Business Minutes Notebook (Mon": "₺299,99",
       "Study & Plan Organizer Noteboo": "₺299,99",
-      "Pastel Study Notebook": "₺299,99"
+      "Pastel Study Notebook": "₺299,99",
+      "Travel Planning Template Bundl": "₺179,99",
+      "Smart Digital Notebook (Matcha": "₺349,99",
+      "Digital Language Learning Jour": "₺299,99",
+      "Digital Mind Map Notebook": "₺299,99",
+      "Smart ADHD Planner": "₺449,99",
+      "Business Productivity Planner": "₺499,99",
+      "Study Daily Planner (Mon.Start": "₺499,99",
+      "Business & Focus Planner": "₺499,99",
+      "Study Daily Planner (Sun.Start": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10778,9 +10787,37 @@
       "Ultimate 2700 + Sticker Pack b": "₺179,99",
       "Business Minutes Notebook (Mon": "₺299,99",
       "Study & Plan Organizer Noteboo": "₺299,99",
-      "Pastel Study Notebook": "₺299,99"
+      "Pastel Study Notebook": "₺299,99",
+      "Travel Planning Template Bundl": "₺179,99",
+      "Smart Digital Notebook (Matcha": "₺349,99",
+      "Digital Language Learning Jour": "₺299,99",
+      "Digital Mind Map Notebook": "₺299,99",
+      "Smart ADHD Planner": "₺449,99",
+      "Business Productivity Planner": "₺499,99",
+      "Study Daily Planner (Mon.Start": "₺499,99",
+      "Business & Focus Planner": "₺499,99",
+      "Study Daily Planner (Sun.Start": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747437625850,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Travel Planning Template Bundl": "₺179,99",
+            "Smart Digital Notebook (Matcha": "₺349,99",
+            "Digital Language Learning Jour": "₺299,99",
+            "Digital Mind Map Notebook": "₺299,99",
+            "Smart ADHD Planner": "₺449,99",
+            "Business Productivity Planner": "₺499,99",
+            "12 Tab Paper Texture Study Not": "₺299,99",
+            "Study Daily Planner (Mon.Start": "₺499,99",
+            "Business & Focus Planner": "₺499,99",
+            "Study Daily Planner (Sun.Start": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747236273378,
@@ -12850,6 +12887,21 @@
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747437625850,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745277628421,
