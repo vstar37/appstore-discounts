@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-14T23:23:19.296Z</updated>
+    <updated>2025-05-16T01:55:16.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,57 +21,40 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-14T23:23:19.297Z</updated>
+        <updated>2025-05-16T01:55:16.748Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
-        <id>Safety Note+ Pro-1747264816791</id>
-        <link href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4"/>
-        <updated>2025-05-14T23:20:16.791Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/08/7b/b8087be7-65dd-1319-9208-e82bc3f867ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
+        <id>不玩手机-自律习惯养成记-1747360315770</id>
+        <link href="https://apps.apple.com/tr/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
+        <updated>2025-05-16T01:51:55.770Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/30/83/05308348-c8e5-a936-c5c4-9caa623c7a44/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
+  Discount Information（Price：<span>₺129,99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Introducing Safety Note+: Keep Your Most Private Notes Secure
+  这个App可以让你更专注地工作或学习，戒掉手机瘾，让你在工作或学习的时候远离手机，提高工作和学习的效率。
 
-Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
+当开启了不玩手机警报后，你在设定的时间里拿起手机将会报警，这将培养你更专注于学习或工作的习惯。
 
-Key Features:
+App使用方法：
+1. 选择要集中精力工作的时间间隔。
 
-• Advanced security system: Utilizing state-of-the-art technology to protect your notes
-• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
-• Biometric support: Unlock the app using TouchID or FaceID for added convenience
-• Intruder report: Capture photos of unauthorized individuals attempting to access your app
-• Decoy password: Conceal your real privacy with a decoy password
-• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
-• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
-• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
-• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
-• Note organization: Create, sort, move, and copy notes within folders
-• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
-• Additional features: Auto-save, note search, email notes, and full orientation support
-• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
+2. 把手机放在水平桌面上。
 
-Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
+3. 点击开始按钮。
 
-Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
+4. 直接按下锁定屏幕按钮。
 
-Visit us at:
-Website: https://sixbytes.io
-Twitter: https://twitter.com/SixbytesApp
-Facebook: https://www.facebook.com/sixbytesapp
-
-For more information, please refer to our Terms of Service and Privacy Policy:
-Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
-Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
+5. 开始并专注于你的工作或学习。
+快来和我们一起进步吧！！！
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
