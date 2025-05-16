@@ -22348,6 +22348,21 @@
     "history": [
       [
         {
+          "timestamp": 1747405292150,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "120000 GP": "$690.00",
+            "200000 GP": "$990.00",
+            "25000 GP": "$190.00",
+            "50000 GP": "$320.00",
+            "5000 GP": "$60.00",
+            "Remove Ad": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745245204276,
           "price": 390,
           "formattedPrice": "$390.00",
