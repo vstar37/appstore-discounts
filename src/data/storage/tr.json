@@ -185,6 +185,21 @@
     "history": [
       [
         {
+          "timestamp": 1747446500395,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺129,99",
+            "3000 cp + Six chance to Draw": "₺229,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 C-Points": "₺229,99",
+            "Ten-page Fax": "₺399,99",
+            "One-page Fax": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746988066008,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -5278,6 +5293,21 @@
     "history": [
       [
         {
+          "timestamp": 1747446500395,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746717897312,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -8333,6 +8363,25 @@
     "history": [
       [
         {
+          "timestamp": 1747446500395,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Aquaria Cruising Guide": "₺179,99",
+            "Happy Otaku Pack Vol.20": "₺179,99",
+            "Muse Dash・Legend": "₺179,99",
+            "Cosmic Radio 2024": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺129,99",
+            "Touhou Mugakudan -IV-": "₺179,99",
+            "Touhou Collection Bundle100": "₺699,99",
+            "Touhou Collection Bundle88": "₺599,99",
+            "Touhou Collection Bundle78": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747196826307,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -10800,6 +10849,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747446500395,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Goodmind Journal": "₺0,00",
+            "Happy Place Covers": "₺39,99"
+          }
+        },
         {
           "timestamp": 1747437625850,
           "price": 0,
