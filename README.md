@@ -2,13 +2,13 @@
   <p style="font-size: 18px;">An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications</p>
 
 
-English | [简体中文](https://github.com/vstar37/appstore-discounts/blob/main/README_zh-CN.md)
+English | [简体中文](https://github.com/eyelly-wu/appstore-discounts/blob/main/README_zh-CN.md)
 
 
 
-[![github-stars](https://img.shields.io/github/stars/vstar37/appstore-discounts?style=social "github-stars")](https://github.com/vstar37/appstore-discounts/stargazers "github-stars")
-[![last-commit](https://img.shields.io/github/last-commit/vstar37/appstore-discounts/dev "last-commit")](https://github.com/vstar37/appstore-discounts/commits/dev "last-commit")
-[![github-issues](https://img.shields.io/github/issues-raw/vstar37/appstore-discounts "github-issues")](https://github.com/vstar37/appstore-discounts/issues "github-issues")
+[![github-stars](https://img.shields.io/github/stars/eyelly-wu/appstore-discounts?style=social "github-stars")](https://github.com/eyelly-wu/appstore-discounts/stargazers "github-stars")
+[![last-commit](https://img.shields.io/github/last-commit/eyelly-wu/appstore-discounts/dev "last-commit")](https://github.com/eyelly-wu/appstore-discounts/commits/dev "last-commit")
+[![github-issues](https://img.shields.io/github/issues-raw/eyelly-wu/appstore-discounts "github-issues")](https://github.com/eyelly-wu/appstore-discounts/issues "github-issues")
 
 
 </div>
@@ -51,12 +51,12 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 
 |Code|Country or Region|RSS  Source|
 |:-|:-|:-|
-|cn|Mainland China|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/cn.xml|
-|hk|Hong Kong, China|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/hk.xml|
-|mo|Macao, China|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/mo.xml|
-|tw|Taiwan, China|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/tw.xml|
-|us|United States|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/us.xml|
-|tr|Türkiye|https://raw.githubusercontent.com/vstar37/appstore-discounts/main/rss/tr.xml|
+|cn|Mainland China|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/cn.xml|
+|hk|Hong Kong, China|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/hk.xml|
+|mo|Macao, China|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/mo.xml|
+|tw|Taiwan, China|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tw.xml|
+|us|United States|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/us.xml|
+|tr|Türkiye|https://raw.githubusercontent.com/eyelly-wu/appstore-discounts/main/rss/tr.xml|
 
 ## Telegram
 Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe
@@ -324,9 +324,9 @@ A basic understanding of  `TypeScript`  is required. Here are the general steps.
 ## 2. Other
 If you don't want to participate in coding implementation, you can open an  `Issue`  if you have good ideas or find bugs<br />If you want to participate in coding implementation, due to the complexity of existing logic, rash changes may affect stored data. It's best to open an  `Issue`  first. Follow-up tasks can be assigned based on the affected modules or difficulty
 # Star History
-<a href="https://star-history.com/#vstar37/appstore-discounts&Date">
+<a href="https://star-history.com/#eyelly-wu/appstore-discounts&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)"srcset="https://api.star-history.com/svg?repos=vstar37/appstore-discounts&type=Date&theme=dark"></source><source media="(prefers-color-scheme: light)"srcset="https://api.star-history.com/svg?repos=vstar37/appstore-discounts&type=Date"></source><img alt="Star History Chart"src="https://api.star-history.com/svg?repos=vstar37/appstore-discounts&type=Date" />
+    <source media="(prefers-color-scheme: dark)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date&theme=dark"></source><source media="(prefers-color-scheme: light)"srcset="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date"></source><img alt="Star History Chart"src="https://api.star-history.com/svg?repos=eyelly-wu/appstore-discounts&type=Date" />
   </picture>
 </a>
 
