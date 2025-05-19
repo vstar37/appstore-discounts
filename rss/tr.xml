@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-19T16:32:09.051Z</updated>
+    <updated>2025-05-19T17:23:04.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,32 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-19T16:32:09.051Z</updated>
+        <updated>2025-05-19T17:23:04.778Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1747672129895</id>
-        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-05-19T16:28:49.895Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Wafari - Watch Browser]]></title>
+        <id>Wafari - Watch Browser-1747675182766</id>
+        <link href="https://apps.apple.com/tr/app/wafari-watch-browser/id6449930220?uo=4"/>
+        <updated>2025-05-19T17:19:42.766Z</updated>
+        <summary type="html"><![CDATA[Price: ₺29,99 → ₺19,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/wafari-watch-browser/id6449930220?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/75/f6/bc75f6c2-bef9-414f-acfb-346177a6ade1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>₺29,99</span> → <b>
+  <strong>₺19,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  Wafari Watch Browser, allowing you to effortlessly browse the web on your Apple Watch.
 
-Juice Watch is a simple app designed to do two things well:
-
-• Show the battery level of the paired iPhone in a complication on Apple Watch
-
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
-
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
-
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+Supports multiple search engines with customizable search options.
+Quick bookmark creation and synchronization.
+Browsing history.
+iCloud data synchronization.
+Welcome to use!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/c6/78/5ec67899-0f78-9009-d389-8b20e99de99d/78d99287-44c2-4b73-a9d7-be34346c7ed6_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-07-11_at_19.16.55.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/c6/df/8ec6dfb6-31fa-3484-e757-e7582c15b84b/3b8cea51-1470-44dd-9942-d11550847dfa_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-06-05_at_17.18.25.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
