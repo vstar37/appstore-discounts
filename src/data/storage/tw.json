@@ -17700,6 +17700,19 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Bad Seed": "$120.00",
+            "Fatal Falls": "$120.00",
+            "The Queen and the Sea": "$120.00",
+            "Return to Castlevania": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740409355289,
           "price": 290,
           "formattedPrice": "$290.00",
@@ -20662,6 +20675,14 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746947997621,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -22985,6 +23006,14 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747664574829,
           "price": 0,
           "formattedPrice": "免費",
@@ -25195,6 +25224,16 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746541331510,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -25801,10 +25840,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747750951297,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730732543145,

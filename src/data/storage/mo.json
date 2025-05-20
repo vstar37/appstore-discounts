@@ -11185,6 +11185,19 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Bad Seed": "USD 3.99",
+            "Fatal Falls": "USD 3.99",
+            "The Queen and the Sea": "USD 3.99",
+            "Return to Castlevania": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740409355289,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -14711,6 +14724,14 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746947997621,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -16969,6 +16990,14 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747664574829,
           "price": 0,
           "formattedPrice": "免費",
@@ -18864,6 +18893,16 @@
     "history": [
       [
         {
+          "timestamp": 1747750951297,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746541331510,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -19550,10 +19589,18 @@
       "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747750951297,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730732543145,
