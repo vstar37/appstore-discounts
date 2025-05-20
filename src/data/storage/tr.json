@@ -10329,6 +10329,19 @@
     "history": [
       [
         {
+          "timestamp": 1747783236937,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺179,99",
+            "Fatal Falls": "₺179,99",
+            "QUEEN AND THE SEA  DLC": "₺179,99",
+            "Return to Castlevania": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740442101734,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -11765,6 +11778,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747783236937,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746947997621,
@@ -13422,6 +13443,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747783236937,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747696854176,
@@ -15107,6 +15136,16 @@
     "history": [
       [
         {
+          "timestamp": 1747783236937,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746573622648,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -15522,10 +15561,18 @@
       "formattedPrice": "₺349,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747783236937,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
