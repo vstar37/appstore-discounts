@@ -12237,6 +12237,16 @@
     "history": [
       [
         {
+          "timestamp": 1747837380309,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺59,99",
+            "Lifetime": "₺899,99",
+            "Annual": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1747834418145,
           "price": 0,
           "formattedPrice": "Free",
