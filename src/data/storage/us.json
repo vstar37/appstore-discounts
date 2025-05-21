@@ -16773,6 +16773,19 @@
     "history": [
       [
         {
+          "timestamp": 1747797223385,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1740456151216,
           "price": 8.99,
           "formattedPrice": "$8.99",
@@ -20047,6 +20060,14 @@
     "history": [
       [
         {
+          "timestamp": 1747797223385,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746947997621,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -22408,6 +22429,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797223385,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747710849974,
@@ -24910,6 +24939,16 @@
     "history": [
       [
         {
+          "timestamp": 1747797223385,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746587508232,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -25566,10 +25605,18 @@
       "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747797223385,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1741835457021,
