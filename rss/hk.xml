@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-05-20T14:25:17.971Z</updated>
+    <updated>2025-05-22T14:26:01.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,170 +21,32 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T14:25:17.971Z</updated>
+        <updated>2025-05-22T14:26:01.818Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-1747750951297</id>
-        <link href="https://apps.apple.com/hk/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-05-20T14:22:31.297Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 2.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[水準管 HD]]></title>
+        <id>水準管 HD-1747923758349</id>
+        <link href="https://apps.apple.com/hk/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4"/>
+        <updated>2025-05-22T14:22:38.349Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 8.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>HK$ 2.00</span> → <b>
+  优惠信息（价格：<span>HK$ 8.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  為您的企業、品牌或博客創作精彩的故事。 Vostok 將幫助您釋放照片的潛力，更有效地使用 Instagram 並與觀眾交流。
+  精準水平儀,包含水平管及水平泡兩種測量方式。
 
-只是一些設計可能性：
+功能:
+√ 水平標尺及水平泡
+√ 支援 iPhone 和 iPad
 
-· 200+社交設計模板
-· 西里爾文專屬字體
-· 450+ 獨家貼紙
-· 照片的灰塵和顆粒效果
-· 背景：紙張紋理、大理石、漸變、顏色
-· 無訂閱或廣告
-· 黑暗模式
-
-被 Apple 評為 2019 年最佳應用之一
-
-使用 200 多個模板創建精美的社交內容供您選擇。
-
-我們喜歡聽到您的想法和反饋。
-給我們發電子郵件 hello@vostokapp.ru 或在 Instagram 上通過@vostokapp DM我們
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Cells]]></title>
-        <id>Dead Cells-1747750951297</id>
-        <link href="https://apps.apple.com/hk/app/dead-cells/id1389752090?uo=4"/>
-        <updated>2025-05-20T14:22:31.297Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 68.00 → HK$ 38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/dead-cells/id1389752090?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/05/b3/9905b367-d898-05df-f562-d46ea4fc8d64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 68.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  Death is not the end.
-
-Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island…! 
-That is, assuming you’re able to fight your way past its keepers.
-
-Dead Cells is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.
-
-Kill. Die. Learn. Repeat.
-
-First available on PC and consoles, the indie hit Dead Cells is now slaying foes on mobile!
-
-Main Features
-• Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline-pumping threat of permadeath
-
-• Frantic and Dynamic 2D Action: Learn your enemies’ patterns to stay alive, or prepare to be sent back to your cell before you can say “baguette”
-
-• Nonlinear Progression: Unlock new levels with every death, opt for the path that suits your current build, your playstyle or just your mood. 
-Surely, the ramparts can’t be as bad as the sewers, right?
-
-• Play at your own pace: Will you explore every nook and cranny of the castle, or rush to the end?
-
-*Latest updates are available: Clean Cut & The End is Near*
-
-RETURN TO CASTLEVANIA DLC
-Time for some vampire slaying
-• New storyline - overcome the Ruler of Darkness alongside Alucard and Richter Belmont,
-• 2 new biomes - Explore Dracula's Castle and its outskirts
-• 9 new monsters - Werewolves, haunted armors, and medusas are waiting for you
-• 14 new weapons - wield the Vampire Killer or the Holy Water to defeat creatures of the night,
-• 3 new bosses - go fangs to fangs against Death and Dracula himself
-• 20 new outfits - dress as your favorite Castlevania characters such as Simon and Richter Belmont or Alucard
-• Alternative soundtracks - play along 51 Castlevania original tracks and 12 tunes reimagined in the style of Dead Cells
-
-THE BAD SEED DLC
-You reap what you sow
-• New levels to lose your head in the not-so-peaceful Dilapidated Arboretum and the noxious Morass of the Banished
-• New monsters to rip to pieces: get to know the locals, such as the Jerkshroom and the Yeeter
-• New weapons to play with: trim sticking-out heads with the Scythe Claw, or make them dance to the sound of the Rhythm n' Bouzouki
-• New boss to fight against: Mama Tick is dying to meet you
-
-FATAL FALLS DLC
-Ready for a leap of faith?
-• 3 new biomes - Get some fresh air at the Fractured Shrines, splash around at the Undying Shores and take a picture at the Mausoleum
-• 8 new monsters - The Cold Blooded Guardians and their friends would love to teach you about their culture. ... Wait, aren't those relatives of yours in the Undying Shores...?
-• 7 new weapons - Lil' Serenade is perfect for breaking the ice with the locals, although the Snake Fangs would make for a perfect souvenir...
-• 1 new boss - The Scarecrow is very proud of his gardening skills and won't hesitate to show off
-
-
-QUEEN AND THE SEA  DLC
-Take it to the sea!
-• 2 new biomes - Battle your way through a rotten shipwreck, or scale a burning lighthouse and confront your deadliest foe yet.
-• 9 new weapons, including a throwable shark, a trident and a pirate hook hand (eyepatch not included). 
-• 2 new bosses - Don't lose your head before you meet the Queen!
-
-This DLC also gives you the usual extras: 
-- A not-so-cute pet. 
-- Loads of new outfits. 
-- New enemies to bash.
-
-WARNING: Devices with less than 2 Gb of RAM may not be able to run this content correctly. We recommend not to take this DLC if your device is under 2gb of RAM.
-
-
-Carefully redesigned for mobile with a revamped interface
-• Two game modes available: Original & Auto-Hit
-
-• Custom controls & More touch controls options available: Change the buttons’ position and size to your liking, swipe to dodge…
-
-• MFi external controller support
-
-• No ads, no F2P mechanics!
-
-If you run into a problem, please contact us at support@playdigious.mail.helpshift.com
- with as much information as possible on the issue.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/55/ba/5f55bab1-3a21-dd1e-846f-993c11cfdba9/40300b63-c0a6-4d2c-a0c2-25243ba796ef_QUEEN_dlc_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/d3/16/4ad31617-2487-0b80-2ff9-c6f680445bd6/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/71/1d/fa711df0-c9e7-b41c-b005-c294eef5b11a/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/eb/9b/a2eb9b01-917c-9892-ec05-b62850baa26e/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/91/18/ee911813-d65a-967b-c353-c94c2830360a/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/d4/4a/e1d44a85-1aae-51ed-a155-edc368771d24/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/6f/2b/136f2bc4-e8bc-023b-51a4-48cb474e575c/2684fca8-f087-4bcd-a77a-2df88ab99748_BADSEED_dlc_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/4f/b3/ae4fb322-ec62-97a0-357c-a8b779dc4b2d/d946588f-b525-4661-a897-34a75bb30635_FATALFALLS_dlc_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/ef/5a/bcef5ad4-3d8d-2a3f-476a-e3e455a47808/56e81c5b-a89f-4c4c-a655-687a5922ed37_QUEEN_dlc_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/55/10/83551071-3bca-92be-300e-0cfa0a600189/f969f87d-2c7a-4d7f-b24f-1cf641deb63e_ScreenRecording_05-15-2019_16-54-2705.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/4f/45/494f4541-a5b3-c7ed-2720-73ceeeb26c53/0b709880-94cd-43e1-a3e6-9da105b10894_ScreenRecording_05-16-2019_12-23-340.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/1e/b0/261eb0a2-4bfa-c3a8-3a5e-6feb7b16a135/b8dcee8f-1073-4e74-a968-0e11c9121fdc_ScreenRecording_05-15-2019_16-54-2704.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c1/f8/fa/c1f8fa7a-b4c6-a946-59b9-70449f7afc29/e157f217-c820-4b29-b464-23c532fdec56_ScreenRecording_05-16-2019_12-23-342.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/63/e7/6d63e750-4ff7-8ca2-4859-d64769cdd1f1/d1e89d39-72d2-4196-bcfc-dd877883911e_ScreenRecording_05-21-2019_13-36-590.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/05/6f/bd/056fbda9-c7b1-a8e7-cebb-3b5209d3569d/75f6ec55-7a92-4ef7-97b1-97227b9df16f_ScreenRecording_05-21-2019_13-36-590754.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/9a/b5/4a9ab537-099e-2e28-6782-3e1c5a340abf/c97bb4d4-3f78-4187-a9a7-f8cde73cca5e_BADSEED_dlc_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/ec/72/16ec72f3-7ed7-e0fc-6e49-25242269745f/2c8b98de-9e13-46db-8d23-5aa45a430054_FATALFALLS_dlc_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Nightmares]]></title>
-        <id>Little Nightmares-1747750951297</id>
-        <link href="https://apps.apple.com/hk/app/little-nightmares/id1620883955?uo=4"/>
-        <updated>2025-05-20T14:22:31.297Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 32.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/little-nightmares/id1620883955?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/1a/9f/641a9f4d-c7cf-9b02-4847-f701d31f4117/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>HK$ 32.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  Escape your childhood fears.
-
-First available on PC and consoles, the horror adventure tale Little Nightmares is available on mobile!
- Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears!
-Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal.
-As you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover.
-Reconnect with your inner child to unleash your imagination and find the way out!
-Little Nightmares features a subtle mix of action and puzzle-platformer mechanics rooted in an eerie artistic direction and creepy sound design.
-Sneak your way out of the Maw’s dreary maze and run from its corrupted inhabitants to escape your childhood fears. 
-
-FEATURES
-
-- Tiptoe your way through a dark and thrilling adventure
-- Rediscover your childhood fears inside a haunting vessel and escape its eerie inhabitants
-- Climb, crawl and hide through nightmarish environments to solve tricky platform puzzles
-- Immerse yourself in the Maw through its creepy sound design
-
-CAREFULLY REDESIGNED FOR MOBILE
-
-- Revamped interface
-- Game Center achievements
-- Compatible with MFi controllers
-
-If you run into a problem, please contact us at https://playdigious.helpshift.com/hc/en/12-playdigious/ with as much information as possible on the issue.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/8a/15/4d8a152d-61d5-1681-b8f9-12dca7eef552/5a86a407-0fce-4c81-a154-57ca49c08ac2_LN_Screen_i14_3_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/f4/4f/58f44fb7-98c3-0a36-8b64-58d4e74021a8/4f31f6db-a050-4159-a58a-8e1b2aabd339_LN_Screen_i14_2_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/17/48/191748b7-394e-03a4-60c3-60008c0eeb36/0012e6f8-3ea4-436b-9d9b-3e6af2278897_LN_Screen_i14_10_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/00/9c/16009cdc-08e7-20d6-2627-482876dd7de5/e05b8bbd-72e8-4a95-bf02-9513a2fd3360_LN_Screen_i14_1_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/32/42/1a3242c6-c690-970f-b2ae-8953df39acce/0b8a4544-ec08-48c9-9597-e7dd16610312_LN_Screen_i14_4_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/3b/83/653b8301-a545-2821-fea6-adf6725bb046/6dfb2750-63d0-4dad-8a3c-1a490e37a6da_LN_Screen_i14_9_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/25/5a/bf255ae9-e138-932e-d292-54b8d3d6e7cb/54cbb40a-8db7-44cb-88e9-75eebd18608e_LN_Screen_i14_13_12.9.png/552x414bb.png" />]]></content>
+Level. URL scheme is "EWBubbleLevel://"
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
