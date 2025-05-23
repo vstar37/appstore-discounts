@@ -251,7 +251,7 @@ So far, we've covered `6` `Countries or Regions` and  `198` `Apps` <br />Push no
 |181|1369179088|❌|Grimvalor|Grimvalor|Grimvalor|Grimvalor|Grimvalor|
 |182|1669723530|原界之罪|❌|❌|❌|❌|❌|
 |183|481629890|❌|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|LIMBO by Playdead|
-|184|656951157|❌|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|
+|184|656951157|❌|Playdead所開發的《LIMBO》|Playdead所開發的《LIMBO》|Playdead所開發的《LIMBO》|Playdead's LIMBO|Playdead's LIMBO|
 |185|886561127|❌|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|
 |186|1201642309|❌|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|
 |187|1529448980|❌|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|

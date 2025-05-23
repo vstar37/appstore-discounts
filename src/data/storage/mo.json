@@ -5182,7 +5182,7 @@
     ]
   },
   "656951157": {
-    "name": "Playdead's LIMBO",
+    "name": "Playdead所開發的《LIMBO》",
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
@@ -14730,6 +14730,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748010080604,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747750951297,
