@@ -3253,6 +3253,25 @@
     "history": [
       [
         {
+          "timestamp": 1748068151178,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Vault Of Gems": "₺2.299,99",
+            "Wagon Of Gems": "₺899,99",
+            "Chest Of Gems": "₺449,99",
+            "Barrel Of Gems": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Special Offer Saitam": "₺129,99",
+            "Big Hero Pack 2": "₺599,99",
+            "Saitam": "₺229,99",
+            "Big Hero Pack": "₺449,99",
+            "Hero Pack 5": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747801669885,
           "price": 99.99,
           "formattedPrice": "₺99,99",
