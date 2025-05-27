@@ -2418,6 +2418,21 @@
     "history": [
       [
         {
+          "timestamp": 1748355747435,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747491517471,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -9857,6 +9872,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748355747435,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744640552066,
@@ -17928,6 +17951,19 @@
       "Return to Castlevania": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748355747435,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "The Bad Seed": "$120.00",
+            "Fatal Falls": "$120.00",
+            "The Queen and the Sea": "$120.00",
+            "Return to Castlevania": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747750951297,
@@ -26120,6 +26156,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748355747435,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747750951297,
