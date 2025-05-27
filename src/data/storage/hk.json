@@ -22623,8 +22623,8 @@
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "不玩手机永久会员": "HK$ 32.00"
     },
     "minPriceInfo": {
@@ -22633,6 +22633,16 @@
       "不玩手机永久会员": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748310609030,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "不玩手机永久会员": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747360315770,

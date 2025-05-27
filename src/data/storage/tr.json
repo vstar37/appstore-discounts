@@ -11796,8 +11796,8 @@
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99",
+      "price": 179.99,
+      "formattedPrice": "₺179,99",
       "不玩手机永久会员": "₺179,99"
     },
     "minPriceInfo": {
@@ -11806,6 +11806,16 @@
       "不玩手机永久会员": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748310609030,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "不玩手机永久会员": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747360315770,
