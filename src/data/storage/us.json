@@ -2133,6 +2133,21 @@
     "history": [
       [
         {
+          "timestamp": 1748402117992,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747538410649,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -9405,6 +9420,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402117992,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744686397220,
@@ -16982,6 +17005,19 @@
     "history": [
       [
         {
+          "timestamp": 1748402117992,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747797223385,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -21269,6 +21305,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402117992,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748143385351,
@@ -26020,6 +26066,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748402117992,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747797223385,
