@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-05-28T23:24:19.376Z</updated>
+    <updated>2025-05-29T14:25:18.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,45 +21,64 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-28T23:24:19.377Z</updated>
+        <updated>2025-05-29T14:25:18.683Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moncage]]></title>
-        <id>Moncage-1748474463835</id>
-        <link href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4"/>
-        <updated>2025-05-28T23:21:03.835Z</updated>
-        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Tomb Raider]]></title>
+        <id>Tomb Raider-1748528532445</id>
+        <link href="https://apps.apple.com/tr/app/tomb-raider/id625206080?mt=12&amp;uo=4"/>
+        <updated>2025-05-29T14:22:12.445Z</updated>
+        <summary type="html"><![CDATA[Price: ₺1.299,99 → ₺829,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/tomb-raider/id625206080?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/74/1b/31741b0b-0f61-dd43-ccb7-e346f785d1bd/GameIcon.png/60x60bb.png" />
 </a><h2>
-  Discount Information（Price：<span>₺229,99</span> → <b>
-  <strong>₺179,99</strong>
+  Discount Information（Price：<span>₺1.299,99</span> → <b>
+  <strong>₺829,00</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
+  Before you buy, please expand this description and check that your computer matches or exceeds each of the requirements listed.
 
-The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
+When a young Lara Croft is shipwrecked on an uncharted island, she enters a fight for survival armed with nothing but her instincts. Help Lara perfect her natural gifts as she embarks on a perilous journey to save her friends and escape the island’s murderous inhabitants.
 
-【Solve Puzzles with Mind-Boggling Optical Illusions】
-Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
+Scavenge vital resources, upgrade Lara’s gear and improve her exploration, combat and survival skills to fight back against vicious enemies. Jump and climb through dense forests, treacherous mountains and WWII bunkers to discover how an ordinary young woman became Lara Croft, Tomb Raider.
 
-【Collect All Photos to Unveil the Story】
-Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
+Download the Single Player DLC pack for free skins, abilities, and the Tomb of the Lost Adventurer.
 
-【Get Unstuck with Thoughtful Hints】
-There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
+Important information regarding Tomb Raider:
 
-【Prove Your Puzzle-Solving Skills with Medals】
-There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
+The game is officially supported on the following Macs. To check your Mac model and when it was released, select About This Mac from the Apple menu on your menu bar.
 
-【Connect with us:】
-Twitter: @MoncageTheGame
-Email: moncagethegame@gmail.com
-Discord: https://discord.com/invite/TEVX2uPEsj
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
+ • All 13” MacBook Pros released since Mid 2012
+ • All 12” MacBooks released since Early 2016
+ • All 15” MacBook Pros released since Mid 2012
+ • All Mac minis released since Late 2012
+ • All 21.5” iMacs released since Late 2012
+ • All 27” iMacs released since Late 2012
+ • All 27" iMac Pros released since Late 2017
+ • All Mac Pros released since Late 2013
+
+The following Macs are capable of running the game but do not consistently meet the standards required for official support.
+
+ • All 12” MacBooks released since Early 2015
+
+• Minimum System Requirements:
+ ◦ Processor: 1.1GHz
+ ◦ RAM: 4GB
+ ◦ Graphics: 512MB
+ ◦ macOS: 10.14
+ ◦ Free Space: 14GB
+
+Check the Feral website for more detailed specifications.
+
+• Supports many different models of gamepad. For a full list check the Feral support site.
+
+• This game is not currently supported on volumes formatted as Case-sensitive.
+
+TOMB RAIDER © 2013-2019 Square Enix Ltd. All Rights Reserved. TOMB RAIDER, CRYSTAL DYNAMICS, the CRYSTAL DYNAMICS logo, EIDOS, the EIDOS logo and LARA CROFT are registered trademarks or trademarks of Square Enix Ltd. SQUARE ENIX and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd. All rights reserved. Uses FMOD Ex Sound System © 1994-2019 Firelight Technologies Pty Ltd. Uses Scaleform GFx © 2013-2019 Scaleform Corporation. Developed for and published on the macOS by Feral Interactive Ltd. Mac, macOS and the Mac logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other marks are property of their respective owners. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/12/40/1b1240e8-90b7-10d7-b3a9-5cb20523a51e/screenshot_mac_1_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/64/21/ec642191-09b3-a15f-e2f6-8ae527960a5c/screenshot_mac_2_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/39/21/f2392111-cf72-12f5-6702-51be27408253/screenshot_mac_3_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f6/32/7a/f6327a90-6c02-ec88-3e9a-bd2f5bf4f5a1/screenshot_mac_4_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ee/20/2e/ee202e98-c6b2-464a-57f0-a9901757467d/screenshot_mac_5_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f3/6f/95f36f97-a85d-b203-87c6-11aa1f4b8e99/screenshot_mac_6_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2b/35/c2/2b35c2d4-4a90-2039-2c40-44905cd59c87/screenshot_mac_7_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/32/c6/6b32c61e-09ce-b868-de6f-59107f1235f2/screenshot_mac_8_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/44/d4/4e/44d44ec2-2216-1584-9055-61bef4e2593f/screenshot_mac_9_en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/e9/b0/e8e9b042-c9ed-6e6a-d90c-57c588598bf3/screenshot_mac_10_en.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
