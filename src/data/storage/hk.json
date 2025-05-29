@@ -7758,8 +7758,8 @@
       "Arabic language pack": "HK$ 0.00"
     },
     "minPriceInfo": {
-      "price": 228,
-      "formattedPrice": "HK$ 228.00",
+      "price": 199,
+      "formattedPrice": "HK$ 199.00",
       "Single Player DLC Pack": "HK$ 0.00",
       "Пакет поддержки русского языка": "HK$ 0.00",
       "Pacchetto lingua italiana": "HK$ 0.00",
@@ -7768,6 +7768,21 @@
       "Arabic language pack": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748525569268,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "HK$ 0.00",
+            "Пакет поддержки русского языка": "HK$ 0.00",
+            "Pacchetto lingua italiana": "HK$ 0.00",
+            "Polski pakiet językowy": "HK$ 0.00",
+            "Paquete para el idioma español": "HK$ 0.00",
+            "Arabic language pack": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
