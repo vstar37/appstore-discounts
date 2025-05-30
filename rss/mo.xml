@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-05-28T14:27:05.414Z</updated>
+    <updated>2025-05-30T01:53:11.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,45 +21,61 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-28T14:27:05.414Z</updated>
+        <updated>2025-05-30T01:53:11.824Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[籠中窺夢]]></title>
-        <id>籠中窺夢-1748442224738</id>
-        <link href="https://apps.apple.com/mo/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4"/>
-        <updated>2025-05-28T14:23:44.738Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[無處遁形：全網公敵]]></title>
+        <id>無處遁形：全網公敵-1748569790911</id>
+        <link href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4"/>
+        <updated>2025-05-30T01:49:50.911Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
   优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 3.99</strong>
+  <strong>USD 2.99</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  《籠中窺夢》是一款「視錯覺」解謎遊戲，由兩人工作室Optillusion開發完成。
+  《無處遁形：全網公敵》是Steam平臺廣受好評的劇情向駭客解密遊戲《全網公敵》手遊版本。玩家通過網絡蒐索和社工手段獲取目標人物資訊，其隱藏最深的秘密都無處遁形。遊戲中的每個故事看似各自獨立，但隨著劇情的發展卻是草蛇灰線，伏脈千里。當所有事件串聯起來，竟隱藏著驚天的秘密……
 
-遊戲的內容全部包含在一個神秘的立方體中，立方體的每個面都是一個獨立的世界：工廠，燈塔，遊樂園，教堂等等，他們之間看似毫不相關，實則交錯萬千，充滿了意想不到的關聯……
+希望玩家在遊玩的同時，對網絡本身也能產生反思，學會保護好個人隱私。
 
-【燒腦視錯覺解謎】
-發揮你的腦洞與想象力，找到那些平凡場景與物體之間的聯系，產生意想不到的奇妙互動，拼接，然後見證奇跡誕生。
+【遊戲內容】
+◆第一章：程式師之死
+某公司CEO跳樓自殺，自稱被毒妻勒索千萬； 而妻子卻在社交網絡上發佈被家暴的照片。 謠言滿天，誰在說謊？
+◆第二章：看不見的眼睛
+女大學生的不雅視頻在網絡瘋傳，這一刻，她已然社會性死亡。 到底誰才是始作俑者？ 女性的安全又該由誰去保護？
+◆第三章：消失的證據
+品學兼優的學生會長忽然失踪。 霸淩事件使案情越發撲朔迷離。 誰是兇手，誰是受害者？
+◆第四章：羞辱的代價
+天降巨瓜，女歌星再次被爆黑料！ 恐嚇信、炒作、前女團成員自殺事件……網絡再掀輿論狂歡！
+◆第五章：永生代碼
+當社會陷入癲狂，你是否也願意加入永生代碼，獲得真正的愛與永生？
+◆DLC：甜蜜之家
+一個看似甜蜜而美滿的家庭背後，每個人都有各自的秘密，隱藏在背後的真相到底是什麼？！
+◆DLC：HelloWorld
+一場離奇的車禍，讓泰坦公司的高級研究員Lucrezia Borgia博士當場死亡，同行的Benjamin Engle死裡逃生，但他卻沒有意識到自己即將捲入一場巨大的陰謀之中……
 
-【收集照片拼湊故事】
-謎題背後，遊戲還有一個等待著被玩家們發現並反轉的故事。通過收集照片拼湊故事，試著解開它隱藏的真相吧。
+【遊戲特點】
+◆代入感强：在虛構的世界裏，玩家扮演一名駭客，接受一家公司委託，完成一個個不同的社工事件，體驗真實的駭客操作。
+◆玩法多樣：遊戲內有多個系統，除了社工系統，還會有推理、追跡、解謎，破壞侵入等系統需要玩家們去一一攻破。
+◆劇情複雜：遊戲中你將面臨大量的選擇和謎題，而不同的選擇可能將導致不同的結局。
+◆人物眾多：登場人物眾多，每個人物都有自己的性格特點，而他們背後都有著不為人知的故事，需要作為駭客的你去一一發現事件的真相。
+◆全程配音：遊戲中所有出現的角色都有真人配音，讓整個遊戲的體驗和代入感更加强烈。
+◆原創音樂：多首原創主題曲以及各種音樂音效，搭配精彩劇情，享受震撼體驗。
 
-【多重提示杜絕卡關】
-遊戲包含多種解謎引導機製，包括最基礎的「視覺引導」，幫助你快速定位關鍵物品；而「文字提示」則可以幫你整理解謎思路；最後還有「視頻提示」，用終極手段保證你絕不會卡關。
-
-【拿下獎章證明實力】
-遊戲擁有 15 個成就，每個成就都對應著一個根據劇情設計的獨特獎章。如果你是解謎遊戲達人，那就用這些獎章來證明自己吧~
-
-【聯系我們】
-官方QQ討論群：626570283
-官方微博：@心動網絡 、@籠中窺夢-Moncage
-官方郵箱：moncagethegame@gmail.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7e/da/ac/7edaacb2-e7ac-df1a-aeff-5edff0a7dc22/9d9c35e4-14a8-4bba-b8b9-88c9b0e924ab_5.51.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/d0/85/ccd0856e-5664-a8a6-1304-b3e0f2c42456/6372c104-cce2-48a5-89ba-0e882b86ed06_5.52.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/71/6b/1c/716b1c9f-3466-f8e5-35b3-dfba8d1db607/1d7fffa4-78dd-40db-b1d6-53cc6a2d5b51_5.53.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/13/ba/2613baea-a756-b3ae-8ef4-98a92797042e/e0889847-52eb-4d24-897d-89219d25ce03_5.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/72/af/f672af40-ae4b-0e3d-77d7-93b2919c8c3b/4fda857c-a032-4a7f-b1fa-9a6cf9eea3fe_5.55.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/51/2c/a5/512ca500-3366-2887-5460-c467751f440a/06fc4263-0ab9-48f2-a29d-e3a491d3dea1_Pad1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/56/ad/9c/56ad9c4c-0175-2d88-8cca-df373b235a5e/1507ffbc-d1bc-4fae-ab62-c1f79feeb51a_Pad2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d0/81/b0/d081b09b-a789-a126-fa73-f215d6904cbd/db61faec-78b3-4cbf-b44c-cd9ef78f33c5_Pad3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1d/94/b1/1d94b1a9-5a3b-9837-9458-bc9fd5f14b84/d59cab3c-6c0d-4111-bd52-7a643aab704e_Pad4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/95/92/73/9592731f-17f2-e057-8d13-d78dde9bb5ee/3ab1e716-4b9e-4108-8d4d-1a4e4a9f34f7_Pad5.png/576x768bb.png" />]]></content>
+【覈心功能】
+◆網絡蒐索：玩家通過瀏覽器搜索功能收集目標對象的基礎資訊。
+◆資料庫：利用已知資訊輸入到資料庫中，通過篩選後或許目標對象的其他資訊。
+◆破解：通過獲得的目標人物資訊來生成密碼，用於登入各平臺的帳戶（包括郵箱、社交平臺、聊天軟體等）。
+◆偽裝：獲取目標對象的需求、社交圈等，根據資訊選擇偽裝，通過和目標對象接觸獲取更多資訊。
+◆聊天溝通：添加目標對象為好友後，進行聊天溝通獲取資訊。
+◆圖片分析：從圖片中獲取有價值的資訊內容及相關線索。
+當然，後期還會解鎖更多的高階社工方法！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/b8/dd/43b8ddcd-4ab2-43fe-480a-5d1524256f60/99009b54-dda7-4115-8345-b92a4da1bea5_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8d/61/a3/8d61a307-7352-b0f6-26e2-28a74547d0cc/9dbdf1b1-dce6-45a9-bd2c-445ae85fdc21_QQ20220928-1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b0/89/84/b0898459-7fed-a793-c9b4-61dc5f3e2d58/82688c16-2383-47a7-9451-0ee8e7b24bb6_QQ20220928-25.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/d2/16/83d2166c-4276-8af2-eb19-9aee12480d78/7ac0e37a-5d69-444f-9cdb-f0c58510c720_QQ20220928-14.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/63/8f/d0638f9d-abbc-6f11-ffb0-a8a03d0c2505/adf9b016-725f-4168-b3c7-819145fe4f75_QQ20220928-24.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/15/fe/de15feda-6c08-d817-8d2a-5f56a518c9c8/461783b7-ff95-48ea-be82-1c5dd15973c1_QQ20220928-15.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/36/10/2036101c-7b0b-e9ef-b1e6-5fa743f3d1e6/7b4e9ee7-b4af-45d4-89f5-c58a7fba0ba5_QQ20220928-19.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/43/bc/4d/43bc4dc7-3d3b-6472-7f84-8da22793c72f/88b2a278-30ea-429d-8b5c-2f894b5ea0fe_QQ20220928-17.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/25/f3/f425f389-d566-b8ea-8ea0-d76e4e0a60ae/e816b1f6-9955-45c3-bfbd-2b462e82a19b_QQ20220928-9.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/43/b3/e243b343-2a21-5ee8-9dda-235ad1eb369f/55edaf96-ef07-4732-87fa-c42a2f3362af_QQ20220928-16.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ec/1d/0e/ec1d0ec9-67cb-518c-dd72-3ca0aa41a7ee/b3c98720-b9a0-4078-8b88-034054b24965_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a3/09/fa/a309fad8-d31f-36b1-3943-f4c0b478fb97/bb92bbcf-1c9e-4fcc-bfd7-5dbf4eec86e6_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/07/c3/c507c3aa-1d3b-0e50-90a7-fe0ec84178d0/7237da17-1bb3-47b8-bb96-9428c7ad4b3c_19.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/a9/a5/3aa9a52d-9f70-5de7-372e-d630ffd199b8/5b9c9e9a-58b3-40f4-84f3-180c6b18b0c6_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/4a/5b/a44a5be3-0b49-be94-1715-4ef12bf7fc3f/81e913bf-96aa-457e-870d-2b9968fa0e0f_f1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4b/6b/5a/4b6b5a78-6672-b766-0356-c65d1100d177/1a9bcd6b-1459-4746-8daa-7ddc42d15d3e_17.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fd/50/d4/fd50d412-fe7b-c540-f84a-d88f8fdb90cc/b9c6279a-6184-42b8-b879-b1f6ab43cf89_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f7/b2/29/f7b22993-0d76-d06a-a25d-fa7ae0887baa/7fecc4b4-3c9f-43ce-a22b-bfc6da6d9d06_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/16/e7/ca16e719-5eae-7ba4-ee96-2e8d738fb2b8/c3be5896-f75c-4555-8297-762a278d7663_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0b/f2/32/0bf232fd-3f49-e560-df8c-052c14c53897/0e2115a2-55e7-4ac0-922f-cdb3ebee47ab_11.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
