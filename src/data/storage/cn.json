@@ -2256,6 +2256,21 @@
     "history": [
       [
         {
+          "timestamp": 1748614960092,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Cloud Backup Yearly": "¥58.00",
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748355747435,
           "price": 0,
           "formattedPrice": "免费",
@@ -10508,6 +10523,14 @@
     "history": [
       [
         {
+          "timestamp": 1748614960092,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747232588783,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -10673,6 +10696,14 @@
     "history": [
       [
         {
+          "timestamp": 1748614960092,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747232588783,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -10820,6 +10851,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748614960092,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747232588783,
@@ -11819,6 +11858,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748614960092,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747232588783,
@@ -15073,6 +15120,16 @@
     "history": [
       [
         {
+          "timestamp": 1748614960092,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747902782415,
           "price": 0,
           "formattedPrice": "免费",
@@ -17779,6 +17836,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748614960092,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747232588783,
@@ -20813,6 +20878,14 @@
     "history": [
       [
         {
+          "timestamp": 1748614960092,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747232588783,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -21803,6 +21876,16 @@
       "Value for Value": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748614960092,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748528532445,
@@ -27204,6 +27287,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748614960092,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747232588783,
