@@ -1359,6 +1359,21 @@
     "history": [
       [
         {
+          "timestamp": 1748647237191,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Reset Password": "₺39,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748388030516,
           "price": 0,
           "formattedPrice": "Free",
@@ -7456,6 +7471,14 @@
     "history": [
       [
         {
+          "timestamp": 1748647237191,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747264816791,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -8045,6 +8068,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748647237191,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747264816791,
@@ -10424,6 +10455,14 @@
     "history": [
       [
         {
+          "timestamp": 1748647237191,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1747264816791,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -12154,6 +12193,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748647237191,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747264816791,
@@ -17330,6 +17377,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748647237191,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746973145577,
