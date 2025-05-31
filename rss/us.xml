@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-31T03:15:18.527Z</updated>
+    <updated>2025-05-31T17:21:18.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,240 +21,107 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-31T03:15:18.528Z</updated>
+        <updated>2025-05-31T17:21:18.580Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mobile Empire]]></title>
-        <id>Mobile Empire-1748661138461</id>
-        <link href="https://apps.apple.com/us/app/mobile-empire/id1380582804?uo=4"/>
-        <updated>2025-05-31T03:12:18.461Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/mobile-empire/id1380582804?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/fd/4f/35fd4fcb-381b-1ee8-d703-e4173dfb9613/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Game Introduction
-Mobile Empire is a simulation game based on "manufacturing mobile phones", with a high degree of freedom. You will play as an entrepreneur back in 2001. You acquired the initial capital from a mystery investor because of your unique vision and created a technological enterprise that may change the world. The game starts from 2001 and ends in 2035, during which you will start with old school smartphones in the early R&D stages, progressing until AR smart glasses can be independently used. During the 35 years, you will experience, witness, and promote the magnificent development process of smartphones. You have the chance to develop your company into the world's number one technological enterprise.
+        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
+        <id>MoneyTrack: Expense &amp; Budget-1748711881898</id>
+        <link href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4"/>
+        <updated>2025-05-31T17:18:01.898Z</updated>
+        <summary type="html"><![CDATA[Lifetime: $19.99 → $19.95]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ba/d3/ebbad315-cef8-8c36-cebb-ccba81bf58ca/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>$19.99</span> → <b>
+  <strong>$19.95</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  "MoneyTrack - Smart Personal Finance Tracker
+Record every dollar, take control of your finances. A clutter-free budgeting app with zero ads, zero splash screens, and zero financial product promotions.
 
-• Unique theme
-Currently, Mobile Empire is probably the only PC simulation game based on "manufacturing mobile phones". You will have the chance to create miracles and develop your little-known company into a global technological empire. 
+■ KEY FEATURES
+• Auto-Tracking: Seamlessly integrates with Shortcuts for automatic expense capture triggered by your transactions
+• Versatile Entries: Track income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
+• Powerful Analytics: Visualize spending patterns through pie charts, bar graphs and trend lines to quickly spot financial issues
+• Smart Budgeting: Create annual/monthly budgets for total spending and categories with dynamic daily allowance adjustments
 
-• Innovative competition experience
-In order to simulate a real business environment, lots of competitors will be constantly updated. Players may cooperate with them for joint development or poach talents from them. 
+■ COMPREHENSIVE ASSET MANAGEMENT
+• Unified dashboard for all account types (cash, checking accounts, credit cards, store cards)
+• Balance sheet and net worth tracking for real-time financial status monitoring
+• Credit card management system (payment alerts, limit tracking, grace period calculation)
+• Multi-currency support with exchange rates for all major world currencies
 
-• Massive amounts of random events
-In order to create a better "sense of the world", a great deal of industrial events, world events, crisis events, lucky events, employee events, and news interviews are set in this game for you to make your own choices.
+■ SMART FEATURES
+• Multiple Books: Easily separate personal, business, and project finances
+• Collaborative Tracking: Invite family members to create transparent household finances
+• Cloud Sync: Free data backup across devices with secure protection
+• Easy Import/Export: Support for importing from banking apps and exporting to Excel
+• Recurring Transactions: Set up automatic entries that generate on schedule
+• Payment Plans: Track installment payments with due date reminders
+• Custom Categories: Create unlimited category levels to match your financial organization
 
-• Bountiful blueprints
-The game includes 65 different cell phone blueprints and more than 100 cell phone appearances from 3x3 keypads to full-screen and folding screens, and even includes futuristic AR smart glasses. Bountiful blueprints are yours to explore. 
+■ MULTI-DEVICE EXPERIENCE
+Sync between iPhone, iPad and PC with instant updates, keeping your financial picture complete no matter where you are.
 
-• Vast technologies
-In this game, there are many technologies and accessories are available for upgrade. In addition, with adequate funds, you can even research and develop CPUs with superior performance and experience better operating systems. Customized naming is also supported.
-
-• Creative persuasion system
-In terms of talent recruitment, the game provides a very distinctive "persuasion" system. To acquire the top talents, you need to use different communication skills to persuade the recruits according to their personalities.
-
-• Other contents for you to explore
-The game also includes credit ratings, company acquisitions, employee development, outsourcing mode, intelligence system, company strategies, and more for you to explore.
-
-• "Mobile Empire" IOS supports the archive of PC games.
-
-Languages Supported:
-*English
-*简体中文 (Simplified Chinese)
-*繁体中文 (Traditional Chinese)
-
-Operating system 
-iOS: version 8.0 or higher 
-
-Recommended configuration 
-RAM: 1 GB or more 
-Storage: 1.5 GB 
-
-Service Email：indie@xindong.com
-©2020 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b8/fe/fc/b8fefc8b-6c32-b894-08e5-41f7b3fa2f00/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/7e/cd/d67ecdae-7c6e-194a-686b-372215a3d749/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/dd/2d/f4dd2d01-b058-0dec-5055-d39b6cb298f9/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/26/ed/8a/26ed8a89-a896-ab7d-4274-b9330df234b5/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/24/ce/1a/24ce1a52-ef89-0a2e-63b3-b03f807a27b4/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/52/ff/7d52ff54-ba37-e55d-735e-ebb5ce3daf73/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/66/34/26/66342640-7d7c-8777-faca-aed8a6b7bad3/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/c6/c2/0bc6c265-10bd-42ba-4ede-8db2d1f2a806/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/65/7b/31657b19-4313-83e6-1afd-6d2c32144225/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/d4/da/8cd4daa6-8f24-d4a1-a68f-55e66f940ba1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/22/f0/a122f04f-71a1-5a4b-32a7-4bf2505b19f1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b9/92/87/b99287bb-851f-588e-8ef3-00836061a3b3/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/5e/ea/565eea63-b50f-f5a2-9b28-c170058a67bf/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/7c/64/f97c6426-a8f0-6428-ee44-c6d5a84103d0/pr_source.jpg/552x414bb.jpg" />]]></content>
+■ FOCUSED ON FINANCIAL WELLNESS
+We're dedicated to one mission — helping you achieve financial clarity. No investment pitches, no social distractions, just a clean and effective expense tracking experience."
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/fb/5d/0bfb5dc1-b341-d6bc-74e3-25814fd17c0f/d0473bf1-4e9e-45c2-85de-fcbbeae12938_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/f3/f4/e2f3f449-3216-e5da-c173-1bd23c5b35ba/2c55e02d-a39b-4a1a-9cc0-03aa2c241baf_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/cd/46/cbcd46e7-e183-69c7-9ef0-0296b06abf98/7663e678-8f62-4d5f-b736-0b7ccbdfda14_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/4e/ba/314eba66-00e6-2acc-8dfb-bc00ebed0639/8c4c5448-2885-4418-92ca-0e90081ab5e9_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/64/54/926454a0-5083-8381-80b2-ce4e552f0c46/4e5cc82d-5014-4b14-90eb-7bd91f2e3ee7_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/1e/12/af1e12ae-c1c8-e7ae-2f0a-dc829e932da8/dd5bc5b8-9c77-4cb0-bfbd-a941a9100c38_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/49/db/a849db02-7bfe-4c67-1852-df1994459c12/e6ea50e6-9cf5-4f41-9855-2eae6a7c2e03_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/33/26/9b33267b-65b6-ad63-7b90-5a8e20cec605/b94794d9-aed2-43fd-abd4-794196c8c252_9.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/1b/07/ae1b0749-1351-3fc7-5901-782063f8bc15/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/7e/3a/117e3a42-48be-c119-56d6-2c2c2911c078/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/d8/4d/19d84dc8-d318-b89b-fecf-c9058b22d88d/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/d3/a2/cbd3a277-192f-7014-b88b-ea1217229f4e/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/c6/b4/10c6b44b-f6f4-b5e5-c296-62d29a538be3/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juicy Realm]]></title>
-        <id>Juicy Realm-1748661138461</id>
-        <link href="https://apps.apple.com/us/app/juicy-realm/id1453808408?uo=4"/>
-        <updated>2025-05-31T03:12:18.461Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juicy-realm/id1453808408?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Inspire Pro]]></title>
+        <id>Inspire Pro-1748711881898</id>
+        <link href="https://apps.apple.com/us/app/inspire-pro/id355460798?uo=4"/>
+        <updated>2025-05-31T17:18:01.898Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/inspire-pro/id355460798?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$4.99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
+  Available exclusively on the App Store, meticulously designed to be beautifully powerful, and painstakingly engineered for iPad — Inspire Pro delivers an incredibly fast and realistic painting, drawing, and sketching experience that you can take with you wherever you go and use whenever inspiration strikes.
 
-Subverted Order
-“Many years later, when the humans watch as the plants climb up to the top of the food chain, they will be reminded of their own naivety and arrogance…”
-Only when all the plants started to evolve into animals, growing limbs and becoming sentient, did the humans realize the threat of those photosynthetic-lifeforms. No one knows how they achieved the state of evolution that took animal lifeforms millions of years to reach in such a short amount of time, and no one knows their ultimate objective. The only thing known for sure is that the humans now face the greatest challenge since they climbed up to the top of the food chain.
+Our proprietary painting engine Sorcery™ takes full advantage of the GPU to render brush strokes with brilliant 64-bit color, laser-sharp sub-pixel precision, and insanely fast speed. While the strokes of a wet oil paint brush look beautiful on their own, the breathtaking blending effects of a dry brush will absolutely stun you. Graze the canvas with just a bit of pressure to add a subtle blur to your artwork or use stronger pressure to actually mix existing colors on the canvas together to create new ones.
 
-Gameplay
-As the first explorers of this unknown region, you must strive to venture deep into the enemy hive, defeat all kinds of fruits and arm yourself with various equipment, as well as upgrade yourself with the resources you find in your way.
+Whether you are a budding artist, seasoned professional, or somewhere in-between, you will enjoy the simplicity and power of the most intuitive and compelling illustration app for iPad, Inspire Pro.
 
-Game Features
--Rougelite elements such as random terrains, loot drops, and monsters
--Hundreds of special and bizarre weapons and items
--Loads of unique mod enemies and bosses
--10 characters in the roster with unique skills and abilities
--Unique artstyle with rich details
+Amazing Brushes
+• 150 high quality brushes to choose from, divided into 15 sets: Oil Paint, Airbrushes, Spray Paint, Paint Splatter, Graphite Pencils, Wax Crayons, Markers, Chalk, Charcoal, Pastels & Conté, Basic Shapes, Complex Shapes, Shape Outlines, Patterns, and Textures
+• All brushes can be used as a Wet Brush, Dry Brush (Blending), or Eraser
+• Over 20 different settings are available to customize brush strokes with powerful versatility and variation
 
-Twitter: /@JuicyRealm
-Facebook: @JuicyRealm
-Press contact: juicyrealm@spacecangames.com
+The Best Painting App for iPad
+• Sorcery™, the fastest 64-bit painting engine on the App Store
+• Full-fledged Apple Pencil support for pressure, tilt angle, orientation, and double-tap
+• Smart Keyboard support with over 20 context-sensitive keyboard shortcuts
+• Create a canvas of any size up to 16K (64MP) on iPad Pro
+• Dual-texture brushes
+• 64-bit color
+• All device orientations are supported all the time — switch from portrait to landscape painting with ease
+• 1000 levels of undo and redo are available
+• Touch and slide hotspots can be used to quickly change brush size, opacity, and pressure without opening a menu
+• The eyedropper tool can be used with a touch and hold gesture to select paint colors from the canvas
+• The canvas can be moved around, rotated, and zoomed in and out up to 6400%
 
-[Minimum Requirements]
+Canvas Playback Video Recording
+• Brush strokes are automatically recorded as you paint without any delay
+• You can play the video of your artwork being created stroke-by-stroke directly in the gallery
+• Exported videos are high quality HD at up to 1080p resolution
 
-Please make sure you are using devices matching the following requirements. If you are using old devices, the game might not run normally on your device.
+Full-Featured Color Picker
+• Choose any paint color you can dream of with the intuitive color picker
+• HSB and RGB sliders accompany a large color circle, color square, and opacity slider
+• Your latest colors are saved to a palette automatically while you paint
+• You can also save your favorite colors to a palette with drag and drop
 
-iPhone 6S and higher
-iPad Air 2 and higher
-iPad Mini 4 and higher
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/45/0a/3a450a53-b535-96da-505b-e15d4ee981ae/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/c7/15/f0c7157f-7618-abcf-d022-22cab0453c31/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/3b/ad/e13badd6-1686-70e6-e2c6-94976ed10288/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/0c/9c/950c9ca5-39fe-c66a-a9b4-fcdc5a14565c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/58/78/c758787b-6f28-cb09-1600-b63d4502f75d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/2a/62/252a62fe-c11d-7cbc-1c3a-4ea6531dca1e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8a/e0/848ae0ea-d8e0-8f67-4bfc-e1679ee028e4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/0a/e6/6f0ae677-31d6-1e47-f50c-8c956f30ae84/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/31/c8/0831c840-1232-6894-2310-e04ced38cef0/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/db/83/48db831b-ff2a-4d3a-f3bc-a3336e5070f6/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To the Moon]]></title>
-        <id>To the Moon-1748661138461</id>
-        <link href="https://apps.apple.com/us/app/to-the-moon/id1159700098?uo=4"/>
-        <updated>2025-05-31T03:12:18.461Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/to-the-moon/id1159700098?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.
-
-ABOUT THIS GAME
-Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning... but only in their patients' heads.
-
-Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t.
-
-This particular story follows their attempt to fulfill the dream of an elderly man, Johnny. With each step back in time, a new fragment of Johnny's past is revealed. As the two doctors piece together the puzzled events that spanned a life time, they seek to find out just why the frail old man chose his dying wish to be what it is.
-
-And Johnny's last wish is, of course... to go to the moon.
-
-MORE DETAILS
-"To the Moon", a story-driven RPG with pixel graphics, was originally developed six years ago for PC by Canadian producer Kan Gao and Freebird Games, his indie game studio.Rights to develop and publish the remastered mobile version of "To the Moon" were acquired by X.D. Network Inc.
-The story of "To the Moon" unfolds before players, much like a movie. While the entire game has no battle system and can be completed in a few hours, the compelling story and moving original soundtrack resonated with players worldwide. On top of receiving overwhelmingly positive ratings, "To the Moon" received multiple awards from Gamespot, Metacritic, WIRED, and more, and was nominated for "I'm Not Crying, There's Something In My Eye" in the 2016 Steam Awards.
-
-KEY FEATURES
-•	Unlocked 29 new iMessage stickers.
-•	Added "Music Box" function, allowing backstage music playing& in-game music downloading(will be enabled automatically after clearing the stage).
-•	Added "DIY QR code" function, allowing one-key sharing of player data for playing on different devices.
-•	A unique & non-combat story-driven experience
-•	Innovative mix between adventure game elements and classic RPG aesthetics
-•	Acclaimed original soundtrack that closely ties to the story
-•	An espresso execution with zero filler and no time drains
-
-Languages Supported: 
-* English 
-* Français 
-* Deutsch 
-* Español (Latinoamérica) 
-* Español (Europa) 
-* Português 
-* Polski
-* lingua italiana (Italian)
-* Người việt nam
-* русский(Russian)
-* 한국어 (Korean) 
-* 简体中文 (Simplified Chinese) 
-* 繁體中文 (Traditional Chinese) 
-* 日本語 (Japanese)
-* Türk dili(Turkish)
-* Українська（Ukraine）
-
-Facebook: /TotheMoonHD
-Twitter: @TotheMoonHD
-Service email: TotheMoon@xindong.com
-
-© 2017 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/ba/e7/8cbae70f-cb96-836c-11ef-afee1d9f0995/mzl.duqjvmyj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e0/af/0de0af90-cb76-93e7-af4a-e602fe53a13b/mzl.kcpanvyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/b0/3f/a8b03fe9-bf55-1a2f-c386-10ff0cc7c627/mzl.ggycdnkb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/c2/b2/03c2b201-1759-f62a-338f-9a0ace583983/mzl.lhameszq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/c8/d6/1ac8d620-f639-e740-db9d-2c7c9269fb60/mzl.snejulwv.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/c7/5e/48c75e27-41e0-657f-fa4d-310f414bb0cf/mzl.ukbjyhky.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/bb/96/3ebb96ae-1020-2499-f408-4eee13e0b753/mzl.fefblsaa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/7c/a3/a47ca3ee-86e8-e9a2-cd46-6a14ffd1335c/mzl.elnaumho.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/ac/aa/a7acaa3e-34b8-df7f-bc02-c16f32d57f61/mzl.tcljipwn.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/4d/b2/aa4db242-5627-7455-6895-efbc61ce2f54/mzl.zkmbxdnw.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICEY]]></title>
-        <id>ICEY-1748661138461</id>
-        <link href="https://apps.apple.com/us/app/icey/id1271620263?uo=4"/>
-        <updated>2025-05-31T03:12:18.461Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/icey/id1271620263?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/e4/0b/42e40bed-ba27-1450-9463-da43e44010d3/AppIcon-1x_U007emarketing-0-9-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  ICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. 
-
-“Alright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world." says the narrator. 
-
-“ICEY is a Meta game in disguise. The narrator will constantly urge you in one direction, but you must ask, "Why? Why am I following his directions? Why can't I learn the truth about this world and ICEY's purpose here?" Fight against his tyranny, and uncover what's really going on for yourself!
-
-In fact, you can become ICEY, and let loose the shackles of your own identity. You are ICEY, and ICEY is you... if you want it that way. Feel free to keep hold of your own self, if you wish. 
-
-Now Is the Time For You to Discover the Truth.
-
-[FEATURES]
-
-Fast-paced Combat: 
-Crush enemies in the palm of your hand. 
-Attack! Dodge! Counterattack! Do not hesitate. 
-This is the only way to survive! 
-
-Incredible Combos: 
-With simple controls, amazing combos are easy to unleash, even for beginners. 
-Every skill is special in its own way. Master your favorites and create your own fighting style!
-
-Massive Cyborg Bosses: 
-Can you withstand the onslaught of attacks from terrifying cyborg bosses? 
-Every boss unleashes flurries of different attacks. It's up to you to find their weak spots and tear them apart!
-
-[Awards]
--Nominated, Tokyo Game Show 2016 DENGEKI PlayStation Best Indie Game
--Official Selection, 2016 Gamescom Indie Arena Booth 
--Most Promising Game 2nd Prize, Taipei Game Show 2016 
--Official Selection, Casual Connect Asia 2016 
--Official Selection, IGF China 2015 
--Best Technology Award, Indieplay 2015
-
-Operating system 
-iOS: version 8.0 or higher 
-
-Recommended configuration 
-RAM: 2 GB or more 
-Storage: 1.2 GB (iOS) 
-
-Tips 
-- As gameplay smoothness and reliability are affected by screen resolution and the number of applications running in the background, you can adjust the image quality option to achieve balance between image, smoothness and power consumption. 
-
-- Added MFi controller support
-
-Languages Supported:
-*English
-*Francais
-*Español
-*简体中文 (Simplified Chinese)
-*繁体中文 (Traditional Chinese)
-
-Facebook: /ICEYtheGame
-Twitter:@ICEYtheGame
-Service Email: ICEY@xindong.com
-2017 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/31/4d/80314d42-4928-285e-ff1e-ae1ed0594fe5/mzl.paznipql.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e1/ad/6be1ad4c-c98e-9ff0-c05e-442317676aa1/mzl.ixidjdpc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/bf/ec/20bfec09-f888-df7e-cb69-3e2b38d93039/mzl.qwspudpw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/1e/1b/311e1b7f-65f5-6868-3533-cd7a0f937706/mzl.qxndgpfo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ce/f3/05/cef305b2-337e-46b8-4bb9-faba8a466ae7/mzl.ugthspkk.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/73/0e/2b/730e2b72-7942-0a0a-d991-7860268f517f/mzl.jvnwrskb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/71/0b/42/710b42d7-f75b-d88d-5f3a-40d305126d19/mzl.qhvrhsiw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/5e/92/855e9240-0e07-b317-a4ab-d649762b22f9/mzl.evnuizwl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/70/12/d3/7012d3b7-87cb-8022-3b2c-84b36e1e43e1/mzl.rnckkema.jpg/552x414bb.jpg" />]]></content>
+Visit snowCanoe.com to check out more screenshots, videos, and artwork.
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/73/4f/90734fcf-dfef-c016-ae6f-5900dd8cedba/5af65c1c-5464-43e2-b86a-ba4843bc5e06_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/af/6e/a7af6e2c-47ad-c847-fa74-a6716f7fd212/d5e0783c-b639-4b13-b8a9-d9ab1514561d_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/23/b5/1823b5dd-55e6-bb4e-8714-c34328c996ca/9cc1685e-d15e-4f39-9bc1-360d4f628280_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/ae/48/36ae489a-561d-2308-707a-ba920df1b2f1/c3b9b682-8199-48c5-a5d4-c4529917f7a5_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/25/8c/0e258c61-ade5-3b84-fd40-049b45551c0b/d8682575-87f7-4578-a375-42d00bcbb062_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f3/f3/d1f3f319-1555-a266-41bd-f3a093e96d13/5568fdef-fb06-425c-ad95-c0227c9f4697_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/07/c2/8107c279-0640-f4d9-a275-ed3037091d56/3213636f-cef5-480a-b509-4b6b50b22a6f_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/a0/50/40a050b1-16ba-dd5d-6522-2933e0ef1a88/1ff73799-41c0-4522-ac2c-c608e21b8fd3_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/7f/a1/0e7fa13a-719d-731d-a5b9-e7400258187a/a30911bf-f1ba-445d-8b6a-00792572bcca_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/5f/88/325f88fd-afd3-e5ad-9be1-e92cb85539b7/71fd637f-9fa4-438a-98cc-636997ccc728_Screenshot10.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
