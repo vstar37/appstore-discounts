@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-01T06:34:17.278Z</updated>
+    <updated>2025-06-01T13:32:17.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,57 +21,61 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-01T06:34:17.279Z</updated>
+        <updated>2025-06-01T13:32:17.813Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1748759481347</id>
-        <link href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-06-01T06:31:21.347Z</updated>
-        <summary type="html"><![CDATA[Lifetime: ₺899,99 → ₺800,00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ba/d3/ebbad315-cef8-8c36-cebb-ccba81bf58ca/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[MuseDash]]></title>
+        <id>MuseDash-1748784569077</id>
+        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
+        <updated>2025-06-01T13:29:29.077Z</updated>
+        <summary type="html"><![CDATA[Rin·Len's Mirrorland: ₺399,99 → ₺249,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/e1/a74fe118-25ac-5226-c81c-5bb842eddfcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime：</strong><span>₺899,99</span> → <b>
-  <strong>₺800,00</strong>
+    <strong>Rin·Len's Mirrorland：</strong><span>₺399,99</span> → <b>
+  <strong>₺249,99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  "MoneyTrack - Streamlined Personal Finance Tracker
+  "Hitting while listening to music."
+"Is that the call from another world?"
+[Game Starts Now—!!]
 
-Track every penny, master your financial freedom. A pure expense tracking app with no ads, no splash screens, and no investment promotions.
+Lovely girls
+or rhythmic music?
+If there’s a place for you to have them both…
+It must be the paradise of parkour & rhythm game  — Muse Dash!!
 
-■ CORE FEATURES
-• Auto-Tracking: Deep integration with Shortcuts allows automatic expense recording triggered by your transactions
-• Comprehensive Entries: Support for income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Insightful Analytics: Visualize spending patterns with pie charts, bar graphs and trend lines to quickly identify financial issues
-• Precise Budgeting: Set annual/monthly budgets for total spending and categories with dynamic daily budget adjustments
+Huh?! Not your forte? It doesn’t matter!
+Who says you must have a strong sense of rhythm to win?
+Avoid is also a valid option (?)
+As long as you have 100% of passion, courage, and… love for lovely girls~
+Rhythm and fight won’t be an issue
 
-■ COMPLETE ASSET MANAGEMENT
-• Unified management of multiple account types (cash, bank cards, credit cards, store cards)
-• Balance sheet and asset curve for real-time financial status tracking
-• Credit card management system (payment reminders, limit management, interest-free period calculation)
-• Multi-currency asset recording with support for all major currency exchange rates
+[Gameplay]
+Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
+What an easy, beginner-friendly rhythm game
 
-■ THOUGHTFUL FUNCTIONS
-• Multiple Ledgers: Flexibly separate different financial records
-• Shared Accounting: Invite family and friends to maintain transparent shared finances
-• Cloud Backup: Free data synchronization across devices with secure protection
-• Flexible Import/Export: Support for importing data from multiple platforms and exporting in Excel format
-• Recurring Entries: Customisable automatic entry tasks that generate transactions on schedule
-• Installment Tracking: Easily monitor payment schedules and receive timely reminders
-• Sub-Categories: Unlimited categorisation options to meet personalised needs
+[Media Review]
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
 
-■ CROSS-PLATFORM EXPERIENCE
-Synchronise across iPhone, iPad and PC with real-time updates, recording every expenditure wherever you are.
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
 
-■ FOCUSED ON FINANCE MANAGEMENT
-We do one thing only — help you better manage your personal finances. No investment promotions, no community distractions, just a pure and efficient expense tracking experience."
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/fb/5d/0bfb5dc1-b341-d6bc-74e3-25814fd17c0f/d0473bf1-4e9e-45c2-85de-fcbbeae12938_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/f3/f4/e2f3f449-3216-e5da-c173-1bd23c5b35ba/2c55e02d-a39b-4a1a-9cc0-03aa2c241baf_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/cd/46/cbcd46e7-e183-69c7-9ef0-0296b06abf98/7663e678-8f62-4d5f-b736-0b7ccbdfda14_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/4e/ba/314eba66-00e6-2acc-8dfb-bc00ebed0639/8c4c5448-2885-4418-92ca-0e90081ab5e9_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/64/54/926454a0-5083-8381-80b2-ce4e552f0c46/4e5cc82d-5014-4b14-90eb-7bd91f2e3ee7_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/1e/12/af1e12ae-c1c8-e7ae-2f0a-dc829e932da8/dd5bc5b8-9c77-4cb0-bfbd-a941a9100c38_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/49/db/a849db02-7bfe-4c67-1852-df1994459c12/e6ea50e6-9cf5-4f41-9855-2eae6a7c2e03_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/33/26/9b33267b-65b6-ad63-7b90-5a8e20cec605/b94794d9-aed2-43fd-abd4-794196c8c252_9.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/1b/07/ae1b0749-1351-3fc7-5901-782063f8bc15/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/7e/3a/117e3a42-48be-c119-56d6-2c2c2911c078/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/d8/4d/19d84dc8-d318-b89b-fecf-c9058b22d88d/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/d3/a2/cbd3a277-192f-7014-b88b-ea1217229f4e/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/c6/b4/10c6b44b-f6f4-b5e5-c296-62d29a538be3/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+Languages Supported:
+English
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+
+Feedback: https://service.peropero.net/
+Twitter:@MuseDash_EN
+@PeroPeroGuys
+</p>]]></content>
     </entry>
 </feed>
