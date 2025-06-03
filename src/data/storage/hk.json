@@ -8738,6 +8738,14 @@
     "history": [
       [
         {
+          "timestamp": 1748960637413,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748874209832,
           "price": 0,
           "formattedPrice": "免費",
@@ -24922,6 +24930,20 @@
       "6包野果": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748960637413,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "698包野果": "HK$ 788.00",
+            "98包野果": "HK$ 118.00",
+            "30包野果": "HK$ 38.00",
+            "12包野果": "HK$ 18.00",
+            "6包野果": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747196826307,

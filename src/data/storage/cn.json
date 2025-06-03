@@ -7102,6 +7102,14 @@
     "history": [
       [
         {
+          "timestamp": 1748960637413,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748874209832,
           "price": 0,
           "formattedPrice": "免费",
@@ -23192,6 +23200,20 @@
       "12包野果": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748960637413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "6包野果": "¥8.00",
+            "98包野果": "¥98.00",
+            "698包野果": "¥698.00",
+            "12包野果": "¥15.00",
+            "30包野果": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747196826307,
