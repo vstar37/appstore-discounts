@@ -28572,9 +28572,19 @@
     "minPriceInfo": {
       "price": 109,
       "formattedPrice": "HK$ 109.00",
-      "Full Game Unlock": "HK$ 118.00"
+      "Full Game Unlock": "HK$ 109.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748954909168,
+          "price": 109,
+          "formattedPrice": "HK$ 109.00",
+          "inAppPurchases": {
+            "Full Game Unlock": "HK$ 109.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748829445713,

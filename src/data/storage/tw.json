@@ -26818,9 +26818,19 @@
     "minPriceInfo": {
       "price": 430,
       "formattedPrice": "$430.00",
-      "Full Game Unlock": "$490.00"
+      "Full Game Unlock": "$430.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748954909168,
+          "price": 430,
+          "formattedPrice": "$430.00",
+          "inAppPurchases": {
+            "Full Game Unlock": "$430.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748829445713,
