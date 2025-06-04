@@ -21618,6 +21618,16 @@
     "history": [
       [
         {
+          "timestamp": 1749041350233,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748750380698,
           "price": 6.99,
           "formattedPrice": "$6.99",
