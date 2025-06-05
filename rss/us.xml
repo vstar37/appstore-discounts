@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-05T04:33:17.978Z</updated>
+    <updated>2025-06-05T10:29:17.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,69 +21,71 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T04:33:17.979Z</updated>
+        <updated>2025-06-05T10:29:17.125Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
-        <id>Goodnotes 6: AI Notes &amp; Docs-1749097836269</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
-        <updated>2025-06-05T04:30:36.269Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/0c/a3/fd0ca380-9fd6-35e0-c15c-c03ca0d36636/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
+        <title type="html"><![CDATA[Hitman: Blood Money — Reprisal]]></title>
+        <id>Hitman: Blood Money — Reprisal-1749119171194</id>
+        <link href="https://apps.apple.com/us/app/hitman-blood-money-reprisal/id1631331207?uo=4"/>
+        <updated>2025-06-05T10:26:11.194Z</updated>
+        <summary type="html"><![CDATA[Price: $14.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hitman-blood-money-reprisal/id1631331207?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/49/98/744998b0-ed9b-3b3d-55e2-3d757fb31546/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$14.99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  PLAY THE FIRST MISSION FOR FREE
+Begin your killer career with the first of Blood Money’s massively replayable sandbox missions, then unlock the complete game with a single in-app purchase.
 
-Boost Professional Efficiency and Productivity
-• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
-• Import, annotate, and organize PDFs, documents, and meeting notes.
-• Transcribe audio recordings from meetings so you never miss a detail.
-• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
-• Export and share notes via email, print, PDF, or images for easy collaboration.
-• Send files directly to your unique Goodnotes email for quick access on all devices.
-• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
-• Convert handwriting to text for quick and clean professional notes.
-• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
+===
 
-Powerful Digital Notes and Study Tools
-• Use AI-powered study tools help you learn faster and retain more information.
-• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
-• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
-• Convert equations to LaTeX format for easy use in reports and presentations.
-• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
-• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
-• Collaborate in real time with classmates by working on the same document for group projects and study sessions
-• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
+You are Agent 47 — a trained killer caught in the crosshairs of a rival agency, “The Franchise”.
 
-Enhance Creative Digital Planning
-• Design fully customizable notebooks, templates, and covers to fit your style.
-• Mix handwriting, text, stickers, images, and drawings in a single notebook.
-• Stay focused with Smart Timer, and boost your productivity.
-• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
-• Organize your notes with unlimited folders and advanced search.
-• Get exclusive monthly downloads every month with a paid subscription.
-• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
+Embark on an daring mission to take out a shadowy conspiracy’s lethal architects, and employ every tool at your disposal to get the job done while keeping a low profile. Infiltrate, execute, and escape undetected.
 
-Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+Featuring gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic — complete with a fully customisable touchscreen interface and full gamepad support.
 
-Website: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp 
+EXECUTION IS EVERYTHING
+Become a master of disguise, ingenuity and improvisation. With multiple ways to approach each objective, Blood Money’s sandbox missions encourage experimentation, creativity, and repeat playthroughs.
 
-Privacy policy: https://www.goodnotes.com/privacy-policy 
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
+THE ULTIMATE PROFESSIONAL
+Hit hard with an arsenal of upgradable weapons. Perform silent, witness-free kills, or manipulate the environment to engineer tragic “accidents”. The cleaner the hit, the better the payoff.
+ 
+INTRODUCING INSTINCT MODE
+The devil is in the details. Inspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways — the hallmarks of a professional assassin.
+
+ONE STEP AHEAD
+An all-new minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.
+
+COMPLETE CONTROL
+Tailor the touchscreen controls, connect a gamepad, or utilise full keyboard and mouse support. Whatever your playstyle, complete control is always at your fingertips.
+
+===
+
+We recommend playing Hitman: Blood Money — Reprisal on iOS 16 or later. You need 3.9GB of free space on your device, though we recommend at least double this to avoid initial installation issues.
+
+Supported iPhones:
+
+ • iPhone 8 Plus and later
+ • iPhone SE 2 (2020) and later
+
+Supported iPads:
+
+ • iPad mini 5 (2019) and later
+ • iPad Air 3 (2019) and later
+ • iPad 7 (2019) and later
+ • iPad Pro 1st gen (2015), 12.9" model only
+ • iPad Pro 2nd gen (2017) and later
+
+• If you require assistance, please contact our support team at support@feralinteractive.com
+
+Hitman: Blood Money © 2000-2025 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/4f/95/294f9572-3928-bdd5-f0fd-8e1918316394/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/d0/f2/aad0f209-9d41-a7c0-dbec-ee252810452e/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/40/70/ac407031-ec30-823f-a554-7499fa3aa0dc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/c1/ff/4cc1ff98-ca00-792d-2f26-90e100132c5d/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/cd/0e/8bcd0ef8-2cc2-2daa-110b-0ae6f224dffc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4b/7a/dd4b7af6-b586-c9b5-c761-baab60c9fcc3/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/2a/03/9f2a035c-c999-3216-0589-3dadf4807507/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/4b/fc/a94bfc7a-4f7e-a586-f38c-416816565ebb/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/ac/81/f3ac819a-5ebc-db46-1894-f8627305d54f/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/cd/2b/83cd2b55-17eb-716e-7ddd-bece478dda8a/02fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4f/37/584f37f1-368b-2967-bef3-6b3fc05a4bff/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3c/3c/e73c3c19-2348-6f44-5555-15fc6b5976e6/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/15/66/99156664-b1d2-0f4f-ecbc-37a9c5ad25f7/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/d0/50/33d05017-ac77-46f0-ded7-2cfea7e2cdd4/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a4/35/34a435bb-70d2-6206-10b0-ec40cd3ba0b3/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f1/5c/37f15c26-673c-41b6-dbc1-479ac5bf70b9/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c7/c3/10c7c34d-0f63-192d-ccba-0c6ee6c05c12/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/f9/17/45f91781-a1af-1545-afb9-0ecace1ebece/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/c9/cb/9ac9cb8a-e7d4-a308-5b58-fb3230bc6f8f/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/cc/f2/b4ccf2e4-ea61-d753-e53b-bebede9b19ff/fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

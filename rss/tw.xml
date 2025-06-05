@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-06-04T12:52:18.141Z</updated>
+    <updated>2025-06-05T10:29:17.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,71 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-04T12:52:18.141Z</updated>
+        <updated>2025-06-05T10:29:17.124Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1749041350233</id>
-        <link href="https://apps.apple.com/tw/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-06-04T12:49:10.233Z</updated>
-        <summary type="html"><![CDATA[价格: $220.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Hitman: Blood Money — Reprisal]]></title>
+        <id>Hitman: Blood Money — Reprisal-1749119171194</id>
+        <link href="https://apps.apple.com/tw/app/hitman-blood-money-reprisal/id1631331207?uo=4"/>
+        <updated>2025-06-05T10:26:11.194Z</updated>
+        <summary type="html"><![CDATA[价格: $430.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/hitman-blood-money-reprisal/id1631331207?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/49/98/744998b0-ed9b-3b3d-55e2-3d757fb31546/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>$220.00</span> → <b>
+  优惠信息（价格：<span>$430.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  PLAY THE FIRST MISSION FOR FREE
+Begin your killer career with the first of Blood Money’s massively replayable sandbox missions, then unlock the complete game with a single in-app purchase.
 
-Juice Watch is a simple app designed to do two things well:
+===
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+You are Agent 47 — a trained killer caught in the crosshairs of a rival agency, “The Franchise”.
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+Embark on an daring mission to take out a shadowy conspiracy’s lethal architects, and employ every tool at your disposal to get the job done while keeping a low profile. Infiltrate, execute, and escape undetected.
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+Featuring gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic — complete with a fully customisable touchscreen interface and full gamepad support.
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+EXECUTION IS EVERYTHING
+Become a master of disguise, ingenuity and improvisation. With multiple ways to approach each objective, Blood Money’s sandbox missions encourage experimentation, creativity, and repeat playthroughs.
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+THE ULTIMATE PROFESSIONAL
+Hit hard with an arsenal of upgradable weapons. Perform silent, witness-free kills, or manipulate the environment to engineer tragic “accidents”. The cleaner the hit, the better the payoff.
+ 
+INTRODUCING INSTINCT MODE
+The devil is in the details. Inspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways — the hallmarks of a professional assassin.
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+ONE STEP AHEAD
+An all-new minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+COMPLETE CONTROL
+Tailor the touchscreen controls, connect a gamepad, or utilise full keyboard and mouse support. Whatever your playstyle, complete control is always at your fingertips.
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+===
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+We recommend playing Hitman: Blood Money — Reprisal on iOS 16 or later. You need 3.9GB of free space on your device, though we recommend at least double this to avoid initial installation issues.
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+Supported iPhones:
+
+ • iPhone 8 Plus and later
+ • iPhone SE 2 (2020) and later
+
+Supported iPads:
+
+ • iPad mini 5 (2019) and later
+ • iPad Air 3 (2019) and later
+ • iPad 7 (2019) and later
+ • iPad Pro 1st gen (2015), 12.9" model only
+ • iPad Pro 2nd gen (2017) and later
+
+• If you require assistance, please contact our support team at support@feralinteractive.com
+
+Hitman: Blood Money © 2000-2025 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/4f/95/294f9572-3928-bdd5-f0fd-8e1918316394/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/d0/f2/aad0f209-9d41-a7c0-dbec-ee252810452e/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/40/70/ac407031-ec30-823f-a554-7499fa3aa0dc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/c1/ff/4cc1ff98-ca00-792d-2f26-90e100132c5d/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/cd/0e/8bcd0ef8-2cc2-2daa-110b-0ae6f224dffc/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4b/7a/dd4b7af6-b586-c9b5-c761-baab60c9fcc3/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/2a/03/9f2a035c-c999-3216-0589-3dadf4807507/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/4b/fc/a94bfc7a-4f7e-a586-f38c-416816565ebb/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/ac/81/f3ac819a-5ebc-db46-1894-f8627305d54f/002fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/cd/2b/83cd2b55-17eb-716e-7ddd-bece478dda8a/02fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/4f/37/584f37f1-368b-2967-bef3-6b3fc05a4bff/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3c/3c/e73c3c19-2348-6f44-5555-15fc6b5976e6/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/15/66/99156664-b1d2-0f4f-ecbc-37a9c5ad25f7/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/d0/50/33d05017-ac77-46f0-ded7-2cfea7e2cdd4/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a4/35/34a435bb-70d2-6206-10b0-ec40cd3ba0b3/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f1/5c/37f15c26-673c-41b6-dbc1-479ac5bf70b9/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/c7/c3/10c7c34d-0f63-192d-ccba-0c6ee6c05c12/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/f9/17/45f91781-a1af-1545-afb9-0ecace1ebece/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/c9/cb/9ac9cb8a-e7d4-a308-5b58-fb3230bc6f8f/2fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/cc/f2/b4ccf2e4-ea61-d753-e53b-bebede9b19ff/fhitmanbloodmoney_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
