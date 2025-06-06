@@ -131,6 +131,25 @@
     "history": [
       [
         {
+          "timestamp": 1749184212656,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "免广告会员十二个月": "¥12.00",
+            "连续包季": "¥72.00",
+            "1香蕉贝": "¥1.00",
+            "连续包年": "¥273.00",
+            "基础会员12个月（活动）": "¥98.00",
+            "128香蕉贝": "¥128.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749130477385,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -9973,6 +9992,22 @@
     "history": [
       [
         {
+          "timestamp": 1749184212656,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "訂閱 (1 年)": "¥618.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748968253939,
           "price": 0,
           "formattedPrice": "免费",
@@ -13297,6 +13332,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749184212656,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "60 C.COIN": "¥6.00",
+            "1030 C.COIN": "¥98.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
         {
           "timestamp": 1749174744143,
           "price": 0,
