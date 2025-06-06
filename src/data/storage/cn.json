@@ -10972,6 +10972,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219741932,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748614960092,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -11145,6 +11153,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219741932,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748614960092,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -11300,6 +11316,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219741932,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748614960092,
@@ -12307,6 +12331,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219741932,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748614960092,
@@ -18431,6 +18463,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219741932,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748614960092,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -21533,6 +21573,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219741932,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748614960092,
@@ -28040,6 +28088,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219741932,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748614960092,
