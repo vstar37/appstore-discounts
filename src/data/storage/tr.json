@@ -8810,6 +8810,25 @@
     "history": [
       [
         {
+          "timestamp": 1749348135851,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Endless Pirouette": "₺249,99",
+            "Muse Radio FM101": "₺179,99",
+            "MSR Anthology_Vol.02": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "unlockall_7": "₺499,99",
+            "MSR Anthology": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749150952258,
           "price": 129.99,
           "formattedPrice": "₺129,99",
