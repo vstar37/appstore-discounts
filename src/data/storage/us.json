@@ -18058,7 +18058,14 @@
       "Dark Academia Daily Journal": "$7.99",
       "Digital Travel Planner - Color": "$6.99",
       "Digital Recipe Book - Colorful": "$8.99",
-      "Step-by-Step Korean Handwritin": "$9.99"
+      "Step-by-Step Korean Handwritin": "$9.99",
+      "Paper Texture 2025-2026 Mid-ye": "$10.99",
+      "Digital Travel Planner, Summer": "$7.99",
+      "Pink 2025-2026 Mid Year Planne": "$10.99",
+      "Mocha 2025-2026 Mid Year Plann": "$10.99",
+      "Smart 2025-2026 Mid-year Plann": "$10.99",
+      "2025-2026 Classic Life-Work Di": "$10.99",
+      "2025-2026 Pastel Pro Planner (": "$10.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18170,9 +18177,32 @@
       "Dark Academia Daily Journal": "$7.99",
       "Digital Travel Planner - Color": "$6.99",
       "Digital Recipe Book - Colorful": "$8.99",
-      "Step-by-Step Korean Handwritin": "$9.99"
+      "Step-by-Step Korean Handwritin": "$9.99",
+      "Paper Texture 2025-2026 Mid-ye": "$10.99",
+      "Digital Travel Planner, Summer": "$7.99",
+      "Pink 2025-2026 Mid Year Planne": "$10.99",
+      "Mocha 2025-2026 Mid Year Plann": "$10.99",
+      "Smart 2025-2026 Mid-year Plann": "$10.99",
+      "2025-2026 Classic Life-Work Di": "$10.99",
+      "2025-2026 Pastel Pro Planner (": "$10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749396221972,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Paper Texture 2025-2026 Mid-ye": "$10.99",
+            "Digital Travel Planner, Summer": "$7.99",
+            "Pink 2025-2026 Mid Year Planne": "$10.99",
+            "Mocha 2025-2026 Mid Year Plann": "$10.99",
+            "Smart 2025-2026 Mid-year Plann": "$10.99",
+            "2025-2026 Classic Life-Work Di": "$10.99",
+            "2025-2026 Pastel Pro Planner (": "$10.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749184212656,
