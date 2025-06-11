@@ -2372,6 +2372,21 @@
     "history": [
       [
         {
+          "timestamp": 1749651729322,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748614960092,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -8195,6 +8210,14 @@
     "history": [
       [
         {
+          "timestamp": 1749651729322,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1746800478870,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -11182,10 +11205,18 @@
       "formattedPrice": "HK$ 228.00"
     },
     "minPriceInfo": {
-      "price": 228,
-      "formattedPrice": "HK$ 228.00"
+      "price": 199,
+      "formattedPrice": "HK$ 199.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651729322,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -20090,10 +20121,18 @@
       "formattedPrice": "HK$ 428.00"
     },
     "minPriceInfo": {
-      "price": 428,
-      "formattedPrice": "HK$ 428.00"
+      "price": 279,
+      "formattedPrice": "HK$ 279.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651729322,
+          "price": 279,
+          "formattedPrice": "HK$ 279.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -24256,6 +24295,16 @@
       "Value for Value": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749651729322,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749559737035,
