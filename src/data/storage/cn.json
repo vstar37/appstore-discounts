@@ -10075,6 +10075,20 @@
     "history": [
       [
         {
+          "timestamp": 1749616293463,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "訂閱 (1 年)": "¥618.00"
+          }
+        },
+        {
           "timestamp": 1749594110134,
           "price": 0,
           "formattedPrice": "免费",
@@ -12147,6 +12161,19 @@
     "history": [
       [
         {
+          "timestamp": 1749616293463,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO yearly subscription": "¥228.00",
+            "Lifetime license": "¥328.00",
+            "Monthly Subscription": "¥35.00",
+            "Yearly Subscription": "¥138.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746627787690,
           "price": 0,
           "formattedPrice": "免费",
@@ -13498,6 +13525,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749616293463,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "60 C.COIN": "¥6.00",
+            "1030 C.COIN": "¥98.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
         {
           "timestamp": 1749583074690,
           "price": 0,
