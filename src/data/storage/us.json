@@ -18210,7 +18210,10 @@
       "Mocha 2025-2026 Mid Year Plann": "$10.99",
       "Smart 2025-2026 Mid-year Plann": "$10.99",
       "2025-2026 Classic Life-Work Di": "$10.99",
-      "2025-2026 Pastel Pro Planner (": "$10.99"
+      "2025-2026 Pastel Pro Planner (": "$10.99",
+      "Minimalist Smart Student Plann": "$11.99",
+      "Handwritten 2025-2026 Mid-year": "$10.99",
+      "Medical Student Planner - 2025": "$11.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18329,10 +18332,24 @@
       "Mocha 2025-2026 Mid Year Plann": "$10.99",
       "Smart 2025-2026 Mid-year Plann": "$10.99",
       "2025-2026 Classic Life-Work Di": "$10.99",
-      "2025-2026 Pastel Pro Planner (": "$10.99"
+      "2025-2026 Pastel Pro Planner (": "$10.99",
+      "Minimalist Smart Student Plann": "$11.99",
+      "Handwritten 2025-2026 Mid-year": "$10.99",
+      "Medical Student Planner - 2025": "$11.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1749813568453,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Smart 2025-2026 Mid-year Plann": "$10.99",
+            "Minimalist Smart Student Plann": "$11.99",
+            "Handwritten 2025-2026 Mid-year": "$10.99",
+            "Medical Student Planner - 2025": "$11.99"
+          }
+        },
         {
           "timestamp": 1749792139818,
           "price": 0,
