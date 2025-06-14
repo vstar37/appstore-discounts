@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-13T16:31:01.018Z</updated>
+    <updated>2025-06-14T17:21:18.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-13T16:31:01.018Z</updated>
+        <updated>2025-06-14T17:21:18.633Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,17 +29,19 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1749832138106</id>
+        <id>Juice Watch-1749921490522</id>
         <link href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-06-13T16:28:58.106Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → 免費]]></summary>
+        <updated>2025-06-14T17:18:10.522Z</updated>
+        <summary type="html"><![CDATA[Value for Value: HK$ 58.00 → HK$ 8.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Value for Value：</strong><span>HK$ 58.00</span> → <b>
+  <strong>HK$ 8.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
   Monitor your iPhone battery level from your wrist.
 
 Juice Watch is a simple app designed to do two things well:
