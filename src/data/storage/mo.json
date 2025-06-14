@@ -1958,6 +1958,21 @@
     "history": [
       [
         {
+          "timestamp": 1749910735740,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749651729322,
           "price": 0,
           "formattedPrice": "免費",
@@ -4447,6 +4462,16 @@
       "移除廣告": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749910735740,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747491517471,
