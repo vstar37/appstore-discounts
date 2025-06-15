@@ -12888,6 +12888,23 @@
     "history": [
       [
         {
+          "timestamp": 1750019012871,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        },
+        {
           "timestamp": 1750015049329,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -13741,6 +13758,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750019012871,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "cyTus": "$190.00",
+            "新手上路包": "$33.00",
+            "MSR特選曲目組合包": "$190.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00"
+          }
+        },
         {
           "timestamp": 1750015049329,
           "price": 100,
