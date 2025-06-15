@@ -8731,6 +8731,21 @@
     "history": [
       [
         {
+          "timestamp": 1749961901168,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99",
+            "Supreme Package": "$4.99",
+            "Advanced Package": "$2.99",
+            "Starter Package": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746582610879,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -18371,6 +18386,22 @@
       "Medical Student Planner - 2025": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749961901168,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749939649906,
