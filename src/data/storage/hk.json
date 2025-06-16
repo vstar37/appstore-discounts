@@ -8112,6 +8112,19 @@
     "history": [
       [
         {
+          "timestamp": 1750105542319,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "HK$ 0.00",
+            "Пакет поддержки русского языка": "HK$ 0.00",
+            "Polski pakiet językowy": "HK$ 0.00",
+            "Paquete para el idioma español": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748525569268,
           "price": 199,
           "formattedPrice": "HK$ 199.00",

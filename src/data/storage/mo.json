@@ -5353,6 +5353,19 @@
     "history": [
       [
         {
+          "timestamp": 1750105542319,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "USD 0.00",
+            "Пакет поддержки русского языка": "USD 0.00",
+            "Paquete para el idioma español": "USD 0.00",
+            "Polski pakiet językowy": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1725636889563,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
