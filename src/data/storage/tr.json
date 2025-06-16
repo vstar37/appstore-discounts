@@ -3113,6 +3113,16 @@
     "history": [
       [
         {
+          "timestamp": 1750072806383,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove advertisement": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749943374763,
           "price": 229.99,
           "formattedPrice": "₺229,99",
