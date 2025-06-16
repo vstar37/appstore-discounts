@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-15T04:35:03.242Z</updated>
+    <updated>2025-06-16T06:37:16.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,68 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-15T04:35:03.243Z</updated>
+        <updated>2025-06-16T06:37:16.086Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1749961901168</id>
-        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-06-15T04:31:41.168Z</updated>
-        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥233.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/4f/34/1a4f34ce-c8a0-d6ed-740c-492e753c167c/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>¥253.00</span> → <b>
-  <strong>¥233.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
+        <id>Card.Note - 多彩卡片笔记-1750055729110</id>
+        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
+        <updated>2025-06-16T06:35:29.110Z</updated>
+        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bd/ea/39/bdea39a5-04ae-3694-52b7-e7564c9e9ed5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥1.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  「Card.Note」：每个念头都值得用心记录
 
-“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+这是一款以卡片为主要设计理念的极简记事 App 。
+你写的每一段文字都可以生成一张张精美的卡片 。
 
-“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+你可以用它来写诗、短文、随想； 
+也可以用它来写日记、清单、规划、要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
 
-“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
+「Card.Note」九大特点：
 
-为什么选择 DAY ONE？
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
 
-Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
+2.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
 
-易于使用，让您爱不释手
+3.全局手势化
+下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
 
-• 备受赞誉的美观设计
-• 无限的文本日记条目
-• 无限量照片和视频*
-•功能强大的富文本格式，带有 Markdown 功能
-• 不同的日记类型适用于记录您生活的方方面面*
+4.语音录入
+打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
 
-私密且安全
+5.要事提醒：
+可设置提醒闹种，重要事情和计划不再错失。
 
-• 自动备份可确保日记条目的安全性
-• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
-•日记条目使用密码或 TouchID 来保证安全性
-•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+6.快捷高效
+支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
 
-养成习惯并坚持下去
+7.文青定制
+精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
 
-•可编程的提醒通知
-• 独特的每日日记提示功能有助于避免日记中断
-•可自定义的模板可节省时间，并可向日记条目中添加组织
-• 通过今日视图，您可以大致了解您去过哪里，做了什么
+8.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
 
-随时随地写日记
+9.深色模式
+全局适配深色模式，视觉舒适不刺眼。
 
-• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
-• 能够直接向您的日记发送文本或电子邮件条目
+感谢下载，生活愉快。
 
-专为记录回忆而生
-
-• 那年今日功能让您可以回顾过去的回忆
-• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
-• 地图视图可快速显示您在日记中记录的所有地点
-
-*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
-
-隐私政策：https://dayoneapp.com/privacy-policy/
-
-使用条款：https://dayoneapp.com/terms-of-use/
-
-如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+如有问题或建议，请联系开发者
+微博：PoPoem开发者
+邮箱：yande18@126.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
