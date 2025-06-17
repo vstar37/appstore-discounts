@@ -7462,6 +7462,21 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "$0.00",
+            "Paquete para el idioma español": "$0.00",
+            "Arabic language pack": "$0.00",
+            "Пакет поддержки русского языка": "$0.00",
+            "Pacchetto lingua italiana": "$0.00",
+            "Polski pakiet językowy": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750105542319,
           "price": 29.99,
           "formattedPrice": "$29.99",
@@ -10710,6 +10725,25 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "私信付费1元": "$0.99",
+            "私信付费8元": "$0.99",
+            "私信付费6元": "$0.99",
+            "私信付费3元": "$0.99",
+            "998元": "$149.99",
+            "618元": "$94.99",
+            "488元": "$74.99",
+            "218元": "$31.99",
+            "118元": "$17.99",
+            "50元": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750101464731,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -12367,6 +12401,25 @@
       "获取不限字数的信纸": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纸短情长-纸质信纸尊享版": "$19.99",
+            "纸短情长-纸质信纸普通版": "$4.99",
+            "时间胶囊-永久去广告": "$0.99",
+            "时间胶囊-年度超级会员": "$2.99",
+            "纸短情长-纸质信纸升级版": "$9.99",
+            "时间胶囊-月度超级会员服务": "$0.99",
+            "时间胶囊超级会员": "$5.99",
+            "给你的Ta寄一封三行情书": "$0.99",
+            "给未来寄一封带照片的信": "$0.99",
+            "获取不限字数的信纸": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750101464731,
@@ -23591,6 +23644,20 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "6包野果": "$0.99",
+            "698包野果": "$96.99",
+            "98包野果": "$14.99",
+            "30包野果": "$4.99",
+            "12包野果": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750101464731,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -24439,8 +24506,8 @@
   "1558391784": {
     "name": "Filebar - media player",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 7.99,
+      "formattedPrice": "$7.99",
       "Fileball Pro Lifetime": "$9.99",
       "Filebar Pro Lifetime": "$9.99"
     },
@@ -24451,6 +24518,16 @@
       "Filebar Pro Lifetime": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746501001353,
@@ -25404,6 +25481,19 @@
       "黄鸭证件照1元": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750101464731,

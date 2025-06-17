@@ -8112,6 +8112,19 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "HK$ 0.00",
+            "Пакет поддержки русского языка": "HK$ 0.00",
+            "Pacchetto lingua italiana": "HK$ 0.00",
+            "Polski pakiet językowy": "HK$ 0.00",
+            "Paquete para el idioma español": "HK$ 0.00",
+            "Arabic language pack": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1750105542319,
           "price": 199,
           "formattedPrice": "HK$ 199.00",
@@ -11478,6 +11491,23 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "私信付费1元": "HK$ 8.00",
+            "私信付费8元": "HK$ 8.00",
+            "私信付费6元": "HK$ 8.00",
+            "私信付费3元": "HK$ 8.00",
+            "998元": "HK$ 1,188.00",
+            "618元": "HK$ 688.00",
+            "488元": "HK$ 588.00",
+            "218元": "HK$ 268.00",
+            "118元": "HK$ 148.00",
+            "50元": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1750101464731,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -13719,6 +13749,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152356934,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "时间胶囊-年度超级会员": "HK$ 22.00",
+            "时间胶囊-月度超级会员服务": "HK$ 8.00",
+            "纸短情长-纸质信纸尊享版": "HK$ 148.00",
+            "纸短情长-纸质信纸普通版": "HK$ 38.00",
+            "时间胶囊-永久去广告": "HK$ 8.00",
+            "纸短情长-纸质信纸升级版": "HK$ 88.00",
+            "时间胶囊超级会员": "HK$ 48.00",
+            "给你的Ta寄一封三行情书": "HK$ 8.00",
+            "给未来寄一封带照片的信": "HK$ 8.00",
+            "获取不限字数的信纸": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1750101464731,
           "price": 0,
@@ -25836,6 +25883,18 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "698包野果": "HK$ 788.00",
+            "98包野果": "HK$ 118.00",
+            "30包野果": "HK$ 38.00",
+            "12包野果": "HK$ 18.00",
+            "6包野果": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1750101464731,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -26664,8 +26723,8 @@
   "1558391784": {
     "name": "Filebar",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免費",
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
       "Fileball Pro Lifetime": "HK$ 88.00",
       "Filebar Pro Lifetime": "HK$ 88.00"
     },
@@ -26676,6 +26735,16 @@
       "Filebar Pro Lifetime": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746454972020,
@@ -27622,6 +27691,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152356934,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "HK$ 18.00",
+            "黄鸭证件照3元": "HK$ 8.00",
+            "黄鸭证件照-周度会员": "HK$ 8.00",
+            "黄鸭证件照1元": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1750101464731,
           "price": 8,

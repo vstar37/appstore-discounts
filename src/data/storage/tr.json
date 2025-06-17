@@ -4580,6 +4580,21 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 829,
+          "formattedPrice": "₺829,00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "₺0,00",
+            "Arabic language pack": "₺0,00",
+            "Пакет поддержки русского языка": "₺0,00",
+            "Pacchetto lingua italiana": "₺0,00",
+            "Paquete para el idioma español": "₺0,00",
+            "Polski pakiet językowy": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750105542319,
           "price": 829,
           "formattedPrice": "₺829,00",
@@ -7575,6 +7590,25 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "私信付费1元": "₺39,99",
+            "私信付费8元": "₺39,99",
+            "私信付费6元": "₺39,99",
+            "私信付费3元": "₺39,99",
+            "998元": "₺6.999,99",
+            "618元": "₺3.999,99",
+            "488元": "₺3.499,99",
+            "218元": "₺1.499,99",
+            "118元": "₺799,99",
+            "50元": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750101464731,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -8869,6 +8903,25 @@
       "获取不限字数的信纸": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纸短情长-纸质信纸尊享版": "₺899,99",
+            "纸短情长-纸质信纸普通版": "₺229,99",
+            "时间胶囊-永久去广告": "₺39,99",
+            "时间胶囊-年度超级会员": "₺99,99",
+            "纸短情长-纸质信纸升级版": "₺449,99",
+            "时间胶囊-月度超级会员服务": "₺5,49",
+            "时间胶囊超级会员": "₺249,99",
+            "给你的Ta寄一封三行情书": "₺4,99",
+            "给未来寄一封带照片的信": "₺4,99",
+            "获取不限字数的信纸": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750101464731,
@@ -14026,6 +14079,20 @@
     "history": [
       [
         {
+          "timestamp": 1750152356934,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "698包野果": "₺3.999,99",
+            "98包野果": "₺699,99",
+            "30包野果": "₺229,99",
+            "12包野果": "₺99,99",
+            "6包野果": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750101464731,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -14761,8 +14828,8 @@
   "1558391784": {
     "name": "Filebar - media player",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free",
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
       "Fileball Pro Lifetime": "₺449,99",
       "Filebar Pro Lifetime": "₺449,99"
     },
@@ -14773,6 +14840,16 @@
       "Filebar Pro Lifetime": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746487248743,
@@ -15623,6 +15700,19 @@
       "黄鸭证件照3元": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750152356934,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "₺99,99",
+            "黄鸭证件照-周度会员": "₺19,99",
+            "黄鸭证件照1元": "₺4,99",
+            "黄鸭证件照3元": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750101464731,
