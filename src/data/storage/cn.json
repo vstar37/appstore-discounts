@@ -12011,6 +12011,25 @@
     "history": [
       [
         {
+          "timestamp": 1750256611338,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "128财富币": "¥128.00",
+            "88财富币": "¥88.00",
+            "198财富币": "¥198.00",
+            "168财富币": "¥168.00",
+            "1998财富币": "¥1,998.00",
+            "1598财富币": "¥1,598.00",
+            "898财富币": "¥898.00",
+            "418财富币": "¥418.00",
+            "98财富币": "¥98.00",
+            "998财富币": "¥998.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750149083394,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -23743,6 +23762,16 @@
     "history": [
       [
         {
+          "timestamp": 1750256611338,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750164549546,
           "price": 0,
           "formattedPrice": "免费",
@@ -25564,6 +25593,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750256611338,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747750951297,
