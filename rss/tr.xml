@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-18T12:51:01.485Z</updated>
+    <updated>2025-06-18T23:24:20.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,64 +21,34 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-18T12:51:01.485Z</updated>
+        <updated>2025-06-18T23:24:20.113Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filebar - media player]]></title>
-        <id>Filebar - media player-1750250949767</id>
-        <link href="https://apps.apple.com/tr/app/filebar-media-player/id1558391784?uo=4"/>
-        <updated>2025-06-18T12:49:09.767Z</updated>
-        <summary type="html"><![CDATA[Price: ₺349,99 → Free<br/>Filebar Pro Lifetime: ₺449,99 → ₺299,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/filebar-media-player/id1558391784?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/79/e6/9479e699-87ef-1285-ac81-b9c11e6294df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[where I put it]]></title>
+        <id>where I put it-1750288880600</id>
+        <link href="https://apps.apple.com/tr/app/where-i-put-it/id1538124245?uo=4"/>
+        <updated>2025-06-18T23:21:20.600Z</updated>
+        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/where-i-put-it/id1538124245?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺349,99</span> → <b>
+  Discount Information（Price：<span>₺39,99</span> → <b>
   <strong>Free</strong>
 </b>）
-</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Filebar Pro Lifetime：</strong><span>₺449,99</span> → <b>
-  <strong>₺299,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  # Filebar
+</h2><h2>Application Description</h2><p>
+  A simple cleanup management app that will quickly find your search!
 
-Filebar is a modern multimedia player that offers video player, music player, cloud services and file management features.
+Do you have trouble Looking for items?
 
-## Main features
+Find your item quickly with "where I put it”!
 
+Build a house, make furniture, assign lockers, and put all your belongings.
 
-### Video player
-
-Filebar offers a powerful video player that allows you to play more video formats, including standard MP4, M4V and MOV, plus MKV, AVI, WMV, FLV, OMG, OGV, 3GP, RMVB and more. You can browse and play videos from your mac, pc, NAS, FTP, and also support playing videos from media servers (such as Emby/Plex/Jellyfin media server), and you can also play videos from cloud services.
-
-
-### Music Player
-
-Filebar provides a nice local music player for playing local and cloud music, supported audio formats are MP3/M4A/FLAC.
-
-
-### Cloud Services
-
-Cloud services are another core feature of Filebar. With Filebar you can easily manage cloud services, including creating folders/deleting/playing/batch renaming/viewing information. It also provides support for remote protocols. The supported protocols are SMB, WebDAV, Synology, FTP, SFTP.
-
-
-### File Management
-
-Filebar also provides a file manager. You can manage your local and remote files: move, delete, edit, copy, upload, batch rename, etc.
-
-
-## Customer Support
-
-Feel free to contact us if your have any suggestions or ideas.
-
-- Website: https://fileball.app
-- Email: filebox.app@outlook.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2b/8c/7a/2b8c7a46-22d9-5bda-305f-96ad1f0d842b/ac90f6c7-b463-4cca-b04d-ed27ee7d82e9_iPhone_SE_3_-EN-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e8/0c/da/e80cdac6-7093-3f1a-8ae0-7e3c580214bb/6128abcb-1d99-4ff5-85fb-c36b5465ce33_iPhone_SE_3_-EN-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/90/cc/b0/90ccb04f-d938-c5f2-e9b6-abb367b438ef/e06dfa4e-16a6-4919-8ab0-17a2293c9d19_iPhone_SE_3_-EN-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/89/3c/7d893cff-4e17-1b09-92d9-efeabae58f44/cfdc3ca6-c232-464c-b5cb-6670ca4d7d53_iPhone_SE_3_-EN-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/2e/f8/ec2ef871-1e8f-dd60-f534-317ce6683809/9547092e-9fe8-45a8-a9f0-4206072e10cf_iPhone_SE_3_-EN-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/32/46/88324667-b9fe-a031-f44f-1921bc9ccd7e/c10ff563-a6e1-4a46-9b5f-b0525da9f2db_iPhone_SE_3_-EN-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/d8/a3/fcd8a39c-fae8-ec29-15d3-32c2b782ff52/f5ec177d-9fdf-43ed-b6e8-792ceec70302_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.39.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/72/02/697202f0-4e59-acd6-0eea-54a9c58637f6/bd22a1fd-8a91-4609-aed2-921cfb69d21f_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.46.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b1/c3/a4b1c323-7719-7b49-689a-9332a6849263/8636cbcf-389c-4377-8aa1-c2d96a317e50_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.20.50.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/45/91/c2459188-0ea4-2b35-986e-cac4ef96f456/tns.worhvhql.png/552x414bb.png" />]]></content>
+Books, important collections, hobby tools, children's toys, seasonal clothes, and items of recollections, the app will help you organize all things in the house.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/87/8f/26/878f26d8-3bfb-7b34-8457-68288ebf9b11/d2d74057-d441-42e8-8efc-fc79ddaac276_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.23.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a0/df/e0/a0dfe0e6-ee65-146e-fa6b-819f60802753/04c60d7d-3382-46a7-be27-745568d59417_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.28.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e9/22/08/e9220813-b1e3-0e01-e596-2f207d32bc2c/3707644c-d15d-4cff-9c12-93c679b14ecf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/51/94/2c51948f-7ef9-3f30-232e-8891c994e540/a421d76e-fee2-44e6-92ba-ce1622cdb89c_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.34.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/60/ef/6160efb9-95e6-e0af-2031-2447d8c6f6a6/597bfdb4-ac27-4999-91a1-e6af596a1031_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.14.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/91/a7/c6/91a7c603-041c-b79b-add0-d131009c1e48/311e69c2-2197-4b8c-942a-5088f243807a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.08.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
