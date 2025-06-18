@@ -26168,6 +26168,16 @@
     "history": [
       [
         {
+          "timestamp": 1750250949767,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Filebar 高级版永久解锁": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 58,
           "formattedPrice": "¥58.00",

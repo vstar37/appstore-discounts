@@ -26827,6 +26827,16 @@
     "history": [
       [
         {
+          "timestamp": 1750250949767,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
