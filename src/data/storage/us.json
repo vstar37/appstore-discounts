@@ -8815,6 +8815,21 @@
     "history": [
       [
         {
+          "timestamp": 1750307451058,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99",
+            "Supreme Package": "$4.99",
+            "Advanced Package": "$2.99",
+            "Starter Package": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749964857882,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -12599,6 +12614,24 @@
       "Aquaria Cruising Guide": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750307451058,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750253738514,
