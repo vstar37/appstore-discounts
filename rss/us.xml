@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-19T03:22:18.115Z</updated>
+    <updated>2025-06-19T05:25:18.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,34 +21,69 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T03:22:18.116Z</updated>
+        <updated>2025-06-19T05:25:18.853Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[where I put it]]></title>
-        <id>where I put it-1750303170495</id>
-        <link href="https://apps.apple.com/us/app/where-i-put-it/id1538124245?uo=4"/>
-        <updated>2025-06-19T03:19:30.495Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/where-i-put-it/id1538124245?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  A simple cleanup management app that will quickly find your search!
+        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
+        <id>Goodnotes 6: AI Notes &amp; Docs-1750310545316</id>
+        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
+        <updated>2025-06-19T05:22:25.316Z</updated>
+        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/09/4a/11094ae1-4e30-2e62-ac84-599cb7b30f65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
 
-Do you have trouble Looking for items?
+Boost Professional Efficiency and Productivity
+• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
+• Import, annotate, and organize PDFs, documents, and meeting notes.
+• Transcribe audio recordings from meetings so you never miss a detail.
+• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
+• Export and share notes via email, print, PDF, or images for easy collaboration.
+• Send files directly to your unique Goodnotes email for quick access on all devices.
+• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
+• Convert handwriting to text for quick and clean professional notes.
+• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
 
-Find your item quickly with "where I put it”!
+Powerful Digital Notes and Study Tools
+• Use AI-powered study tools help you learn faster and retain more information.
+• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
+• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
+• Convert equations to LaTeX format for easy use in reports and presentations.
+• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
+• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
+• Collaborate in real time with classmates by working on the same document for group projects and study sessions
+• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
 
-Build a house, make furniture, assign lockers, and put all your belongings.
+Enhance Creative Digital Planning
+• Design fully customizable notebooks, templates, and covers to fit your style.
+• Mix handwriting, text, stickers, images, and drawings in a single notebook.
+• Stay focused with Smart Timer, and boost your productivity.
+• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
+• Organize your notes with unlimited folders and advanced search.
+• Get exclusive monthly downloads every month with a paid subscription.
+• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
 
-Books, important collections, hobby tools, children's toys, seasonal clothes, and items of recollections, the app will help you organize all things in the house.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/87/8f/26/878f26d8-3bfb-7b34-8457-68288ebf9b11/d2d74057-d441-42e8-8efc-fc79ddaac276_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.23.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a0/df/e0/a0dfe0e6-ee65-146e-fa6b-819f60802753/04c60d7d-3382-46a7-be27-745568d59417_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.28.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e9/22/08/e9220813-b1e3-0e01-e596-2f207d32bc2c/3707644c-d15d-4cff-9c12-93c679b14ecf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/51/94/2c51948f-7ef9-3f30-232e-8891c994e540/a421d76e-fee2-44e6-92ba-ce1622cdb89c_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.34.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/60/ef/6160efb9-95e6-e0af-2031-2447d8c6f6a6/597bfdb4-ac27-4999-91a1-e6af596a1031_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.14.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/91/a7/c6/91a7c603-041c-b79b-add0-d131009c1e48/311e69c2-2197-4b8c-942a-5088f243807a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.08.png/392x696bb.png" />]]></content>
+Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+
+Website: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp 
+
+Privacy policy: https://www.goodnotes.com/privacy-policy 
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p>]]></content>
     </entry>
 </feed>
