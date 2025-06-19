@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-19T01:58:17.120Z</updated>
+    <updated>2025-06-19T03:22:18.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,107 +21,34 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T01:58:17.120Z</updated>
+        <updated>2025-06-19T03:22:18.116Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
-        <id>FyTube - YouTube Without Ads-1750298119122</id>
-        <link href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4"/>
-        <updated>2025-06-19T01:55:19.122Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[where I put it]]></title>
+        <id>where I put it-1750303170495</id>
+        <link href="https://apps.apple.com/us/app/where-i-put-it/id1538124245?uo=4"/>
+        <updated>2025-06-19T03:19:30.495Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/where-i-put-it/id1538124245?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Our app connects to YouTube in real-time and lets you play any video with exclusive features designed just for you!
-Highlight Features:
-• Locked screen playback: Keep listening to your videos’ audio in the background.
-• Floating playback (PIP): Use other apps while watching your videos.
-• Sleep timer: Set an automatic shutdown and relax worry-free.
-• Loop mode: Play your favorite video on infinite repeat.
-It also includes:
-• Toggleable subtitles
-• Playback speed control
-• Quality selection and fullscreen mode
-• Smart search with real-time suggestions (predictive search)
-• Upload date filters: Day, week, month, or year
-FyTube is perfect for those who don’t want to miss a single video about their favorite topics.
-Explore, play, and enjoy your favorite content to the fullest — interruption-free!
+  A simple cleanup management app that will quickly find your search!
 
-SPECIAL FEATURES
-FLOATING PLAYBACK
-Never stop watching! With this feature, you can keep watching your videos while using other apps .
-Just enter fullscreen mode and tap the PIP button — it’s the second icon at the top of the player.
-Your video will float on top of your screen no matter what app you open!
+Do you have trouble Looking for items?
 
-LOCKED SCREEN PLAYBACK
-Listen without interruptions!
-Keep enjoying your video’s audio even when your screen is off. Perfect for listening to music, podcasts, or your favorite tunes while driving or relaxing.
-How to activate it?
-Just lock your device screen. You’ll instantly see the background player.
-Tap Play — and that’s it! The audio will keep going without pauses.
+Find your item quickly with "where I put it”!
 
-SLEEP TIMER
-Fall asleep peacefully — your app will stop by itself!
-Enable this feature to automatically stop your videos after the time you choose. Perfect for sleeping or napping without worrying about stopping anything.
-How to activate it?
-Tap the timer button, choose how long you want it to run, and that’s it.
-Relax and let the app handle the rest!
+Build a house, make furniture, assign lockers, and put all your belongings.
 
-LOOP MODE
-Play your favorite video over and over again!
-Enable this feature to make the video repeat automatically as many times as you want.
-How to know if it’s on?
-The icon will turn red when active.
-(VoiceOver compatible: it will indicate whether it’s on or off.)
-Perfect for songs, meditations, or any content you love to repeat!
-
-Need help using these features? Visit: fydub.com/fytube
-
-BASIC FEATURES
-• Fullscreen high-quality video playback
-• Easy-to-use interface, friendly design
-• Skip forward or rewind anytime — never miss the best parts
-• Subtitle activation
-• Adjust playback speed to your preference
-• Change video quality
-• Smart search with real-time suggestions and upload date filters: day, week, month, year, all
-• Each video includes a related videos section to discover more interesting content
-• Discover the latest videos and stay up to date with the news
-• Our app connects directly to YouTube, letting you find any video
-• Enjoy content on any AirPlay-compatible device
-• VoiceOver compatible (enhanced descriptions)
-• No account required
-• We don’t store cache, cookies, or personal data without your permission — watch safely
-• Interface available in 29 languages
-• NO ADS, NO SUBSCRIPTIONS
-Get FyTube with a one-time payment and start a new streaming experience — ad-free and subscription-free.
-
-Minimum Requirements:
-• iOS 13 or later
-• 3G connection or higher
-
-Privacy Policy:
-https://fydub.com/privacy-policy_fytube
-Terms of Service:
-https://fydub.com/terms-of-service_fytube
-
-Keywords related to our app:
-youtube, youtube music, youtube vanced, ad blocker for YouTube, no subscription, skip ads on YouTube, music without ads, ad-free, YouTube app, adblocker for YouTube, block pop-ups, remove ads, block ads, adblock, content blocker, no ads, ad-free browser, block advertising, skip ads, ad-free music, YouTube without ads, videos without ads, etc.
-
-Have questions about how to use FyTube?
-Visit fydub.com/fytube or write to us — we’ll be happy to help. We reply to all emails: fytube@fydub.com
-
-FyTube works with YouTube.
-The YouTube name and logo are trademarks of Google, Inc. All rights reserved.
-© FyTube®
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2c/f7/b82cf72d-77a8-3f19-2bf0-f7d5b034ba2c/cf0a4645-e4c7-45bc-80be-ab665a8f6408_IMG2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d9/f3/b5d9f3b8-763d-3c2e-ce63-050eda16fa09/3899c162-1e28-45dd-bdf2-25d7db7b2f2d_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/09/0a/18090a8e-1e4b-e350-df19-1ca8bf25eb0c/b6243bbd-cf1f-4a6a-8282-268afbb1b5ae_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f8/01/baf801c9-a383-1ac2-0e01-9737d573d02d/d816a813-16bd-4c0c-9dae-b3007f5a0e15_imagen2-ok2.png/392x696bb.png" />]]></content>
+Books, important collections, hobby tools, children's toys, seasonal clothes, and items of recollections, the app will help you organize all things in the house.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/87/8f/26/878f26d8-3bfb-7b34-8457-68288ebf9b11/d2d74057-d441-42e8-8efc-fc79ddaac276_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.23.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a0/df/e0/a0dfe0e6-ee65-146e-fa6b-819f60802753/04c60d7d-3382-46a7-be27-745568d59417_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.28.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e9/22/08/e9220813-b1e3-0e01-e596-2f207d32bc2c/3707644c-d15d-4cff-9c12-93c679b14ecf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/51/94/2c51948f-7ef9-3f30-232e-8891c994e540/a421d76e-fee2-44e6-92ba-ce1622cdb89c_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.34.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/60/ef/6160efb9-95e6-e0af-2031-2447d8c6f6a6/597bfdb4-ac27-4999-91a1-e6af596a1031_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.14.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/91/a7/c6/91a7c603-041c-b79b-add0-d131009c1e48/311e69c2-2197-4b8c-942a-5088f243807a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.08.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
