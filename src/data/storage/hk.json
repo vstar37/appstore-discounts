@@ -957,6 +957,19 @@
     "history": [
       [
         {
+          "timestamp": 1750393808796,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "HK$ 393.00",
+            "一頁傳真": "HK$ 8.00",
+            "3000 C-Points": "HK$ 38.00",
+            "十頁傳真": "HK$ 68.00",
+            "3000 cp + Six chance to Draw": "HK$ 38.00",
+            "600 cp + One chance to Draw": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1750389531698,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -14047,6 +14060,25 @@
       "古亞星兜風指南": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750393808796,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "Miku in Museland": "HK$ 68.00",
+            "喵宇宙！": "HK$ 28.00",
+            "肥宅快樂包 SP": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750221091240,
