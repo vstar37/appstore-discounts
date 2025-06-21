@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-21T15:24:17.846Z</updated>
+    <updated>2025-06-21T17:22:05.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-21T15:24:17.847Z</updated>
+        <updated>2025-06-21T17:22:05.048Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-1750519287157</id>
+        <id>Controller for HomeKit-1750526324669</id>
         <link href="https://apps.apple.com/tr/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-06-21T15:21:27.157Z</updated>
+        <updated>2025-06-21T17:18:44.669Z</updated>
         <summary type="html"><![CDATA[Lifetime license: ₺4.499,99 → ₺1.499,99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/controller-for-homekit/id1198176727?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e4/1b/47e41be0-0780-f252-74e8-25a185499bf0/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
