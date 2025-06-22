@@ -4958,6 +4958,16 @@
     "history": [
       [
         {
+          "timestamp": 1750601967957,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "移除廣告": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750072806383,
           "price": 0,
           "formattedPrice": "免費",
@@ -25155,6 +25165,16 @@
     "history": [
       [
         {
+          "timestamp": 1750601967957,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750433031701,
           "price": 0,
           "formattedPrice": "免費",
@@ -30617,6 +30637,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750601967957,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748569790911,
