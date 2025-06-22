@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-22T04:36:17.779Z</updated>
+    <updated>2025-06-22T17:23:10.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,69 +21,85 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-22T04:36:17.780Z</updated>
+        <updated>2025-06-22T17:23:10.374Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
-        <id>Goodnotes 6: AI Notes &amp; Docs-1750566804448</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
-        <updated>2025-06-22T04:33:24.448Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/09/4a/11094ae1-4e30-2e62-ac84-599cb7b30f65/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
+        <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
+        <id>Be Focused Pro - Focus Timer-1750612791883</id>
+        <link href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4"/>
+        <updated>2025-06-22T17:19:51.883Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$7.99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and track your progress throughout the day, week or custom period. Use Be Focused on your iPhone, iPad, or Mac — everything stays perfectly in sync.
 
-Boost Professional Efficiency and Productivity
-• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
-• Import, annotate, and organize PDFs, documents, and meeting notes.
-• Transcribe audio recordings from meetings so you never miss a detail.
-• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
-• Export and share notes via email, print, PDF, or images for easy collaboration.
-• Send files directly to your unique Goodnotes email for quick access on all devices.
-• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
-• Convert handwriting to text for quick and clean professional notes.
-• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
+Task Management
 
-Powerful Digital Notes and Study Tools
-• Use AI-powered study tools help you learn faster and retain more information.
-• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
-• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
-• Convert equations to LaTeX format for easy use in reports and presentations.
-• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
-• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
-• Collaborate in real time with classmates by working on the same document for group projects and study sessions
-• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
+•	Create and manage tasks
+•	Add notes and due dates to tasks
+•	Organize tasks with tags and filters
+•	Paste task lists from other apps
 
-Enhance Creative Digital Planning
-• Design fully customizable notebooks, templates, and covers to fit your style.
-• Mix handwriting, text, stickers, images, and drawings in a single notebook.
-• Stay focused with Smart Timer, and boost your productivity.
-• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
-• Organize your notes with unlimited folders and advanced search.
-• Get exclusive monthly downloads every month with a paid subscription.
-• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
+Timer Control
 
-Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+•	Start, pause, or skip intervals
+•	Auto-start the next interval (optionally)
+•	Plan intervals needed for task completion and track accuracy
+•	Manage completed intervals
 
-Website: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp 
+Timer Customization
 
-Privacy policy: https://www.goodnotes.com/privacy-policy 
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
+•	Set durations for work sessions, short and long breaks
+•	Define number of intervals before a long break
+•	Set a daily goal for completed intervals 
+•	Assign different timer settings to individual tasks
+
+Reports
+
+•	View detailed reports to monitor your progress
+•	Export your data in CSV format
+
+Sounds and Notifications
+
+•	Chronometer ticking sound with adjustable frequency
+•	Variety of alarm sounds
+•	Interactive notifications
+•	Adjustable volume for alarms and chronometer
+
+Integration
+
+•	Sync across all your devices (iPhone, iPad, Mac) *
+•	Integration with Focus Matrix to manage tasks using urgent/important principle **
+•	Integration with Shortcuts app to automate workflow
+
+Quick Access
+
+•	Widgets for Lock Screen and Home Screen
+•	Live activities for Lock Screen and Dynamic Island
+•	Control to start or stop the timer from the Lock Screen, Controls Center, or Action Button
+
+Automation
+
+•	Integration with Shortcuts app (control tasks and timers via Shortcuts app)
+•	Automate Shortcuts execution on events in Be Focused app
+
+Device Support
+
+•	Apple Watch support
+•	Also available for Mac
+•	Dark and Light mode support
+
+* Sync with Mac requires Be Focused Pro for macOS, sold separately.
+** Integration with Focus Matrix requires the Pro version of Focus Matrix, sold separately.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/82/4d/20824d7d-c5d0-a566-2d98-b902acf5d294/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/37/2b/e8372bbc-f76a-dea2-8a0e-31de2d6d876f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/1c/7b/281c7b07-ee07-5935-34e4-8df4e5837b87/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/78/bf/ad78bfab-e77f-f3f9-5d47-27d9cbe9286b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/5d/65/575d65dc-00bc-9560-7bd9-b0342086c9c2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/21/20/bc2120f7-69ce-9d73-bb9d-c146ee30bd1e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/d6/22/4cd62246-cfb7-a199-9104-ee4c26e4e305/9cabfa62-9a99-45ca-87e0-fa2615013278_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/31/88/7d3188e8-5486-9f20-1f21-23c92f07b21c/efbc24b1-b12f-42e8-a1fb-f985ed0c7199_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/78/4d/7a784d0e-470b-c69b-060f-35de586f19ec/e9d26e1e-fc76-4205-934c-68bc0a3f34ac_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/d1/ec/f0d1ecd8-26fb-af21-cc6f-da018bc2fe37/23f7f239-0c56-457b-ab5e-708dc85b3df4_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/30/89/a23089ea-5ac2-ae96-77b7-5f9beccfdbb7/8899c3f3-bc66-4c66-832d-a3454224ac48_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/13/2b/c5/132bc5eb-1d98-e735-a34d-60fa03c74e36/8d4fd987-3e8c-4145-aaca-ce7591d18b2b_6.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
