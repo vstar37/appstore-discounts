@@ -27228,6 +27228,16 @@
     "history": [
       [
         {
+          "timestamp": 1750696233037,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747750951297,
           "price": 290,
           "formattedPrice": "$290.00",
