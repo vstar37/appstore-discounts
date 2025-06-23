@@ -10367,6 +10367,22 @@
     "history": [
       [
         {
+          "timestamp": 1750653455038,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "Quarterly SVIP": "$2.99",
+            "100 Days SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "Annual Special SVIP": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750116085776,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -12771,6 +12787,24 @@
       "Aquaria Cruising Guide": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750653455038,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750598967054,
@@ -18925,6 +18959,22 @@
       "Medical Student Planner - 2025": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750653455038,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750644126167,
