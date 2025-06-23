@@ -1431,6 +1431,21 @@
     "history": [
       [
         {
+          "timestamp": 1750720729998,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749943374763,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -14550,6 +14565,21 @@
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750720729998,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750418350633,
