@@ -16436,6 +16436,16 @@
     "history": [
       [
         {
+          "timestamp": 1750785727483,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750601967957,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -23678,13 +23688,25 @@
     "name": "Lies of P",
     "maxPriceInfo": {
       "price": 59.99,
-      "formattedPrice": "USD 59.99"
+      "formattedPrice": "USD 59.99",
+      "Lies of P: Overture": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 35.99,
-      "formattedPrice": "USD 35.99"
+      "formattedPrice": "USD 35.99",
+      "Lies of P: Overture": "USD 29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750785727483,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1727186533412,

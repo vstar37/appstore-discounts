@@ -18212,13 +18212,25 @@
     "name": "Lies of P",
     "maxPriceInfo": {
       "price": 999.99,
-      "formattedPrice": "₺999,99"
+      "formattedPrice": "₺999,99",
+      "Lies of P: Overture": "₺500,00"
     },
     "minPriceInfo": {
       "price": 999.99,
-      "formattedPrice": "₺999,99"
+      "formattedPrice": "₺999,99",
+      "Lies of P: Overture": "₺500,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750785727483,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "₺500,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
