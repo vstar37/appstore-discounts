@@ -22968,6 +22968,14 @@
     "history": [
       [
         {
+          "timestamp": 1750775040096,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750429308705,
           "price": 0,
           "formattedPrice": "免费",
@@ -27428,6 +27436,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750775040096,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750515635173,
