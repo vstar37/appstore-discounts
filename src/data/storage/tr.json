@@ -3493,6 +3493,25 @@
     "history": [
       [
         {
+          "timestamp": 1750893700947,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺129,99",
+            "Sha'tra": "₺39,99",
+            "Grawl": "₺39,99",
+            "Kutsao": "₺39,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750566804448,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -9314,6 +9333,24 @@
     "history": [
       [
         {
+          "timestamp": 1750893700947,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "unlockall_29": "₺999,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Rin·Len's Mirrorland": "₺399,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750685839417,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -13057,6 +13094,14 @@
     "history": [
       [
         {
+          "timestamp": 1750893700947,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749252099102,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -13687,6 +13732,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750893700947,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750807302993,

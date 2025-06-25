@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-24T23:25:05.932Z</updated>
+    <updated>2025-06-25T23:25:05.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,178 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T23:25:05.933Z</updated>
+        <updated>2025-06-25T23:25:05.538Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1750807302993</id>
-        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-06-24T23:21:42.993Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Kingdom Rush Frontiers TD]]></title>
+        <id>Kingdom Rush Frontiers TD-1750893700947</id>
+        <link href="https://apps.apple.com/tr/app/kingdom-rush-frontiers-td/id598581396?uo=4"/>
+        <updated>2025-06-25T23:21:40.947Z</updated>
+        <summary type="html"><![CDATA[Price: ₺99,99 → ₺39,99<br/>Bonehart: ₺299,99 → ₺229,99<br/>Ashbite: ₺299,99 → ₺229,99<br/>Dante: ₺229,99 → ₺129,99<br/>Sha'tra: ₺129,99 → ₺39,99<br/>Grawl: ₺129,99 → ₺39,99<br/>Kutsao: ₺129,99 → ₺39,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/kingdom-rush-frontiers-td/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>₺99,99</span> → <b>
+  <strong>₺39,99</strong>
+</b>）
+</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bonehart：</strong><span>₺299,99</span> → <b>
+  <strong>₺229,99</strong>
+</b>
+  </li><li>
+    <strong>Ashbite：</strong><span>₺299,99</span> → <b>
+  <strong>₺229,99</strong>
+</b>
+  </li><li>
+    <strong>Dante：</strong><span>₺229,99</span> → <b>
+  <strong>₺129,99</strong>
+</b>
+  </li><li>
+    <strong>Sha'tra：</strong><span>₺129,99</span> → <b>
+  <strong>₺39,99</strong>
+</b>
+  </li><li>
+    <strong>Grawl：</strong><span>₺129,99</span> → <b>
+  <strong>₺39,99</strong>
+</b>
+  </li><li>
+    <strong>Kutsao：</strong><span>₺129,99</span> → <b>
+  <strong>₺39,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Kingdom Rush Frontiers is a whole new level of the furiously fast, enchantingly charming gameplay that made kingdom Rush an award-winning Tower Defense hit.
+Defend exotic lands from dragons, man-eating plants, and ghastly denizens of the underworld -all with flashy towers, levels, heroes, and more goodies to help you crush your enemies to a pulp.
+
+BUILD MIGHTY TOWERS!
+• OVER 18 TOWER ABILITIES! Unleash Death Riders, pestilence clouds, or assassins that steal and kill your enemies!
+• 8 SPECIALIZED TOWER UPGRADES! Slice, sizzle, and stomp your foes with Crossbow Forts, Mighty Templars, Necromancers, and even Earthquake Machines - hey, we told you we were shaking things up.
+• UPGRADE SYSTEM allows you to min/max your towers towards your preferred strategy.
+• Fortify the frontier in exotic new lands - hold the line in deserts, jungles, and even the underworld!
+
+TRAIN LEGENDARY HEROES
+• 16 LEGENDARY HEROES. Choose among mighty champions and train their abilities! Each has unique specialties that fit different play styles and strategies!
+• Special units and features on every stage! Watch out for the Black Dragon!
+
+DEFEAT THEM ALL
+• OVER 40 ENEMIES with unique abilities! Stay on your toes as you fight through desert sandworms, tribal shamans, nomad tribes, and underground terrors. Action like you have never seen before!
+• MERCILESS BOSS FIGHTS! Hey, we told you to get those upgrades...
+
+MORE MIND-BOGGLING CONTENT
+• Hours of gameplay with OVER 80 ACHIEVEMENTS! what can you expect from Ironhide Games, the creators of Kingdom rush? You will be hooked for hours searching for Easter eggs and achievements!
+• IN-GAME ENCYCLOPEDIA! learn all about your enemies and you will be able to plan the best strategy to defeat them. Study up!
+• CLASSIC, IRON, AND HEROIC GAME MODES to challenge your tactical skills!
+• 3 DIFFICULTY MODES! Are you up for a real challenge? Go with Hard mode!
+• PLAY IT OFFLINE! No internet? No problem! You will be able to jump into real action even offline!
+
+-----------------------------------------------------
+
+PRAISE FOR KINGDOM RUSH: IGN Editor's Choice, Slide To Play Must Have, 148 Apps Editor's Choice, Jay is Games Game of the Year, Pocket Gamer Gold Award, Touch Arcade 4.5/5
+
+Terms and Conditions:
+https://www.ironhidegames.com/TermsOfService
+
+Privacy Policy:
+https://www.ironhidegames.com/PrivacyPolicy
+
+Video creators, podcast creators, and streamers:
+We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juicy Realm]]></title>
+        <id>Juicy Realm-1750893700947</id>
+        <link href="https://apps.apple.com/tr/app/juicy-realm/id1453808408?uo=4"/>
+        <updated>2025-06-25T23:21:40.947Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juicy-realm/id1453808408?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺99,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
 
-Juice Watch is a simple app designed to do two things well:
+Subverted Order
+“Many years later, when the humans watch as the plants climb up to the top of the food chain, they will be reminded of their own naivety and arrogance…”
+Only when all the plants started to evolve into animals, growing limbs and becoming sentient, did the humans realize the threat of those photosynthetic-lifeforms. No one knows how they achieved the state of evolution that took animal lifeforms millions of years to reach in such a short amount of time, and no one knows their ultimate objective. The only thing known for sure is that the humans now face the greatest challenge since they climbed up to the top of the food chain.
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+Gameplay
+As the first explorers of this unknown region, you must strive to venture deep into the enemy hive, defeat all kinds of fruits and arm yourself with various equipment, as well as upgrade yourself with the resources you find in your way.
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+Game Features
+-Rougelite elements such as random terrains, loot drops, and monsters
+-Hundreds of special and bizarre weapons and items
+-Loads of unique mod enemies and bosses
+-10 characters in the roster with unique skills and abilities
+-Unique artstyle with rich details
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+Twitter: /@JuicyRealm
+Facebook: @JuicyRealm
+Press contact: juicyrealm@spacecangames.com
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+[Minimum Requirements]
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+Please make sure you are using devices matching the following requirements. If you are using old devices, the game might not run normally on your device.
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+iPhone 6S and higher
+iPad Air 2 and higher
+iPad Mini 4 and higher
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/45/0a/3a450a53-b535-96da-505b-e15d4ee981ae/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/c7/15/f0c7157f-7618-abcf-d022-22cab0453c31/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/3b/ad/e13badd6-1686-70e6-e2c6-94976ed10288/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/0c/9c/950c9ca5-39fe-c66a-a9b4-fcdc5a14565c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/58/78/c758787b-6f28-cb09-1600-b63d4502f75d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/2a/62/252a62fe-c11d-7cbc-1c3a-4ea6531dca1e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8a/e0/848ae0ea-d8e0-8f67-4bfc-e1679ee028e4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/0a/e6/6f0ae677-31d6-1e47-f50c-8c956f30ae84/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/31/c8/0831c840-1232-6894-2310-e04ced38cef0/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/db/83/48db831b-ff2a-4d3a-f3bc-a3336e5070f6/pr_source.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MuseDash]]></title>
+        <id>MuseDash-1750893700947</id>
+        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
+        <updated>2025-06-25T23:21:40.947Z</updated>
+        <summary type="html"><![CDATA[Price: ₺129,99 → ₺19,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/e1/a74fe118-25ac-5226-c81c-5bb842eddfcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺129,99</span> → <b>
+  <strong>₺19,99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  "Hitting while listening to music."
+"Is that the call from another world?"
+[Game Starts Now—!!]
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+Lovely girls
+or rhythmic music?
+If there’s a place for you to have them both…
+It must be the paradise of parkour & rhythm game  — Muse Dash!!
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+Huh?! Not your forte? It doesn’t matter!
+Who says you must have a strong sense of rhythm to win?
+Avoid is also a valid option (?)
+As long as you have 100% of passion, courage, and… love for lovely girls~
+Rhythm and fight won’t be an issue
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+[Gameplay]
+Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
+What an easy, beginner-friendly rhythm game
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+[Media Review]
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+
+Languages Supported:
+English
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+
+Feedback: https://service.peropero.net/
+Twitter:@MuseDash_EN
+@PeroPeroGuys
+</p>]]></content>
     </entry>
 </feed>
