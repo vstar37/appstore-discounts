@@ -155,7 +155,7 @@
 |82|1485101937|JW: Battery Alert Notification|Juice Watch|Juice Watch|Juice Watch|Juice Watch|Juice Watch|
 |83|703265535|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|
 |84|6479307181|灵体侦测器|靈體偵測器|靈體偵測器|靈體偵測器|Ghostly Detector|Ghostly Detector|
-|85|1636719674|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令手机捷径布局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局|Lock Launcher - Screen Widgets|Lock Launcher - Screen Widgets|
+|85|1636719674|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令搜索直达扫码|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|Lock Launcher - Screen Widgets|Lock Launcher - Screen Widgets|
 |86|1543163106|末剑二|❌|❌|❌|❌|❌|
 |87|6443812780|我的水世界求生|❌|❌|❌|❌|❌|
 |88|1344655035|蜡烛人|❌|❌|❌|❌|❌|

@@ -5426,6 +5426,25 @@
     "history": [
       [
         {
+          "timestamp": 1750861419158,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 38.00",
+            "黑龍灰霸齒": "HK$ 38.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 8.00",
+            "但丁": "HK$ 22.00",
+            "黑棘船長": "HK$ 8.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 8.00",
+            "一箱寶石": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750537372605,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -14236,6 +14255,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750861419158,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_29": "HK$ 163.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "喵宇宙！": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1750803711132,
           "price": 23,
@@ -24667,6 +24703,14 @@
     "history": [
       [
         {
+          "timestamp": 1750861419158,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749219741932,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -25352,6 +25396,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750861419158,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1750785727483,
           "price": 0,
@@ -30546,7 +30598,7 @@
     ]
   },
   "1636719674": {
-    "name": "鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化主螢幕佈局",
+    "name": "鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
