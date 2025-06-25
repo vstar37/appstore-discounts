@@ -11489,7 +11489,7 @@
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99",
-      "Card.Note Premiun": "₺39,99"
+      "Card.Note Premiun": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11497,6 +11497,16 @@
       "Card.Note Premiun": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750865185733,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750055729110,
