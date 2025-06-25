@@ -7260,7 +7260,8 @@
       "1-Year SVIP": "₺599,99",
       "Annual Special SVIP": "₺599,99",
       "500 Conversations": "₺449,99",
-      "90 Days SVIP": "₺129,99"
+      "90 Days SVIP": "₺129,99",
+      "SVIP auto-renew quarterly": "₺179,99"
     },
     "minPriceInfo": {
       "price": 599.99,
@@ -7274,9 +7275,25 @@
       "1-Year SVIP": "₺499,99",
       "Annual Special SVIP": "₺499,99",
       "500 Conversations": "₺449,99",
-      "90 Days SVIP": "₺129,99"
+      "90 Days SVIP": "₺129,99",
+      "SVIP auto-renew quarterly": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750876408241,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "₺29,99",
+            "SVIP auto-renew yearly": "₺399,99",
+            "SVIP auto-renew quarterly": "₺179,99",
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747736698648,
@@ -18199,7 +18216,8 @@
       "1 Month": "₺59,99",
       "1 Year": "₺199,99",
       "Yearly VIP": "₺199,99",
-      "Monthly VIP": "₺59,99"
+      "Monthly VIP": "₺59,99",
+      "Lifetime VIP": "₺599,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18208,10 +18226,24 @@
       "1 Month": "₺59,99",
       "1 Year": "₺199,99",
       "Yearly VIP": "₺199,99",
-      "Monthly VIP": "₺59,99"
+      "Monthly VIP": "₺59,99",
+      "Lifetime VIP": "₺599,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750876408241,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺599,99",
+            "Yearly VIP": "₺199,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺199,99",
+            "1 Month": "₺59,99",
+            "Lifetime": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1750872083324,
           "price": 0,
