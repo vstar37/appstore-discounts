@@ -11548,6 +11548,20 @@
     "history": [
       [
         {
+          "timestamp": 1750965522623,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749710027026,
           "price": 0,
           "formattedPrice": "免費",
@@ -14107,7 +14121,17 @@
       "unlockall_12": "$790.00",
       "肥宅快樂包 Vol.20": "$130.00",
       "古亞星兜風指南": "$130.00",
-      "我要成為節奏大師！": "$130.00"
+      "我要成為節奏大師！": "$130.00",
+      "Aim to Be a Rhythm Master!(30%": "$100.00",
+      "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+      "Aquaria Cruising Guide(30%)": "$100.00",
+      "Happy Otaku Pack Vol.20(30%)": "$100.00",
+      "Muse Dash・Legend(30%)": "$100.00",
+      "Cosmic Radio 2024(30%)": "$100.00",
+      "MSR Anthology_Vol.02(30%)": "$130.00",
+      "MDlevelTacticalTrainingBlu-ray": "$70.00",
+      "Ensemble Arcanum(30%)": "$70.00",
+      "Touhou Mugakudan -IV-(30%)": "$100.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14153,9 +14177,38 @@
       "unlockall_12": "$790.00",
       "肥宅快樂包 Vol.20": "$100.00",
       "古亞星兜風指南": "$100.00",
-      "我要成為節奏大師！": "$130.00"
+      "我要成為節奏大師！": "$130.00",
+      "Aim to Be a Rhythm Master!(30%": "$100.00",
+      "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+      "Aquaria Cruising Guide(30%)": "$100.00",
+      "Happy Otaku Pack Vol.20(30%)": "$100.00",
+      "Muse Dash・Legend(30%)": "$100.00",
+      "Cosmic Radio 2024(30%)": "$100.00",
+      "MSR Anthology_Vol.02(30%)": "$130.00",
+      "MDlevelTacticalTrainingBlu-ray": "$70.00",
+      "Ensemble Arcanum(30%)": "$70.00",
+      "Touhou Mugakudan -IV-(30%)": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750965522623,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$100.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+            "Aquaria Cruising Guide(30%)": "$100.00",
+            "Happy Otaku Pack Vol.20(30%)": "$100.00",
+            "Muse Dash・Legend(30%)": "$100.00",
+            "Cosmic Radio 2024(30%)": "$100.00",
+            "MSR Anthology_Vol.02(30%)": "$130.00",
+            "MDlevelTacticalTrainingBlu-ray": "$70.00",
+            "Ensemble Arcanum(30%)": "$70.00",
+            "Touhou Mugakudan -IV-(30%)": "$100.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750861419158,
@@ -29970,6 +30023,25 @@
       "綠色藥草吊飾": "$29.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750965522623,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$570.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$420.00",
+            "武器專屬強化券 x5 (A)": "$210.00",
+            "經典公事包": "$29.00",
+            "武器專屬強化券 x3 (A)": "$150.00",
+            "綠色藥草吊飾": "$29.00",
+            "武器專屬強化券 x1 (A)": "$65.00",
+            "金色公事包": "$29.00",
+            "手槍彈藥吊飾": "$29.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750674371258,
