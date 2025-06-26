@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-06-25T23:25:05.538Z</updated>
+    <updated>2025-06-26T23:25:04.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,178 +21,107 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-25T23:25:05.538Z</updated>
+        <updated>2025-06-26T23:25:04.527Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kingdom Rush Frontiers TD]]></title>
-        <id>Kingdom Rush Frontiers TD-1750893700947</id>
-        <link href="https://apps.apple.com/tr/app/kingdom-rush-frontiers-td/id598581396?uo=4"/>
-        <updated>2025-06-25T23:21:40.947Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺39,99<br/>Bonehart: ₺299,99 → ₺229,99<br/>Ashbite: ₺299,99 → ₺229,99<br/>Dante: ₺229,99 → ₺129,99<br/>Sha'tra: ₺129,99 → ₺39,99<br/>Grawl: ₺129,99 → ₺39,99<br/>Kutsao: ₺129,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/kingdom-rush-frontiers-td/id598581396?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[To the Moon]]></title>
+        <id>To the Moon-1750980099582</id>
+        <link href="https://apps.apple.com/tr/app/to-the-moon/id1159700098?uo=4"/>
+        <updated>2025-06-26T23:21:39.582Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/to-the-moon/id1159700098?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺39,99</strong>
-</b>）
-</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Bonehart：</strong><span>₺299,99</span> → <b>
-  <strong>₺229,99</strong>
-</b>
-  </li><li>
-    <strong>Ashbite：</strong><span>₺299,99</span> → <b>
-  <strong>₺229,99</strong>
-</b>
-  </li><li>
-    <strong>Dante：</strong><span>₺229,99</span> → <b>
-  <strong>₺129,99</strong>
-</b>
-  </li><li>
-    <strong>Sha'tra：</strong><span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b>
-  </li><li>
-    <strong>Grawl：</strong><span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b>
-  </li><li>
-    <strong>Kutsao：</strong><span>₺129,99</span> → <b>
-  <strong>₺39,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Kingdom Rush Frontiers is a whole new level of the furiously fast, enchantingly charming gameplay that made kingdom Rush an award-winning Tower Defense hit.
-Defend exotic lands from dragons, man-eating plants, and ghastly denizens of the underworld -all with flashy towers, levels, heroes, and more goodies to help you crush your enemies to a pulp.
-
-BUILD MIGHTY TOWERS!
-• OVER 18 TOWER ABILITIES! Unleash Death Riders, pestilence clouds, or assassins that steal and kill your enemies!
-• 8 SPECIALIZED TOWER UPGRADES! Slice, sizzle, and stomp your foes with Crossbow Forts, Mighty Templars, Necromancers, and even Earthquake Machines - hey, we told you we were shaking things up.
-• UPGRADE SYSTEM allows you to min/max your towers towards your preferred strategy.
-• Fortify the frontier in exotic new lands - hold the line in deserts, jungles, and even the underworld!
-
-TRAIN LEGENDARY HEROES
-• 16 LEGENDARY HEROES. Choose among mighty champions and train their abilities! Each has unique specialties that fit different play styles and strategies!
-• Special units and features on every stage! Watch out for the Black Dragon!
-
-DEFEAT THEM ALL
-• OVER 40 ENEMIES with unique abilities! Stay on your toes as you fight through desert sandworms, tribal shamans, nomad tribes, and underground terrors. Action like you have never seen before!
-• MERCILESS BOSS FIGHTS! Hey, we told you to get those upgrades...
-
-MORE MIND-BOGGLING CONTENT
-• Hours of gameplay with OVER 80 ACHIEVEMENTS! what can you expect from Ironhide Games, the creators of Kingdom rush? You will be hooked for hours searching for Easter eggs and achievements!
-• IN-GAME ENCYCLOPEDIA! learn all about your enemies and you will be able to plan the best strategy to defeat them. Study up!
-• CLASSIC, IRON, AND HEROIC GAME MODES to challenge your tactical skills!
-• 3 DIFFICULTY MODES! Are you up for a real challenge? Go with Hard mode!
-• PLAY IT OFFLINE! No internet? No problem! You will be able to jump into real action even offline!
-
------------------------------------------------------
-
-PRAISE FOR KINGDOM RUSH: IGN Editor's Choice, Slide To Play Must Have, 148 Apps Editor's Choice, Jay is Games Game of the Year, Pocket Gamer Gold Award, Touch Arcade 4.5/5
-
-Terms and Conditions:
-https://www.ironhidegames.com/TermsOfService
-
-Privacy Policy:
-https://www.ironhidegames.com/PrivacyPolicy
-
-Video creators, podcast creators, and streamers:
-We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juicy Realm]]></title>
-        <id>Juicy Realm-1750893700947</id>
-        <link href="https://apps.apple.com/tr/app/juicy-realm/id1453808408?uo=4"/>
-        <updated>2025-06-25T23:21:40.947Z</updated>
-        <summary type="html"><![CDATA[Price: ₺129,99 → ₺99,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juicy-realm/id1453808408?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺129,99</span> → <b>
+  Discount Information（Price：<span>₺229,99</span> → <b>
   <strong>₺99,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
+  A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.
 
-Subverted Order
-“Many years later, when the humans watch as the plants climb up to the top of the food chain, they will be reminded of their own naivety and arrogance…”
-Only when all the plants started to evolve into animals, growing limbs and becoming sentient, did the humans realize the threat of those photosynthetic-lifeforms. No one knows how they achieved the state of evolution that took animal lifeforms millions of years to reach in such a short amount of time, and no one knows their ultimate objective. The only thing known for sure is that the humans now face the greatest challenge since they climbed up to the top of the food chain.
+ABOUT THIS GAME
+Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning... but only in their patients' heads.
 
-Gameplay
-As the first explorers of this unknown region, you must strive to venture deep into the enemy hive, defeat all kinds of fruits and arm yourself with various equipment, as well as upgrade yourself with the resources you find in your way.
+Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t.
 
-Game Features
--Rougelite elements such as random terrains, loot drops, and monsters
--Hundreds of special and bizarre weapons and items
--Loads of unique mod enemies and bosses
--10 characters in the roster with unique skills and abilities
--Unique artstyle with rich details
+This particular story follows their attempt to fulfill the dream of an elderly man, Johnny. With each step back in time, a new fragment of Johnny's past is revealed. As the two doctors piece together the puzzled events that spanned a life time, they seek to find out just why the frail old man chose his dying wish to be what it is.
 
-Twitter: /@JuicyRealm
-Facebook: @JuicyRealm
-Press contact: juicyrealm@spacecangames.com
+And Johnny's last wish is, of course... to go to the moon.
 
-[Minimum Requirements]
+MORE DETAILS
+"To the Moon", a story-driven RPG with pixel graphics, was originally developed six years ago for PC by Canadian producer Kan Gao and Freebird Games, his indie game studio.Rights to develop and publish the remastered mobile version of "To the Moon" were acquired by X.D. Network Inc.
+The story of "To the Moon" unfolds before players, much like a movie. While the entire game has no battle system and can be completed in a few hours, the compelling story and moving original soundtrack resonated with players worldwide. On top of receiving overwhelmingly positive ratings, "To the Moon" received multiple awards from Gamespot, Metacritic, WIRED, and more, and was nominated for "I'm Not Crying, There's Something In My Eye" in the 2016 Steam Awards.
 
-Please make sure you are using devices matching the following requirements. If you are using old devices, the game might not run normally on your device.
+KEY FEATURES
+•	Unlocked 29 new iMessage stickers.
+•	Added "Music Box" function, allowing backstage music playing& in-game music downloading(will be enabled automatically after clearing the stage).
+•	Added "DIY QR code" function, allowing one-key sharing of player data for playing on different devices.
+•	A unique & non-combat story-driven experience
+•	Innovative mix between adventure game elements and classic RPG aesthetics
+•	Acclaimed original soundtrack that closely ties to the story
+•	An espresso execution with zero filler and no time drains
 
-iPhone 6S and higher
-iPad Air 2 and higher
-iPad Mini 4 and higher
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/45/0a/3a450a53-b535-96da-505b-e15d4ee981ae/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/c7/15/f0c7157f-7618-abcf-d022-22cab0453c31/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/3b/ad/e13badd6-1686-70e6-e2c6-94976ed10288/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/0c/9c/950c9ca5-39fe-c66a-a9b4-fcdc5a14565c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/58/78/c758787b-6f28-cb09-1600-b63d4502f75d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/2a/62/252a62fe-c11d-7cbc-1c3a-4ea6531dca1e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8a/e0/848ae0ea-d8e0-8f67-4bfc-e1679ee028e4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/0a/e6/6f0ae677-31d6-1e47-f50c-8c956f30ae84/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/31/c8/0831c840-1232-6894-2310-e04ced38cef0/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/db/83/48db831b-ff2a-4d3a-f3bc-a3336e5070f6/pr_source.jpg/552x414bb.jpg" />]]></content>
+Languages Supported: 
+* English 
+* Français 
+* Deutsch 
+* Español (Latinoamérica) 
+* Español (Europa) 
+* Português 
+* Polski
+* lingua italiana (Italian)
+* Người việt nam
+* русский(Russian)
+* 한국어 (Korean) 
+* 简体中文 (Simplified Chinese) 
+* 繁體中文 (Traditional Chinese) 
+* 日本語 (Japanese)
+* Türk dili(Turkish)
+* Українська（Ukraine）
+
+Facebook: /TotheMoonHD
+Twitter: @TotheMoonHD
+Service email: TotheMoon@xindong.com
+
+© 2017 X.D. Network Inc. All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/ba/e7/8cbae70f-cb96-836c-11ef-afee1d9f0995/mzl.duqjvmyj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e0/af/0de0af90-cb76-93e7-af4a-e602fe53a13b/mzl.kcpanvyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/b0/3f/a8b03fe9-bf55-1a2f-c386-10ff0cc7c627/mzl.ggycdnkb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/c2/b2/03c2b201-1759-f62a-338f-9a0ace583983/mzl.lhameszq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/c8/d6/1ac8d620-f639-e740-db9d-2c7c9269fb60/mzl.snejulwv.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/c7/5e/48c75e27-41e0-657f-fa4d-310f414bb0cf/mzl.ukbjyhky.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/bb/96/3ebb96ae-1020-2499-f408-4eee13e0b753/mzl.fefblsaa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/7c/a3/a47ca3ee-86e8-e9a2-cd46-6a14ffd1335c/mzl.elnaumho.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/ac/aa/a7acaa3e-34b8-df7f-bc02-c16f32d57f61/mzl.tcljipwn.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/4d/b2/aa4db242-5627-7455-6895-efbc61ce2f54/mzl.zkmbxdnw.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MuseDash]]></title>
-        <id>MuseDash-1750893700947</id>
-        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
-        <updated>2025-06-25T23:21:40.947Z</updated>
-        <summary type="html"><![CDATA[Price: ₺129,99 → ₺19,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/4f/e1/a74fe118-25ac-5226-c81c-5bb842eddfcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Moncage]]></title>
+        <id>Moncage-1750980099582</id>
+        <link href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4"/>
+        <updated>2025-06-26T23:21:39.582Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺129,99</span> → <b>
-  <strong>₺19,99</strong>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺179,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  "Hitting while listening to music."
-"Is that the call from another world?"
-[Game Starts Now—!!]
+  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
 
-Lovely girls
-or rhythmic music?
-If there’s a place for you to have them both…
-It must be the paradise of parkour & rhythm game  — Muse Dash!!
+The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
 
-Huh?! Not your forte? It doesn’t matter!
-Who says you must have a strong sense of rhythm to win?
-Avoid is also a valid option (?)
-As long as you have 100% of passion, courage, and… love for lovely girls~
-Rhythm and fight won’t be an issue
+【Solve Puzzles with Mind-Boggling Optical Illusions】
+Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
 
-[Gameplay]
-Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
-What an easy, beginner-friendly rhythm game
+【Collect All Photos to Unveil the Story】
+Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
 
-[Media Review]
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+【Get Unstuck with Thoughtful Hints】
+There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
 
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+【Prove Your Puzzle-Solving Skills with Medals】
+There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
 
-Languages Supported:
-English
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
-
-Feedback: https://service.peropero.net/
-Twitter:@MuseDash_EN
-@PeroPeroGuys
-</p>]]></content>
+【Connect with us:】
+Twitter: @MoncageTheGame
+Email: moncagethegame@gmail.com
+Discord: https://discord.com/invite/TEVX2uPEsj
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
