@@ -10577,7 +10577,17 @@
       "喵斯快跑·傳奇": "USD 3.99",
       "肥宅快樂包 Vol.20": "USD 3.99",
       "MSR特選曲目組合包": "USD 5.99",
-      "古亞星兜風指南": "USD 3.99"
+      "古亞星兜風指南": "USD 3.99",
+      "Aim to Be a Rhythm Master!(30%": "USD 2.99",
+      "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "USD 2.99",
+      "Aquaria Cruising Guide(30%)": "USD 2.99",
+      "Happy Otaku Pack Vol.20(30%)": "USD 2.99",
+      "Muse Dash・Legend(30%)": "USD 2.99",
+      "Cosmic Radio 2024(30%)": "USD 2.99",
+      "MSR Anthology_Vol.02(30%)": "USD 3.99",
+      "MDlevelTacticalTrainingBlu-ray": "USD 1.99",
+      "Ensemble Arcanum(30%)": "USD 1.99",
+      "Touhou Mugakudan -IV-(30%)": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10616,9 +10626,38 @@
       "喵斯快跑·傳奇": "USD 2.99",
       "肥宅快樂包 Vol.20": "USD 3.99",
       "MSR特選曲目組合包": "USD 5.99",
-      "古亞星兜風指南": "USD 2.99"
+      "古亞星兜風指南": "USD 2.99",
+      "Aim to Be a Rhythm Master!(30%": "USD 2.99",
+      "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "USD 2.99",
+      "Aquaria Cruising Guide(30%)": "USD 2.99",
+      "Happy Otaku Pack Vol.20(30%)": "USD 2.99",
+      "Muse Dash・Legend(30%)": "USD 2.99",
+      "Cosmic Radio 2024(30%)": "USD 2.99",
+      "MSR Anthology_Vol.02(30%)": "USD 3.99",
+      "MDlevelTacticalTrainingBlu-ray": "USD 1.99",
+      "Ensemble Arcanum(30%)": "USD 1.99",
+      "Touhou Mugakudan -IV-(30%)": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751008970486,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "USD 2.99",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "USD 2.99",
+            "Aquaria Cruising Guide(30%)": "USD 2.99",
+            "Happy Otaku Pack Vol.20(30%)": "USD 2.99",
+            "Muse Dash・Legend(30%)": "USD 2.99",
+            "Cosmic Radio 2024(30%)": "USD 2.99",
+            "MSR Anthology_Vol.02(30%)": "USD 3.99",
+            "MDlevelTacticalTrainingBlu-ray": "USD 1.99",
+            "Ensemble Arcanum(30%)": "USD 1.99",
+            "Touhou Mugakudan -IV-(30%)": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750861419158,
