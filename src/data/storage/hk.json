@@ -10817,6 +10817,14 @@
     "history": [
       [
         {
+          "timestamp": 1751120355694,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748442224738,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -28219,6 +28227,14 @@
     "history": [
       [
         {
+          "timestamp": 1751120355694,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750775040096,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -32437,6 +32453,25 @@
       "武器專屬強化券 x1 (E)": "HK$ 16.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751120355694,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 143.00",
+            "額外內容擴充包": "HK$ 108.00",
+            "武器專屬強化券 x5 (A)": "HK$ 51.00",
+            "武器專屬強化券 x3 (A)": "HK$ 37.00",
+            "武器專屬強化券 x3 (D)": "HK$ 37.00",
+            "武器專屬強化券 x3 (C)": "HK$ 37.00",
+            "武器專屬強化券 x1 (F)": "HK$ 16.00",
+            "武器專屬強化券 x1 (E)": "HK$ 16.00",
+            "武器專屬強化券 x1 (A)": "HK$ 16.00",
+            "武器專屬強化券 x1 (C)": "HK$ 16.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750598967054,

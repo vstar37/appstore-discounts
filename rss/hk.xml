@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-28T03:17:36.241Z</updated>
+    <updated>2025-06-28T14:21:02.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,50 +21,81 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T03:17:36.242Z</updated>
+        <updated>2025-06-28T14:21:02.200Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1751080552129</id>
-        <link href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-06-28T03:15:52.129Z</updated>
-        <summary type="html"><![CDATA[Value for Value: HK$ 58.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Value for Value：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
+        <title type="html"><![CDATA[全能備忘錄]]></title>
+        <id>全能備忘錄-1751120355694</id>
+        <link href="https://apps.apple.com/hk/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4"/>
+        <updated>2025-06-28T14:19:15.694Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 32.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 32.00</span> → <b>
+  <strong>免費</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
+And there are reminders that you can never forget.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電影精靈 - 專業視頻編輯和電影製作]]></title>
+        <id>電影精靈 - 專業視頻編輯和電影製作-1751120355694</id>
+        <link href="https://apps.apple.com/hk/app/%E9%9B%BB%E5%BD%B1%E7%B2%BE%E9%9D%88-%E5%B0%88%E6%A5%AD%E8%A6%96%E9%A0%BB%E7%B7%A8%E8%BC%AF%E5%92%8C%E9%9B%BB%E5%BD%B1%E8%A3%BD%E4%BD%9C/id1020541183?uo=4"/>
+        <updated>2025-06-28T14:19:15.694Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 88.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E9%9B%BB%E5%BD%B1%E7%B2%BE%E9%9D%88-%E5%B0%88%E6%A5%AD%E8%A6%96%E9%A0%BB%E7%B7%A8%E8%BC%AF%E5%92%8C%E9%9B%BB%E5%BD%B1%E8%A3%BD%E4%BD%9C/id1020541183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 88.00</span> → <b>
+  <strong>免費</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  您想製作屬於自己的微電影嗎？
+您想當導演、製片、主演……嗎？
 
-Juice Watch is a simple app designed to do two things well:
+在電影精靈中，這些角色可以全部由您一個人搞定！
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+通過電影精靈，您可以把各種媒體素材如視頻、照片、音樂、文字、錄音以及手指塗鴉等，按照您的創意，把它們編輯組合在一起，並給它們添加各種特效（場景切換特效、文字動畫、濾鏡特效、片頭、蒙版等），創作出屬於您自己的微電影。
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+主要功能：
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+-可裁剪、分割、合併、縮放各種媒體素材
+-疊加多層視頻（畫中畫效果），視頻數量沒有限制
+-添加各種蒙版（線性蒙版、矩形蒙版、圓形蒙版、文字蒙版和路徑蒙版）來隱藏或者顯示影片的各個部分
+-可摳圖（鋼筆工具、套索工具、塗抹工具和文字工具等自定義形狀摳圖工具）
+-快進、倒播視頻，給視頻添加慢動作鏡頭（1/12慢速至16倍速）
+- 360度旋轉影片
+-多種混合影像模式
+-各種字體、文字模版、文字顏色、表情符號、陰影、文字描邊等
+-內寘多種風格的免費配樂和音效，可添加電腦上的音樂或者iTunes裏的音樂，還可選取匯出視頻裏的音訊
+-給視頻配音錄音
+-直接在影片上用手指繪畫塗鴉
+-專業視頻比例，可縮放的時間線，無限制的軌道圖層
+-簡單自動跟蹤功能
+-添加移動式馬賽克
+-自定義影片背景顏色
+-可調整素材亮度、對比度、飽和度
+-創建自己的Gif動畫
+-私人定制特效片頭（需另外購買）
+-多達幾十種濾鏡特效（素描、漫畫、魚眼、放大鏡、顏色濾鏡等）
+-多達幾十種場景切換特效
+-可給視頻／照片設定各種外觀如圓形、心形和鑽石等，甚至自定義獨一無二的形狀
+-可設定疊加視頻／照片的透明色（Chroma Key），比如去除照片中純色背景色（綠幕藍幕摳像）
+-能把視頻／照片變黑白，把需要突出的部分還原色彩突出出來（Color Splash）
+-能自由變形視頻／照片成不規則形狀
+-給視頻／照片／文字添加運動點，使它們動起來，縮放、旋轉和移動結合起來可創建出各種各樣的絢麗效果
+-實时預覽，高分辨視頻輸出
+-可通過Wi-Fi直接從電腦導入多媒體素材：視頻、照片、音樂和Gif動畫等
+-可直接保存並分享影片到社交網絡，如雲盤、微信、QQ、抖音等
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+如果您有任何問題或迴響，請直接發郵件到verytools2006@gmail.com，我們會儘快答覆您。謝謝！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/a7/8d/f2a78deb-cbea-4fce-4ab7-a265f08b75e4/mzl.eymnlfix.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/4a/94/f54a9497-914d-a8ae-3cbd-20b2222481b4/mzl.kvzgkxgw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/0a/83/b30a830a-bf15-5211-816f-72b9ecd0cf6e/mzl.xgqpzkij.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/51/9a/0a519a3b-052f-5c2d-e489-4f81fe300ed4/mzl.jgupfkcb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/dd/91/dedd91a1-f5d3-9323-db6e-89a206e410d6/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/56/b5/8e56b5a3-8b85-3fa9-69ff-4c755c4facd6/mzl.ffbgcnvt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2e/63/9c/2e639cd2-376b-0185-b66e-7e60989edd5c/mzl.fsilaynd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/eb/29/95eb2959-3b0b-6b8b-fb71-c70791b8e38a/mzl.ltaysfhv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d2/bc/9a/d2bc9a32-02ce-390b-8d19-bd04ad6d9f4d/mzl.hdakmhzj.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/68/09/1b/68091bc9-18b1-c9d4-7b9a-36a4b617f908/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
