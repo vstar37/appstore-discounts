@@ -13036,6 +13036,24 @@
     "history": [
       [
         {
+          "timestamp": 1751192731488,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_3": "$20.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751041759726,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -19205,7 +19223,15 @@
       "2025-2026 Pastel Pro Planner (": "$10.99",
       "Minimalist Smart Student Plann": "$11.99",
       "Handwritten 2025-2026 Mid-year": "$10.99",
-      "Medical Student Planner - 2025": "$11.99"
+      "Medical Student Planner - 2025": "$11.99",
+      "The Planner Journal – Your Cha": "$29.99",
+      "Mid-Year Productivity Planner": "$8.99",
+      "Mid-Year Simple Digital Planne": "$8.99",
+      "The Ultimate To Do List Templa": "$4.99",
+      "[Spanish] Digital Notebook": "$6.99",
+      "Smart Digital Meeting Notebook": "$7.99",
+      "Smart Digital Notebook (Landsc": "$7.99",
+      "The 'Smart' To Do List - Apple": "$7.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19327,10 +19353,33 @@
       "2025-2026 Pastel Pro Planner (": "$10.99",
       "Minimalist Smart Student Plann": "$11.99",
       "Handwritten 2025-2026 Mid-year": "$10.99",
-      "Medical Student Planner - 2025": "$11.99"
+      "Medical Student Planner - 2025": "$11.99",
+      "The Planner Journal – Your Cha": "$29.99",
+      "Mid-Year Productivity Planner": "$8.99",
+      "Mid-Year Simple Digital Planne": "$8.99",
+      "The Ultimate To Do List Templa": "$4.99",
+      "[Spanish] Digital Notebook": "$6.99",
+      "Smart Digital Meeting Notebook": "$7.99",
+      "Smart Digital Notebook (Landsc": "$7.99",
+      "The 'Smart' To Do List - Apple": "$7.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751192731488,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Planner Journal – Your Cha": "$29.99",
+            "Mid-Year Productivity Planner": "$8.99",
+            "Mid-Year Simple Digital Planne": "$8.99",
+            "The Ultimate To Do List Templa": "$4.99",
+            "[Spanish] Digital Notebook": "$6.99",
+            "Smart Digital Meeting Notebook": "$7.99",
+            "Smart Digital Notebook (Landsc": "$7.99",
+            "The 'Smart' To Do List - Apple": "$7.99"
+          }
+        },
         {
           "timestamp": 1751172073343,
           "price": 0,
