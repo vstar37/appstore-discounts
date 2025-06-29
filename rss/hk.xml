@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-28T18:32:19.424Z</updated>
+    <updated>2025-06-29T15:23:17.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,75 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T18:32:19.424Z</updated>
+        <updated>2025-06-29T15:23:17.597Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1751135374859</id>
-        <link href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-06-28T18:29:34.859Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
-
-Juice Watch is a simple app designed to do two things well:
-
-• Show the battery level of the paired iPhone in a complication on Apple Watch
-
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
-
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
-
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+        <title type="html"><![CDATA[Forest 專注森林 - 讀書專注番茄鐘]]></title>
+        <id>Forest 專注森林 - 讀書專注番茄鐘-1751210492309</id>
+        <link href="https://apps.apple.com/hk/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4"/>
+        <updated>2025-06-29T15:21:32.309Z</updated>
+        <summary type="html"><![CDATA[年訂閱: HK$ 330.00 → HK$ 200.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/06/09/23060982-27a1-9cc6-40a6-14c43409d2d0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>年訂閱：</strong><span>HK$ 330.00</span> → <b>
+  <strong>HK$ 200.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ## 136 國家中排名第一名的生產力工具 app；超過兩百萬付費用戶的專注神器
+## 我們的用戶在世界各地種下超過 1,500,000 棵真樹
+## 簡單有趣的方式幫助您保持專注，培養高效率的生活習慣
+    
+紐約時報：「如果你想要放下手機、專注當下，真誠地和你的家人朋友們渡過相聚的時光，Forest 是你的最佳選擇。」
+    
+數位時代：「好的習慣必須要一段時間養成，要改善低頭族、不時會滑手機的症狀也不是一天兩天，記得多多使用這款App來幫助你改掉壞習慣，重新找回專注的自己。」
+    
+不論你是在圖書館讀書或是在辦公室上班，每當你希望有一段專心工作或學習的時間，你可以在 Forest 中種下一顆種子。在接下來的時間內，這顆種子將會慢慢地成長為一棵大樹。若是你禁不起誘惑，在這段時間內離開這個 app，你充滿生機、可愛的小樹將會枯萎而死。每一天，你都會有一片森林種滿了你今天所有茁壯的大樹，每一棵樹都代表了你曾經努力的時光。伴隨著畫面中生長的小樹，成就感以及責任感將會幫助你暫時離開手機，全心投入到手邊的工作，建立高效率與專注的生活習慣。 #治療拖延症 #提升時間效率 #遇見心流 #戒除手機成癮
+    
+保持專注，拒當低頭族！
+    
+保持專注：
+• 基於番茄工作法（番茄鐘）把時間抓回自己手中
+• 種植漂亮的小樹，並專注於生活中更重要的事情上
+• 因應不同專注情境，自訂你的應用程式允許名單，種樹時名單外的 App 將會被屏蔽（iOS 16 以上）
+• 用你專注的時光，一點一滴茁壯你的森林
+    
+滿滿的成就感：
+• 和朋友們分享你的成果並與全世界的使用者一同競賽
+• 用專注的時光累積 Forest 金幣，解鎖超過 90 種精心設計的大樹、灌木及背景白噪音
+• 與家人、好友一起，開始一局種樹挑戰
+• 達成成就獲得額外獎勵
+• 在保持專心的同時，與 Trees for the Future 一起為世界種下真正的樹苗
+    
+歷史回顧：
+• 自定義任務標籤，讓你花在各個任務的時間分配一目瞭然，幫助助你自主時間管理
+• 回顧你一週、一個月甚至一整年累積的大森林
+• 可追蹤你每日的手機使用時數與頻率
+• 以時間軸的形式回顧你在 Forest 經歷的專注旅程
+• 將你的專心時間記錄在蘋果健康 App
+    
+現在就放下手機，種出專屬自己的專注森林！
+    
+注意事項：
+• Forest 是一個 iPhone, iPad, Apple Watch 通用的應用程式，買一次即可在不同 iOS 設備上使用。於 iPhone, iPad 能使用上述提及的完整功能，於 Apple Watch 可提供查看今日專注紀錄以及顯示即時專注狀態。若要下載/解鎖其他非 iOS 平台的版本需要另外購買，不過只要登入同一個 Forest 帳號，你的帳號資料便可以在不同平台的設備間同步。
+• 由於 iOS 系統限制，允許名單功能需要 iOS/iPadOS 16 以上才能使用。iOS/iPadOS 15 以下的裝置無法使用允許名單，在種樹時離開 Forest 會導致小樹枯萎。
+ • 種植真樹功能因為預算限制，每個帳號最多只能兌換五棵真樹。除此之外，我們時常會有一些限時活動可以種植更多的真樹，請記得關注我們的社交平台訊息，或是 app 內部通知。
+ • Forest 在 App Store 上僅有此唯一版本，其他雷同或是刻意假冒 Forest 的軟體皆不是本團隊開發的產品，感謝您對於原創者的支持！
+    
+你可以在這些社群平台找到我們：：
+在 Facebook 給我們個讚: https://www.facebook.com/forestapp.cc/
+在 Twitter 跟隨我們: https://twitter.com/forestapp_cc
+在 Instagram 追蹤我們: https://www.instagram.com/forest_app/
+    
+我們還有提供瀏覽器的擴充套件，立即前往 www.forestapp.cc 查看吧！
+    
+- 音效設計 : Shi Kuang Lee
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/db/c7/8bdbc7ed-c41b-bbbd-c8d2-4bcef2a92969/f2b6bbcf-7885-419f-9666-3d88480e592d_iPhone5.5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/b9/25/71b92545-9fee-54ff-afdb-e67f07761c0b/9eca0da0-7790-42f7-a4e1-fb33d06033bf_iPhone5.5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/ee/a7/3eeea703-1e5d-fb4c-093a-008c52c9707a/75719620-5726-48d1-94ed-6e641f74a204_iPhone5.5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/fb/cf/4bfbcfb3-3bf4-292f-c87a-85a0307dd328/0e369b47-1d89-4a0f-af69-45dfffe064cf_iPhone5.5_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/ea/ef/43eaef51-beca-643e-05ce-186b51fc600b/e089caff-340e-46a0-88a3-f832ebd7e97b_iPhone5.5_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/1a/15/0e1a15b1-1c04-a884-f60d-1ef29d2e168b/9a001b53-53db-4bb6-b127-93e52595231e_iPhone5.5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/a6/f9/26a6f924-875c-fad6-2b5b-b43184d833c4/54328093-1c36-47c1-b0fc-a365d488bb36_iPhone5.5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/ed/81/e2ed81c6-08b5-a927-fde6-fad73839a9fc/68646ed4-9168-4f06-92d7-8d954f92b51d_iPhone5.5_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/2a/a7/972aa718-5cb2-96dd-2df5-9a9ec55e5158/2e6406f0-690a-46c7-8ecf-2faa3e2b61be_iPad_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/49/9e/ac499e0f-199d-500f-98b5-caec75b92836/5c0d3935-5617-4d7a-895b-5ffad32aa2da_iPad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ac/cb/ceaccb8e-f186-7a4c-7561-00b511ceae8c/f8abf6cb-2f12-4018-9439-65286f821bf8_iPad_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/46/b0/f046b04e-0926-8536-a590-477ebb96621d/1e8e02ce-ac1d-49cf-8134-c856d98d455f_iPad_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/e1/63/fde1632c-2bc5-a16a-8f64-e0a8f6cf6774/1ecac2fc-2a35-4a36-900f-58195c8fc41f_iPad_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/4d/17/f64d17e1-2f68-d5c7-d1bc-da82d14efecb/d0848a44-4d03-48d7-9a00-0cbad526438e_iPad_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/05/8d/fd058dcb-22ca-0b13-c2e6-480ef9823885/48a793db-8b0c-41f5-a50e-e41c08f46c92_iPad_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/75/db/4d75db3d-8d57-60a7-1e14-872f03e1447c/9463ad4f-973f-4bfa-89b9-34eb48ec9c9b_iPad_8.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
