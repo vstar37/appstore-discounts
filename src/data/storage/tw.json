@@ -5585,6 +5585,25 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "骷心巫龍": "$220.00",
+            "黑龍灰霸齒": "$220.00",
+            "大型英雄包 2": "$390.00",
+            "倪浮世": "$30.00",
+            "剎陀羅": "$90.00",
+            "但丁": "$150.00",
+            "庫紹": "$90.00",
+            "英雄包 3": "$60.00",
+            "英雄包 1": "$60.00",
+            "英雄包 5": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750861419158,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -13117,6 +13136,14 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749219741932,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -19318,6 +19345,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751379752990,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749219741932,
@@ -26253,6 +26288,14 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751120355694,
           "price": 0,
           "formattedPrice": "免費",
@@ -29146,6 +29189,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751379752990,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750601967957,

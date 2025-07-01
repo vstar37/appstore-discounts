@@ -5441,6 +5441,25 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "剎陀羅": "HK$ 22.00",
+            "倪浮世": "HK$ 8.00",
+            "但丁": "HK$ 38.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "黑棘船長": "HK$ 8.00",
+            "卡茲": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750933516117,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -13267,6 +13286,14 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749219741932,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -20763,6 +20790,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751379752990,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749219741932,
@@ -28378,6 +28413,14 @@
     "history": [
       [
         {
+          "timestamp": 1751379752990,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751120355694,
           "price": 0,
           "formattedPrice": "免費",
@@ -31425,6 +31468,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751379752990,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750601967957,
