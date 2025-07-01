@@ -3531,6 +3531,25 @@
     "history": [
       [
         {
+          "timestamp": 1751412101647,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Grawl": "₺129,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Kahz": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Kutsao": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751214395827,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -8780,6 +8799,14 @@
     "history": [
       [
         {
+          "timestamp": 1751412101647,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749252099102,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -11501,6 +11528,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751412101647,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749252099102,
@@ -15991,6 +16026,14 @@
     "history": [
       [
         {
+          "timestamp": 1751412101647,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751152864960,
           "price": 0,
           "formattedPrice": "Free",
@@ -18441,6 +18484,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751412101647,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750634467851,
