@@ -5857,8 +5857,8 @@
       "Select Pack": "₺599,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Bottle of Sunshine Elixir": "₺39,99",
       "Box of Sunshine Elixir": "₺79,99",
       "Shovelful of Crystal": "₺39,99",
@@ -5878,6 +5878,25 @@
       "Select Pack": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751342437513,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Advanced Bonus Pack": "₺299,99",
+            "Cartful of Crystal": "₺999,99",
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750829033215,
