@@ -9526,6 +9526,25 @@
     "history": [
       [
         {
+          "timestamp": 1751430764038,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Valentine Stage": "₺179,99",
+            "Touhou Mugakudan -Ⅱ-": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "unlockall_29": "₺999,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "cyTus": "₺249,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751248853541,
           "price": 19.99,
           "formattedPrice": "₺19,99",
