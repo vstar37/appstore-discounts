@@ -5478,6 +5478,25 @@
     "history": [
       [
         {
+          "timestamp": 1751440979877,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$4.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751426470126,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -11717,6 +11736,25 @@
       "998财富币": "$149.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751440979877,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "128财富币": "$19.99",
+            "88财富币": "$12.99",
+            "198财富币": "$29.99",
+            "168财富币": "$24.99",
+            "1998财富币": "$299.99",
+            "1598财富币": "$229.99",
+            "898财富币": "$129.99",
+            "418财富币": "$59.99",
+            "98财富币": "$14.99",
+            "998财富币": "$149.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748064051671,

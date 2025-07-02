@@ -12389,7 +12389,14 @@
       "Business Productivity Planner": "₺499,99",
       "Study Daily Planner (Mon.Start": "₺499,99",
       "Business & Focus Planner": "₺499,99",
-      "Study Daily Planner (Sun.Start": "₺499,99"
+      "Study Daily Planner (Sun.Start": "₺499,99",
+      "Lumi – School Sticker Set": "₺99,99",
+      "The Planner Journal – Your Cha": "₺1.299,99",
+      "Mid-Year Productivity Planner": "₺399,99",
+      "Mid-Year Simple Digital Planne": "₺399,99",
+      "The Ultimate To Do List Templa": "₺229,99",
+      "Smart Digital Meeting Notebook": "₺349,99",
+      "Smart Digital Notebook (Landsc": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -12481,9 +12488,32 @@
       "Business Productivity Planner": "₺499,99",
       "Study Daily Planner (Mon.Start": "₺499,99",
       "Business & Focus Planner": "₺499,99",
-      "Study Daily Planner (Sun.Start": "₺499,99"
+      "Study Daily Planner (Sun.Start": "₺499,99",
+      "Lumi – School Sticker Set": "₺99,99",
+      "The Planner Journal – Your Cha": "₺1.299,99",
+      "Mid-Year Productivity Planner": "₺399,99",
+      "Mid-Year Simple Digital Planne": "₺399,99",
+      "The Ultimate To Do List Templa": "₺229,99",
+      "Smart Digital Meeting Notebook": "₺349,99",
+      "Smart Digital Notebook (Landsc": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751440979877,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lumi – School Sticker Set": "₺99,99",
+            "The Planner Journal – Your Cha": "₺1.299,99",
+            "Mid-Year Productivity Planner": "₺399,99",
+            "Mid-Year Simple Digital Planne": "₺399,99",
+            "The Ultimate To Do List Templa": "₺229,99",
+            "Smart Digital Meeting Notebook": "₺349,99",
+            "Smart Digital Notebook (Landsc": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747446500395,
