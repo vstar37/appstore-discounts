@@ -5478,6 +5478,23 @@
     "history": [
       [
         {
+          "timestamp": 1751426470126,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
+        {
           "timestamp": 1751408506891,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -12157,6 +12174,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426470126,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749266109400,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -18554,6 +18579,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426470126,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749266109400,
@@ -26585,6 +26618,14 @@
     "history": [
       [
         {
+          "timestamp": 1751426470126,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751169450562,
           "price": 0,
           "formattedPrice": "Free",
@@ -29864,6 +29905,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751426470126,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750650959167,
