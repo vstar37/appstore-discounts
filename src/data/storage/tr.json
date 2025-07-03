@@ -7216,6 +7216,16 @@
     "history": [
       [
         {
+          "timestamp": 1751527360888,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺122,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750134671654,
           "price": 0,
           "formattedPrice": "Free",
@@ -9478,7 +9488,8 @@
       "Cosmic Radio 2024(30%)": "₺129,99",
       "MSR Anthology_Vol.02(30%)": "₺179,99",
       "Ensemble Arcanum(30%)": "₺99,99",
-      "Touhou Mugakudan -IV-(30%)": "₺129,99"
+      "Touhou Mugakudan -IV-(30%)": "₺129,99",
+      "Nyanya Universe!": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -9529,9 +9540,29 @@
       "Cosmic Radio 2024(30%)": "₺129,99",
       "MSR Anthology_Vol.02(30%)": "₺179,99",
       "Ensemble Arcanum(30%)": "₺99,99",
-      "Touhou Mugakudan -IV-(30%)": "₺129,99"
+      "Touhou Mugakudan -IV-(30%)": "₺129,99",
+      "Nyanya Universe!": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751527360888,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "cyTus": "₺249,99",
+            "Nyanya Universe!": "₺179,99",
+            "Valentine Stage": "₺179,99",
+            "Touhou Mugakudan -Ⅱ-": "₺179,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺999,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751430764038,
