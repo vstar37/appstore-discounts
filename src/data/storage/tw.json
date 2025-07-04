@@ -11615,6 +11615,19 @@
     "history": [
       [
         {
+          "timestamp": 1751664065975,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "訂閱 (1 年)": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac #5": "$2,490.00"
+          }
+        },
+        {
           "timestamp": 1751660672874,
           "price": 0,
           "formattedPrice": "免費",
@@ -27231,6 +27244,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751664065975,
+          "price": 549,
+          "formattedPrice": "$549.00",
+          "inAppPurchases": {
+            "所有內容": "$0.00",
+            "《Opposing Fronts》火線對決": "$0.00",
+            "《Tales of Valor》": "$0.00",
+            "1 vs 1 獨立戰役地圖": "$0.00",
+            "戰役任務 2-5": "$0.00",
+            "4 vs 4 獨立戰役地圖": "$0.00",
+            "2 vs 2 獨立戰役地圖": "$0.00",
+            "3 vs 3 獨立戰役地圖": "$0.00",
+            "高畫質模型": "$0.00",
+            "戰役任務 6-10": "$0.00"
+          }
+        },
         {
           "timestamp": 1751660672874,
           "price": 549,
