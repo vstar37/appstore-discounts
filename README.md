@@ -145,7 +145,7 @@ So far, we've covered `6` `Countries or Regions` and  `198` `Apps` <br />Push no
 |75|1618180398|照片同步-导出备份相册照片视频|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|PhotoSync-Backup your photos|PhotoSync-Backup your photos|
 |76|1453318714|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — Story Maker|Vostok — Story Maker|
 |77|931188326|DayCost|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|
-|78|6449930220|手表浏览器  Wafari|手表浏览器  Wafari|Wafari  手表浏览器|Wafari  手表浏览器|Wafari - Watch Browser|Wafari - Watch Browser|
+|78|6449930220|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari - Watch Browser|Wafari - Watch Browser|
 |79|818394449|时间轴-全球历史|时间轴-全球历史|时间轴-全球历史|时间轴-全球历史|Timeline - World history|Timeline - World history|
 |80|1391571907|Fine修图|Fine修圖|Fine修圖|Fine修圖|Fine - Photo Editor|Fine - Photo Editor|
 |81|6499125531|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
