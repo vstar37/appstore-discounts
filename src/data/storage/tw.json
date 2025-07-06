@@ -10093,6 +10093,14 @@
     "history": [
       [
         {
+          "timestamp": 1751811562697,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751552563332,
           "price": 0,
           "formattedPrice": "免費",
@@ -14356,6 +14364,25 @@
       "Touhou Mugakudan -IV-(30%)": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751811562697,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_3": "$690.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "新手上路包": "$33.00",
+            "unlockall_29": "$1,120.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "MSR特選曲目組合包": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751438083308,
