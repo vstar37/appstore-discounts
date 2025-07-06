@@ -14600,6 +14600,25 @@
     "history": [
       [
         {
+          "timestamp": 1751829476877,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "HK$ 23.00",
+            "Aquaria Cruising Guide(30%)": "HK$ 23.00",
+            "Happy Otaku Pack Vol.20(30%)": "HK$ 23.00",
+            "Muse Dash・Legend(30%)": "HK$ 23.00",
+            "Cosmic Radio 2024(30%)": "HK$ 23.00",
+            "MSR Anthology_Vol.02(30%)": "HK$ 28.00",
+            "MDlevelTacticalTrainingBlu-ray": "HK$ 15.00",
+            "Ensemble Arcanum(30%)": "HK$ 15.00",
+            "Touhou Mugakudan -IV-(30%)": "HK$ 23.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751811562697,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
