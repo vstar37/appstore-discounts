@@ -5478,6 +5478,25 @@
     "history": [
       [
         {
+          "timestamp": 1751915962429,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751445100340,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -11061,6 +11080,20 @@
       "Parallels Desktop for Mac #5": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751915962429,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750393808796,
@@ -23823,6 +23856,18 @@
       "Annual": "$6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751915962429,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.95",
+            "Annual": "$6.00",
+            "Monthly": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750902893117,

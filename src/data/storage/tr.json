@@ -263,6 +263,19 @@
     "history": [
       [
         {
+          "timestamp": 1751915962429,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺329,99",
+            "One-page Fax": "₺39,99",
+            "3000 C-Points": "₺229,99",
+            "Ten-page Fax": "₺399,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 cp + Six chance to Draw": "₺229,99"
+          }
+        },
+        {
           "timestamp": 1751913162771,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -7883,6 +7896,19 @@
     "history": [
       [
         {
+          "timestamp": 1751915962429,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99",
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Subscription (1 year)": "₺2.299,99"
+          }
+        },
+        {
           "timestamp": 1751913162771,
           "price": 0,
           "formattedPrice": "Free",
@@ -12770,6 +12796,21 @@
     "history": [
       [
         {
+          "timestamp": 1751915962429,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1751913162771,
           "price": 0,
           "formattedPrice": "Free",
@@ -17106,6 +17147,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751915962429,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
         {
           "timestamp": 1751913162771,
           "price": 549,
