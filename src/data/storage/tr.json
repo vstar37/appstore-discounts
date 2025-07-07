@@ -263,6 +263,21 @@
     "history": [
       [
         {
+          "timestamp": 1751913162771,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "CamScanner Premium": "₺129,99",
+            "3000 cp + Six chance to Draw": "₺229,99",
+            "600 cp + One chance to Draw": "₺39,99",
+            "3000 C-Points": "₺229,99",
+            "Ten-page Fax": "₺399,99",
+            "One-page Fax": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750557818939,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -7868,6 +7883,20 @@
     "history": [
       [
         {
+          "timestamp": 1751913162771,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1730693617795,
           "price": 0,
           "formattedPrice": "Free",
@@ -12594,7 +12623,7 @@
       "Coloring Book – Kawaii Animals": "₺249,99",
       "Coloring Book – Kawaii Avocado": "₺249,99",
       "Mandala Coloring Book": "₺249,99",
-      "The 'Smart' To Do List - Apple": "₺299,99",
+      "The 'Smart' To Do List - Apple": "₺349,99",
       "Planeador Digital 2025 (Portug": "₺449,99",
       "The Ultimate Digital Recipe Bo": "₺349,99",
       "Digital Pharmacology Notebook": "₺249,99",
@@ -12623,7 +12652,14 @@
       "Mid-Year Simple Digital Planne": "₺399,99",
       "The Ultimate To Do List Templa": "₺229,99",
       "Smart Digital Meeting Notebook": "₺349,99",
-      "Smart Digital Notebook (Landsc": "₺349,99"
+      "Smart Digital Notebook (Landsc": "₺349,99",
+      "Digital Mind Map Notebook - Co": "₺299,99",
+      "Digital Flashcards - Coffee": "₺299,99",
+      "2025-2026 ADHD Planner for Stu": "₺449,99",
+      "To Do List Template Bundle": "₺249,99",
+      "Digital To Do List - Landscape": "₺299,99",
+      "Meeting Minutes Template": "₺229,99",
+      "Monthly Quest Log –  Mission:": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -12722,9 +12758,34 @@
       "Mid-Year Simple Digital Planne": "₺399,99",
       "The Ultimate To Do List Templa": "₺229,99",
       "Smart Digital Meeting Notebook": "₺349,99",
-      "Smart Digital Notebook (Landsc": "₺349,99"
+      "Smart Digital Notebook (Landsc": "₺349,99",
+      "Digital Mind Map Notebook - Co": "₺299,99",
+      "Digital Flashcards - Coffee": "₺299,99",
+      "2025-2026 ADHD Planner for Stu": "₺449,99",
+      "To Do List Template Bundle": "₺249,99",
+      "Digital To Do List - Landscape": "₺299,99",
+      "Meeting Minutes Template": "₺229,99",
+      "Monthly Quest Log –  Mission:": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751913162771,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Digital Mind Map Notebook - Co": "₺299,99",
+            "Digital Flashcards - Coffee": "₺299,99",
+            "2025-2026 ADHD Planner for Stu": "₺449,99",
+            "Smart Digital Notebook (Landsc": "₺349,99",
+            "To Do List Template Bundle": "₺249,99",
+            "Digital To Do List - Landscape": "₺299,99",
+            "The 'Smart' To Do List - Apple": "₺349,99",
+            "Meeting Minutes Template": "₺229,99",
+            "Monthly Quest Log –  Mission:": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751445100340,
@@ -17044,6 +17105,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751913162771,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "Opposing Fronts - Russian": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "All Content": "₺0,00",
+            "Opposing Fronts": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751660672874,
