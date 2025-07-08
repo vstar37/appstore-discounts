@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-07T19:22:17.398Z</updated>
+    <updated>2025-07-08T03:25:19.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,56 +21,48 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-07T19:22:17.399Z</updated>
+        <updated>2025-07-08T03:25:19.004Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1751915962429</id>
-        <link href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-07-07T19:19:22.429Z</updated>
-        <summary type="html"><![CDATA[Lifetime: $19.99 → $19.95]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/92/5e/17925e82-062f-0199-85a2-18e07e9c4bad/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Lifetime：</strong><span>$19.99</span> → <b>
-  <strong>$19.95</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  MoneyTrack - Smart Personal Finance Tracker
-Record every dollar, take control of your finances. A clutter-free budgeting app with zero ads, zero splash screens, and zero financial product promotions.
+        <title type="html"><![CDATA[Juice Watch]]></title>
+        <id>Juice Watch-1751944947757</id>
+        <link href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4"/>
+        <updated>2025-07-08T03:22:27.757Z</updated>
+        <summary type="html"><![CDATA[Price: $6.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$6.99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Monitor your iPhone battery level from your wrist.
 
-■ KEY FEATURES
-• Auto-Tracking: Seamlessly integrates with Shortcuts for automatic expense capture triggered by your transactions
-• Versatile Entries: Track income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Powerful Analytics: Visualize spending patterns through pie charts, bar graphs and trend lines to quickly spot financial issues
-• Smart Budgeting: Create annual/monthly budgets for total spending and categories with dynamic daily allowance adjustments
+Juice Watch is a simple app designed to do two things well:
 
-■ COMPREHENSIVE ASSET MANAGEMENT
-• Unified dashboard for all account types (cash, checking accounts, credit cards, store cards)
-• Balance sheet and net worth tracking for real-time financial status monitoring
-• Credit card management system (payment alerts, limit tracking, grace period calculation)
-• Multi-currency support with exchange rates for all major world currencies
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-■ SMART FEATURES
-• Multiple Books: Easily separate personal, business, and project finances
-• Collaborative Tracking: Invite family members to create transparent household finances
-• Cloud Sync: Free data backup across devices with secure protection
-• Easy Import/Export: Support for importing from banking apps and exporting to Excel
-• Recurring Transactions: Set up automatic entries that generate on schedule
-• Payment Plans: Track installment payments with due date reminders
-• Custom Categories: Create unlimited category levels to match your financial organization
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-■ MULTI-DEVICE EXPERIENCE
-Sync between iPhone, iPad and PC with instant updates, keeping your financial picture complete no matter where you are.
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-■ FOCUSED ON FINANCIAL WELLNESS
-We're dedicated to one mission — helping you achieve financial clarity. No investment pitches, no social distractions, just a clean and effective expense tracking experience.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+You can see both your iPhone and Apple Watch battery levels on the same complication.
+
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
