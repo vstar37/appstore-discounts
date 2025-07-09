@@ -2457,6 +2457,21 @@
     "history": [
       [
         {
+          "timestamp": 1752031536976,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750994522966,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -8963,7 +8978,7 @@
     ]
   },
   "768160271": {
-    "name": "航旅纵横PRO-官方机票、值机火车票接送机免税酒店",
+    "name": "航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -27015,6 +27030,14 @@
     "history": [
       [
         {
+          "timestamp": 1752031536976,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751774160051,
           "price": 0,
           "formattedPrice": "Free",
@@ -30727,6 +30750,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752031536976,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751790461922,
