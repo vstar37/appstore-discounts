@@ -1250,6 +1250,20 @@
     "history": [
       [
         {
+          "timestamp": 1752179174720,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "CamScanner Premium": "$49.99",
+            "One-page Fax": "$0.99",
+            "Ten-page Fax": "$8.99",
+            "3000 C-Points": "$4.99",
+            "600 cp + One chance to Draw": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750281676036,
           "price": 0.99,
           "formattedPrice": "$0.99",
