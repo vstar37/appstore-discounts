@@ -5565,6 +5565,25 @@
     "history": [
       [
         {
+          "timestamp": 1752122094696,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752026264703,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -19997,6 +20016,22 @@
       "The 'Smart' To Do List - Apple": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752122094696,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752045819542,
