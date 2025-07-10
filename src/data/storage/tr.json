@@ -17980,6 +17980,14 @@
     "history": [
       [
         {
+          "timestamp": 1752125171446,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750298119122,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -19852,7 +19860,7 @@
     ]
   },
   "6479307181": {
-    "name": "Ghostly Detector",
+    "name": "Ghost Detector: Haunted Radar",
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
