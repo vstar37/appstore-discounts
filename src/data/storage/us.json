@@ -169,6 +169,23 @@
     "history": [
       [
         {
+          "timestamp": 1752157452832,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "基础会员-连续包月": "$1.99"
+          }
+        },
+        {
           "timestamp": 1752154627989,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -19955,7 +19972,15 @@
       "[Spanish] Digital Notebook": "$6.99",
       "Smart Digital Meeting Notebook": "$7.99",
       "Smart Digital Notebook (Landsc": "$7.99",
-      "The 'Smart' To Do List - Apple": "$7.99"
+      "The 'Smart' To Do List - Apple": "$7.99",
+      "Digital Mind Map Notebook - Co": "$6.99",
+      "Digital Flashcards - Coffee": "$6.99",
+      "2025-2026 ADHD Planner for Stu": "$9.99",
+      "To Do List Template Bundle": "$5.99",
+      "[Español] Agenda digital diari": "$8.99",
+      "Digital To Do List - Landscape": "$6.99",
+      "Meeting Minutes Template": "$4.99",
+      "Monthly Quest Log –  Mission:": "$11.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20085,10 +20110,35 @@
       "[Spanish] Digital Notebook": "$6.99",
       "Smart Digital Meeting Notebook": "$7.99",
       "Smart Digital Notebook (Landsc": "$7.99",
-      "The 'Smart' To Do List - Apple": "$7.99"
+      "The 'Smart' To Do List - Apple": "$7.99",
+      "Digital Mind Map Notebook - Co": "$6.99",
+      "Digital Flashcards - Coffee": "$6.99",
+      "2025-2026 ADHD Planner for Stu": "$9.99",
+      "To Do List Template Bundle": "$5.99",
+      "[Español] Agenda digital diari": "$8.99",
+      "Digital To Do List - Landscape": "$6.99",
+      "Meeting Minutes Template": "$4.99",
+      "Monthly Quest Log –  Mission:": "$11.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1752157452832,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Digital Mind Map Notebook - Co": "$6.99",
+            "Digital Flashcards - Coffee": "$6.99",
+            "2025-2026 ADHD Planner for Stu": "$9.99",
+            "Smart Digital Notebook (Landsc": "$7.99",
+            "To Do List Template Bundle": "$5.99",
+            "[Español] Agenda digital diari": "$8.99",
+            "Digital To Do List - Landscape": "$6.99",
+            "The 'Smart' To Do List - Apple": "$7.99",
+            "Meeting Minutes Template": "$4.99",
+            "Monthly Quest Log –  Mission:": "$11.99"
+          }
+        },
         {
           "timestamp": 1752132225083,
           "price": 0,

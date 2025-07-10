@@ -9527,6 +9527,15 @@
     "history": [
       [
         {
+          "timestamp": 1752157452832,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium": "¥253.00",
+            "高级版": "¥248.00"
+          }
+        },
+        {
           "timestamp": 1752154627989,
           "price": 0,
           "formattedPrice": "免费",
@@ -10284,7 +10293,8 @@
       "元旦特惠 1 年 SVIP 联合礼包 3": "¥88.00",
       "150次加量包": "¥23.00",
       "250次加量包": "¥36.00",
-      "活动特惠季度 SVIP": "¥18.80"
+      "活动特惠季度 SVIP": "¥18.80",
+      "连续包季 SVIP": "¥26.00"
     },
     "minPriceInfo": {
       "price": 98,
@@ -10306,9 +10316,29 @@
       "元旦特惠 1 年 SVIP 联合礼包 3": "¥88.00",
       "150次加量包": "¥23.00",
       "250次加量包": "¥36.00",
-      "活动特惠季度 SVIP": "¥18.80"
+      "活动特惠季度 SVIP": "¥18.80",
+      "连续包季 SVIP": "¥26.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752157452832,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "连续包季 SVIP": "¥26.00",
+            "活动特惠季度 SVIP": "¥18.80",
+            "元旦特惠 1 年 SVIP 联合礼包 3": "¥88.00",
+            "元旦特惠 1 年 SVIP 联合礼包 2": "¥88.00",
+            "元旦特惠 1 年 SVIP 联合礼包 1": "¥88.00",
+            "SVIP特惠 (买一年送半年)": "¥88.00",
+            "SVIP特惠 (买两年送一年)": "¥168.00",
+            "雨季特惠 100 天 SVIP": "¥19.90",
+            "季度SVIP": "¥18.80",
+            "1年SVIP": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750149083394,
@@ -24325,6 +24355,14 @@
     "history": [
       [
         {
+          "timestamp": 1752157452832,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750861419158,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -28485,6 +28523,14 @@
     "history": [
       [
         {
+          "timestamp": 1752157452832,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750947749417,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -31456,6 +31502,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752157452832,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750861419158,
