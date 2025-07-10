@@ -26309,6 +26309,16 @@
     "history": [
       [
         {
+          "timestamp": 1752132225083,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752070997653,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
