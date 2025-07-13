@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-13T08:31:17.651Z</updated>
+    <updated>2025-07-13T14:23:18.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,63 +21,27 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-13T08:31:17.652Z</updated>
+        <updated>2025-07-13T14:23:18.172Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
-        <id>生辰 — 桌面时间小组件-1752395291716</id>
-        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
-        <updated>2025-07-13T08:28:11.716Z</updated>
-        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥88.00<br/>生辰-季度会员: ¥88.00 → ¥22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>永久会员：</strong><span>¥98.00</span> → <b>
-  <strong>¥88.00</strong>
-</b>
-  </li><li>
-    <strong>生辰-季度会员：</strong><span>¥88.00</span> → <b>
-  <strong>¥22.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  这是一款关于生、死、心愿与延续的App。
-
-小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
-时针转动，生命流逝，但每一次心跳都可以更加有力。
-
-有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
-而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
-
-生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
-
-- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
-- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
-- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
-
-美国诗人纳·斯待尔在87岁那年写道：
-"如果我能够从头活过，我会试着犯更多的错。
-我会放松一点，我会灵活一点。
-我会爬更多的山，游更多的河，看更多的日落。"
-
-因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
-
-【生辰 App 会员服务说明】
-
-1.会员包含几种订购类型
-订阅周期：1个月、3个月、12个月
-2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
-3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
-4.生辰App 会员协议
-生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
-5.生辰App 软件协议与隐私政策
-生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
-生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
-</p>]]></content>
+        <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
+        <id>全能记(录音,备忘,流水)-1752416420100</id>
+        <link href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4"/>
+        <updated>2025-07-13T14:20:20.100Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
+更有备忘提醒让繁忙的你无一错漏！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
