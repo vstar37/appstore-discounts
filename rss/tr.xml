@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-14T20:30:25.990Z</updated>
+    <updated>2025-07-14T23:25:21.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,28 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-14T20:30:25.990Z</updated>
+        <updated>2025-07-14T23:25:21.300Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1752524820854</id>
-        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-07-14T20:27:00.854Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[GTA III – Definitive]]></title>
+        <id>GTA III – Definitive-1752535344427</id>
+        <link href="https://apps.apple.com/tr/app/gta-iii-definitive/id6468843723?uo=4"/>
+        <updated>2025-07-14T23:22:24.427Z</updated>
+        <summary type="html"><![CDATA[Price: ₺439,00 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/gta-iii-definitive/id6468843723?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/d9/ea6ed96d-171e-029c-b221-e05c8d635260/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
+  Discount Information（Price：<span>₺439,00</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  It all starts in Liberty City. With revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it.
 
-Juice Watch is a simple app designed to do two things well:
-
-• Show the battery level of the paired iPhone in a complication on Apple Watch
-
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
-
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
-
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+Rockstar Games, Inc. 622 Broadway, New York, NY, 10012.  © 2001–2023. Rockstar Games, Grand Theft Auto, Grand Theft Auto III and R* Logo are marks/logos/copyrights of Take-Two Interactive. Unreal® Engine, Copyright 1998–2023, Epic Games, Inc. All rights reserved.  Uses Oodle. Copyright © 2008–2023 by Epic Games Tools, Inc.  The ratings icon is a trademark of the Entertainment Software Association.  All other marks and trademarks are properties of their respective owners.  All rights reserved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/57/6c/53576c05-38ef-3f26-d11b-9f0947c46765/247419ac-5b9c-48e5-af5e-83ba13441268_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/dd/cb/36ddcb28-ffd0-c71b-1ba3-9de39735268b/e14e42f4-8d05-492d-97d2-23592d0c87b0_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0f/de/80/0fde802a-95d4-5045-135b-a382a46f5ab4/c5ecb141-4075-4aab-a6ed-eded14f5b00b_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/00/a7/5d/00a75d01-6ad4-968f-997c-59e329efde1e/bda2e5a0-baff-4358-8d97-122d7dc54fb3_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/b6/75/60b6751f-9268-25b5-81bc-73f362fcd42e/b9bda94f-ccbf-4b7c-9451-8345aaa69e61_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b5/9c/df/b59cdf9a-43fd-0f37-2feb-b161e75e956c/56054cc2-40ab-4733-a838-856b70616a50_6.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/12/b0/83/12b08374-7caa-d66f-b5a7-1b38b280236e/f6bf5d6d-5168-4ef2-b1ce-a8d7e2a98228_iPad_GTATrilogy_GTA3_1_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/16/bd/8316bd4c-cc5f-98f9-0d96-9cf62ecfcc52/b09573f9-3d90-4b8f-b652-fad35e8a71de_iPad_GTATrilogy_GTA3_5_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1f/96/76/1f967693-bd33-53d9-0c71-271cb031a43f/1b565e26-27d5-433f-9517-f92b9b410e6f_iPad_GTATrilogy_GTA3_HUD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8b/d3/2a/8bd32ad0-3627-527d-d13c-3a4417365085/fa6d660b-21c9-4336-a25b-391cc709d2ba_iPad_GTATrilogy_GTA3_3_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/84/37/2c84373c-76aa-a756-1c75-f27fc43bcef7/d82f16fa-abb6-4105-bc3c-5c26fc07dcd7_iPad_GTATrilogy_GTA3_HUD_1.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
