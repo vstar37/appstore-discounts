@@ -13460,6 +13460,14 @@
     "history": [
       [
         {
+          "timestamp": 1752589369081,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379752990,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -21273,6 +21281,14 @@
     "history": [
       [
         {
+          "timestamp": 1752589369081,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379752990,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -26410,6 +26426,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752589369081,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1752524820854,
           "price": 0,

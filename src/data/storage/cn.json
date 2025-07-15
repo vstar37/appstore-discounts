@@ -13941,6 +13941,14 @@
     "history": [
       [
         {
+          "timestamp": 1752589369081,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379752990,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -21504,6 +21512,14 @@
     "history": [
       [
         {
+          "timestamp": 1752589369081,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379752990,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -25318,6 +25334,14 @@
     "history": [
       [
         {
+          "timestamp": 1752589369081,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379752990,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -26153,6 +26177,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752589369081,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1752524820854,
           "price": 0,
