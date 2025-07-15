@@ -20595,8 +20595,8 @@
   "6468843723": {
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
-      "price": 439,
-      "formattedPrice": "₺439,00"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20604,6 +20604,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752571932656,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1752535344427,
           "price": 0,

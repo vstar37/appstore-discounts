@@ -30906,8 +30906,8 @@
   "6468843723": {
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
-      "price": 600,
-      "formattedPrice": "$600.00"
+      "price": 690,
+      "formattedPrice": "$690.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -30915,6 +30915,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752571932656,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1752535344427,
           "price": 0,
