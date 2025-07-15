@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-07-14T23:25:21.299Z</updated>
+    <updated>2025-07-15T10:29:18.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-14T23:25:21.299Z</updated>
+        <updated>2025-07-15T10:29:18.691Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,15 +29,15 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[GTA III – Definitive]]></title>
-        <id>GTA III – Definitive-1752535344427</id>
+        <id>GTA III – Definitive-1752575174998</id>
         <link href="https://apps.apple.com/tw/app/gta-iii-definitive/id6468843723?uo=4"/>
-        <updated>2025-07-14T23:22:24.427Z</updated>
-        <summary type="html"><![CDATA[价格: $600.00 → 免費]]></summary>
+        <updated>2025-07-15T10:26:14.998Z</updated>
+        <summary type="html"><![CDATA[价格: $690.00 → $600.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/gta-iii-definitive/id6468843723?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/d9/ea6ed96d-171e-029c-b221-e05c8d635260/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>$600.00</span> → <b>
-  <strong>免費</strong>
+  优惠信息（价格：<span>$690.00</span> → <b>
+  <strong>$600.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
   一切的開端就始於自由市。在這裡，您可以享受前所未有的自由度，盡情四處探索，到處搶劫。Grand Theft Auto III 讓您一手掌握黑暗的犯罪世界，就看您有沒有膽量接受挑戰。
