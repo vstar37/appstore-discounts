@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-14T23:25:21.300Z</updated>
+    <updated>2025-07-15T02:07:18.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,28 +21,56 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-14T23:25:21.300Z</updated>
+        <updated>2025-07-15T02:07:18.484Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA III – Definitive]]></title>
-        <id>GTA III – Definitive-1752535344427</id>
-        <link href="https://apps.apple.com/us/app/gta-iii-definitive/id6468843723?uo=4"/>
-        <updated>2025-07-14T23:22:24.427Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/gta-iii-definitive/id6468843723?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/d9/ea6ed96d-171e-029c-b221-e05c8d635260/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  It all starts in Liberty City. With revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it.
+        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
+        <id>MoneyTrack: Expense &amp; Budget-1752545072835</id>
+        <link href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4"/>
+        <updated>2025-07-15T02:04:32.835Z</updated>
+        <summary type="html"><![CDATA[Lifetime: $19.99 → $19.95]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/92/5e/17925e82-062f-0199-85a2-18e07e9c4bad/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>$19.99</span> → <b>
+  <strong>$19.95</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MoneyTrack - Smart Personal Finance Tracker
+Record every dollar, take control of your finances. A clutter-free budgeting app with zero ads, zero splash screens, and zero financial product promotions.
 
-Rockstar Games, Inc. 622 Broadway, New York, NY, 10012.  © 2001–2023. Rockstar Games, Grand Theft Auto, Grand Theft Auto III and R* Logo are marks/logos/copyrights of Take-Two Interactive. Unreal® Engine, Copyright 1998–2023, Epic Games, Inc. All rights reserved.  Uses Oodle. Copyright © 2008–2023 by Epic Games Tools, Inc.  The ratings icon is a trademark of the Entertainment Software Association.  All other marks and trademarks are properties of their respective owners.  All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/57/6c/53576c05-38ef-3f26-d11b-9f0947c46765/247419ac-5b9c-48e5-af5e-83ba13441268_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/dd/cb/36ddcb28-ffd0-c71b-1ba3-9de39735268b/e14e42f4-8d05-492d-97d2-23592d0c87b0_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0f/de/80/0fde802a-95d4-5045-135b-a382a46f5ab4/c5ecb141-4075-4aab-a6ed-eded14f5b00b_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/00/a7/5d/00a75d01-6ad4-968f-997c-59e329efde1e/bda2e5a0-baff-4358-8d97-122d7dc54fb3_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/b6/75/60b6751f-9268-25b5-81bc-73f362fcd42e/b9bda94f-ccbf-4b7c-9451-8345aaa69e61_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b5/9c/df/b59cdf9a-43fd-0f37-2feb-b161e75e956c/56054cc2-40ab-4733-a838-856b70616a50_6.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/12/b0/83/12b08374-7caa-d66f-b5a7-1b38b280236e/f6bf5d6d-5168-4ef2-b1ce-a8d7e2a98228_iPad_GTATrilogy_GTA3_1_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/16/bd/8316bd4c-cc5f-98f9-0d96-9cf62ecfcc52/b09573f9-3d90-4b8f-b652-fad35e8a71de_iPad_GTATrilogy_GTA3_5_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1f/96/76/1f967693-bd33-53d9-0c71-271cb031a43f/1b565e26-27d5-433f-9517-f92b9b410e6f_iPad_GTATrilogy_GTA3_HUD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8b/d3/2a/8bd32ad0-3627-527d-d13c-3a4417365085/fa6d660b-21c9-4336-a25b-391cc709d2ba_iPad_GTATrilogy_GTA3_3_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/84/37/2c84373c-76aa-a756-1c75-f27fc43bcef7/d82f16fa-abb6-4105-bc3c-5c26fc07dcd7_iPad_GTATrilogy_GTA3_HUD_1.png/552x414bb.png" />]]></content>
+■ KEY FEATURES
+• Auto-Tracking: Seamlessly integrates with Shortcuts for automatic expense capture triggered by your transactions
+• Versatile Entries: Track income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
+• Powerful Analytics: Visualize spending patterns through pie charts, bar graphs and trend lines to quickly spot financial issues
+• Smart Budgeting: Create annual/monthly budgets for total spending and categories with dynamic daily allowance adjustments
+
+■ COMPREHENSIVE ASSET MANAGEMENT
+• Unified dashboard for all account types (cash, checking accounts, credit cards, store cards)
+• Balance sheet and net worth tracking for real-time financial status monitoring
+• Credit card management system (payment alerts, limit tracking, grace period calculation)
+• Multi-currency support with exchange rates for all major world currencies
+
+■ SMART FEATURES
+• Multiple Books: Easily separate personal, business, and project finances
+• Collaborative Tracking: Invite family members to create transparent household finances
+• Cloud Sync: Free data backup across devices with secure protection
+• Easy Import/Export: Support for importing from banking apps and exporting to Excel
+• Recurring Transactions: Set up automatic entries that generate on schedule
+• Payment Plans: Track installment payments with due date reminders
+• Custom Categories: Create unlimited category levels to match your financial organization
+
+■ MULTI-DEVICE EXPERIENCE
+Sync between iPhone, iPad and PC with instant updates, keeping your financial picture complete no matter where you are.
+
+■ FOCUSED ON FINANCIAL WELLNESS
+We're dedicated to one mission — helping you achieve financial clarity. No investment pitches, no social distractions, just a clean and effective expense tracking experience.
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
