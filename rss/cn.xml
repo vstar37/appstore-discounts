@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-15T02:07:18.480Z</updated>
+    <updated>2025-07-15T04:03:18.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-15T02:07:18.481Z</updated>
+        <updated>2025-07-15T04:03:18.317Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,15 +29,15 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[zFuse - 影音播放器]]></title>
-        <id>zFuse - 影音播放器-1752545072835</id>
+        <id>zFuse - 影音播放器-1752552029227</id>
         <link href="https://apps.apple.com/cn/app/zfuse-%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4"/>
-        <updated>2025-07-15T02:04:32.835Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → ¥3.00]]></summary>
+        <updated>2025-07-15T04:00:29.227Z</updated>
+        <summary type="html"><![CDATA[价格: ¥3.00 → ¥1.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/zfuse-%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/66/86/df66863e-90c1-8673-cdaf-1f82f3a14c96/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>¥3.00</strong>
+  优惠信息（价格：<span>¥3.00</span> → <b>
+  <strong>¥1.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
   - zFuse 可播放所有视频格式和编码, 您无需将视频文件转换为MP4, 即可在移动设备中进行播放.
