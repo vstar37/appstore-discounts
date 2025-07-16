@@ -11861,6 +11861,20 @@
     "history": [
       [
         {
+          "timestamp": 1752650720743,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751664065975,
           "price": 0,
           "formattedPrice": "免費",
@@ -14654,6 +14668,25 @@
       "Touhou Mugakudan -IV-(30%)": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752650720743,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$100.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+            "Aquaria Cruising Guide(30%)": "$100.00",
+            "Happy Otaku Pack Vol.20(30%)": "$100.00",
+            "Muse Dash・Legend(30%)": "$100.00",
+            "Cosmic Radio 2024(30%)": "$100.00",
+            "MSR Anthology_Vol.02(30%)": "$130.00",
+            "MDlevelTacticalTrainingBlu-ray": "$70.00",
+            "Ensemble Arcanum(30%)": "$70.00",
+            "Touhou Mugakudan -IV-(30%)": "$100.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752470906190,
