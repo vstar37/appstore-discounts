@@ -14195,6 +14195,25 @@
     "history": [
       [
         {
+          "timestamp": 1752675784327,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Pack": "¥8.00",
+            "Geometric Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Color Frame Pack": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752513761361,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -31745,6 +31764,25 @@
       "212枚鸡蛋": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752675784327,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "反击篇": "¥18.00",
+            "99枚鸡蛋": "¥68.00",
+            "396枚鸡蛋": "¥198.00",
+            "15枚鸡蛋": "¥12.00",
+            "212枚鸡蛋": "¥128.00",
+            "41枚鸡蛋": "¥30.00",
+            "41枝鲜花": "¥30.00",
+            "396枝鲜花": "¥198.00",
+            "15枝鲜花": "¥12.00",
+            "7枚鸡蛋": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752247539559,
