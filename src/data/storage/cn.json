@@ -14195,6 +14195,23 @@
     "history": [
       [
         {
+          "timestamp": 1752679628446,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1752675784327,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -31765,6 +31782,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752679628446,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "反击篇": "¥18.00",
+            "7枝鲜花": "¥6.00",
+            "15枝鲜花": "¥12.00",
+            "7枚鸡蛋": "¥6.00",
+            "15枚鸡蛋": "¥12.00",
+            "41枝鲜花": "¥30.00",
+            "396枝鲜花": "¥198.00",
+            "99枝鲜花": "¥68.00",
+            "41枚鸡蛋": "¥30.00",
+            "99枚鸡蛋": "¥68.00"
+          }
+        },
         {
           "timestamp": 1752675784327,
           "price": 20,
