@@ -12972,6 +12972,25 @@
     "history": [
       [
         {
+          "timestamp": 1752664857520,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "$0.99",
+            "Social Frame Package": "$0.99",
+            "Magazine Frame Package": "$0.99",
+            "Black Frame Pack": "$0.99",
+            "Geometric Frame Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Retro Frame Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Upgrade Deluxe Edition": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752482106007,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -13814,6 +13833,25 @@
       "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752664857520,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99",
+            "Muse Dash・Legend(30%)": "$2.99",
+            "Cosmic Radio 2024(30%)": "$2.99",
+            "MSR Anthology_Vol.02(30%)": "$3.99",
+            "MDlevelTacticalTrainingBlu-ray": "$1.99",
+            "Ensemble Arcanum(30%)": "$1.99",
+            "Touhou Mugakudan -IV-(30%)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752470906190,
