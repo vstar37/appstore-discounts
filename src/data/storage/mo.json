@@ -9760,6 +9760,19 @@
     "history": [
       [
         {
+          "timestamp": 1752751285385,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime license": "USD 99.99",
+            "Yearly Subscription": "USD 19.99",
+            "Monthly Subscription": "USD 5.49",
+            "PRO yearly subscription": "USD 34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746627787690,
           "price": 0,
           "formattedPrice": "免費",
