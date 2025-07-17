@@ -14678,7 +14678,9 @@
       "肥宅快樂包 Vol.3": "HK$ 28.00",
       "unlockall_5": "HK$ 118.00",
       "unlockall_1": "HK$ 203.00",
-      "unlockall_4": "HK$ 138.00"
+      "unlockall_4": "HK$ 138.00",
+      "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+      "暮 色 電 台 ＦＭ１０６": "HK$ 23.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14741,9 +14743,30 @@
       "肥宅快樂包 Vol.3": "HK$ 28.00",
       "unlockall_5": "HK$ 118.00",
       "unlockall_1": "HK$ 203.00",
-      "unlockall_4": "HK$ 138.00"
+      "unlockall_4": "HK$ 138.00",
+      "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+      "暮 色 電 台 ＦＭ１０６": "HK$ 23.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752777335309,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+            "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "HK$ 23.00",
+            "Aquaria Cruising Guide(30%)": "HK$ 23.00",
+            "Happy Otaku Pack Vol.20(30%)": "HK$ 23.00",
+            "Muse Dash・Legend(30%)": "HK$ 23.00",
+            "Cosmic Radio 2024(30%)": "HK$ 23.00",
+            "MSR Anthology_Vol.02(30%)": "HK$ 28.00",
+            "MDlevelTacticalTrainingBlu-ray": "HK$ 15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752643743826,
