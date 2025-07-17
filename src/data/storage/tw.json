@@ -31067,6 +31067,16 @@
     "history": [
       [
         {
+          "timestamp": 1752744529273,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "$600.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752604545695,
           "price": 600,
           "formattedPrice": "$600.00",

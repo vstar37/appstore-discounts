@@ -20749,6 +20749,16 @@
     "history": [
       [
         {
+          "timestamp": 1752744529273,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Access": "₺439,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752604545695,
           "price": 439,
           "formattedPrice": "₺439,00",

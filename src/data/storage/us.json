@@ -32401,6 +32401,16 @@
     "history": [
       [
         {
+          "timestamp": 1752744529273,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Access": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752604545695,
           "price": 19.99,
           "formattedPrice": "$19.99",
