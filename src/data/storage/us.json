@@ -20471,7 +20471,17 @@
       "[Español] Agenda digital diari": "$8.99",
       "Digital To Do List - Landscape": "$6.99",
       "Meeting Minutes Template": "$4.99",
-      "Monthly Quest Log –  Mission:": "$11.99"
+      "Monthly Quest Log –  Mission:": "$11.99",
+      "Colorful & Functional Notebook": "$7.99",
+      "Lucky 12-Tab Notebook (ChatGPT": "$7.99",
+      "Ultimate Blue Palette Notebook": "$7.99",
+      "Smart Daily Life Management Pl": "$10.99",
+      "Vintage Memo & Washi Tape Stic": "$3.99",
+      "Bean to Brew: The Complete Cof": "$6.99",
+      "114 Templates of Notebook (Rai": "$6.99",
+      "2025-2026 Pet Log & Lifestyle": "$9.99",
+      "Study Notebook: Study with Sim": "$7.99",
+      "Cute Hand-Drawn Daily Sticker": "$2.49"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20609,9 +20619,38 @@
       "[Español] Agenda digital diari": "$8.99",
       "Digital To Do List - Landscape": "$6.99",
       "Meeting Minutes Template": "$4.99",
-      "Monthly Quest Log –  Mission:": "$11.99"
+      "Monthly Quest Log –  Mission:": "$11.99",
+      "Colorful & Functional Notebook": "$7.99",
+      "Lucky 12-Tab Notebook (ChatGPT": "$7.99",
+      "Ultimate Blue Palette Notebook": "$7.99",
+      "Smart Daily Life Management Pl": "$10.99",
+      "Vintage Memo & Washi Tape Stic": "$3.99",
+      "Bean to Brew: The Complete Cof": "$6.99",
+      "114 Templates of Notebook (Rai": "$6.99",
+      "2025-2026 Pet Log & Lifestyle": "$9.99",
+      "Study Notebook: Study with Sim": "$7.99",
+      "Cute Hand-Drawn Daily Sticker": "$2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752877420051,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Colorful & Functional Notebook": "$7.99",
+            "Lucky 12-Tab Notebook (ChatGPT": "$7.99",
+            "Ultimate Blue Palette Notebook": "$7.99",
+            "Smart Daily Life Management Pl": "$10.99",
+            "Vintage Memo & Washi Tape Stic": "$3.99",
+            "Bean to Brew: The Complete Cof": "$6.99",
+            "114 Templates of Notebook (Rai": "$6.99",
+            "2025-2026 Pet Log & Lifestyle": "$9.99",
+            "Study Notebook: Study with Sim": "$7.99",
+            "Cute Hand-Drawn Daily Sticker": "$2.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752737130418,
