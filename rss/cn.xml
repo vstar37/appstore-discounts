@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-18T05:32:18.555Z</updated>
+    <updated>2025-07-18T06:39:16.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,40 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-18T05:32:18.556Z</updated>
+        <updated>2025-07-18T06:39:16.482Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1752816551236</id>
-        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-07-18T05:29:11.236Z</updated>
-        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥233.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/dd/1a/d1dd1a90-59ec-4f22-a01b-932059d860b8/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>¥253.00</span> → <b>
-  <strong>¥233.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+        <title type="html"><![CDATA[灵体侦测器: 能量、超自然现象幽灵探测器器]]></title>
+        <id>灵体侦测器: 能量、超自然现象幽灵探测器器-1752820555087</id>
+        <link href="https://apps.apple.com/cn/app/%E7%81%B5%E4%BD%93%E4%BE%A6%E6%B5%8B%E5%99%A8-%E8%83%BD%E9%87%8F-%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%B0%E8%B1%A1%E5%B9%BD%E7%81%B5%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%99%A8/id6479307181?uo=4"/>
+        <updated>2025-07-18T06:35:55.087Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%81%B5%E4%BD%93%E4%BE%A6%E6%B5%8B%E5%99%A8-%E8%83%BD%E9%87%8F-%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%B0%E8%B1%A1%E5%B9%BD%E7%81%B5%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%99%A8/id6479307181?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/00/3c/0d003cbb-a851-f4b2-930f-a9b0c30ccc7d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  这个应用程序有一个简单的功能：检测灵体的存在并捕捉它们。
+一旦捕获，它会显示东方佛教的六字箴言作为保护和祝福用户的形式。
 
-“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+• 这个应用程序可能会吓到你。
+• 所有传感器都在一个页面上。
+• 一个真正的雷达来追踪异常。
+• 高精度的EMF（电磁场）探测器。
+• 拍照并检测其中的异常 - 可以自由开启或关闭。
+• 更详细的说明在应用程序中可用；只需触摸?按钮即可访问它们。
 
-“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+警告：
+如果您是一个非常敏感或容易受到惊吓的个体，请考虑不使用这个应用程序并将其关闭。在使用此应用程序时，请不要将自己置于危险中。如果您认为自己处于危险之中，请立即关闭应用程序，联系某人寻求帮助，并立即离开该地区。
 
-“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
-
-为什么选择 DAY ONE？
-
-Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
-
-易于使用，让您爱不释手
-
-• 备受赞誉的美观设计
-• 无限的文本日记条目
-• 无限量照片和视频*
-•功能强大的富文本格式，带有 Markdown 功能
-• 不同的日记类型适用于记录您生活的方方面面*
-
-私密且安全
-
-• 自动备份可确保日记条目的安全性
-• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
-•日记条目使用密码或 TouchID 来保证安全性
-•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
-
-养成习惯并坚持下去
-
-•可编程的提醒通知
-• 独特的每日日记提示功能有助于避免日记中断
-•可自定义的模板可节省时间，并可向日记条目中添加组织
-• 通过今日视图，您可以大致了解您去过哪里，做了什么
-
-随时随地写日记
-
-• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
-• 能够直接向您的日记发送文本或电子邮件条目
-
-专为记录回忆而生
-
-• 那年今日功能让您可以回顾过去的回忆
-• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
-• 地图视图可快速显示您在日记中记录的所有地点
-
-*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
-
-隐私政策：https://dayoneapp.com/privacy-policy/
-
-使用条款：https://dayoneapp.com/terms-of-use/
-
-如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+免责声明：
+请记住，由于应用程序使用设备的不同传感器，因此我们不能保证任何鬼魂检测的准确性，这在很大程度上取决于终端的精度和质量。由于超自然活动无法用科学证明，我们不能保证该应用程序与真实的灵魂进行通信。这个应用程序的结果无法得到科学验证。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/9e/a4/969ea467-9ec0-aad8-b15b-01c4bda6ecb1/c0995a6f-8fde-4b70-9879-85fc4e47a2cd_01.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/74/75/b7747533-0b18-e5c5-8b4b-d1873584037b/714bc451-5308-4057-ab5b-f7eb38e9e9da_02.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e5/95/c8e59543-0b93-d555-3c91-12c49eaf3fce/e448bd72-da04-4ec1-aa76-9124a1eb6c0d_03.jpeg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5b/af/7a5baf5b-3fd3-a070-9987-b74699c4b426/1818ec03-b583-4343-979c-c7644e7a42c9_01.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/18/37/7818377f-2a24-2050-6ff5-1d630a22a173/13c93d71-8d18-4c82-be15-b438a326b46d_02.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/b5/b8/d2b5b883-3ea0-7917-a9c3-6306941e6827/55560694-3c44-4e75-9e2f-d60670fb4034_03.jpeg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
