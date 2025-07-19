@@ -13058,6 +13058,25 @@
     "history": [
       [
         {
+          "timestamp": 1752899642154,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "$0.99",
+            "Social Frame Package": "$0.99",
+            "Magazine Frame Package": "$0.99",
+            "Black Frame Pack": "$0.99",
+            "Geometric Frame Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Retro Frame Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Upgrade Deluxe Edition": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752670310681,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -20632,6 +20651,21 @@
       "Cute Hand-Drawn Daily Sticker": "$2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752899642154,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752880982951,
