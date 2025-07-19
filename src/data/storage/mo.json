@@ -752,6 +752,19 @@
     "history": [
       [
         {
+          "timestamp": 1752913785873,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "USD 49.99",
+            "一頁傳真": "USD 0.99",
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1752909709078,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -6944,6 +6957,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752913785873,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一大袋寶石": "USD 10.99",
+            "年訂閱（早鳥）": "USD 25.00",
+            "月訂閱（早鳥）": "USD 4.19",
+            "一鏟子寶石": "USD 0.99",
+            "超值進階寶石包": "USD 6.99"
+          }
+        },
         {
           "timestamp": 1752909709078,
           "price": 0,
