@@ -752,6 +752,23 @@
     "history": [
       [
         {
+          "timestamp": 1752909709078,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "掃描全能王高級帳戶": "USD 49.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99",
+            "一頁傳真": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752179174720,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -6921,11 +6938,29 @@
       "2025 Birthday Package (Basic)": "USD 9.99",
       "森日豪華禮包": "USD 18.99",
       "森日精選禮包": "USD 12.99",
-      "年訂閱": "USD 42.00",
+      "年訂閱": "USD 25.00",
       "月訂閱（早鳥）": "USD 4.19",
       "年訂閱（早鳥）": "USD 25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752909709078,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "USD 25.00",
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99",
+            "Supreme Package": "USD 4.99",
+            "Advanced Package": "USD 2.99",
+            "Starter Package": "USD 0.99",
+            "年訂閱": "USD 25.00",
+            "月訂閱（早鳥）": "USD 4.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752772975042,
