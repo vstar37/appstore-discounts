@@ -5510,6 +5510,14 @@
     "history": [
       [
         {
+          "timestamp": 1753021260750,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752762164851,
           "price": 0,
           "formattedPrice": "免费",
@@ -8515,6 +8523,21 @@
       "森日精选礼包": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753021260750,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "森日豪华礼包": "¥128.00",
+            "森日精选礼包": "¥88.00",
+            "Elite Package": "¥68.00",
+            "Supreme Package": "¥38.00",
+            "Advanced Package": "¥22.00",
+            "Starter Package": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752772975042,
@@ -12731,6 +12754,14 @@
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753021260750,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751379752990,
@@ -31881,6 +31912,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753021260750,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751379752990,
