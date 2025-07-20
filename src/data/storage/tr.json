@@ -13182,7 +13182,17 @@
       "To Do List Template Bundle": "₺249,99",
       "Digital To Do List - Landscape": "₺299,99",
       "Meeting Minutes Template": "₺229,99",
-      "Monthly Quest Log –  Mission:": "₺499,99"
+      "Monthly Quest Log –  Mission:": "₺499,99",
+      "スウィート＆ラブリーライフプランナー": "₺499,99",
+      "When I am : Confused about whe": "₺599,99",
+      "When I am : Lost and don't kno": "₺599,99",
+      "When I am : Full of worries an": "₺599,99",
+      "When I am : Feeling like time": "₺599,99",
+      "Simple Essential Work Planner": "₺249,99",
+      "Minimal Meeting Notebook": "₺449,99",
+      "Simple Goal & Schedule Planner": "₺449,99",
+      "Colorful & Functional Notebook": "₺349,99",
+      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13288,9 +13298,38 @@
       "To Do List Template Bundle": "₺249,99",
       "Digital To Do List - Landscape": "₺299,99",
       "Meeting Minutes Template": "₺229,99",
-      "Monthly Quest Log –  Mission:": "₺499,99"
+      "Monthly Quest Log –  Mission:": "₺499,99",
+      "スウィート＆ラブリーライフプランナー": "₺499,99",
+      "When I am : Confused about whe": "₺599,99",
+      "When I am : Lost and don't kno": "₺599,99",
+      "When I am : Full of worries an": "₺599,99",
+      "When I am : Feeling like time": "₺599,99",
+      "Simple Essential Work Planner": "₺249,99",
+      "Minimal Meeting Notebook": "₺449,99",
+      "Simple Goal & Schedule Planner": "₺449,99",
+      "Colorful & Functional Notebook": "₺349,99",
+      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753039103236,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "スウィート＆ラブリーライフプランナー": "₺499,99",
+            "When I am : Confused about whe": "₺599,99",
+            "When I am : Lost and don't kno": "₺599,99",
+            "When I am : Full of worries an": "₺599,99",
+            "When I am : Feeling like time": "₺599,99",
+            "Simple Essential Work Planner": "₺249,99",
+            "Minimal Meeting Notebook": "₺449,99",
+            "Simple Goal & Schedule Planner": "₺449,99",
+            "Colorful & Functional Notebook": "₺349,99",
+            "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751915962429,
