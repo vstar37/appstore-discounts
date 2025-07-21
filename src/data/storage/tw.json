@@ -11124,6 +11124,16 @@
     "history": [
       [
         {
+          "timestamp": 1753105269760,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "$1,090.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746285645244,
           "price": 0,
           "formattedPrice": "免費",
@@ -13340,6 +13350,19 @@
     "history": [
       [
         {
+          "timestamp": 1753105269760,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$1,190.00",
+            "Lifetime license": "$1,490.00",
+            "Monthly Subscription": "$170.00",
+            "Yearly Subscription": "$650.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753025011387,
           "price": 0,
           "formattedPrice": "免費",
@@ -13942,6 +13965,25 @@
       "Geometric Frame Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753105269760,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750019012871,
