@@ -15518,6 +15518,23 @@
     "history": [
       [
         {
+          "timestamp": 1753070757041,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1753039103236,
           "price": 0,
           "formattedPrice": "免费",
@@ -22328,6 +22345,16 @@
       "Card.Note Premiun": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753070757041,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751124100046,
