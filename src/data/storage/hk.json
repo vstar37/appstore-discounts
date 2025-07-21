@@ -13866,6 +13866,23 @@
     "history": [
       [
         {
+          "timestamp": 1753096897610,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1753093666768,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -22818,6 +22835,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753096897610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 88.00",
+            "GoodNotes 5完整版解鎖": "HK$ 88.00",
+            "Goodnotes 6 一次性付款": "HK$ 210.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "好心智雜誌": "HK$ 0.00",
+            "秋貓貼紙組": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1753093666768,
           "price": 0,
