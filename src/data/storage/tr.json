@@ -1482,6 +1482,21 @@
     "history": [
       [
         {
+          "timestamp": 1753226623319,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "₺179,99",
+            "Cloud Backup Monthly": "₺39,99",
+            "iCloud Sync Monthly": "₺16,99",
+            "Cloud Backup Yearly": "₺199,99",
+            "Reset Password": "₺39,99",
+            "iCloud Sync Lifetime": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752276147342,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -13331,6 +13346,25 @@
     "history": [
       [
         {
+          "timestamp": 1753226623319,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "スウィート＆ラブリーライフプランナー": "₺499,99",
+            "When I am : Confused about whe": "₺599,99",
+            "When I am : Lost and don't kno": "₺599,99",
+            "When I am : Full of worries an": "₺599,99",
+            "When I am : Feeling like time": "₺599,99",
+            "Simple Essential Work Planner": "₺249,99",
+            "Minimal Meeting Notebook": "₺449,99",
+            "Simple Goal & Schedule Planner": "₺449,99",
+            "Colorful & Functional Notebook": "₺349,99",
+            "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753043159522,
           "price": 0,
           "formattedPrice": "Free",
@@ -21496,6 +21530,25 @@
       "Weapon Upgrade Ticket x1 (D)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753226623319,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Extra DLC Pack": "₺769,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺254,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (E)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (C)": "₺105,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752081736173,
