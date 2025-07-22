@@ -10869,6 +10869,18 @@
     "history": [
       [
         {
+          "timestamp": 1753223034758,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "生辰年度会员": "$9.99",
+            "生辰-年度会员": "$12.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "月度会员": "$1.99"
+          }
+        },
+        {
           "timestamp": 1753219413135,
           "price": 0,
           "formattedPrice": "Free",
@@ -11458,6 +11470,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753223034758,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "Annual Special SVIP": "$12.99"
+          }
+        },
         {
           "timestamp": 1753219413135,
           "price": 14.99,
