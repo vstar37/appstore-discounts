@@ -14937,7 +14937,9 @@
       "MSR Anthology_Vol.02(30%)": "$130.00",
       "MDlevelTacticalTrainingBlu-ray": "$70.00",
       "Ensemble Arcanum(30%)": "$70.00",
-      "Touhou Mugakudan -IV-(30%)": "$100.00"
+      "Touhou Mugakudan -IV-(30%)": "$100.00",
+      "暮 色 電 台 ＦＭ１０６（30%off）": "$70.00",
+      "暮 色 電 台 ＦＭ１０６": "$100.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14993,9 +14995,30 @@
       "MSR Anthology_Vol.02(30%)": "$130.00",
       "MDlevelTacticalTrainingBlu-ray": "$70.00",
       "Ensemble Arcanum(30%)": "$70.00",
-      "Touhou Mugakudan -IV-(30%)": "$100.00"
+      "Touhou Mugakudan -IV-(30%)": "$100.00",
+      "暮 色 電 台 ＦＭ１０６（30%off）": "$70.00",
+      "暮 色 電 台 ＦＭ１０６": "$100.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753219413135,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "暮 色 電 台 ＦＭ１０６（30%off）": "$70.00",
+            "暮 色 電 台 ＦＭ１０６": "$100.00",
+            "Aim to Be a Rhythm Master!(30%": "$100.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+            "Aquaria Cruising Guide(30%)": "$100.00",
+            "Happy Otaku Pack Vol.20(30%)": "$100.00",
+            "Muse Dash・Legend(30%)": "$100.00",
+            "Cosmic Radio 2024(30%)": "$100.00",
+            "MSR Anthology_Vol.02(30%)": "$130.00",
+            "MDlevelTacticalTrainingBlu-ray": "$70.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752816551236,
@@ -24862,6 +24885,16 @@
       "Value for Value": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753219413135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752589369081,
