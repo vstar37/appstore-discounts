@@ -13017,6 +13017,16 @@
     "history": [
       [
         {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753070757041,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -17336,6 +17346,18 @@
     "history": [
       [
         {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "終身高級版": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749371210265,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -17724,6 +17746,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753280769677,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1753219413135,
           "price": 0,
@@ -20391,6 +20421,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752848645766,

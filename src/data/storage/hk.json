@@ -22134,6 +22134,16 @@
     "history": [
       [
         {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753070757041,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -26657,6 +26667,18 @@
     "history": [
       [
         {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身高級版": "HK$ 88.00",
+            "300次高精度海拔": "HK$ 32.00",
+            "100次高精度海拔查詢": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749371210265,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -27045,6 +27067,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753280769677,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1753219413135,
           "price": 0,
@@ -29760,6 +29790,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280769677,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752848645766,
