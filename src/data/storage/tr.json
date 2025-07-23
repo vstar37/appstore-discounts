@@ -13346,6 +13346,21 @@
     "history": [
       [
         {
+          "timestamp": 1753236217568,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1753226623319,
           "price": 0,
           "formattedPrice": "Free",
@@ -21531,6 +21546,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753236217568,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        },
         {
           "timestamp": 1753226623319,
           "price": 0,
