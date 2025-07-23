@@ -2579,6 +2579,21 @@
     "history": [
       [
         {
+          "timestamp": 1753243329385,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752292474562,
           "price": 3.99,
           "formattedPrice": "$3.99",
