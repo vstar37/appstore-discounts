@@ -29475,6 +29475,25 @@
     "history": [
       [
         {
+          "timestamp": 1753309436708,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752697625341,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -33484,6 +33503,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753309436708,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99"
+          }
+        },
         {
           "timestamp": 1753255625584,
           "price": 0,
