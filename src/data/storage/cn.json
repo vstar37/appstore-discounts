@@ -26642,6 +26642,18 @@
     "history": [
       [
         {
+          "timestamp": 1753367153742,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "终身高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753280769677,
           "price": 0,
           "formattedPrice": "免费",
@@ -27176,6 +27188,16 @@
       "Value for Value": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753367153742,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753280769677,
