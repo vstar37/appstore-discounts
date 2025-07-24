@@ -27133,6 +27133,16 @@
     "history": [
       [
         {
+          "timestamp": 1753395843840,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753367153742,
           "price": 0,
           "formattedPrice": "免費",
