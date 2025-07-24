@@ -8623,6 +8623,24 @@
     "history": [
       [
         {
+          "timestamp": 1753374557136,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥6.00",
+            "一小盆宝石": "¥30.00",
+            "一大袋宝石": "¥67.00",
+            "一推车宝石": "¥133.00",
+            "超值进阶宝石包": "¥42.00",
+            "森日豪华礼包": "¥128.00",
+            "森日精选礼包": "¥88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753370661874,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -14663,6 +14681,25 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753374557136,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Pack": "¥8.00",
+            "Geometric Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Color Frame Pack": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752967525222,
