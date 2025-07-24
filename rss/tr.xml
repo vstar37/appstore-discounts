@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-23T23:27:20.767Z</updated>
+    <updated>2025-07-24T05:32:18.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,56 +21,61 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-23T23:27:20.768Z</updated>
+        <updated>2025-07-24T05:32:18.164Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-1753313059881</id>
-        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-07-23T23:24:19.881Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyTracks: GPS Recorder]]></title>
-        <id>MyTracks: GPS Recorder-1753313059881</id>
-        <link href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4"/>
-        <updated>2025-07-23T23:24:19.881Z</updated>
-        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/89/2f/5e892f47-d39e-9d95-eb83-4dbad79d1c33/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺39,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  MyTracks is an app that helps you keep track of your location using GPS data. It's perfect for various activities like hiking, running, walking, biking, and more. This app uses advanced technology to provide precise measurements and calculations.
+        <title type="html"><![CDATA[MuseDash]]></title>
+        <id>MuseDash-1753334940072</id>
+        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
+        <updated>2025-07-24T05:29:00.072Z</updated>
+        <summary type="html"><![CDATA[Rin·Len's Mirrorland: ₺399,99 → ₺249,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/32/bc/f032bc12-3152-93ef-deeb-f6ec4bf3a610/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Rin·Len's Mirrorland：</strong><span>₺399,99</span> → <b>
+  <strong>₺249,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  "Hitting while listening to music."
+"Is that the call from another world?"
+[Game Starts Now—!!]
 
-Here's what you can do with MyTracks:
-- Track your route: Whether you're hiking, running, or cycling, MyTracks can record your path and show it on a map.
-- Save favorite locations: If there are specific places you want to remember, you can mark them as favorites in the app.
-- Import and export data: MyTracks allows you to import and export data in various formats such as CSV, GPX, KML, and KMZ.
-- Improve accuracy: You can take static GPS observations to get more accurate waypoints for your tracks.
-- Easy navigation: The app provides a waypoint guide on the compass, making it easy for you to navigate to specific locations.
-- Customizable waypoints: You can add waypoints manually or import them from your favorite locations. You can even add vectors with angle and distance.
-- Coordinate conversion: MyTracks allows you to convert between four different coordinate formats (Decimal, DMS, MGRS, UTM) at any time.
-- Additional features: The app displays glide ratio during recording, offers compass options in degrees or mils, supports MGRS Grid overlay on the map, and allows you to create routes to follow before starting your track.
-- Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
+Lovely girls
+or rhythmic music?
+If there’s a place for you to have them both…
+It must be the paradise of parkour & rhythm game  — Muse Dash!!
 
-Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
+Huh?! Not your forte? It doesn’t matter!
+Who says you must have a strong sense of rhythm to win?
+Avoid is also a valid option (?)
+As long as you have 100% of passion, courage, and… love for lovely girls~
+Rhythm and fight won’t be an issue
+
+[Gameplay]
+Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
+What an easy, beginner-friendly rhythm game
+
+[Media Review]
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+
+Languages Supported:
+English
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+
+Feedback: https://service.peropero.net/
+Twitter:@MuseDash_EN
+@PeroPeroGuys
 </p>]]></content>
     </entry>
 </feed>
