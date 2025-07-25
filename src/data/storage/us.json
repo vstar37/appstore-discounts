@@ -25453,6 +25453,18 @@
     "history": [
       [
         {
+          "timestamp": 1753416031694,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Lifetime Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753329656467,
           "price": 0,
           "formattedPrice": "Free",
@@ -25943,6 +25955,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753416031694,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753329656467,
