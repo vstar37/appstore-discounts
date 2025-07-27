@@ -10307,6 +10307,23 @@
     "history": [
       [
         {
+          "timestamp": 1753633710519,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99",
+            "Aquaria Cruising Guide(30%)": "₺129,99",
+            "Happy Otaku Pack Vol.20(30%)": "₺129,99",
+            "Muse Dash・Legend(30%)": "₺129,99",
+            "Cosmic Radio 2024(30%)": "₺129,99",
+            "MSR Anthology_Vol.02(30%)": "₺179,99",
+            "MDlevelTacticalTrainingBlu-ray": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1753594122512,
           "price": 129.99,
           "formattedPrice": "₺129,99",
