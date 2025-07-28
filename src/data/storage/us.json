@@ -10973,6 +10973,20 @@
     "history": [
       [
         {
+          "timestamp": 1753727825503,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753468520773,
           "price": 0,
           "formattedPrice": "Free",
@@ -11911,6 +11925,20 @@
       "Parallels Desktop for Mac #5": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753727825503,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753399452908,
@@ -20995,7 +21023,12 @@
       "114 Templates of Notebook (Rai": "$6.99",
       "2025-2026 Pet Log & Lifestyle": "$9.99",
       "Study Notebook: Study with Sim": "$7.99",
-      "Cute Hand-Drawn Daily Sticker": "$2.49"
+      "Cute Hand-Drawn Daily Sticker": "$2.49",
+      "Reflexión Semanal de Cuidado P": "$3.99",
+      "My Year in Pixels (Landscape)": "$3.99",
+      "Self-Care Monthly Reflection": "$3.99",
+      "Il mio anno in pixel (Vertical": "$3.99",
+      "The Smart Teacher's Planner in": "$10.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -21143,10 +21176,27 @@
       "114 Templates of Notebook (Rai": "$6.99",
       "2025-2026 Pet Log & Lifestyle": "$9.99",
       "Study Notebook: Study with Sim": "$7.99",
-      "Cute Hand-Drawn Daily Sticker": "$2.49"
+      "Cute Hand-Drawn Daily Sticker": "$2.49",
+      "Reflexión Semanal de Cuidado P": "$3.99",
+      "My Year in Pixels (Landscape)": "$3.99",
+      "Self-Care Monthly Reflection": "$3.99",
+      "Il mio anno in pixel (Vertical": "$3.99",
+      "The Smart Teacher's Planner in": "$10.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1753727825503,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "$3.99",
+            "My Year in Pixels (Landscape)": "$3.99",
+            "Self-Care Monthly Reflection": "$3.99",
+            "Il mio anno in pixel (Vertical": "$3.99",
+            "The Smart Teacher's Planner in": "$10.99"
+          }
+        },
         {
           "timestamp": 1753675667117,
           "price": 0,
