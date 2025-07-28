@@ -27533,6 +27533,16 @@
     "history": [
       [
         {
+          "timestamp": 1753675667117,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753539719462,
           "price": 48,
           "formattedPrice": "¥48.00",
