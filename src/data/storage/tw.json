@@ -25090,6 +25090,16 @@
     "history": [
       [
         {
+          "timestamp": 1753716464067,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753572170909,
           "price": 220,
           "formattedPrice": "$220.00",
