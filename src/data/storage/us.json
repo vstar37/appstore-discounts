@@ -10973,6 +10973,18 @@
     "history": [
       [
         {
+          "timestamp": 1753730469330,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "生辰年度会员": "$9.99",
+            "生辰-年度会员": "$12.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "月度会员": "$1.99"
+          }
+        },
+        {
           "timestamp": 1753727825503,
           "price": 0,
           "formattedPrice": "Free",
@@ -11926,6 +11938,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753730469330,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
         {
           "timestamp": 1753727825503,
           "price": 0,
@@ -21185,6 +21210,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753730469330,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        },
         {
           "timestamp": 1753727825503,
           "price": 0,
