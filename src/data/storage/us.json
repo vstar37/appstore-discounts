@@ -1286,6 +1286,21 @@
     "history": [
       [
         {
+          "timestamp": 1753771054340,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "CamScanner Premium": "$49.99",
+            "3000 cp + Six chance to Draw": "$4.99",
+            "600 cp + One chance to Draw": "$0.99",
+            "3000 C-Points": "$4.99",
+            "Ten-page Fax": "$8.99",
+            "One-page Fax": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752179174720,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -26299,6 +26314,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753771054340,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753716464067,
