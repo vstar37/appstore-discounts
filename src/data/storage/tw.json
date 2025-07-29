@@ -15230,6 +15230,25 @@
     "history": [
       [
         {
+          "timestamp": 1753816989333,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "暮 色 電 台 ＦＭ１０６（30%off）": "$70.00",
+            "暮 色 電 台 ＦＭ１０６": "$100.00",
+            "Aim to Be a Rhythm Master!(30%": "$100.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+            "Aquaria Cruising Guide(30%)": "$100.00",
+            "Happy Otaku Pack Vol.20(30%)": "$100.00",
+            "Muse Dash・Legend(30%)": "$100.00",
+            "Cosmic Radio 2024(30%)": "$100.00",
+            "MSR Anthology_Vol.02(30%)": "$130.00",
+            "MDlevelTacticalTrainingBlu-ray": "$70.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753447854875,
           "price": 100,
           "formattedPrice": "$100.00",
@@ -29010,6 +29029,25 @@
       "法語音頻": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753816989333,
+          "price": 549,
+          "formattedPrice": "$549.00",
+          "inAppPurchases": {
+            "西班牙語音頻": "$0.00",
+            "戰役任務 11-15": "$0.00",
+            "俄語音頻": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 獨立戰役地圖": "$0.00",
+            "戰役任務 2-5": "$0.00",
+            "1 vs 1 獨立戰役地圖": "$0.00",
+            "所有內容": "$0.00",
+            "《Opposing Fronts》火線對決": "$0.00",
+            "3 vs 3 獨立戰役地圖": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753442463675,
