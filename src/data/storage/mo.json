@@ -824,6 +824,23 @@
     "history": [
       [
         {
+          "timestamp": 1753809904499,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "掃描全能王高級帳戶": "USD 49.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99",
+            "一頁傳真": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752913785873,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -21546,6 +21563,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753809904499,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "《Opposing Fronts》火線對決": "USD 0.00",
+            "所有內容": "USD 0.00",
+            "《Tales of Valor》": "USD 0.00",
+            "西班牙語音頻": "USD 0.00",
+            "戰役任務 11-15": "USD 0.00",
+            "俄語音頻": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "1 vs 1 獨立戰役地圖": "USD 0.00"
+          }
+        },
         {
           "timestamp": 1753806655811,
           "price": 19.99,
