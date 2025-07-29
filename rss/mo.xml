@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-07-29T14:31:18.886Z</updated>
+    <updated>2025-07-29T16:34:18.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,61 +21,67 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-29T14:31:18.886Z</updated>
+        <updated>2025-07-29T16:34:18.435Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[無處遁形：全網公敵]]></title>
-        <id>無處遁形：全網公敵-1753799293694</id>
-        <link href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4"/>
-        <updated>2025-07-29T14:28:13.694Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  《無處遁形：全網公敵》是Steam平臺廣受好評的劇情向駭客解密遊戲《全網公敵》手遊版本。玩家通過網絡蒐索和社工手段獲取目標人物資訊，其隱藏最深的秘密都無處遁形。遊戲中的每個故事看似各自獨立，但隨著劇情的發展卻是草蛇灰線，伏脈千里。當所有事件串聯起來，竟隱藏著驚天的秘密……
+        <title type="html"><![CDATA[Goodnotes 6：筆記，PDF，AI]]></title>
+        <id>Goodnotes 6：筆記，PDF，AI-1753806655811</id>
+        <link href="https://apps.apple.com/mo/app/goodnotes-6-%E7%AD%86%E8%A8%98-pdf-ai/id1444383602?uo=4"/>
+        <updated>2025-07-29T16:30:55.811Z</updated>
+        <summary type="html"><![CDATA[Goodnotes 6 一次性付款: USD 23.99 → USD 21.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/goodnotes-6-%E7%AD%86%E8%A8%98-pdf-ai/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/61/91/9061916b-6432-088e-f65a-b4c1cb725157/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Goodnotes 6 一次性付款：</strong><span>USD 23.99</span> → <b>
+  <strong>USD 21.99</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  使用 Goodnotes 6，感受領先 AI 科技與電子筆記的完美融合。無論是捕捉創意、整理思緒、分享筆記、協同合作都可以輕鬆實現。
 
-希望玩家在遊玩的同時，對網絡本身也能產生反思，學會保護好個人隱私。
+學生的成績更上一層樓
+• Ask Goodnotes 使用對話式 AI，針對筆記內容或選定範圍詢問並獲得解答。文檔摘要、建議問題、生成測驗習題，都不在話下。
+• 寫下方程或等式並點擊等號， Math Assist 即可自動完成解答。
+• 將手寫數學公式轉換為 LaTeX 格式，並可以隨時修改，讓你的數學筆記更智能。
+• 學習卡組使用主動回憶和間隔重復等領先學習科技，根據你的學習情況調整學習內容，還可以用手寫創建自己的學習材料。
+• 全新 AI 文稿助手可協助你修正文法、改變語氣、變更文字長度。
+• 在小組作業中與同學協作編輯同一文檔，讓協作不再受到距離和時間阻礙。
+• 錄制與手寫同步的音頻筆記，課堂重點通通記下，復習鞏固聲臨其境。
+• 強大的搜索功能無論是多久前的課堂筆記，都能輕鬆找到。
+• 透過 SAT 和 DSE 數學應考課程令您在數學考試獲取佳績，內置 AI 數學輔助可提示計算錯誤，提升數學效率。
+• 快速匯入課堂講演、報告、圖檔、課本和試卷等材料，並直接在 iPad 上進行標注。讓學習和溫習一樣輕鬆。
 
-【遊戲內容】
-◆第一章：程式師之死
-某公司CEO跳樓自殺，自稱被毒妻勒索千萬； 而妻子卻在社交網絡上發佈被家暴的照片。 謠言滿天，誰在說謊？
-◆第二章：看不見的眼睛
-女大學生的不雅視頻在網絡瘋傳，這一刻，她已然社會性死亡。 到底誰才是始作俑者？ 女性的安全又該由誰去保護？
-◆第三章：消失的證據
-品學兼優的學生會長忽然失踪。 霸淩事件使案情越發撲朔迷離。 誰是兇手，誰是受害者？
-◆第四章：羞辱的代價
-天降巨瓜，女歌星再次被爆黑料！ 恐嚇信、炒作、前女團成員自殺事件……網絡再掀輿論狂歡！
-◆第五章：永生代碼
-當社會陷入癲狂，你是否也願意加入永生代碼，獲得真正的愛與永生？
-◆DLC：甜蜜之家
-一個看似甜蜜而美滿的家庭背後，每個人都有各自的秘密，隱藏在背後的真相到底是什麼？！
-◆DLC：HelloWorld
-一場離奇的車禍，讓泰坦公司的高級研究員Lucrezia Borgia博士當場死亡，同行的Benjamin Engle死裡逃生，但他卻沒有意識到自己即將捲入一場巨大的陰謀之中……
+讓設計者盡情發揮創意潛能
+• 自訂筆記簿與紙張範本的尺寸、顏色或封面，你的筆記由你作主。
+• 使用 Goodnotes Smart Ink 科技，輕鬆完成手寫內容的編輯、調整大小和修改對齊方式。
+• 智慧計時器包含多種模式選擇，提升專注力和工作效率。
+• 內置市集提供封面、紙張範本、貼紙、等多種內容。琳琅滿目，持續更新。
+• 創建無限資料夾，並通過顏色和圖案標識讓筆記整理更有條理。
+• 付費用戶每月可在市集領取不同福利內容，為你的創意提供靈感。
+• 更有鉛筆、膠帶、取色器、貼紙、套索、圖檔編輯、圖層等多種實用功能，助你創作精美筆記。
 
-【遊戲特點】
-◆代入感强：在虛構的世界裏，玩家扮演一名駭客，接受一家公司委託，完成一個個不同的社工事件，體驗真實的駭客操作。
-◆玩法多樣：遊戲內有多個系統，除了社工系統，還會有推理、追跡、解謎，破壞侵入等系統需要玩家們去一一攻破。
-◆劇情複雜：遊戲中你將面臨大量的選擇和謎題，而不同的選擇可能將導致不同的結局。
-◆人物眾多：登場人物眾多，每個人物都有自己的性格特點，而他們背後都有著不為人知的故事，需要作為駭客的你去一一發現事件的真相。
-◆全程配音：遊戲中所有出現的角色都有真人配音，讓整個遊戲的體驗和代入感更加强烈。
-◆原創音樂：多首原創主題曲以及各種音樂音效，搭配精彩劇情，享受震撼體驗。
+提升專業人士的生產力
+• 透過 AirPlay 或 HDMI 將裝置連接至外部屏幕時，可使用 Goodnotes 直接展示筆記內容。
+• 在簡報過程中使用 iPad 上的激光筆，引導觀眾的注意力。
+• 將筆記內容匯出至電子郵件、列印，或以 PDF 檔案或影像形式分享於任何地方
+• 分享筆記簿的連結，直接共同編修，以便分工合作和集思廣益。
+• 直接將文件傳送至您專屬的 Goodnotes 電子郵件即可完成匯入。
+• 匯入會議記錄、合約、相片、簡報或摘要來進行簽名、備註或協同合作。
+• 可使用 iCloud 同步，或透過 Google Drive、OneDrive、Dropbox 及 WebDAV 備份筆記，保護重要文件的安全。
 
-【覈心功能】
-◆網絡蒐索：玩家通過瀏覽器搜索功能收集目標對象的基礎資訊。
-◆資料庫：利用已知資訊輸入到資料庫中，通過篩選後或許目標對象的其他資訊。
-◆破解：通過獲得的目標人物資訊來生成密碼，用於登入各平臺的帳戶（包括郵箱、社交平臺、聊天軟體等）。
-◆偽裝：獲取目標對象的需求、社交圈等，根據資訊選擇偽裝，通過和目標對象接觸獲取更多資訊。
-◆聊天溝通：添加目標對象為好友後，進行聊天溝通獲取資訊。
-◆圖片分析：從圖片中獲取有價值的資訊內容及相關線索。
-當然，後期還會解鎖更多的高階社工方法！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/b8/dd/43b8ddcd-4ab2-43fe-480a-5d1524256f60/99009b54-dda7-4115-8345-b92a4da1bea5_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8d/61/a3/8d61a307-7352-b0f6-26e2-28a74547d0cc/9dbdf1b1-dce6-45a9-bd2c-445ae85fdc21_QQ20220928-1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b0/89/84/b0898459-7fed-a793-c9b4-61dc5f3e2d58/82688c16-2383-47a7-9451-0ee8e7b24bb6_QQ20220928-25.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/d2/16/83d2166c-4276-8af2-eb19-9aee12480d78/7ac0e37a-5d69-444f-9cdb-f0c58510c720_QQ20220928-14.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/63/8f/d0638f9d-abbc-6f11-ffb0-a8a03d0c2505/adf9b016-725f-4168-b3c7-819145fe4f75_QQ20220928-24.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/15/fe/de15feda-6c08-d817-8d2a-5f56a518c9c8/461783b7-ff95-48ea-be82-1c5dd15973c1_QQ20220928-15.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/36/10/2036101c-7b0b-e9ef-b1e6-5fa743f3d1e6/7b4e9ee7-b4af-45d4-89f5-c58a7fba0ba5_QQ20220928-19.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/43/bc/4d/43bc4dc7-3d3b-6472-7f84-8da22793c72f/88b2a278-30ea-429d-8b5c-2f894b5ea0fe_QQ20220928-17.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/25/f3/f425f389-d566-b8ea-8ea0-d76e4e0a60ae/e816b1f6-9955-45c3-bfbd-2b462e82a19b_QQ20220928-9.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/43/b3/e243b343-2a21-5ee8-9dda-235ad1eb369f/55edaf96-ef07-4732-87fa-c42a2f3362af_QQ20220928-16.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ec/1d/0e/ec1d0ec9-67cb-518c-dd72-3ca0aa41a7ee/b3c98720-b9a0-4078-8b88-034054b24965_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a3/09/fa/a309fad8-d31f-36b1-3943-f4c0b478fb97/bb92bbcf-1c9e-4fcc-bfd7-5dbf4eec86e6_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/07/c3/c507c3aa-1d3b-0e50-90a7-fe0ec84178d0/7237da17-1bb3-47b8-bb96-9428c7ad4b3c_19.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/a9/a5/3aa9a52d-9f70-5de7-372e-d630ffd199b8/5b9c9e9a-58b3-40f4-84f3-180c6b18b0c6_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/4a/5b/a44a5be3-0b49-be94-1715-4ef12bf7fc3f/81e913bf-96aa-457e-870d-2b9968fa0e0f_f1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4b/6b/5a/4b6b5a78-6672-b766-0356-c65d1100d177/1a9bcd6b-1459-4746-8daa-7ddc42d15d3e_17.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fd/50/d4/fd50d412-fe7b-c540-f84a-d88f8fdb90cc/b9c6279a-6184-42b8-b879-b1f6ab43cf89_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f7/b2/29/f7b22993-0d76-d06a-a25d-fa7ae0887baa/7fecc4b4-3c9f-43ce-a22b-bfc6da6d9d06_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/16/e7/ca16e719-5eae-7ba4-ee96-2e8d738fb2b8/c3be5896-f75c-4555-8297-762a278d7663_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0b/f2/32/0bf232fd-3f49-e560-df8c-052c14c53897/0e2115a2-55e7-4ac0-922f-cdb3ebee47ab_11.jpg/552x414bb.jpg" />]]></content>
+網頁: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp
+
+Privacy policy: https://www.goodnotes.com/privacy-policy
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p>]]></content>
     </entry>
 </feed>
