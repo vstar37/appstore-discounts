@@ -25990,6 +25990,16 @@
     "history": [
       [
         {
+          "timestamp": 1753781431641,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.99",
+            "Monthly": "$0.99",
+            "Annual": "$6.00"
+          }
+        },
+        {
           "timestamp": 1753778022741,
           "price": 0,
           "formattedPrice": "Free",
