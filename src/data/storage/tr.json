@@ -13607,7 +13607,12 @@
       "Minimal Meeting Notebook": "₺449,99",
       "Simple Goal & Schedule Planner": "₺449,99",
       "Colorful & Functional Notebook": "₺349,99",
-      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
+      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99",
+      "Reflexión Semanal de Cuidado P": "₺179,99",
+      "My Year in Pixels (Landscape)": "₺179,99",
+      "Self-Care Monthly Reflection": "₺179,99",
+      "Il mio anno in pixel (Vertical": "₺179,99",
+      "The Smart Teacher's Planner in": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13723,9 +13728,28 @@
       "Minimal Meeting Notebook": "₺449,99",
       "Simple Goal & Schedule Planner": "₺449,99",
       "Colorful & Functional Notebook": "₺349,99",
-      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99"
+      "Lucky 12-Tab Notebook (ChatGPT": "₺349,99",
+      "Reflexión Semanal de Cuidado P": "₺179,99",
+      "My Year in Pixels (Landscape)": "₺179,99",
+      "Self-Care Monthly Reflection": "₺179,99",
+      "Il mio anno in pixel (Vertical": "₺179,99",
+      "The Smart Teacher's Planner in": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753882960689,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "₺179,99",
+            "My Year in Pixels (Landscape)": "₺179,99",
+            "Self-Care Monthly Reflection": "₺179,99",
+            "Il mio anno in pixel (Vertical": "₺179,99",
+            "The Smart Teacher's Planner in": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753236217568,
