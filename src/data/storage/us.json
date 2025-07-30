@@ -12871,6 +12871,25 @@
     "history": [
       [
         {
+          "timestamp": 1753903263068,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "128财富币": "$19.99",
+            "88财富币": "$12.99",
+            "198财富币": "$29.99",
+            "168财富币": "$24.99",
+            "1998财富币": "$299.99",
+            "1598财富币": "$229.99",
+            "898财富币": "$129.99",
+            "418财富币": "$59.99",
+            "98财富币": "$14.99",
+            "998财富币": "$149.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752243818616,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -21330,6 +21349,20 @@
     "history": [
       [
         {
+          "timestamp": 1753903263068,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "$3.99",
+            "My Year in Pixels (Landscape)": "$3.99",
+            "Self-Care Monthly Reflection": "$3.99",
+            "Il mio anno in pixel (Vertical": "$3.99",
+            "The Smart Teacher's Planner in": "$10.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753767127814,
           "price": 0,
           "formattedPrice": "Free",
@@ -26061,6 +26094,18 @@
       "Annual": "$6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753903263068,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.95",
+            "Annual": "$6.00",
+            "Monthly": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753781431641,
