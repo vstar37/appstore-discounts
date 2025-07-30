@@ -15350,6 +15350,23 @@
     "history": [
       [
         {
+          "timestamp": 1753885454706,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+            "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "HK$ 23.00",
+            "Aquaria Cruising Guide(30%)": "HK$ 23.00",
+            "Happy Otaku Pack Vol.20(30%)": "HK$ 23.00",
+            "Muse Dash・Legend(30%)": "HK$ 23.00",
+            "Cosmic Radio 2024(30%)": "HK$ 23.00",
+            "MSR Anthology_Vol.02(30%)": "HK$ 28.00",
+            "MDlevelTacticalTrainingBlu-ray": "HK$ 15.00"
+          }
+        },
+        {
           "timestamp": 1753882960689,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -27376,6 +27393,14 @@
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753885454706,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746818256546,

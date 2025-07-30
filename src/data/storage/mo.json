@@ -7142,6 +7142,24 @@
     "history": [
       [
         {
+          "timestamp": 1753885454706,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "USD 25.00",
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99",
+            "Supreme Package": "USD 4.99",
+            "Advanced Package": "USD 2.99",
+            "Starter Package": "USD 0.99",
+            "年訂閱": "USD 25.00",
+            "月訂閱（早鳥）": "USD 4.19"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752913785873,
           "price": 0,
           "formattedPrice": "免費",
@@ -17947,6 +17965,14 @@
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753885454706,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746818256546,
