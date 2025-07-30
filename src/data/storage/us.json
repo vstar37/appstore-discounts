@@ -12871,6 +12871,23 @@
     "history": [
       [
         {
+          "timestamp": 1753907171053,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "98财富币": "$14.99",
+            "6财富币": "$0.99",
+            "68财富币": "$9.99",
+            "128财富币": "$19.99",
+            "88财富币": "$12.99",
+            "198财富币": "$29.99",
+            "168财富币": "$24.99",
+            "1998财富币": "$299.99",
+            "1598财富币": "$229.99",
+            "898财富币": "$129.99"
+          }
+        },
+        {
           "timestamp": 1753903263068,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -21349,6 +21366,20 @@
     "history": [
       [
         {
+          "timestamp": 1753907171053,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$1.99",
+            "Dotted Squares: Draft Papers": "$0.99"
+          }
+        },
+        {
           "timestamp": 1753903263068,
           "price": 0,
           "formattedPrice": "Free",
@@ -26095,6 +26126,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753907171053,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.99",
+            "Monthly": "$0.99",
+            "Annual": "$6.00"
+          }
+        },
         {
           "timestamp": 1753903263068,
           "price": 0,
