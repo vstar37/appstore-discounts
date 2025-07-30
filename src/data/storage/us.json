@@ -12029,6 +12029,21 @@
     "history": [
       [
         {
+          "timestamp": 1753848351517,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753841127145,
           "price": 0,
           "formattedPrice": "Free",
@@ -26427,6 +26442,16 @@
     "history": [
       [
         {
+          "timestamp": 1753848351517,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753774055476,
           "price": 0,
           "formattedPrice": "Free",
@@ -32858,6 +32883,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753848351517,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753070757041,
