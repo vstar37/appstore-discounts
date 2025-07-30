@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-07-29T14:31:18.886Z</updated>
+    <updated>2025-07-30T07:31:18.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,61 +21,184 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-29T14:31:18.886Z</updated>
+        <updated>2025-07-30T07:31:18.117Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[無處遁形：全網公敵]]></title>
-        <id>無處遁形：全網公敵-1753799293694</id>
-        <link href="https://apps.apple.com/hk/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4"/>
-        <updated>2025-07-29T14:28:13.694Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Resident Evil Village for Mac]]></title>
+        <id>Resident Evil Village for Mac-1753860492083</id>
+        <link href="https://apps.apple.com/hk/app/resident-evil-village-for-mac/id1640627334?mt=12&amp;uo=4"/>
+        <updated>2025-07-30T07:28:12.083Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 288.00 → HK$ 72.00<br/>可下載內容包: HK$ 138.00 → HK$ 69.00<br/>通行證: HK$ 35.00 → HK$ 14.00<br/>Street Wolf 裝束: HK$ 21.00 → HK$ 16.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/resident-evil-village-for-mac/id1640627334?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/b3/a0/30b3a0cd-e30b-377a-c707-f3d27c07c924/MacAppIcon-0-0-85-220-0-5-0-2x.png/60x60bb.png" />
 </a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
+  优惠信息（价格：<span>HK$ 288.00</span> → <b>
+  <strong>HK$ 72.00</strong>
 </b>）
-</h2><h2>应用描述</h2><p>
-  《無處遁形：全網公敵》是Steam平臺廣受好評的劇情向駭客解密遊戲《全網公敵》手遊版本。玩家通過網絡蒐索和社工手段獲取目標人物資訊，其隱藏最深的秘密都無處遁形。遊戲中的每個故事看似各自獨立，但隨著劇情的發展卻是草蛇灰線，伏脈千里。當所有事件串聯起來，竟隱藏著驚天的秘密……
+</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>可下載內容包：</strong><span>HK$ 138.00</span> → <b>
+  <strong>HK$ 69.00</strong>
+</b>
+  </li><li>
+    <strong>通行證：</strong><span>HK$ 35.00</span> → <b>
+  <strong>HK$ 14.00</strong>
+</b>
+  </li><li>
+    <strong>Street Wolf 裝束：</strong><span>HK$ 21.00</span> → <b>
+  <strong>HK$ 16.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  在《Resident Evil》主系列的第8部作品中展開一場令人毛骨悚然的絕命拚搏。
 
-希望玩家在遊玩的同時，對網絡本身也能產生反思，學會保護好個人隱私。
+伊森一家的平靜生活又再一次被捲進了混亂之中，而打破這種平靜日常的不是別人，正是克里斯·雷德菲爾。伊森又再一次陷入那無法醒來的噩夢。
 
-【遊戲內容】
-◆第一章：程式師之死
-某公司CEO跳樓自殺，自稱被毒妻勒索千萬； 而妻子卻在社交網絡上發佈被家暴的照片。 謠言滿天，誰在說謊？
-◆第二章：看不見的眼睛
-女大學生的不雅視頻在網絡瘋傳，這一刻，她已然社會性死亡。 到底誰才是始作俑者？ 女性的安全又該由誰去保護？
-◆第三章：消失的證據
-品學兼優的學生會長忽然失踪。 霸淩事件使案情越發撲朔迷離。 誰是兇手，誰是受害者？
-◆第四章：羞辱的代價
-天降巨瓜，女歌星再次被爆黑料！ 恐嚇信、炒作、前女團成員自殺事件……網絡再掀輿論狂歡！
-◆第五章：永生代碼
-當社會陷入癲狂，你是否也願意加入永生代碼，獲得真正的愛與永生？
-◆DLC：甜蜜之家
-一個看似甜蜜而美滿的家庭背後，每個人都有各自的秘密，隱藏在背後的真相到底是什麼？！
-◆DLC：HelloWorld
-一場離奇的車禍，讓泰坦公司的高級研究員Lucrezia Borgia博士當場死亡，同行的Benjamin Engle死裡逃生，但他卻沒有意識到自己即將捲入一場巨大的陰謀之中……
+經過多年開發，日趨成熟的RE Engine為大家打造了全新的生存「動作」恐怖體驗。
+------------------------------------------------------------
+App內購買
+《Resident Evil Village》（遊戲本體）購買此產品可以讓您玩完整的遊戲本體。
+　「痛苦追憶包」
+　·武器「武士之刃：AW Model-01」
+　·「尋獲片段」畫面濾鏡
+　·RE7 卡式錄音機儲存點
+　·安全室的特別背景音樂《Go Tell Aunt Rhody》
+　·武器飾品「妙妙先生」
+　·立即開放「Village of Shadows」難度
+　·藝術圖特典
+　·貝克一家調查報告
+　求生物資包
+　武器飾品「浣熊先生」
 
-【遊戲特點】
-◆代入感强：在虛構的世界裏，玩家扮演一名駭客，接受一家公司委託，完成一個個不同的社工事件，體驗真實的駭客操作。
-◆玩法多樣：遊戲內有多個系統，除了社工系統，還會有推理、追跡、解謎，破壞侵入等系統需要玩家們去一一攻破。
-◆劇情複雜：遊戲中你將面臨大量的選擇和謎題，而不同的選擇可能將導致不同的結局。
-◆人物眾多：登場人物眾多，每個人物都有自己的性格特點，而他們背後都有著不為人知的故事，需要作為駭客的你去一一發現事件的真相。
-◆全程配音：遊戲中所有出現的角色都有真人配音，讓整個遊戲的體驗和代入感更加强烈。
-◆原創音樂：多首原創主題曲以及各種音樂音效，搭配精彩劇情，享受震撼體驗。
+溫特斯擴充包
+追加內容「溫特斯擴充包」收錄三大內容：包括能以第三人稱視角遊玩《Resident Evil Village》遊戲本篇的「第三人稱視角模式」、新加入可操控角色及新關卡的「傭兵模式——追加命令」，以及以伊森的愛女「蘿絲」為主角的新故事《蘿絲之影》！
 
-【覈心功能】
-◆網絡蒐索：玩家通過瀏覽器搜索功能收集目標對象的基礎資訊。
-◆資料庫：利用已知資訊輸入到資料庫中，通過篩選後或許目標對象的其他資訊。
-◆破解：通過獲得的目標人物資訊來生成密碼，用於登入各平臺的帳戶（包括郵箱、社交平臺、聊天軟體等）。
-◆偽裝：獲取目標對象的需求、社交圈等，根據資訊選擇偽裝，通過和目標對象接觸獲取更多資訊。
-◆聊天溝通：添加目標對象為好友後，進行聊天溝通獲取資訊。
-◆圖片分析：從圖片中獲取有價值的資訊內容及相關線索。
-當然，後期還會解鎖更多的高階社工方法！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/b8/dd/43b8ddcd-4ab2-43fe-480a-5d1524256f60/99009b54-dda7-4115-8345-b92a4da1bea5_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8d/61/a3/8d61a307-7352-b0f6-26e2-28a74547d0cc/9dbdf1b1-dce6-45a9-bd2c-445ae85fdc21_QQ20220928-1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b0/89/84/b0898459-7fed-a793-c9b4-61dc5f3e2d58/82688c16-2383-47a7-9451-0ee8e7b24bb6_QQ20220928-25.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/d2/16/83d2166c-4276-8af2-eb19-9aee12480d78/7ac0e37a-5d69-444f-9cdb-f0c58510c720_QQ20220928-14.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/63/8f/d0638f9d-abbc-6f11-ffb0-a8a03d0c2505/adf9b016-725f-4168-b3c7-819145fe4f75_QQ20220928-24.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/15/fe/de15feda-6c08-d817-8d2a-5f56a518c9c8/461783b7-ff95-48ea-be82-1c5dd15973c1_QQ20220928-15.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/36/10/2036101c-7b0b-e9ef-b1e6-5fa743f3d1e6/7b4e9ee7-b4af-45d4-89f5-c58a7fba0ba5_QQ20220928-19.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/43/bc/4d/43bc4dc7-3d3b-6472-7f84-8da22793c72f/88b2a278-30ea-429d-8b5c-2f894b5ea0fe_QQ20220928-17.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/25/f3/f425f389-d566-b8ea-8ea0-d76e4e0a60ae/e816b1f6-9955-45c3-bfbd-2b462e82a19b_QQ20220928-9.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/43/b3/e243b343-2a21-5ee8-9dda-235ad1eb369f/55edaf96-ef07-4732-87fa-c42a2f3362af_QQ20220928-16.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ec/1d/0e/ec1d0ec9-67cb-518c-dd72-3ca0aa41a7ee/b3c98720-b9a0-4078-8b88-034054b24965_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a3/09/fa/a309fad8-d31f-36b1-3943-f4c0b478fb97/bb92bbcf-1c9e-4fcc-bfd7-5dbf4eec86e6_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/07/c3/c507c3aa-1d3b-0e50-90a7-fe0ec84178d0/7237da17-1bb3-47b8-bb96-9428c7ad4b3c_19.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/a9/a5/3aa9a52d-9f70-5de7-372e-d630ffd199b8/5b9c9e9a-58b3-40f4-84f3-180c6b18b0c6_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/4a/5b/a44a5be3-0b49-be94-1715-4ef12bf7fc3f/81e913bf-96aa-457e-870d-2b9968fa0e0f_f1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4b/6b/5a/4b6b5a78-6672-b766-0356-c65d1100d177/1a9bcd6b-1459-4746-8daa-7ddc42d15d3e_17.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fd/50/d4/fd50d412-fe7b-c540-f84a-d88f8fdb90cc/b9c6279a-6184-42b8-b879-b1f6ab43cf89_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f7/b2/29/f7b22993-0d76-d06a-a25d-fa7ae0887baa/7fecc4b4-3c9f-43ce-a22b-bfc6da6d9d06_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/16/e7/ca16e719-5eae-7ba4-ee96-2e8d738fb2b8/c3be5896-f75c-4555-8297-762a278d7663_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0b/f2/32/0bf232fd-3f49-e560-df8c-052c14c53897/0e2115a2-55e7-4ac0-922f-cdb3ebee47ab_11.jpg/552x414bb.jpg" />]]></content>
+Street Wolf 裝束
+蘿絲服裝「Street Wolf Outfit」
+※只適用於《蘿絲之影》
+
+額外內容商店通行證------------------------------------------------------------
+■透過「購買」可取得產品的使用許可。
+■啟動應用程式時需連線至網路。
+
+請務必在購買/使用前閱讀 [ EULA ]。
+■About the End User License Agreement
+・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
+・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
+・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
+
+Please confirm the terms above and agree to this Agreement before purchasing the Program. 
+------------------------------------------------------------
+
+■您可以免費玩遊戲本體的一部分。
+要玩完整遊戲，請於程式內購買。 
+
+■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
+
+■此應用程式大小約為 35 GB。
+【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
+我們建議在網路連線良好的環境中下載資料。
+
+■已添加透過 iCloud 雲碟進行儲存資料上傳和下載功能。 
+■無法在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
+■《Resident Evil Village》並不支援通用購買。
+
+■購買注意事項
+・購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
+・應用程式內購買項目僅供進行購買的 Apple 帳號使用，且無法與家人共享群組的成員共用。
+
+■有關支援的OS及機種
+https://www.capcom-games.com/apple/zh-hant/
+------------------------------------------------------------
+
+RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/aa/d5/72/aad5720d-3abd-43d1-4560-251cb5a3b6b2/e4fb12cb-5f2e-4c2c-9fc2-f798dcfa81a7_ss001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/21/0b/2d/210b2d93-4166-60ef-5156-25eef8e5645d/41dccd52-d484-408d-ba77-771b9b6c9da7_ss002.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/05/32/9e/05329eb7-1e40-a887-f56c-650828630f6b/15619961-45ef-48d3-9a21-1cabfa78ad2e_ss003.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/66/94/09/6694092b-a97b-705f-08ef-24cf6e66fb12/52368a33-2f5b-45f5-b85d-b4eef384179a_ss004.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/de/89/b5/de89b556-b2b5-9699-c383-bffbc54ee32e/089884f4-6d68-4f8c-911b-f3f959a4ed9e_ss005.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/81/0e/38/810e3887-5609-7d71-e7c9-f6cda03003da/a032296b-badb-4400-8554-b0d57169f440_ss006.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/ef/ea/77/efea7734-a453-51a6-1a7e-b1f000083676/5f05ecdc-4c3b-4aba-afcf-9523e52d8386_ss007.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/cb/82/21/cb8221f8-fc74-d6b4-07b5-7b374f1fedb8/726c8d48-cf6e-4b7b-9f23-94ebcecbe67b_ss008.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/15/ea/ce/15eaceee-3a13-947b-0488-d57851778bd0/4b5d01a4-48e5-4df2-ade0-236cc463fe4e_ss009.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/48/a9/32/48a932e3-b16f-fff5-91d5-50597f6f887a/fc1722a9-b34c-4c9d-ae53-b671af305a2a_ss010.jpg/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil 4]]></title>
+        <id>Resident Evil 4-1753860492083</id>
+        <link href="https://apps.apple.com/hk/app/resident-evil-4/id6462360082?uo=4"/>
+        <updated>2025-07-30T07:28:12.083Z</updated>
+        <summary type="html"><![CDATA[遊戲本體: HK$ 428.00 → HK$ 143.00<br/>額外內容擴充包: HK$ 138.00 → HK$ 108.00<br/>武器專屬強化券 x5 (A): HK$ 68.00 → HK$ 51.00<br/>武器專屬強化券 x3 (A): HK$ 49.00 → HK$ 37.00<br/>武器專屬強化券 x1 (A): HK$ 21.00 → HK$ 16.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/resident-evil-4/id6462360082?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/02/1a/bb021a23-70e7-e3e4-9405-fa76426bd453/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>遊戲本體：</strong><span>HK$ 428.00</span> → <b>
+  <strong>HK$ 143.00</strong>
+</b>
+  </li><li>
+    <strong>額外內容擴充包：</strong><span>HK$ 138.00</span> → <b>
+  <strong>HK$ 108.00</strong>
+</b>
+  </li><li>
+    <strong>武器專屬強化券 x5 (A)：</strong><span>HK$ 68.00</span> → <b>
+  <strong>HK$ 51.00</strong>
+</b>
+  </li><li>
+    <strong>武器專屬強化券 x3 (A)：</strong><span>HK$ 49.00</span> → <b>
+  <strong>HK$ 37.00</strong>
+</b>
+  </li><li>
+    <strong>武器專屬強化券 x1 (A)：</strong><span>HK$ 21.00</span> → <b>
+  <strong>HK$ 16.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  生還僅是惡夢的開端。
+
+前所未見的生物災害「拉昆市事件」已過去六年。
+成為特務的里昂·S·甘迺迪接獲命令，前往營救被綁架的總統千金。
+為此里昂踏進被「瘋狂」支配之地，他的結局會是……
+一場生與死、恐懼與釋懷互相交織的嚴酷營救劇即將揭開帷幕。
+
+透過直觀的操作和最新的畫面，以及再構成的故事重生為全新的生存恐怖體驗。
+
+------------------------------------------------------------
+■透過「購買」可取得產品的使用許可。
+■啟動應用程式時需連線至網路。
+
+請務必在購買/使用前閱讀 [ EULA ]。
+■About the End User License Agreement
+・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
+・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
+・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
+
+Please confirm the terms above and agree to this Agreement before purchasing the Program. 
+------------------------------------------------------------
+
+■您可以免費玩遊戲本體的一部分。
+要玩完整遊戲，請於程式內購買。 
+
+■不支持鍵盤和滑鼠。
+
+■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
+注意：請參閱 Apple 網站以了解與 iPad 相容的控制器。有些控制器可能無法如預期般運作。
+
+■此應用程式大小約為 30GB。
+【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
+我們建議在網路連線良好的環境中下載資料。
+
+■根據連線速度估計的下載時間：
+	10Mbps - 超過 6 小時
+	100Mbps - 30 至 40 分鐘
+	300Mbps - 8 至 10 分鐘
+
+■可在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
+
+■購買注意事項
+・購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
+・應用程式內購買項目僅供進行購買的 Apple 帳號使用，且無法與家人共享群組的成員共用。
+
+■有關支援的OS及機種
+https://www.capcom-games.com/apple/zh-hant/
+------------------------------------------------------------
+
+RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/fe/b2/7bfeb254-9709-2ee6-e700-cfa59502399c/91bdff9d-b97f-4eb8-b875-10b150a6cca8_01_iPhone_2208x1242_SC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6f/52/07/6f52070c-480f-3a5a-392c-56d2b043a60e/e4c24298-cfe6-4688-b198-15ee6cde51b8_02_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/ef/4a/eaef4aa5-5ce5-47b8-6830-bb3aa20f1490/9f124a4b-7826-498f-9c4c-0783926458a2_03_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/30/a7/a9/30a7a974-a3bb-56a5-83fe-fb83be51c9b8/13ffb0de-bc9f-4b16-a13e-6dcf08212ea1_04_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/0f/aa/930faa0f-333c-49da-540d-736c35c5c569/0721138b-010a-40cc-b839-cb37bb0f02fd_05_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/e7/60/e6e76070-5229-8727-5614-997854029056/ae0e28e8-614c-4474-a5e3-e16580caf5bc_06_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/d9/3e/18d93ec6-cd03-2701-d40a-99935459eeaa/9fa119a6-6cf6-46be-864d-adf9a3f7ae8f_07_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/34/d9/e634d927-f33e-ab09-65f6-9b23aa463f84/f568ec5d-7503-48a5-834c-b7c1b1031562_08_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/95/da/31/95da31a4-ccde-7576-ddba-d3d1dee0320c/23cff6f9-caac-4a87-b2c0-e0581dee6705_09_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/36/fd/c2/36fdc2ac-d936-06f6-7a2d-406921365610/031e8fb1-dae8-4e5e-b8cd-1bba12ae8b89_iPhone55_10.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/e5/73/e7e57396-8d89-6fc0-9839-03f6f4fe7356/51dcfc6a-2d2e-406a-91d2-34641e9b6b19_01_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/28/0c/23/280c231a-dc7b-d15b-d2a0-a712e1db76ff/b788954f-84cb-4631-9724-aafb4eb16a4f_02_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/3d/1c/2c3d1c4b-c9b1-1e0c-8653-229e9191e599/df145c7b-e52d-430e-b14c-360465db3026_03_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a1/64/b8/a164b88d-1b47-59b1-13db-8ecee06e4948/9c19f40c-06ce-4866-9917-0e5df3568f77_04_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/f7/50/6af7508b-6342-a702-101d-4ea71579256a/4b661e85-95b5-42b4-ae56-6d359933ab08_05_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/88/42/8c88426a-251d-1f90-5eca-ad5e8550de5f/45c04cc0-b4f5-46cd-8448-a826f972fa80_06_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/c9/fb/c4c9fb32-24c4-13e4-db27-e5f5945d1bb6/6f4be4b2-9740-4eb1-9421-b9593a8da8a4_07_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/89/f9/cd/89f9cd2b-05ce-6ba8-0625-252b9eecff84/197568df-677e-40b7-9c95-79207936a247_08_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3e/33/c9/3e33c94b-14bc-41d2-6c5d-699b3fbe185b/9b0ceee9-51d0-4cd0-8854-bd0decb2d944_09_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/5f/9b/ad5f9b7b-6229-1243-2c60-3d985fa0c28d/1a35660f-3eaa-4102-b3d3-35b1fb69611c_iPad_10.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
