@@ -21874,6 +21874,19 @@
     "history": [
       [
         {
+          "timestamp": 1753864463587,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺349,90",
+            "All Access Voucher": "₺69,99",
+            "DLC pack": "₺389,00",
+            "Street Wolf Outfit": "₺78,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751358701485,
           "price": 0,
           "formattedPrice": "Free",
