@@ -14982,6 +14982,17 @@
     "history": [
       [
         {
+          "timestamp": 1753927495044,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Encourage  us, Buy me a coffee": "₺129,99",
+            "Encourage us, Donate Coke": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753435721455,
           "price": 0,
           "formattedPrice": "Free",

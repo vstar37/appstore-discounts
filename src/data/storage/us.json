@@ -25931,6 +25931,17 @@
     "history": [
       [
         {
+          "timestamp": 1753927495044,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Encourage us, Donate Coke": "$0.99",
+            "Encourage  us, Buy me a coffee": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753435721455,
           "price": 0,
           "formattedPrice": "Free",
