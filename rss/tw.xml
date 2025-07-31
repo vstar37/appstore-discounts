@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-07-30T08:37:21.477Z</updated>
+    <updated>2025-07-31T14:29:17.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,110 +21,152 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-30T08:37:21.477Z</updated>
+        <updated>2025-07-31T14:29:17.797Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resident Evil Village]]></title>
-        <id>Resident Evil Village-1753864463587</id>
-        <link href="https://apps.apple.com/tw/app/resident-evil-village/id6450980545?uo=4"/>
-        <updated>2025-07-30T08:34:23.587Z</updated>
-        <summary type="html"><![CDATA[遊戲本體: $1,130.00 → $285.00<br/>通行證: $140.00 → $59.00<br/>可下載內容包: $560.00 → $280.00<br/>Street Wolf 裝束: $85.00 → $65.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/resident-evil-village/id6450980545?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/f8/8f/c9f88fed-f216-c68a-b6b6-3d112a674d90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>遊戲本體：</strong><span>$1,130.00</span> → <b>
-  <strong>$285.00</strong>
-</b>
-  </li><li>
-    <strong>通行證：</strong><span>$140.00</span> → <b>
-  <strong>$59.00</strong>
-</b>
-  </li><li>
-    <strong>可下載內容包：</strong><span>$560.00</span> → <b>
-  <strong>$280.00</strong>
-</b>
-  </li><li>
-    <strong>Street Wolf 裝束：</strong><span>$85.00</span> → <b>
-  <strong>$65.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  在《Resident Evil》主系列的第8部作品中展開一場令人毛骨悚然的絕命拚搏。
+        <title type="html"><![CDATA[Juicy Realm]]></title>
+        <id>Juicy Realm-1753971954478</id>
+        <link href="https://apps.apple.com/tw/app/juicy-realm/id1453808408?uo=4"/>
+        <updated>2025-07-31T14:25:54.478Z</updated>
+        <summary type="html"><![CDATA[价格: $90.00 → $60.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/juicy-realm/id1453808408?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$90.00</span> → <b>
+  <strong>$60.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  JuicyRealm是一款滿世界打奇異水果敵人的動作遊戲，在這個世界里，動物跟植物的界限已被打破，一場食物鏈的顛覆拉開了序幕。人類不得不在第一個發現異化植物的區域建立前哨站並開始調查，軍方也準備了數目眾多的強大武器，由你帶領一支先遣軍開始了一場曠日持久的拉鋸戰。
 
-伊森一家的平靜生活又再一次被捲進了混亂之中，而打破這種平靜日常的不是別人，正是克里斯·雷德菲爾。伊森又再一次陷入那無法醒來的噩夢。
+【顛覆的秩序】
+『多年以後，人類看著植物站上食物鏈的頂端，準會想起自己那長久以來的無知與傲慢……』
+當所有的植物都開始進化成動物，長出手腳，擁有智能，人類才意識到那些原本只會光合作用的藤條們的威脅。沒有人知道為何植物會在這麼短的時間裡完成了動物數億年的進化，更沒有人知道它們的目標是什麼。唯一確定的是，這是人類站上食物鏈頂端以來最難以置信的一次挑戰。
 
-經過多年開發，日趨成熟的RE Engine為大家打造了全新的生存「動作」恐怖體驗。
-------------------------------------------------------------
-App內購買
-《Resident Evil Village》（遊戲本體）購買此產品可以讓您玩完整的遊戲本體。
-　「痛苦追憶包」
-　·武器「武士之刃：AW Model-01」
-　·「尋獲片段」畫面濾鏡
-　·RE7 卡式錄音機儲存點
-　·安全室的特別背景音樂《Go Tell Aunt Rhody》
-　·武器飾品「妙妙先生」
-　·立即開放「Village of Shadows」難度
-　·藝術圖特典
-　·貝克一家調查報告
-　求生物資包
-　武器飾品「浣熊先生」
+【遊戲玩法】
+作為這個未知領域的第一批探險者，你需要不斷深入敵人的巢穴，打敗形色各異的水果敵人，同時搜尋更多的裝備並用收集到的資源強化自己。
 
-溫特斯擴充包
-追加內容「溫特斯擴充包」收錄三大內容：包括能以第三人稱視角遊玩《Resident Evil Village》遊戲本篇的「第三人稱視角模式」、新加入可操控角色及新關卡的「傭兵模式——追加命令」，以及以伊森的愛女「蘿絲」為主角的新故事《蘿絲之影》！
+【遊戲特性】
+RogueLike元素，隨機組合的場景，寶物，怪物
+上百種各具特色的武器和道具
+數十種不同特性的小怪和Boss
+多達十位可操作角色，各有不同技能與特長
+獨特的畫面質感，豐富的細節表現
 
-Street Wolf 裝束
-蘿絲服裝「Street Wolf Outfit」
-※只適用於《蘿絲之影》
+Twitter: /@JuicyRealm
+Facebook: @JuicyRealm
+Press contact: juicyrealm@spacecangames.com
+©2020 X.D. Network Inc. All rights reserved.
 
-額外內容商店通行證
-------------------------------------------------------------
-■透過「購買」可取得產品的使用許可。
-■啟動應用程式時需連線至網路。
+【推薦設備】
 
-請務必在購買/使用前閱讀 [ EULA ]。
-■About the End User License Agreement
-・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
-・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
-・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
+請確保你的設備高於如下配置，如果使用早期設備，遊戲可能無法在您的設備上運行。
+iPhone 6S以上機型
+iPad Air 2以上機型
+iPad Mini 4以上機型
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/6d/23/a26d2358-d418-c595-5586-6413733afa08/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/73/38/62733850-0bf8-e075-0f4d-0de2ce5a132c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/60/37/2d/60372d97-134a-d3aa-676f-7b4696a4e6b2/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/de/8a/ddde8ab9-87c5-5ea9-fae1-eb511cb8202d/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/28/69/01286905-a8ed-60e7-7896-d63363af0b6b/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/d7/d1/b7d7d16c-a44e-bbf5-eb4e-fd327300a2c9/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/52/81/5b/52815b31-ad2d-1792-9348-1f8ef734ec51/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/df/0e/27df0e43-34cc-8eb1-d3ef-6c71043ae8c1/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f0/95/07/f0950772-fcb4-799a-6297-bd7b8a8b6aad/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/69/f8/2269f895-1618-9614-ecee-d8de78224dda/pr_source.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去月球-To the Moon]]></title>
+        <id>去月球-To the Moon-1753971954478</id>
+        <link href="https://apps.apple.com/tw/app/%E5%8E%BB%E6%9C%88%E7%90%83-to-the-moon/id1159700098?uo=4"/>
+        <updated>2025-07-31T14:25:54.478Z</updated>
+        <summary type="html"><![CDATA[价格: $150.00 → $60.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%8E%BB%E6%9C%88%E7%90%83-to-the-moon/id1159700098?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$150.00</span> → <b>
+  <strong>$60.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  To the Moon繁體中文版全新上市。這是一個像素畫微型遊戲。全程只有幾個小時，且沒有戰鬥，但是其憑藉巧妙細膩的敘事方式，打動人心的音樂以及發人深思的主題獲得了全球玩家的共鳴，同時收穫了諸多好評。其中就包括了權威媒體Gamespot最佳劇本，Metacritic最佳遊戲及WIRED最佳遊戲等重要大獎，還獲得了今年Steam“我沒有哭，只是眼睛裡進了點沙子”的獎項提名。
+遊戲是由心動網路獲得授權，並負責在手機上高畫質重製，是一款經典劇情向RPG遊戲。原作PC版由加拿大華裔製作人Kan Gao和他的獨立遊戲開發團隊Freebird Games於6年前發售，好評如潮。
 
-Please confirm the terms above and agree to this Agreement before purchasing the Program. 
-------------------------------------------------------------
+[關於手機重製版]
+• 新解鎖29個新的 imessage 貼紙
+• 新增音樂盒功能，支持後台播放/下載遊戲內音樂（通關後自動開啟）
+• 新增 DIY 二維碼分享功能，一鍵分享，多設備隨時同步遊戲進度。
+• 保留原版像素風格，高畫質重製的全新遊戲畫面
+• 完全重製的全新UI介面選單
+• 特別針對手機螢幕重新優化了點觸操作，還新增了搖杆操作
+• 自動隨時存檔，想玩就玩，無壓力
 
-■您可以免費玩遊戲本體的一部分。
-要玩完整遊戲，請於程式內購買。 
+[遊戲特色]
+• 一個獨特的非戰鬥型故事的遊戲體驗
+• 完美結合冒險元素和經典RPG美學的創新組合
+• 備受讚譽的原創音樂與遊戲情節的推演絲絲入扣
+• 一個濃縮式的劇情安排讓人盡情體驗原汁原味的動人故事
 
-■不支持鍵盤和滑鼠。
+[故事概要]
+這是一個講述兩個醫生藉由改變記憶為彌留之際的人們完成他們人生最後願望的故事。羅莎莉恩醫生（Dr. Rosalene）和沃茨醫生（Dr. Watts）有一份非常特殊的工作：他們可以給人們重活一次的機會，從人生的最開始重頭來過，當然這個機會只存在於將死之人的頭腦裡。
 
-■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
-注意：請參閱 Apple 網站以了解與 iPad 相容的控制器。有些控制器可能無法如預期般運作。
+由於其帶來的嚴重後果，新的人工記憶將取代真實記憶成為病人臨終前記住的事，所以透過修改記憶去滿足人們最後願望的這種技術只能對臨死的人實施。
 
-■此應用程式大小約為 16 GB。
-【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
-我們建議在網路連線良好的環境中下載資料。
+這個特別的故事讓玩家跟隨兩位醫生為實現一個老人約翰尼（Johnny）的夢想而進入他的記憶。隨著每一步時間的推移，約翰尼過去的一個個新的片段將被慢慢揭示。兩位醫生將約翰尼記憶中一直困擾他的許多事件重組在一起，他們試圖找出究竟是何原因會讓身體虛弱的老人臨死前要實現這樣的願望。
 
-■根據連線速度估計的下載時間：
-	10Mbps - 超過 3 小時
-	100Mbps - 30 至 40 分鐘
-	300Mbps - 8 至 10 分鐘
+而約翰尼（Johnny）的最後心願竟是…去月球。
 
-■已添加透過 iCloud 雲碟進行儲存資料上傳和下載功能。 
-■無法在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
-■《Resident Evil Village》並不支援通用購買。
+Languages Supported: 
+* English 
+* Français 
+* Deutsch 
+* Español (Latinoamérica) 
+* Español (Europa) 
+* Português 
+* Polski
+* lingua italiana (Italian)
+* Người việt nam
+* русский(Russian)
+* 한국어 (Korean) 
+* 简体中文 (Simplified Chinese) 
+* 繁體中文 (Traditional Chinese) 
+* 日本語 (Japanese)
+* Türk dili(Turkish)
+* Українська（Ukraine）
 
-■購買注意事項
-・購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
-・應用程式內購買項目僅供進行購買的 Apple 帳號使用，且無法與家人共享群組的成員共用。
+Facebook: /TotheMoonHD
+Twitter: @TotheMoonHD
+Service email: TotheMoon@xindong.com
 
-■有關支援的OS及機種
-https://www.capcom-games.com/apple/zh-hant/
-------------------------------------------------------------
+© 2017 X.D. Network Inc. All rights reserved.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/00/97/f2/0097f278-c4a9-0508-778f-aca17a738e6c/mzl.hxexdycg.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/9a/cb/15/9acb1589-eae3-b391-af15-c6688af7a7fe/mzl.vgmhtsog.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/13/9b/4f/139b4f1e-6cef-2161-d769-6bf3e08e54c7/mzl.izlbjjhh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/aa/7e/84/aa7e840b-43cb-8503-8225-b1cc96bcef4e/mzl.jchgmmks.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/27/ac/16/27ac169b-7b87-865a-8c35-8b66e16312ca/mzl.evvqzlaw.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/97/c5/cd/97c5cd57-fc58-feaf-aaf8-80b70d0c0bc2/mzl.blqcwbph.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/0e/a8/af/0ea8afc2-c0f2-7f27-da88-f1d0f0033d10/mzl.zlutvqgs.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ee/62/3c/ee623c54-9fac-7a6f-3098-37d19ff46488/mzl.ifzptisx.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d7/7e/42/d77e4292-2024-7a5c-1050-e318d6404c23/mzl.jhassfxs.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8f/5b/18/8f5b18a7-7e26-b724-21a3-8ff836e725bc/mzl.jazdklza.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[籠中窺夢]]></title>
+        <id>籠中窺夢-1753971954478</id>
+        <link href="https://apps.apple.com/tw/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4"/>
+        <updated>2025-07-31T14:25:54.478Z</updated>
+        <summary type="html"><![CDATA[价格: $150.00 → $120.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$150.00</span> → <b>
+  <strong>$120.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  《籠中窺夢》是一款「視錯覺」解謎遊戲，由兩人工作室Optillusion開發完成。
 
-RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/f8/97/43f89730-a1cc-ae23-475e-8815092a1bf1/f70c16dc-b7ff-4d02-93e3-28e1dec19a85_ss001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/64/4e/f8644e90-e8e7-68ee-a4b3-99c4931577e2/6db1cfd2-a5a8-4298-9c5d-2830ec7c1ee0_ss002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/52/11/d2/5211d28e-4eff-a0ef-3f62-d61dd7458a11/d9e9b491-ac47-4226-854b-5ce5aca815c6_ss003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/a8/98/e6a89854-7668-f141-7e56-48fc45c53662/565f2122-03fa-46a1-b0f7-fd2ab6289a69_ss004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/01/29/b9012956-c7aa-7e34-fde4-2a6ddef71399/cd486c91-98be-4bfd-96c0-98b26da33c2b_ss005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d6/22/f8/d622f81c-03da-770c-8604-89308d58a323/e203360f-44be-44ef-a2c1-4d83e5fd24c0_ss006.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/c4/c5/14c4c572-10b6-fd7d-2c77-b1a841255312/da38ac50-7af5-4155-ad2f-a8f21b8af77a_ss007.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/af/e4/cfafe4de-a31b-63da-dd1f-509dcdb71b4d/ed7de2c8-ce0c-4e52-8bd7-a63c4cd66301_ss008.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/14/81/611481a3-3909-9e59-9fab-8ff7616cb4c8/e341754e-27ec-4202-9ce3-511199de2a16_ss009.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/ba/3f/7cba3f97-47da-3d2e-6e0e-1caf365d453e/334f2fe3-5c55-4e04-934d-bd9d81ebc45a_ss010.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ab/83/1b/ab831b1b-e2d7-c5f2-edee-658f77a2bd19/f521fec7-da6b-4970-987f-4ce591211814_ss001.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/20/6e/60206eb4-46ac-e04e-9d2d-ed76e9653430/4c980a5e-2cb4-436b-a434-9644c45e2ce8_ss002.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/31/c8/e931c8e6-26e2-742b-09ee-825ce9481648/fbb1a7eb-6a23-4fdd-b935-d3e37c520c1c_ss003.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/30/9e/7c309e3a-8b04-d5e0-741e-97c2a6e29880/16aa1958-5afc-4ec3-835e-e62a054fd7f7_ss004.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/b5/61/49b56118-a1ea-947c-1856-7f46342a4b96/dd131879-756c-437a-9992-cd93267657b9_ss005.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/6b/7e/c36b7eec-f0e2-d3cd-8253-88c3e6d36a88/397837d2-5032-4225-8f48-7a67da01f117_ss006.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/d8/22/d8d8225f-e540-d9f2-5130-93989c262fb7/22f9bad7-31e7-42aa-8aab-5e4962317b7e_ss007.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/b0/20/f7b02056-dd45-4e42-ce09-dcf5edd45338/5415701a-87d0-432a-8d01-6fdefc090356_ss008.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/b5/5a/27b55a49-b344-504a-c352-40417f37be54/dcfa14fd-59f2-479a-aeee-2645252b6cfd_ss009.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/8d/39/818d396f-5280-9d85-7087-a5ca6395c6e1/fb6b8c81-054e-42ec-a255-0cd6cdf1d282_ss010.png/552x414bb.png" />]]></content>
+遊戲的內容全部包含在一個神秘的立方體中，立方體的每個面都是一個獨立的世界：工廠，燈塔，遊樂園，教堂等等，他們之間看似毫不相關，實則交錯萬千，充滿了意想不到的關聯……
+
+【燒腦視錯覺解謎】
+發揮你的腦洞與想象力，找到那些平凡場景與物體之間的聯系，產生意想不到的奇妙互動，拼接，然後見證奇跡誕生。
+
+【收集照片拼湊故事】
+謎題背後，遊戲還有一個等待著被玩家們發現並反轉的故事。通過收集照片拼湊故事，試著解開它隱藏的真相吧。
+
+【多重提示杜絕卡關】
+遊戲包含多種解謎引導機製，包括最基礎的「視覺引導」，幫助你快速定位關鍵物品；而「文字提示」則可以幫你整理解謎思路；最後還有「視頻提示」，用終極手段保證你絕不會卡關。
+
+【拿下獎章證明實力】
+遊戲擁有 15 個成就，每個成就都對應著一個根據劇情設計的獨特獎章。如果你是解謎遊戲達人，那就用這些獎章來證明自己吧~
+
+【聯系我們】
+官方QQ討論群：626570283
+官方微博：@心動網絡 、@籠中窺夢-Moncage
+官方郵箱：moncagethegame@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7e/da/ac/7edaacb2-e7ac-df1a-aeff-5edff0a7dc22/9d9c35e4-14a8-4bba-b8b9-88c9b0e924ab_5.51.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/d0/85/ccd0856e-5664-a8a6-1304-b3e0f2c42456/6372c104-cce2-48a5-89ba-0e882b86ed06_5.52.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/71/6b/1c/716b1c9f-3466-f8e5-35b3-dfba8d1db607/1d7fffa4-78dd-40db-b1d6-53cc6a2d5b51_5.53.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/13/ba/2613baea-a756-b3ae-8ef4-98a92797042e/e0889847-52eb-4d24-897d-89219d25ce03_5.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/72/af/f672af40-ae4b-0e3d-77d7-93b2919c8c3b/4fda857c-a032-4a7f-b1fa-9a6cf9eea3fe_5.55.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/51/2c/a5/512ca500-3366-2887-5460-c467751f440a/06fc4263-0ab9-48f2-a29d-e3a491d3dea1_Pad1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/56/ad/9c/56ad9c4c-0175-2d88-8cca-df373b235a5e/1507ffbc-d1bc-4fae-ab62-c1f79feeb51a_Pad2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d0/81/b0/d081b09b-a789-a126-fa73-f215d6904cbd/db61faec-78b3-4cbf-b44c-cd9ef78f33c5_Pad3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1d/94/b1/1d94b1a9-5a3b-9837-9458-bc9fd5f14b84/d59cab3c-6c0d-4111-bd52-7a643aab704e_Pad4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/95/92/73/9592731f-17f2-e057-8d13-d78dde9bb5ee/3ab1e716-4b9e-4108-8d4d-1a4e4a9f34f7_Pad5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
