@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-30T19:24:20.850Z</updated>
+    <updated>2025-07-31T05:33:19.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,56 +21,69 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-30T19:24:20.851Z</updated>
+        <updated>2025-07-31T05:33:19.426Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1753903263068</id>
-        <link href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-07-30T19:21:03.068Z</updated>
-        <summary type="html"><![CDATA[Lifetime: $19.99 → $19.95]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/ae/5c/29ae5cfa-2d7b-9d93-6527-88a62a055d75/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
+        <id>Goodnotes 6: AI Notes &amp; Docs-1753939802942</id>
+        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
+        <updated>2025-07-31T05:30:02.942Z</updated>
+        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/61/91/9061916b-6432-088e-f65a-b4c1cb725157/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime：</strong><span>$19.99</span> → <b>
-  <strong>$19.95</strong>
+    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  MoneyTrack - Smart Personal Finance Tracker
-Record every dollar, take control of your finances. A clutter-free budgeting app with zero ads, zero splash screens, and zero financial product promotions.
+  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
 
-■ KEY FEATURES
-• Auto-Tracking: Seamlessly integrates with Shortcuts for automatic expense capture triggered by your transactions
-• Versatile Entries: Track income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Powerful Analytics: Visualize spending patterns through pie charts, bar graphs and trend lines to quickly spot financial issues
-• Smart Budgeting: Create annual/monthly budgets for total spending and categories with dynamic daily allowance adjustments
+Boost Professional Efficiency and Productivity
+• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
+• Import, annotate, and organize PDFs, documents, and meeting notes.
+• Transcribe audio recordings from meetings so you never miss a detail.
+• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
+• Export and share notes via email, print, PDF, or images for easy collaboration.
+• Send files directly to your unique Goodnotes email for quick access on all devices.
+• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
+• Convert handwriting to text for quick and clean professional notes.
+• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
 
-■ COMPREHENSIVE ASSET MANAGEMENT
-• Unified dashboard for all account types (cash, checking accounts, credit cards, store cards)
-• Balance sheet and net worth tracking for real-time financial status monitoring
-• Credit card management system (payment alerts, limit tracking, grace period calculation)
-• Multi-currency support with exchange rates for all major world currencies
+Powerful Digital Notes and Study Tools
+• Use AI-powered study tools help you learn faster and retain more information.
+• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
+• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
+• Convert equations to LaTeX format for easy use in reports and presentations.
+• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
+• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
+• Collaborate in real time with classmates by working on the same document for group projects and study sessions
+• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
 
-■ SMART FEATURES
-• Multiple Books: Easily separate personal, business, and project finances
-• Collaborative Tracking: Invite family members to create transparent household finances
-• Cloud Sync: Free data backup across devices with secure protection
-• Easy Import/Export: Support for importing from banking apps and exporting to Excel
-• Recurring Transactions: Set up automatic entries that generate on schedule
-• Payment Plans: Track installment payments with due date reminders
-• Custom Categories: Create unlimited category levels to match your financial organization
+Enhance Creative Digital Planning
+• Design fully customizable notebooks, templates, and covers to fit your style.
+• Mix handwriting, text, stickers, images, and drawings in a single notebook.
+• Stay focused with Smart Timer, and boost your productivity.
+• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
+• Organize your notes with unlimited folders and advanced search.
+• Get exclusive monthly downloads every month with a paid subscription.
+• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
 
-■ MULTI-DEVICE EXPERIENCE
-Sync between iPhone, iPad and PC with instant updates, keeping your financial picture complete no matter where you are.
+Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
 
-■ FOCUSED ON FINANCIAL WELLNESS
-We're dedicated to one mission — helping you achieve financial clarity. No investment pitches, no social distractions, just a clean and effective expense tracking experience.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+Website: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp 
+
+Privacy policy: https://www.goodnotes.com/privacy-policy 
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p>]]></content>
     </entry>
 </feed>
