@@ -31904,6 +31904,14 @@
     "history": [
       [
         {
+          "timestamp": 1754083409940,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752431454727,
           "price": 4.99,
           "formattedPrice": "$4.99",

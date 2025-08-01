@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-08-01T04:18:20.858Z</updated>
+    <updated>2025-08-01T21:27:01.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,67 +21,107 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-01T04:18:20.859Z</updated>
+        <updated>2025-08-01T21:27:01.927Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes 6：筆記，PDF，AI]]></title>
-        <id>Goodnotes 6：筆記，PDF，AI-1754021737475</id>
-        <link href="https://apps.apple.com/mo/app/goodnotes-6-%E7%AD%86%E8%A8%98-pdf-ai/id1444383602?uo=4"/>
-        <updated>2025-08-01T04:15:37.475Z</updated>
-        <summary type="html"><![CDATA[Goodnotes 6 一次性付款: USD 23.99 → USD 21.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/goodnotes-6-%E7%AD%86%E8%A8%98-pdf-ai/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/61/91/9061916b-6432-088e-f65a-b4c1cb725157/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>Goodnotes 6 一次性付款：</strong><span>USD 23.99</span> → <b>
-  <strong>USD 21.99</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  使用 Goodnotes 6，感受領先 AI 科技與電子筆記的完美融合。無論是捕捉創意、整理思緒、分享筆記、協同合作都可以輕鬆實現。
+        <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
+        <id>FyTube -沒有廣告的 YouTube-1754083409940</id>
+        <link href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
+        <updated>2025-08-01T21:23:29.940Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 4.99</span> → <b>
+  <strong>免費</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  我們的應用實時連接到YouTube，讓您播放任何視頻，並擁有專為您設計的獨家功能！
+主要功能亮點：
+• 鎖屏播放：在後台持續收聽您視頻的音頻。
+• 浮動播放（畫中畫）：在觀看視頻時使用其他應用。
+• 睡眠定時器：設置自動關閉，安心放鬆。
+• 循環模式：無限循環播放您喜歡的視頻。
+此外還包括：
+• 可切換字幕
+• 播放速度控制
+• 質量選擇和全屏模式
+• 智能搜索，即時建議（預測搜索）
+• 上傳日期篩選：按天、週、月或年
+FyTube非常適合不想錯過任何喜歡主題視頻的用戶。
+盡情探索、播放並享受您喜愛的內容——無干擾！
 
-學生的成績更上一層樓
-• Ask Goodnotes 使用對話式 AI，針對筆記內容或選定範圍詢問並獲得解答。文檔摘要、建議問題、生成測驗習題，都不在話下。
-• 寫下方程或等式並點擊等號， Math Assist 即可自動完成解答。
-• 將手寫數學公式轉換為 LaTeX 格式，並可以隨時修改，讓你的數學筆記更智能。
-• 學習卡組使用主動回憶和間隔重復等領先學習科技，根據你的學習情況調整學習內容，還可以用手寫創建自己的學習材料。
-• 全新 AI 文稿助手可協助你修正文法、改變語氣、變更文字長度。
-• 在小組作業中與同學協作編輯同一文檔，讓協作不再受到距離和時間阻礙。
-• 錄制與手寫同步的音頻筆記，課堂重點通通記下，復習鞏固聲臨其境。
-• 強大的搜索功能無論是多久前的課堂筆記，都能輕鬆找到。
-• 透過 SAT 和 DSE 數學應考課程令您在數學考試獲取佳績，內置 AI 數學輔助可提示計算錯誤，提升數學效率。
-• 快速匯入課堂講演、報告、圖檔、課本和試卷等材料，並直接在 iPad 上進行標注。讓學習和溫習一樣輕鬆。
+特別功能
+浮動播放
+永不停播！有了此功能，您可以在使用其他應用時繼續觀看視頻。
+只需進入全屏模式，點擊畫中畫按鈕——它是播放器頂部的第二個圖標。
+無論打開哪個應用，您的視頻都會浮動在螢幕頂部！
 
-讓設計者盡情發揮創意潛能
-• 自訂筆記簿與紙張範本的尺寸、顏色或封面，你的筆記由你作主。
-• 使用 Goodnotes Smart Ink 科技，輕鬆完成手寫內容的編輯、調整大小和修改對齊方式。
-• 智慧計時器包含多種模式選擇，提升專注力和工作效率。
-• 內置市集提供封面、紙張範本、貼紙、等多種內容。琳琅滿目，持續更新。
-• 創建無限資料夾，並通過顏色和圖案標識讓筆記整理更有條理。
-• 付費用戶每月可在市集領取不同福利內容，為你的創意提供靈感。
-• 更有鉛筆、膠帶、取色器、貼紙、套索、圖檔編輯、圖層等多種實用功能，助你創作精美筆記。
+鎖屏播放
+無中斷收聽！
+即使螢幕關閉，也能繼續享受視頻音頻。非常適合開車或休息時聽音樂、播客或喜歡的曲目。
+如何激活？
+只需鎖定設備螢幕，即刻會看到後台播放器。
+點擊播放——音頻將持續不斷。
 
-提升專業人士的生產力
-• 透過 AirPlay 或 HDMI 將裝置連接至外部屏幕時，可使用 Goodnotes 直接展示筆記內容。
-• 在簡報過程中使用 iPad 上的激光筆，引導觀眾的注意力。
-• 將筆記內容匯出至電子郵件、列印，或以 PDF 檔案或影像形式分享於任何地方
-• 分享筆記簿的連結，直接共同編修，以便分工合作和集思廣益。
-• 直接將文件傳送至您專屬的 Goodnotes 電子郵件即可完成匯入。
-• 匯入會議記錄、合約、相片、簡報或摘要來進行簽名、備註或協同合作。
-• 可使用 iCloud 同步，或透過 Google Drive、OneDrive、Dropbox 及 WebDAV 備份筆記，保護重要文件的安全。
+睡眠定時器
+安然入睡——應用會自動停止！
+啟用此功能後，視頻將在您設定的時間後自動停止。非常適合睡覺或小憩，無需擔心忘記關閉。
+如何激活？
+點擊定時器按鈕，選擇運行時間，就完成了。
+放鬆，剩下的交給應用！
 
-網頁: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp
+循環模式
+反覆播放您喜歡的視頻！
+啟用此功能，視頻會自動重複播放任意次數。
+怎麼知道它是否開啟？
+啟動時圖標會變紅。
+（支援VoiceOver：會提示開啟或關閉狀態。）
+非常適合歌曲、冥想或任何您喜歡反覆播放的內容！
 
-Privacy policy: https://www.goodnotes.com/privacy-policy
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
+需要幫助使用這些功能？訪問：fydub.com/fytube
+
+基本功能
+• 全屏高清播放
+• 簡單易用的介面，友好設計
+• 隨時快進或倒退——不錯過精彩部分
+• 啟用字幕
+• 根據喜好調整播放速度
+• 更改視頻質量
+• 智能搜索，即時建議和上傳日期篩選：天、週、月、年、全部
+• 每個視頻包含相關視頻區，發現更多有趣內容
+• 發現最新視頻，保持資訊更新
+• 應用直接連接YouTube，讓您找到任何視頻
+• 支援任何兼容AirPlay的設備播放
+• 支援VoiceOver（增強描述）
+• 無需帳號
+• 未經您允許，不儲存快取、Cookie或個人資料——安全觀看
+• 介面支援29種語言
+• 無廣告，無訂閱
+購買FyTube一次付費，開啟無廣告無訂閱的新串流體驗。
+
+最低要求：
+• iOS 13或更高版本
+• 3G及以上網路連接
+
+隱私政策：
+https://fydub.com/privacy-policy_fytube
+服務條款：
+https://fydub.com/terms-of-service_fytube
+
+與我們應用相關的關鍵詞：
+youtube，youtube音樂，youtube vanced，YouTube廣告攔截器，無訂閱，跳過YouTube廣告，無廣告音樂，無廣告，YouTube應用，YouTube廣告屏蔽，攔截彈窗，移除廣告，屏蔽廣告，廣告攔截，內容屏蔽，無廣告，無廣告瀏覽器，攔截廣告，跳過廣告，無廣告音樂，無廣告YouTube，無廣告視頻等。
+
+有關如何使用FyTube的問題？
+訪問fydub.com/fytube或聯繫我們——我們樂意為您服務。所有郵件均有回覆：fytube@fydub.com
+
+FyTube與YouTube合作。
+YouTube名稱和標誌為Google公司註冊商標。版權所有。
+© FyTube®
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/e2/f3/b9e2f302-23ae-179a-8242-201991a7ff5c/c1983b44-0d79-4ee3-a8e0-b75ecca7580f_imagen1-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/b2/b7/e0b2b752-2cb9-6375-446b-bfd87089923d/bd0e6f4d-bf1c-46e3-89a7-a3d92ade6c84_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/f7/7e70f758-63ac-29c2-68e0-51a8b1cb0622/604d18d7-22f1-4bb0-85ec-3c53c9e84d20_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/4b/77/694b77f9-023b-619d-6f9d-7ae6a06dacc0/5a4eb7ab-8789-4b6b-b295-24e00df14fc1_imagen2-ok2.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
