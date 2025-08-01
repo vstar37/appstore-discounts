@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-08-01T04:18:20.861Z</updated>
+    <updated>2025-08-01T06:42:10.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,208 +21,49 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-01T04:18:20.861Z</updated>
+        <updated>2025-08-01T06:42:10.659Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
-        <id>Goodnotes 6: AI Notes &amp; Docs-1754021737475</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
-        <updated>2025-08-01T04:15:37.475Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/61/91/9061916b-6432-088e-f65a-b4c1cb725157/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Controller for HomeKit]]></title>
+        <id>Controller for HomeKit-1754030331819</id>
+        <link href="https://apps.apple.com/us/app/controller-for-homekit/id1198176727?uo=4"/>
+        <updated>2025-08-01T06:38:51.819Z</updated>
+        <summary type="html"><![CDATA[Lifetime license: $99.99 → $49.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/controller-for-homekit/id1198176727?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/62/8c/57628ccd-fb24-ba55-8148-e4fba5693227/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
+    <strong>Lifetime license：</strong><span>$99.99</span> → <b>
+  <strong>$49.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
+  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
 
-Boost Professional Efficiency and Productivity
-• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
-• Import, annotate, and organize PDFs, documents, and meeting notes.
-• Transcribe audio recordings from meetings so you never miss a detail.
-• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
-• Export and share notes via email, print, PDF, or images for easy collaboration.
-• Send files directly to your unique Goodnotes email for quick access on all devices.
-• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
-• Convert handwriting to text for quick and clean professional notes.
-• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
+* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
+* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
+* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
+* BACKUPS: Secure your setup and restore it easily when needed.
+* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
+* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
+* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
+* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
+* LOGS: Monitor all activities and changes in your smart home.
+* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
 
-Powerful Digital Notes and Study Tools
-• Use AI-powered study tools help you learn faster and retain more information.
-• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
-• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
-• Convert equations to LaTeX format for easy use in reports and presentations.
-• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
-• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
-• Collaborate in real time with classmates by working on the same document for group projects and study sessions
-• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
+Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
 
-Enhance Creative Digital Planning
-• Design fully customizable notebooks, templates, and covers to fit your style.
-• Mix handwriting, text, stickers, images, and drawings in a single notebook.
-• Stay focused with Smart Timer, and boost your productivity.
-• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
-• Organize your notes with unlimited folders and advanced search.
-• Get exclusive monthly downloads every month with a paid subscription.
-• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
+For more information, visit our website: https://www.controllerforhomekit.com
 
-Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+Privacy Policy: 
+https://controllerforhomekit.com/privacy-en/
 
-Website: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp 
-
-Privacy policy: https://www.goodnotes.com/privacy-policy 
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juicy Realm]]></title>
-        <id>Juicy Realm-1754021737475</id>
-        <link href="https://apps.apple.com/us/app/juicy-realm/id1453808408?uo=4"/>
-        <updated>2025-08-01T04:15:37.475Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juicy-realm/id1453808408?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/23/e7/0c23e71d-9853-40d0-4273-f6c08cb1369b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Juicy Realm is a roguelike game with fruits as enemies. It is set in a world in which the line between animals and plants is blurred. It began with the tipping of the food-chain, which forced the humans to establish an outpost and begin an investigation in the region where the first species of mutated plants was discovered. The military has prepared a vast number of powerful weapons, with you leading the vanguard forces to wage this long war.
-
-Subverted Order
-“Many years later, when the humans watch as the plants climb up to the top of the food chain, they will be reminded of their own naivety and arrogance…”
-Only when all the plants started to evolve into animals, growing limbs and becoming sentient, did the humans realize the threat of those photosynthetic-lifeforms. No one knows how they achieved the state of evolution that took animal lifeforms millions of years to reach in such a short amount of time, and no one knows their ultimate objective. The only thing known for sure is that the humans now face the greatest challenge since they climbed up to the top of the food chain.
-
-Gameplay
-As the first explorers of this unknown region, you must strive to venture deep into the enemy hive, defeat all kinds of fruits and arm yourself with various equipment, as well as upgrade yourself with the resources you find in your way.
-
-Game Features
--Rougelite elements such as random terrains, loot drops, and monsters
--Hundreds of special and bizarre weapons and items
--Loads of unique mod enemies and bosses
--10 characters in the roster with unique skills and abilities
--Unique artstyle with rich details
-
-Twitter: /@JuicyRealm
-Facebook: @JuicyRealm
-Press contact: juicyrealm@spacecangames.com
-
-[Minimum Requirements]
-
-Please make sure you are using devices matching the following requirements. If you are using old devices, the game might not run normally on your device.
-
-iPhone 6S and higher
-iPad Air 2 and higher
-iPad Mini 4 and higher
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/45/0a/3a450a53-b535-96da-505b-e15d4ee981ae/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/c7/15/f0c7157f-7618-abcf-d022-22cab0453c31/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/3b/ad/e13badd6-1686-70e6-e2c6-94976ed10288/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/0c/9c/950c9ca5-39fe-c66a-a9b4-fcdc5a14565c/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/58/78/c758787b-6f28-cb09-1600-b63d4502f75d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/2a/62/252a62fe-c11d-7cbc-1c3a-4ea6531dca1e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8a/e0/848ae0ea-d8e0-8f67-4bfc-e1679ee028e4/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6f/0a/e6/6f0ae677-31d6-1e47-f50c-8c956f30ae84/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/31/c8/0831c840-1232-6894-2310-e04ced38cef0/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/db/83/48db831b-ff2a-4d3a-f3bc-a3336e5070f6/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To the Moon]]></title>
-        <id>To the Moon-1754021737475</id>
-        <link href="https://apps.apple.com/us/app/to-the-moon/id1159700098?uo=4"/>
-        <updated>2025-08-01T04:15:37.475Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/to-the-moon/id1159700098?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/70/9a/b4709aac-55d1-21e8-89d4-ccdeccf04a1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.
-
-ABOUT THIS GAME
-Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning... but only in their patients' heads.
-
-Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t.
-
-This particular story follows their attempt to fulfill the dream of an elderly man, Johnny. With each step back in time, a new fragment of Johnny's past is revealed. As the two doctors piece together the puzzled events that spanned a life time, they seek to find out just why the frail old man chose his dying wish to be what it is.
-
-And Johnny's last wish is, of course... to go to the moon.
-
-MORE DETAILS
-"To the Moon", a story-driven RPG with pixel graphics, was originally developed six years ago for PC by Canadian producer Kan Gao and Freebird Games, his indie game studio.Rights to develop and publish the remastered mobile version of "To the Moon" were acquired by X.D. Network Inc.
-The story of "To the Moon" unfolds before players, much like a movie. While the entire game has no battle system and can be completed in a few hours, the compelling story and moving original soundtrack resonated with players worldwide. On top of receiving overwhelmingly positive ratings, "To the Moon" received multiple awards from Gamespot, Metacritic, WIRED, and more, and was nominated for "I'm Not Crying, There's Something In My Eye" in the 2016 Steam Awards.
-
-KEY FEATURES
-•	Unlocked 29 new iMessage stickers.
-•	Added "Music Box" function, allowing backstage music playing& in-game music downloading(will be enabled automatically after clearing the stage).
-•	Added "DIY QR code" function, allowing one-key sharing of player data for playing on different devices.
-•	A unique & non-combat story-driven experience
-•	Innovative mix between adventure game elements and classic RPG aesthetics
-•	Acclaimed original soundtrack that closely ties to the story
-•	An espresso execution with zero filler and no time drains
-
-Languages Supported: 
-* English 
-* Français 
-* Deutsch 
-* Español (Latinoamérica) 
-* Español (Europa) 
-* Português 
-* Polski
-* lingua italiana (Italian)
-* Người việt nam
-* русский(Russian)
-* 한국어 (Korean) 
-* 简体中文 (Simplified Chinese) 
-* 繁體中文 (Traditional Chinese) 
-* 日本語 (Japanese)
-* Türk dili(Turkish)
-* Українська（Ukraine）
-
-Facebook: /TotheMoonHD
-Twitter: @TotheMoonHD
-Service email: TotheMoon@xindong.com
-
-© 2017 X.D. Network Inc. All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/ba/e7/8cbae70f-cb96-836c-11ef-afee1d9f0995/mzl.duqjvmyj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e0/af/0de0af90-cb76-93e7-af4a-e602fe53a13b/mzl.kcpanvyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/b0/3f/a8b03fe9-bf55-1a2f-c386-10ff0cc7c627/mzl.ggycdnkb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/c2/b2/03c2b201-1759-f62a-338f-9a0ace583983/mzl.lhameszq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/c8/d6/1ac8d620-f639-e740-db9d-2c7c9269fb60/mzl.snejulwv.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/c7/5e/48c75e27-41e0-657f-fa4d-310f414bb0cf/mzl.ukbjyhky.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/bb/96/3ebb96ae-1020-2499-f408-4eee13e0b753/mzl.fefblsaa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/7c/a3/a47ca3ee-86e8-e9a2-cd46-6a14ffd1335c/mzl.elnaumho.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/ac/aa/a7acaa3e-34b8-df7f-bc02-c16f32d57f61/mzl.tcljipwn.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/4d/b2/aa4db242-5627-7455-6895-efbc61ce2f54/mzl.zkmbxdnw.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moncage]]></title>
-        <id>Moncage-1754021737475</id>
-        <link href="https://apps.apple.com/us/app/moncage/id1587860402?uo=4"/>
-        <updated>2025-08-01T04:15:37.475Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moncage/id1587860402?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$3.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
-
-The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
-
-【Solve Puzzles with Mind-Boggling Optical Illusions】
-Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
-
-【Collect All Photos to Unveil the Story】
-Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
-
-【Get Unstuck with Thoughtful Hints】
-There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
-
-【Prove Your Puzzle-Solving Skills with Medals】
-There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
-
-【Connect with us:】
-Twitter: @MoncageTheGame
-Email: moncagethegame@gmail.com
-Discord: https://discord.com/invite/TEVX2uPEsj
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
+Terms of Use: 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
