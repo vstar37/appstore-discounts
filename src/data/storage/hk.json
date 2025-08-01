@@ -1143,6 +1143,23 @@
     "history": [
       [
         {
+          "timestamp": 1754087039784,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "扫描全能王高级帐户（一年）": "HK$ 288.00",
+            "扫描全能王高级帐户（一个月）": "HK$ 58.00",
+            "掃描全能王高級帳戶": "HK$ 393.00",
+            "3000 cp + Six chance to Draw": "HK$ 38.00",
+            "600 cp + One chance to Draw": "HK$ 8.00",
+            "3000 C-Points": "HK$ 38.00",
+            "十頁傳真": "HK$ 68.00",
+            "一頁傳真": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753781431641,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -10183,6 +10200,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754087039784,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "HK$ 200.00",
+            "森日豪華禮包": "HK$ 148.00",
+            "森日精選禮包": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00",
+            "Supreme Package": "HK$ 38.00",
+            "Advanced Package": "HK$ 22.00",
+            "Starter Package": "HK$ 8.00",
+            "年訂閱": "HK$ 200.00",
+            "月訂閱（早鳥）": "HK$ 35.00"
+          }
+        },
         {
           "timestamp": 1754065933007,
           "price": 0,
