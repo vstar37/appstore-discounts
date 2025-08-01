@@ -8766,6 +8766,21 @@
     "history": [
       [
         {
+          "timestamp": 1754033404521,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "森日豪华礼包": "¥128.00",
+            "森日精选礼包": "¥88.00",
+            "Elite Package": "¥68.00",
+            "Supreme Package": "¥38.00",
+            "Advanced Package": "¥22.00",
+            "Starter Package": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753914257548,
           "price": 25,
           "formattedPrice": "¥25.00",
