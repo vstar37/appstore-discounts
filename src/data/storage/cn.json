@@ -14667,6 +14667,17 @@
     "history": [
       [
         {
+          "timestamp": 1754252790788,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO yearly subscription": "¥228.00",
+            "Yearly Subscription": "¥138.00",
+            "Lifetime license": "¥698.00",
+            "Monthly Subscription": "¥35.00"
+          }
+        },
+        {
           "timestamp": 1754248747673,
           "price": 0,
           "formattedPrice": "免费",

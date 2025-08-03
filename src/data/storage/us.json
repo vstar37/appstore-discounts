@@ -169,6 +169,23 @@
     "history": [
       [
         {
+          "timestamp": 1754252790788,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "基础会员-连续包月": "$1.99"
+          }
+        },
+        {
           "timestamp": 1754248747673,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -12117,6 +12134,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754252790788,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
         {
           "timestamp": 1754248747673,
           "price": 0,
