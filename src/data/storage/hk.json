@@ -12441,6 +12441,20 @@
     "history": [
       [
         {
+          "timestamp": 1754234647626,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "HK$ 588.00",
+            "Parallels Desktop for Mac #4": "HK$ 588.00",
+            "Parallels Desktop for Mac #3": "HK$ 588.00",
+            "Parallels Desktop for Mac": "HK$ 588.00",
+            "Parallels Desktop for Mac #2": "HK$ 588.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753122967551,
           "price": 0,
           "formattedPrice": "免費",
@@ -14555,6 +14569,25 @@
       "Geometric Frame Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754234647626,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753096897610,
