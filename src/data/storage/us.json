@@ -26980,6 +26980,16 @@
     "history": [
       [
         {
+          "timestamp": 1754328401466,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754105858564,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -34837,7 +34847,8 @@
       "Weapon Upgrade Ticket x3 (D)": "$6.99",
       "Weapon Upgrade Ticket x1 (F)": "$2.99",
       "Weapon Upgrade Ticket x1 (E)": "$2.99",
-      "Weapon Upgrade Ticket x1 (C)": "$2.99"
+      "Weapon Upgrade Ticket x1 (C)": "$2.99",
+      "Weapon Upgrade Ticket x1 (D)": "$2.29"
     },
     "minPriceInfo": {
       "price": 0,
@@ -34854,13 +34865,33 @@
       "Charm: 'Green Herb'": "$0.99",
       "Weapon Upgrade Ticket x3 (C)": "$5.29",
       "Attaché Case: 'Classic'": "$0.99",
-      "Weapon Upgrade Ticket x1 (B)": "$2.99",
+      "Weapon Upgrade Ticket x1 (B)": "$2.29",
       "Weapon Upgrade Ticket x3 (D)": "$5.29",
       "Weapon Upgrade Ticket x1 (F)": "$2.29",
       "Weapon Upgrade Ticket x1 (E)": "$2.29",
-      "Weapon Upgrade Ticket x1 (C)": "$2.29"
+      "Weapon Upgrade Ticket x1 (C)": "$2.29",
+      "Weapon Upgrade Ticket x1 (D)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754328401466,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Separate Ways": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (B)": "$2.29",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (D)": "$2.29",
+            "Weapon Upgrade Ticket x3 (B)": "$5.29",
+            "Weapon Upgrade Ticket x1 (C)": "$2.29",
+            "Weapon Upgrade Ticket x1 (A)": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753979513151,
