@@ -13992,6 +13992,23 @@
     "history": [
       [
         {
+          "timestamp": 1754419123026,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1754414602592,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -21728,6 +21745,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754419123026,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
         {
           "timestamp": 1754414602592,
           "price": 0,
