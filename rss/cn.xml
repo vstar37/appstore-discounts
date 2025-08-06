@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-06T17:28:17.114Z</updated>
+    <updated>2025-08-06T20:31:08.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-06T17:28:17.115Z</updated>
+        <updated>2025-08-06T20:31:08.575Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,17 +29,31 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防史诗冒险]]></title>
-        <id>Kingdom Rush Frontiers 塔防史诗冒险-1754501111151</id>
+        <id>Kingdom Rush Frontiers 塔防史诗冒险-1754512053441</id>
         <link href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4"/>
-        <updated>2025-08-06T17:25:11.151Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
+        <updated>2025-08-06T20:27:33.441Z</updated>
+        <summary type="html"><![CDATA[波恩哈特: ¥48.00 → ¥38.00<br/>阿什比特: ¥48.00 → ¥38.00<br/>沙塔尔: ¥22.00 → ¥8.00<br/>但丁: ¥38.00 → ¥22.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>波恩哈特：</strong><span>¥48.00</span> → <b>
+  <strong>¥38.00</strong>
+</b>
+  </li><li>
+    <strong>阿什比特：</strong><span>¥48.00</span> → <b>
+  <strong>¥38.00</strong>
+</b>
+  </li><li>
+    <strong>沙塔尔：</strong><span>¥22.00</span> → <b>
   <strong>¥8.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
+</b>
+  </li><li>
+    <strong>但丁：</strong><span>¥38.00</span> → <b>
+  <strong>¥22.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
   全世界最令人着迷的防御游戏重磅回归 —— 欢迎来到《王国保卫战：前线》！ 
 
 《王国保卫战：前线》规模更加宏大，战况更胜从前，堪称全新水准的快节奏、超迷人游戏玩法，可谓是实至名归。轻按指挥你的的部队，展开一场史诗级的冒险，保卫这片异国大陆免受飞龙、食人植物和地下世界可怕居民的侵害 —— 你完全可以利用华丽的新防御塔、关卡、英雄和众多好东西，助你将敌人碾碎！（别担心，我们仍然提供前作中的好东西，只不过现在已是陈年经典。） 
