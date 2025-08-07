@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-08-06T20:31:08.577Z</updated>
+    <updated>2025-08-07T14:30:28.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,64 +21,49 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-06T20:31:08.577Z</updated>
+        <updated>2025-08-07T14:30:28.310Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
-        <id>Kingdom Rush Frontiers 塔防生存戰爭-1754512053441</id>
-        <link href="https://apps.apple.com/hk/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
-        <updated>2025-08-06T20:27:33.441Z</updated>
-        <summary type="html"><![CDATA[骷心巫龍: HK$ 58.00 → HK$ 38.00<br/>黑龍灰霸齒: HK$ 58.00 → HK$ 38.00<br/>剎陀羅: HK$ 22.00 → HK$ 8.00<br/>但丁: HK$ 38.00 → HK$ 22.00<br/>庫紹: HK$ 22.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>骷心巫龍：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b>
-  </li><li>
-    <strong>黑龍灰霸齒：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b>
-  </li><li>
-    <strong>剎陀羅：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b>
-  </li><li>
-    <strong>但丁：</strong><span>HK$ 38.00</span> → <b>
+        <title type="html"><![CDATA[Little Nightmares]]></title>
+        <id>Little Nightmares-1754576840767</id>
+        <link href="https://apps.apple.com/hk/app/little-nightmares/id1620883955?uo=4"/>
+        <updated>2025-08-07T14:27:20.767Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/little-nightmares/id1620883955?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/cc/74/1ecc7449-7100-33f9-1c77-504ce68dd031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
   <strong>HK$ 22.00</strong>
-</b>
-  </li><li>
-    <strong>庫紹：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  全球最讓人欲罷不能的防禦遊戲歸來——歡迎來到《王國保衛戰：前線！》
+</b>）
+</h2><h2>应用描述</h2><p>
+  Escape your childhood fears.
 
-空前盛大激烈的王國保衛戰：「前線」是全新的關卡，帶來迅猛刺激、扣人心弦的玩法，讓這款原創遊戲成為廣受歡迎的獲獎佳作。在這場史詩級的冒險（災難）中，可點擊你的部隊，配合最新的防禦塔、關卡、英雄和更多好東東，守衛異國大陸，抵禦飛龍、食人植物和地下世界恐怖族群的侵擾，把敵人統統殲滅。（別擔心，前作舊版的好東東，全都有保留。現在是經典復刻版。） 
+First available on PC and consoles, the horror adventure tale Little Nightmares is available on mobile!
+ Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears!
+Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal.
+As you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover.
+Reconnect with your inner child to unleash your imagination and find the way out!
+Little Nightmares features a subtle mix of action and puzzle-platformer mechanics rooted in an eerie artistic direction and creepy sound design.
+Sneak your way out of the Maw’s dreary maze and run from its corrupted inhabitants to escape your childhood fears. 
 
-《王國保衛戰：前線》內容豐富，像是全新升級的火炮讓你垂涎，像素畫面帶給你娛樂好享受！
+FEATURES
 
-遊戲特點 
+- Tiptoe your way through a dark and thrilling adventure
+- Rediscover your childhood fears inside a haunting vessel and escape its eerie inhabitants
+- Climb, crawl and hide through nightmarish environments to solve tricky platform puzzles
+- Immerse yourself in the Maw through its creepy sound design
 
-· 鞏固異國大陸的前線——堅守沙漠、叢林還有地下世界的陣地 
-· 8種特別防禦塔升級！用弩弓堡壘、聖殿騎士、死靈法師，還有地震機把敵人切開、燒焦并踩碎 - 嘿，這次真的很不一樣哦 
-· 超過18種防禦塔技能！釋放死亡騎士、瘟疫雲或刺客，去竊取敵人寶藏，暗殺敵人！
-· 超過40種具有特殊技能的敵人！隨時待命，對抗沙漠塵暴、部落薩滿、遊牧部落和地下恐怖生物 · 16位傳奇英雄。選擇你的戰士，訓練他們的技能！
-· 每一關都有特別的部隊和特色！當心黑龍！
-· 殘酷的頭目戰鬥！嘿！早就告訴你要升級啦…
-· 超過70個成就，需要數小時去完成！
-· 經典、鋼鐵和英雄模式挑戰你的戰術技能！
-· 3種難度模式！準備好迎接真正的挑戰了嗎？開啟困難模式吧！悅耳的配樂、雄渾的配音，還有精緻美術，都能讓你沉浸！（还有卡通血液，效果逼真。）
-· 遊戲内有百科全書！真正的勇士知己知彼…還對自己的防禦塔了如指掌。
-學起來！
+CAREFULLY REDESIGNED FOR MOBILE
 
-《王國保衛戰》廣受好評：IGN編輯推薦、Slide To Play必玩遊戲、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、Touch Arcade評分4.5/5、CNET最佳iPad遊戲"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/98/7a/86/987a86d2-fdb1-93d6-ba72-e32a563ec0fa/ab71f5a8-b824-46e2-9c67-e442db053624_screenshots_2208x12420016.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ff/49/dd/ff49ddf9-00c2-fe09-6b29-6e4ead585b5a/1c6165ce-f40b-41d0-8c57-c38b7f0080dc_screenshots_2208x12420017.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d5/1a/63/d51a63ea-b85f-01e0-3e8f-0c1a04ba2c00/55a5e131-875d-487f-b5d4-6a440c301c2c_screenshots_2208x12420018.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/86/24/c6/8624c6d9-e06a-3f13-1a90-9b42e359d98e/89bba438-5cbd-490f-a8bd-b230e3356943_screenshots_2208x12420019.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/28/f5/34/28f53413-955e-ae5b-bf70-bd22588e1d5d/c94c30c3-70f6-48eb-ac13-8d076a524ec9_screenshots_2208x12420020.jpg/406x228bb.jpg" />]]></content>
+- Revamped interface
+- Game Center achievements
+- Compatible with MFi controllers
+
+If you run into a problem, please contact us at https://playdigious.helpshift.com/hc/en/12-playdigious/ with as much information as possible on the issue.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/8a/15/4d8a152d-61d5-1681-b8f9-12dca7eef552/5a86a407-0fce-4c81-a154-57ca49c08ac2_LN_Screen_i14_3_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/f4/4f/58f44fb7-98c3-0a36-8b64-58d4e74021a8/4f31f6db-a050-4159-a58a-8e1b2aabd339_LN_Screen_i14_2_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/17/48/191748b7-394e-03a4-60c3-60008c0eeb36/0012e6f8-3ea4-436b-9d9b-3e6af2278897_LN_Screen_i14_10_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/00/9c/16009cdc-08e7-20d6-2627-482876dd7de5/e05b8bbd-72e8-4a95-bf02-9513a2fd3360_LN_Screen_i14_1_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/32/42/1a3242c6-c690-970f-b2ae-8953df39acce/0b8a4544-ec08-48c9-9597-e7dd16610312_LN_Screen_i14_4_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/3b/83/653b8301-a545-2821-fea6-adf6725bb046/6dfb2750-63d0-4dad-8a3c-1a490e37a6da_LN_Screen_i14_9_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/25/5a/bf255ae9-e138-932e-d292-54b8d3d6e7cb/54cbb40a-8db7-44cb-88e9-75eebd18608e_LN_Screen_i14_13_12.9.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
