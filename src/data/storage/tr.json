@@ -22600,6 +22600,25 @@
     "history": [
       [
         {
+          "timestamp": 1754605505306,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺869,00",
+            "Extra DLC Pack": "₺579,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺264,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺194,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (E)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (C)": "₺78,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754508114306,
           "price": 0,
           "formattedPrice": "Free",
