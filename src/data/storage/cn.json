@@ -143,6 +143,23 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "连续包年": "¥273.00",
+            "1香蕉贝": "¥1.00",
+            "免广告会员十二个月": "¥12.00",
+            "128香蕉贝": "¥128.00",
+            "连续包季": "¥72.00",
+            "6随手贝": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1754660466887,
           "price": 0,
           "formattedPrice": "免费",
@@ -13455,6 +13472,14 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753971954478,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -13660,6 +13685,14 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753971954478,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -13847,6 +13880,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754663152953,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753971954478,
@@ -20644,6 +20685,23 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "新手上路包": "¥8.00",
+            "Let's GROOVE": "¥25.00",
+            "unlockall_29": "¥228.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        },
+        {
           "timestamp": 1754660466887,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -27278,6 +27336,14 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753971954478,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -31736,6 +31802,14 @@
     "history": [
       [
         {
+          "timestamp": 1754663152953,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753971954478,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -34962,6 +35036,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754663152953,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753971954478,
