@@ -27227,6 +27227,16 @@
     "history": [
       [
         {
+          "timestamp": 1754625990605,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754332641943,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -30986,6 +30996,25 @@
     "history": [
       [
         {
+          "timestamp": 1754625990605,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754618760214,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -33042,10 +33071,18 @@
       "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754625990605,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748402117992,
