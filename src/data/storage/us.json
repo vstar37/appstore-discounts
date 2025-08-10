@@ -2714,6 +2714,21 @@
     "history": [
       [
         {
+          "timestamp": 1754798704753,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754539617402,
           "price": 0,
           "formattedPrice": "Free",
@@ -9078,6 +9093,14 @@
     "history": [
       [
         {
+          "timestamp": 1754798704753,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749870841867,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -15043,6 +15066,24 @@
       "MSR Anthology_Vol.01（50%off）": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754798704753,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "unlockall_29": "$33.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754238552139,
@@ -27241,6 +27282,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754798704753,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754625990605,
