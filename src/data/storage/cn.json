@@ -23839,6 +23839,16 @@
     "history": [
       [
         {
+          "timestamp": 1754877969487,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753280769677,
           "price": 0,
           "formattedPrice": "免费",
