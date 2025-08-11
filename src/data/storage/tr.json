@@ -5584,6 +5584,14 @@
     "history": [
       [
         {
+          "timestamp": 1754954495599,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754781726914,
           "price": 0,
           "formattedPrice": "Free",
@@ -9937,6 +9945,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754954495599,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754868128193,
@@ -15168,6 +15184,14 @@
     "history": [
       [
         {
+          "timestamp": 1754954495599,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752535344427,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -17250,6 +17274,21 @@
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754954495599,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754704510250,
