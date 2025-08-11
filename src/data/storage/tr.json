@@ -10704,7 +10704,8 @@
       "Nyanya Universe!": "₺179,99",
       "Arcaea": "₺129,99",
       "MUSE RADIO FM106(30%off)": "₺99,99",
-      "MUSE RADIO FM106": "₺129,99"
+      "MUSE RADIO FM106": "₺129,99",
+      "MSR Anthology_Vol.01（50%off）": "₺129,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -10759,9 +10760,29 @@
       "Nyanya Universe!": "₺179,99",
       "Arcaea": "₺129,99",
       "MUSE RADIO FM106(30%off)": "₺99,99",
-      "MUSE RADIO FM106": "₺129,99"
+      "MUSE RADIO FM106": "₺129,99",
+      "MSR Anthology_Vol.01（50%off）": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754901297294,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99",
+            "Aquaria Cruising Guide(30%)": "₺129,99",
+            "Happy Otaku Pack Vol.20(30%)": "₺129,99",
+            "Muse Dash・Legend(30%)": "₺129,99",
+            "Cosmic Radio 2024(30%)": "₺129,99",
+            "MSR Anthology_Vol.02(30%)": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754109465945,
@@ -22758,6 +22779,25 @@
       "Weapon Upgrade Ticket x1 (D)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754901297294,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺869,00",
+            "Extra DLC Pack": "₺579,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺264,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺194,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (E)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (C)": "₺78,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754609072205,
