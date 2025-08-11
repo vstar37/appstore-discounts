@@ -10766,6 +10766,23 @@
     "history": [
       [
         {
+          "timestamp": 1754904627117,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "unlockall_29": "₺1.499,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "Valentine Stage": "₺179,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "Chill & Sip Summer Pass": "₺129,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1754901297294,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -22780,6 +22797,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754904627117,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺869,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺579,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺264,99",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺78,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺194,99",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        },
         {
           "timestamp": 1754901297294,
           "price": 0,
