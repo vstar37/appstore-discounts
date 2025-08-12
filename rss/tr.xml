@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-08-11T23:24:22.553Z</updated>
+    <updated>2025-08-12T05:26:19.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,51 +21,57 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-11T23:24:22.554Z</updated>
+        <updated>2025-08-12T05:26:19.221Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vostok — Story Maker]]></title>
-        <id>Vostok — Story Maker-1754954495599</id>
-        <link href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4"/>
-        <updated>2025-08-11T23:21:35.599Z</updated>
-        <summary type="html"><![CDATA[Price: ₺9,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺9,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Welcome to Vostok – your ultimate companion for crafting captivating stories and stunning collages, designed to elevate your social media presence! With Vostok, transforming your ideas into professional-grade posts and stories is now a breeze.
+        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
+        <id>MoneyTrack: Expense &amp; Budget-1754976190263</id>
+        <link href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4"/>
+        <updated>2025-08-12T05:23:10.263Z</updated>
+        <summary type="html"><![CDATA[Lifetime: ₺899,99 → ₺800,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/ae/5c/29ae5cfa-2d7b-9d93-6527-88a62a055d75/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>₺899,99</span> → <b>
+  <strong>₺800,00</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MoneyTrack - Streamlined Personal Finance Tracker
 
-Whether you're a blogger, photographer, or simply love sharing your life's moments on social media, Vostok provides all the tools you need to create content that will make an impact. Our sleek and user-friendly app seamlessly combines your passion for photography and storytelling, offering a dynamic platform to showcase your awe-inspiring moments.
+Track every penny, master your financial freedom. A pure expense tracking app with no ads, no splash screens, and no investment promotions.
 
-Embracing a minimalist style, Vostok becomes your canvas for unlimited creativity. A vast collection of templates, stickers, and effects empowers you to design unique stories that reflect your individuality.
+■ CORE FEATURES
+• Auto-Tracking: Deep integration with Shortcuts allows automatic expense recording triggered by your transactions
+• Comprehensive Entries: Support for income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
+• Insightful Analytics: Visualize spending patterns with pie charts, bar graphs and trend lines to quickly identify financial issues
+• Precise Budgeting: Set annual/monthly budgets for total spending and categories with dynamic daily budget adjustments
 
-But Vostok goes beyond creative freedom; it's all about simplicity. Our intuitive interface makes editing and sharing your content effortless, freeing up more time for you to focus on crafting compelling narratives that your followers will adore.
+■ COMPLETE ASSET MANAGEMENT
+• Unified management of multiple account types (cash, bank cards, credit cards, store cards)
+• Balance sheet and asset curve for real-time financial status tracking
+• Credit card management system (payment reminders, limit management, interest-free period calculation)
+• Multi-currency asset recording with support for all major currency exchange rates
 
-No more waiting! Embark on your Vostok journey today and craft captivating posts and stories that leave a lasting impression!
+■ THOUGHTFUL FUNCTIONS
+• Multiple Ledgers: Flexibly separate different financial records
+• Shared Accounting: Invite family and friends to maintain transparent shared finances
+• Cloud Backup: Free data synchronization across devices with secure protection
+• Flexible Import/Export: Support for importing data from multiple platforms and exporting in Excel format
+• Recurring Entries: Customisable automatic entry tasks that generate transactions on schedule
+• Installment Tracking: Easily monitor payment schedules and receive timely reminders
+• Sub-Categories: Unlimited categorisation options to meet personalised needs
 
-Here's a glimpse of some of our features:
+■ CROSS-PLATFORM EXPERIENCE
+Synchronise across iPhone, iPad and PC with real-time updates, recording every expenditure wherever you are.
 
-· 200+ design templates for social media
-· Exclusive fonts with Cyrillic support
-· 450+ unique stickers
-· Atmospheric dust and grain effects for photos
-· Variety of backgrounds: paper textures, marble, gradients, colors
-· Ad-free with no subscription requirements
-· Dark mode compatibility
-
-Recognized as one of the Best Apps of 2019 by Apple.
-
-With over 200+ templates, Vostok is your go-to toolkit for creating standout social media content.
-
-We eagerly look forward to your ideas and feedback.
-Connect with us at hello@vostokapp.ru or drop us a direct message on Instagram at @vostokapp.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
+■ FOCUSED ON FINANCE MANAGEMENT
+We do one thing only — help you better manage your personal finances. No investment promotions, no community distractions, just a pure and efficient expense tracking experience.
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
