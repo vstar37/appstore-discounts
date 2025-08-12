@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-11T22:28:46.819Z</updated>
+    <updated>2025-08-12T14:27:11.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,49 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-11T22:28:46.820Z</updated>
+        <updated>2025-08-12T14:27:11.018Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JW: Battery Alert Notification]]></title>
-        <id>JW: Battery Alert Notification-1754950948431</id>
-        <link href="https://apps.apple.com/cn/app/jw-battery-alert-notification/id1485101937?uo=4"/>
-        <updated>2025-08-11T22:22:28.431Z</updated>
-        <summary type="html"><![CDATA[Value for Value: ¥48.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/jw-battery-alert-notification/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Value for Value：</strong><span>¥48.00</span> → <b>
-  <strong>¥8.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  从手腕上监控你的iPhone电池电量。
+        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
+        <id>BreatheIn: Calm Breathing-1755008627891</id>
+        <link href="https://apps.apple.com/cn/app/breathein-calm-breathing/id1481100296?uo=4"/>
+        <updated>2025-08-12T14:23:47.891Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/breathein-calm-breathing/id1481100296?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  与BreatheIn一起提升您的生活！
 
-Juice Watch 是一个简单的应用程序，旨在做好两件事：
+您是否曾在生活的混乱中感到迷茫？您是否曾渴望一刻的平静与安宁？与BreatheIn一起深入探索呼吸的变革力量！
 
-•在Apple Watch上显示配对iPhone的电池电量
+解锁平静与活力！
+深呼吸、缓慢、有规律是通向宁静心灵和充满活力生活的秘密钥匙！沉浸在您的呼吸节奏中，体验真正活着的快乐。通过赋能的呼吸练习统一您的心灵和身体，踏上自我发现和更新的旅程！
 
-•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
+为您精选和测试的实践！
+在BreatheIn，我们精心挑选并亲自验证了每个呼吸练习，以确保您只得到最好的。通过加入我们探索这些变革性的实践，拥抱更健康、更充实的生活！
 
-只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
+与Apple Health无缝集成！
+毫不费力地追踪您的进展！您与BreatheIn的正念分钟会自动添加到Apple Health，使监测您的健康之旅变得前所未有的简单。
 
-你可以同时看到iPhone和Apple Watch的电池电量。
+发现各种呼吸练习！
 
-当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任何范围，从 50 %到 100 %）时，可以在你的 Apple Watch 上收到通知提醒。
+方呼吸（4-4-4-4）：一种简单而强大的技巧，可重新获得控制并缓解压力。
+放松呼吸（4-7-8）：一种安定的方法，可平息焦虑并迅速入睡。
+Bhramari Pranayama（蜜蜂呼吸）：一种协调技术，可安抚心灵和放松身体。
+同步呼吸：旨在提高心率变异性（HRV）以获得最佳健康。
+一次呼吸，一步一步地改变您的生活！
+每个练习都是通往更平衡、更有韧性的自我的一块垫脚石。与BreatheIn一起征服压力，焕发您的身体，找到您的中心！
 
-你可以设置电池低电量通知提醒，当你的Apple Watch或者iPhone电池电量不足时收到通知提醒。
-
-Juice Watch具有多种复杂功能，所以你可以在自己喜欢的表盘上使用它。
-
-你还可以使用这个应用程序从配对的iPhone上查看Apple Watch的电池电量。 当Apple Watch在其他地方充电时，可能会很起作用。
-
-请注意，Apple Watch上显示的iPhone电池电量并不是实时的。 它大约每5-60分钟定期刷新一次。 配对的iPhone上所显示的Apple Watch的电池电量则以大致相同的速率刷新。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/93/c4/a093c457-f9eb-7a0e-4ec8-e884294d9e35/85c225a8-7133-4dce-93da-d1421b26426e_5.5_inch_-_1_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/15/70/31157006-4bcc-b282-6306-1fe9682d4c5c/b28e8371-2da8-403c-ae2b-f6cb92f4a34f_5.5_inch_-_2_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/4b/4c/f24b4c89-3fcd-20c9-7948-6fd43fae3717/4738d87c-93b1-4532-8668-0d4f8f462601_5.5_inch_-_3_-_cn.png/392x696bb.png" />]]></content>
+今天就开始您的旅程！
+下载BreatheIn，踏入和平、平衡和活力的世界。您每次的呼吸都是通往更充实的您的一步！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
