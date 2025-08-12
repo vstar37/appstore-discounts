@@ -3721,6 +3721,25 @@
     "history": [
       [
         {
+          "timestamp": 1755040940735,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ashbite": "₺299,99",
+            "Bonehart": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Kutsao": "₺129,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Sha'tra": "₺129,99",
+            "Grawl": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755026326660,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -7311,14 +7330,27 @@
       "Location Explorer (A Year)": "₺699,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
+      "price": 229.99,
+      "formattedPrice": "₺229,99",
       "3D Model (A Year)": "₺64,99",
       "Location Explorer (Month)": "₺114,99",
       "3D Model (A Month)": "₺22,99",
       "Location Explorer (A Year)": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755040940735,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "3D Model (A Year)": "₺64,99",
+            "3D Model (A Month)": "₺22,99",
+            "Location Explorer (Month)": "₺114,99",
+            "Location Explorer (A Year)": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
@@ -16028,10 +16060,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755040940735,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753917860301,
