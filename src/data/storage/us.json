@@ -9093,6 +9093,14 @@
     "history": [
       [
         {
+          "timestamp": 1754968757269,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754798704753,
           "price": 0,
           "formattedPrice": "Free",
@@ -13824,6 +13832,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754968757269,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1754885162593,
           "price": 0,
@@ -26211,6 +26225,14 @@
     "history": [
       [
         {
+          "timestamp": 1754968757269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752552029227,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -27351,6 +27373,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754968757269,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754798704753,
@@ -29078,6 +29110,21 @@
       "120000 GP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754968757269,
+          "price": 12,
+          "formattedPrice": "$12.00",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754704510250,
@@ -34404,6 +34451,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754968757269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754778133276,
