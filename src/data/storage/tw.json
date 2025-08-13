@@ -21324,6 +21324,16 @@
     "history": [
       [
         {
+          "timestamp": 1755050182262,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754877969487,
           "price": 30,
           "formattedPrice": "$30.00",
