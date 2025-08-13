@@ -10772,7 +10772,17 @@
       "Arcaea": "₺129,99",
       "MUSE RADIO FM106(30%off)": "₺99,99",
       "MUSE RADIO FM106": "₺129,99",
-      "MSR Anthology_Vol.01（50%off）": "₺129,99"
+      "MSR Anthology_Vol.01（50%off）": "₺129,99",
+      "Cute Is Everyting Vol.1": "₺179,99",
+      "Give Up TREATMENT Vol.1": "₺179,99",
+      "Happy Otaku Package Vol.1": "₺179,99",
+      "Happy Otaku Package Vol.2": "₺179,99",
+      "Happy Otaku Package Vol.3": "₺179,99",
+      "unlockall_0": "₺1.199,99",
+      "unlockall_3": "₺999,99",
+      "unlockall_5": "₺699,99",
+      "unlockall_1": "₺1.199,99",
+      "unlockall_4": "₺799,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -10828,9 +10838,38 @@
       "Arcaea": "₺129,99",
       "MUSE RADIO FM106(30%off)": "₺99,99",
       "MUSE RADIO FM106": "₺129,99",
-      "MSR Anthology_Vol.01（50%off）": "₺129,99"
+      "MSR Anthology_Vol.01（50%off）": "₺129,99",
+      "Cute Is Everyting Vol.1": "₺179,99",
+      "Give Up TREATMENT Vol.1": "₺179,99",
+      "Happy Otaku Package Vol.1": "₺179,99",
+      "Happy Otaku Package Vol.2": "₺179,99",
+      "Happy Otaku Package Vol.3": "₺179,99",
+      "unlockall_0": "₺1.199,99",
+      "unlockall_3": "₺999,99",
+      "unlockall_5": "₺699,99",
+      "unlockall_1": "₺1.199,99",
+      "unlockall_4": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755059607132,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Cute Is Everyting Vol.1": "₺179,99",
+            "Give Up TREATMENT Vol.1": "₺179,99",
+            "Happy Otaku Package Vol.1": "₺179,99",
+            "Happy Otaku Package Vol.2": "₺179,99",
+            "Happy Otaku Package Vol.3": "₺179,99",
+            "unlockall_0": "₺1.199,99",
+            "unlockall_3": "₺999,99",
+            "unlockall_5": "₺699,99",
+            "unlockall_1": "₺1.199,99",
+            "unlockall_4": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754973074179,
@@ -17384,6 +17423,21 @@
       "Remove Ad": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755059607132,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754954495599,
