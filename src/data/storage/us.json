@@ -15249,6 +15249,25 @@
     "history": [
       [
         {
+          "timestamp": 1755206514825,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.01（50%off）": "$2.99",
+            "MUSE RADIO FM106(30%off)": "$1.99",
+            "MUSE RADIO FM106": "$2.99",
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99",
+            "Muse Dash・Legend(30%)": "$2.99",
+            "Cosmic Radio 2024(30%)": "$2.99",
+            "MSR Anthology_Vol.02(30%)": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754904627117,
           "price": 2.99,
           "formattedPrice": "$2.99",
