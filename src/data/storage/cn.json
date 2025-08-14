@@ -143,6 +143,23 @@
     "history": [
       [
         {
+          "timestamp": 1755181377319,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "1香蕉贝": "¥1.00",
+            "连续包年": "¥273.00",
+            "免广告会员十二个月": "¥12.00",
+            "128香蕉贝": "¥128.00",
+            "连续包季": "¥72.00",
+            "基础会员-12个月": "¥138.00"
+          }
+        },
+        {
           "timestamp": 1755136596782,
           "price": 0,
           "formattedPrice": "免费",
@@ -28051,6 +28068,14 @@
     "history": [
       [
         {
+          "timestamp": 1755181377319,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752589369081,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -31471,6 +31496,14 @@
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755181377319,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1734447751347,
