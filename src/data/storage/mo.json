@@ -860,6 +860,23 @@
     "history": [
       [
         {
+          "timestamp": 1755210129610,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "掃描全能王高級帳戶": "USD 49.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99",
+            "一頁傳真": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753814239857,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -9007,6 +9024,25 @@
     "history": [
       [
         {
+          "timestamp": 1755210129610,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "連續包季 SVIP": "USD 3.99",
+            "活動特惠季度 SVIP": "USD 2.99",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "USD 12.99",
+            "SVIP特惠 (買一年送半年)": "USD 12.99",
+            "SVIP特惠 (買兩年送一年)": "USD 24.99",
+            "雨季特惠 100 天 SVIP": "USD 2.99",
+            "季度SVIP": "USD 2.99",
+            "1年SVIP": "USD 12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753820893445,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -11789,6 +11825,25 @@
       "MSR Anthology_Vol.01（50%off）": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755210129610,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.01（50%off）": "USD 2.99",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "USD 1.99",
+            "暮 色 電 台 ＦＭ１０６": "USD 2.99",
+            "Aim to Be a Rhythm Master!(30%": "USD 2.99",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "USD 2.99",
+            "Aquaria Cruising Guide(30%)": "USD 2.99",
+            "Happy Otaku Pack Vol.20(30%)": "USD 2.99",
+            "Muse Dash・Legend(30%)": "USD 2.99",
+            "Cosmic Radio 2024(30%)": "USD 2.99",
+            "MSR Anthology_Vol.02(30%)": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755069850806,
