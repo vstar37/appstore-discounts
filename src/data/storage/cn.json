@@ -27699,6 +27699,14 @@
     "history": [
       [
         {
+          "timestamp": 1755267758487,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754940021476,
           "price": 0,
           "formattedPrice": "免费",
@@ -28905,6 +28913,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755267758487,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755008627891,
@@ -30927,6 +30943,21 @@
       "120000 GP": "¥148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755267758487,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "5000 GP": "¥15.00",
+            "25000 GP": "¥38.00",
+            "Remove Ad": "¥22.00",
+            "120000 GP": "¥148.00",
+            "50000 GP": "¥68.00",
+            "200000 GP": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755059607132,

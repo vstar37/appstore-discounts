@@ -27671,6 +27671,14 @@
     "history": [
       [
         {
+          "timestamp": 1755267758487,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754940021476,
           "price": 0,
           "formattedPrice": "免費",
@@ -28509,6 +28517,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755267758487,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755008627891,
@@ -30269,6 +30285,21 @@
       "5000 GP": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755267758487,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Remove Ad": "HK$ 22.00",
+            "120000 GP": "HK$ 148.00",
+            "200000 GP": "HK$ 228.00",
+            "25000 GP": "HK$ 48.00",
+            "50000 GP": "HK$ 88.00",
+            "5000 GP": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755059607132,
