@@ -20803,6 +20803,16 @@
     "history": [
       [
         {
+          "timestamp": 1755501981845,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748614960092,
           "price": 0,
           "formattedPrice": "免费",
