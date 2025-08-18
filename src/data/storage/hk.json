@@ -5987,6 +5987,25 @@
     "history": [
       [
         {
+          "timestamp": 1755494805794,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "但丁": "HK$ 38.00",
+            "剎陀羅": "HK$ 22.00",
+            "黑棘船長": "HK$ 8.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755361580003,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -14237,6 +14256,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755494805794,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        },
         {
           "timestamp": 1755489699619,
           "price": 0,
@@ -28749,6 +28779,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755494805794,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1755489699619,
           "price": 58,
