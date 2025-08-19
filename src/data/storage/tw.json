@@ -15834,6 +15834,23 @@
     "history": [
       [
         {
+          "timestamp": 1755617086931,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "MSR Anthology_Vol.01（50%off）": "$100.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "$70.00",
+            "暮 色 電 台 ＦＭ１０６": "$100.00",
+            "Aim to Be a Rhythm Master!(30%": "$100.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "$100.00",
+            "Aquaria Cruising Guide(30%)": "$100.00",
+            "Happy Otaku Pack Vol.20(30%)": "$100.00",
+            "Muse Dash・Legend(30%)": "$100.00",
+            "Cosmic Radio 2024(30%)": "$100.00",
+            "MSR Anthology_Vol.02(30%)": "$130.00"
+          }
+        },
+        {
           "timestamp": 1755580925280,
           "price": 100,
           "formattedPrice": "$100.00",
