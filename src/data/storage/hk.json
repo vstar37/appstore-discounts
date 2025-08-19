@@ -1249,6 +1249,19 @@
     "history": [
       [
         {
+          "timestamp": 1755623985239,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "HK$ 393.00",
+            "一頁傳真": "HK$ 8.00",
+            "3000 C-Points": "HK$ 38.00",
+            "十頁傳真": "HK$ 68.00",
+            "3000 cp + Six chance to Draw": "HK$ 38.00",
+            "600 cp + One chance to Draw": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1755620924584,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -6018,6 +6031,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755623985239,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "但丁": "HK$ 38.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 22.00",
+            "黑棘船長": "HK$ 8.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1755620924584,
           "price": 18,
