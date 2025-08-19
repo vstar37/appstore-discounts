@@ -2760,6 +2760,21 @@
     "history": [
       [
         {
+          "timestamp": 1755573151761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754798704753,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -11832,6 +11847,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755573151761,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1755489699619,
           "price": 0,
@@ -30003,6 +30024,14 @@
     "history": [
       [
         {
+          "timestamp": 1755573151761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752984400355,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -34950,6 +34979,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755573151761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755141804342,
