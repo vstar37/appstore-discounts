@@ -22358,6 +22358,20 @@
     "history": [
       [
         {
+          "timestamp": 1755688733127,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "$3.99",
+            "My Year in Pixels (Landscape)": "$3.99",
+            "Self-Care Monthly Reflection": "$3.99",
+            "Il mio anno in pixel (Vertical": "$3.99",
+            "The Smart Teacher's Planner in": "$10.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755512841517,
           "price": 0,
           "formattedPrice": "Free",
