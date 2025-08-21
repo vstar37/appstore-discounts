@@ -35069,7 +35069,7 @@
       "Monthly VIP": "$1.49",
       "Lifetime VIP": "$14.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
-      "Lifetime VIP(Mac Only)": "$15.99"
+      "Lifetime VIP(Mac Only)": "$29.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -35085,6 +35085,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755775157094,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$14.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$4.99",
+            "Lifetime": "$29.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        },
         {
           "timestamp": 1755768275268,
           "price": 0,
