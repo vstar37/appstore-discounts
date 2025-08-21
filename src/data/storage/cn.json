@@ -143,6 +143,25 @@
     "history": [
       [
         {
+          "timestamp": 1755786169229,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "连续包年": "¥273.00",
+            "1香蕉贝": "¥1.00",
+            "免广告会员十二个月": "¥12.00",
+            "连续包季": "¥72.00",
+            "128香蕉贝": "¥128.00",
+            "6随手贝": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755613339332,
           "price": 0,
           "formattedPrice": "免费",
@@ -3651,6 +3670,21 @@
       "Cloud Backup Monthly": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755786169229,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "Cloud Backup Yearly": "¥58.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755527096594,
@@ -21436,6 +21470,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755786169229,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "unlockall_0": "¥188.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "新手上路包": "¥8.00",
+            "Let's GROOVE": "¥25.00",
+            "unlockall_29": "¥228.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        },
         {
           "timestamp": 1755783170427,
           "price": 18,
