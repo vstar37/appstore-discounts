@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-19T09:27:18.939Z</updated>
+    <updated>2025-08-21T04:30:16.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,63 +21,79 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-19T09:27:18.940Z</updated>
+        <updated>2025-08-21T04:30:16.429Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
-        <id>生辰 — 桌面时间小组件-1755595470317</id>
-        <link href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
-        <updated>2025-08-19T09:24:30.317Z</updated>
-        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥88.00<br/>生辰-季度会员: ¥88.00 → ¥22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Day One Journal]]></title>
+        <id>Day One Journal-1755750414677</id>
+        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-08-21T04:26:54.677Z</updated>
+        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥233.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/4f/49/9a4f4917-2753-a510-b438-3284cda1f2c9/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>永久会员：</strong><span>¥98.00</span> → <b>
-  <strong>¥88.00</strong>
-</b>
-  </li><li>
-    <strong>生辰-季度会员：</strong><span>¥88.00</span> → <b>
-  <strong>¥22.00</strong>
+    <strong>Premium：</strong><span>¥253.00</span> → <b>
+  <strong>¥233.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  这是一款关于生、死、心愿与延续的App。
+  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
 
-小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
-时针转动，生命流逝，但每一次心跳都可以更加有力。
+“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
 
-有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
-而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+“Day One 使写日记变成了一件轻松愉快的事。”- Wired
 
-生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
 
-- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
-- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
-- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+为什么选择 DAY ONE？
 
-美国诗人纳·斯待尔在87岁那年写道：
-"如果我能够从头活过，我会试着犯更多的错。
-我会放松一点，我会灵活一点。
-我会爬更多的山，游更多的河，看更多的日落。"
+Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
 
-因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+易于使用，让您爱不释手
 
-【生辰 App 会员服务说明】
+• 备受赞誉的美观设计
+• 无限的文本日记条目
+• 无限量照片和视频*
+•功能强大的富文本格式，带有 Markdown 功能
+• 不同的日记类型适用于记录您生活的方方面面*
 
-1.会员包含几种订购类型
-订阅周期：1个月、3个月、12个月
-2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
-3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
-4.生辰App 会员协议
-生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
-5.生辰App 软件协议与隐私政策
-生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
-生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
-</p>]]></content>
+私密且安全
+
+• 自动备份可确保日记条目的安全性
+• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
+•日记条目使用密码或 TouchID 来保证安全性
+•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+
+养成习惯并坚持下去
+
+•可编程的提醒通知
+• 独特的每日日记提示功能有助于避免日记中断
+•可自定义的模板可节省时间，并可向日记条目中添加组织
+• 通过今日视图，您可以大致了解您去过哪里，做了什么
+
+随时随地写日记
+
+• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
+• 能够直接向您的日记发送文本或电子邮件条目
+
+专为记录回忆而生
+
+• 那年今日功能让您可以回顾过去的回忆
+• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
+• 地图视图可快速显示您在日记中记录的所有地点
+
+*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
+
+隐私政策：https://dayoneapp.com/privacy-policy/
+
+使用条款：https://dayoneapp.com/terms-of-use/
+
+如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
