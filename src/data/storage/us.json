@@ -10435,6 +10435,22 @@
     "history": [
       [
         {
+          "timestamp": 1755807861851,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Shovelful of Crystal": "$0.99",
+            "Large bag of Crystal": "$10.99",
+            "Cartful of Crystal": "$21.99",
+            "Advanced Bonus Pack": "$6.99",
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99"
+          }
+        },
+        {
           "timestamp": 1755803886595,
           "price": 3.99,
           "formattedPrice": "$3.99",
