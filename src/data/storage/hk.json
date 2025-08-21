@@ -35693,7 +35693,7 @@
       "年方案": "HK$ 38.00",
       "生命周期VIP(Apple TV 版)": "HK$ 118.00",
       "生命周期VIP(Mac 版)": "HK$ 228.00",
-      "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
+      "生命周期VIP(iPhone & iPad 版)": "HK$ 228.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -35707,6 +35707,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755783170427,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+            "生命周期VIP(Mac 版)": "HK$ 228.00",
+            "生命周期VIP(iPhone & iPad 版)": "HK$ 228.00",
+            "年方案": "HK$ 38.00",
+            "月方案": "HK$ 12.00",
+            "生命周期": "HK$ 98.00"
+          }
+        },
         {
           "timestamp": 1755775157094,
           "price": 0,
