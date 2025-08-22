@@ -16543,6 +16543,23 @@
     "history": [
       [
         {
+          "timestamp": 1755876177455,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "可愛即正義 Vol.1": "HK$ 28.00",
+            "放棄治療 Vol.1": "HK$ 28.00",
+            "肥宅快樂包 Vol.1": "HK$ 28.00",
+            "肥宅快樂包 Vol.2": "HK$ 28.00",
+            "肥宅快樂包 Vol.3": "HK$ 28.00",
+            "unlockall_0": "HK$ 218.00",
+            "unlockall_3": "HK$ 163.00",
+            "unlockall_5": "HK$ 118.00",
+            "unlockall_1": "HK$ 203.00",
+            "unlockall_4": "HK$ 138.00"
+          }
+        },
+        {
           "timestamp": 1755836767059,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
