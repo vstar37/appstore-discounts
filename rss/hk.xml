@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-08-21T14:26:08.836Z</updated>
+    <updated>2025-08-22T20:27:30.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,47 +21,49 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-21T14:26:08.837Z</updated>
+        <updated>2025-08-22T20:27:30.090Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1755786169229</id>
-        <link href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-08-21T14:22:49.229Z</updated>
-        <summary type="html"><![CDATA[生命周期VIP(iPhone & iPad 版): HK$ 228.00 → HK$ 118.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/11/0c/82110c80-5ffa-d550-0634-f09c8c103b05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Controller for HomeKit]]></title>
+        <id>Controller for HomeKit-1755894257691</id>
+        <link href="https://apps.apple.com/hk/app/controller-for-homekit/id1198176727?uo=4"/>
+        <updated>2025-08-22T20:24:17.691Z</updated>
+        <summary type="html"><![CDATA[Lifetime license: HK$ 788.00 → HK$ 388.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/controller-for-homekit/id1198176727?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/51/a7/0951a739-ecd0-09b1-2d57-6e61dafa560b/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>生命周期VIP(iPhone & iPad 版)：</strong><span>HK$ 228.00</span> → <b>
-  <strong>HK$ 118.00</strong>
+    <strong>Lifetime license：</strong><span>HK$ 788.00</span> → <b>
+  <strong>HK$ 388.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
+  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
 
-Some of the key features that VidHub offers include:
-- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
-- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
-- High-quality video playback for HD, 4K, HDR, and various other resolutions
-- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
-- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
-- Support downloading and deleting cloud files
-- Support renaming cloud files, support add character, replace character, regular expression renaming method.
-- Support direct-link to Emby, Jellyfin, Plex media server.
-- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
+* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
+* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
+* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
+* BACKUPS: Secure your setup and restore it easily when needed.
+* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
+* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
+* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
+* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
+* LOGS: Monitor all activities and changes in your smart home.
+* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
 
-All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
+Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
 
-Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
+For more information, visit our website: https://www.controllerforhomekit.com
 
-Privacy Policy and Terms of Use
-https://okaapps.com/privacy_vidhub
-https://okaapps.com/terms_vidhub
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f3/c4/01f3c4ae-c618-b20d-fa08-53ea24e05756/5c0a749c-2fbe-4e9d-a827-49bbdee59186_1en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/4f/07/794f07f2-7663-b4cc-a279-c108880d4bcd/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/50/3e/dd503e17-a400-5a17-e954-9b8f054cdab2/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/10/f7/e410f775-4b1f-e4c5-c532-69381951bc8d/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/26/43/aa2643f1-a346-4132-af29-8d2b60a9db4c/9da1d6f3-1ff3-4ad7-ae47-6b32ec2c3c8a_5en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/0d/5c/740d5c3f-c360-568e-c315-4794db7d2ac6/77648681-9eda-4688-a3e2-1e11e061f577_6en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/e2/51/dde25151-5047-cc5c-9f06-cd86fed23f39/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/39/8f/6a398f86-5802-8cbb-caa3-04dd6302ce8e/3d1a36df-44e9-49d1-a6d0-08be49b7c7f9_1en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/89/4d/e1894d95-6d56-574e-f27b-981383ba7430/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/b7/e1/04b7e15f-659f-869b-2480-829514ec77f6/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/c6/82/4cc682a5-223b-d5e3-0a71-46e51b465f5b/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/89/39/84893999-7228-4e4a-5ec0-9156eee3b2ec/ac240ab1-8407-4f16-8b0a-1ee6a59c8d88_5en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/e1/7f/1be17fb7-47b1-c551-6c98-c2a87797e258/c828b402-e2cb-4b3a-84d8-0b6b48a6cdfb_6en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/a6/65/83a665ec-432a-6fd5-0b82-5a5f7617c307/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
+Privacy Policy: 
+https://controllerforhomekit.com/privacy-en/
+
+Terms of Use: 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
