@@ -21659,14 +21659,24 @@
       "Street Wolf Outfit": "₺105,00"
     },
     "minPriceInfo": {
-      "price": 329.99,
-      "formattedPrice": "₺329,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "DLC pack": "₺209,00",
       "All Access Voucher": "₺39,99",
       "Street Wolf Outfit": "₺45,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1755861505297,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "DLC pack": "₺769,00",
+            "All Access Voucher": "₺174,99",
+            "Street Wolf Outfit": "₺105,00"
+          }
+        },
         {
           "timestamp": 1755854650809,
           "price": 349.9,
