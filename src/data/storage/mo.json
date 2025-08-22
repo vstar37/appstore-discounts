@@ -24310,6 +24310,14 @@
     "history": [
       [
         {
+          "timestamp": 1755872499175,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754576840767,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
