@@ -3789,6 +3789,23 @@
     "history": [
       [
         {
+          "timestamp": 1756066989821,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Hero Pack 3": "₺99,99",
+            "Sha'tra": "₺129,99",
+            "Kutsao": "₺129,99",
+            "Grawl": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1756063012086,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -9139,6 +9156,20 @@
       "Parallels Desktop for Mac #3": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756066989821,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755796784841,
