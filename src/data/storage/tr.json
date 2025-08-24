@@ -15811,14 +15811,22 @@
   "1453318714": {
     "name": "Vostok — Story Maker",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756060174389,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755300098051,
@@ -22241,7 +22249,7 @@
       "1 Year": "₺199,99",
       "Yearly VIP": "₺199,99",
       "Monthly VIP": "₺59,99",
-      "Lifetime VIP": "₺599,99",
+      "Lifetime VIP": "₺699,99",
       "Lifetime VIP(Apple TV only)": "₺699,99",
       "Lifetime VIP(Mac Only)": "₺699,99",
       "Lifetime VIP(iPhone&iPad only)": "₺1.299,99"
@@ -22261,6 +22269,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756060174389,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺699,99",
+            "Yearly VIP": "₺199,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺199,99",
+            "Lifetime": "₺1.499,99",
+            "1 Month": "₺59,99",
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1756055876781,
           "price": 0,

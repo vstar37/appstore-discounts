@@ -27094,14 +27094,22 @@
   "1453318714": {
     "name": "Vostok — Story Maker",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756060174389,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755314207432,
@@ -35358,7 +35366,7 @@
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
       "Monthly VIP": "$1.49",
-      "Lifetime VIP": "$14.99",
+      "Lifetime VIP": "$15.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
       "Lifetime VIP(Mac Only)": "$29.99"
     },
@@ -35376,6 +35384,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756060174389,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$4.99",
+            "Lifetime": "$31.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        },
         {
           "timestamp": 1756055876781,
           "price": 0,
