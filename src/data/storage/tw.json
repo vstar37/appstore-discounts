@@ -32702,6 +32702,17 @@
     "history": [
       [
         {
+          "timestamp": 1756045119740,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753799293694,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -33017,7 +33028,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "生命周期": "$990.00",
-      "年方案": "$150.00",
+      "年方案": "$320.00",
       "月方案": "$50.00",
       "生命周期VIP(Apple TV 版)": "$490.00",
       "生命周期VIP(Mac 版)": "$990.00",
@@ -33034,6 +33045,21 @@
       "生命周期VIP(iPhone & iPad 版)": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756045119740,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "$990.00",
+            "年方案": "$320.00",
+            "月方案": "$50.00",
+            "生命周期VIP(Apple TV 版)": "$490.00",
+            "生命周期VIP(Mac 版)": "$990.00",
+            "生命周期VIP(iPhone & iPad 版)": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755775157094,
