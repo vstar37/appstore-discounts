@@ -22262,6 +22262,23 @@
     "history": [
       [
         {
+          "timestamp": 1756055876781,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺599,99",
+            "Yearly VIP": "₺199,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺199,99",
+            "Lifetime": "₺1.499,99",
+            "1 Month": "₺59,99",
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755933571862,
           "price": 0,
           "formattedPrice": "Free",
