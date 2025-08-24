@@ -12870,6 +12870,22 @@
     "history": [
       [
         {
+          "timestamp": 1756009714278,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "訂閱 (1 年)": "¥618.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755858219347,
           "price": 0,
           "formattedPrice": "免费",
@@ -21713,6 +21729,25 @@
       "奇航秘宝": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756009714278,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "火辣辣！大胃王挑战畅吃卡": "¥18.00",
+            "奇航秘宝（30%off）": "¥18.00",
+            "奇航秘宝": "¥25.00",
+            "MSR Anthology_Vol.01（50%off）": "¥18.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "¥12.00",
+            "暮 色 電 台 ＦＭ１０６": "¥18.00",
+            "Aim to Be a Rhythm Master!(30%": "¥18.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日畅饮券": "¥18.00",
+            "Aquaria Cruising Guide(30%)": "¥18.00",
+            "Happy Otaku Pack Vol.20(30%)": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755786169229,
