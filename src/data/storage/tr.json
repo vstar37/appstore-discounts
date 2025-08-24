@@ -22066,6 +22066,17 @@
     "history": [
       [
         {
+          "timestamp": 1756077602824,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753831446009,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -22311,8 +22322,8 @@
       "formattedPrice": "Free",
       "Lifetime": "₺999,99",
       "1 Month": "₺59,99",
-      "1 Year": "₺199,99",
-      "Yearly VIP": "₺199,99",
+      "1 Year": "₺449,99",
+      "Yearly VIP": "₺449,99",
       "Monthly VIP": "₺59,99",
       "Lifetime VIP": "₺699,99",
       "Lifetime VIP(Apple TV only)": "₺699,99",
@@ -22333,6 +22344,23 @@
       "Lifetime VIP(iPhone&iPad only)": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756077602824,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺699,99",
+            "Yearly VIP": "₺449,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺449,99",
+            "Lifetime": "₺1.499,99",
+            "1 Month": "₺59,99",
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756060174389,
