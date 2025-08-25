@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-25T08:35:17.697Z</updated>
+    <updated>2025-08-25T13:36:19.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,85 +21,46 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-25T08:35:17.698Z</updated>
+        <updated>2025-08-25T13:36:19.264Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
-        <id>Be Focused Pro - Focus Timer-1756110729051</id>
-        <link href="https://apps.apple.com/cn/app/be-focused-pro-focus-timer/id953426154?uo=4"/>
-        <updated>2025-08-25T08:32:09.051Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → ¥58.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/be-focused-pro-focus-timer/id953426154?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>¥58.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  专注于任务，对我们这个离不开屏幕的时代来说是一项真正的挑战。Be Focused 通过将任务分解为若干个间隔，中间穿插短暂休息，帮助您完成工作。这是一种令人惊讶的有效方法，可以保持动力和专注。创建任务，设置休息时间，并在一天、每周或自定义周期内跟踪您的进度。您可以在 iPhone、iPad 或 Mac 上使用 Be Focused — 所有内容都能完美同步。
+        <title type="html"><![CDATA[VidHub - 高清影片视频播放器，快速播放云盘网盘]]></title>
+        <id>VidHub - 高清影片视频播放器，快速播放云盘网盘-1756128787253</id>
+        <link href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4"/>
+        <updated>2025-08-25T13:33:07.253Z</updated>
+        <summary type="html"><![CDATA[终身VIP(Mac平台): ¥178.00 → ¥89.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/01/fc/7b01fc67-f8a7-17f6-1323-ca8970d62080/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>终身VIP(Mac平台)：</strong><span>¥178.00</span> → <b>
+  <strong>¥89.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  当您需要一个功能完备的媒体播放器来管理、组织和播放各种类型的视频时，VidHub会满足您的需求！VidHub是一款广受欢迎的媒体播放器，不仅能够播放各种不同格式的视频，，同时，VidHub内置各种媒体库管理、网络共享等功能，提供快速、稳定的视频播放，带来非凡的用户体验。
+VidHub的主要功能包括：
+- 支持iOS、Mac、Apple TV平台，通过iCloud实现数据同步
+- 广泛的视频格式支持 - VidHub能够播放各种格式的视频，包括.mkv、.avi、.mp4、.mov、.rmvb、.wmv等等。让您在一款播放器中体验多样的视频内容。
+- 高品质视频播放 - VidHub支持高清、 4K、 HDR 等各种视频，呈现出流畅清晰的视频观感。
+- 字幕支持 - VidHub支持视频内置字幕，并可以挂载多种外置字幕格式，例如SRT,SSA,SUB，并支持字幕调整功能。用户可以根据需要开启或关闭字幕，获得良好的观看体验。
+- 网络共享媒体库 - VidHub支持访问多种网络共享协议，包括 SMB/CIFS，WebDav，也支持访问云端视频文件，例如Dropbox, Google Drive， OneDrive，百度网盘，阿里云盘, 移动云盘, 115 盘，天翼云盘。方便您轻松访问云端视频和其他WebDav服务器上的媒体库。
+- 支持下载、删除云端文件
+- 支持重命名云端文件，支持添加字符、替换字符、正则表达式重命名方式
+- 支持直连Emby、Jellyfin、Plex媒体库 - 连上即可播放，无需再为追剧看片烦恼。
+- 方便的文件管理 - VidHub有自己的媒体库管理器，并支持用美观简洁的界面展示视频的清单。用户可以按照类型、日期、分级、评分等分类，快速找到需要的媒体文件。
 
-任务管理
+总的来说，VidHub是一款功能丰富的媒体播放器，能够管理、组织和播放各种媒体文件。VidHub会让您的视频播放更加愉悦，让您获得高质量的观看体验。
 
-•	创建和管理任务
-•	为任务添加备注和截止日期
-•	使用标签和筛选器组织任务
-•	从其他应用粘贴任务列表
+注意：影片资料和封面是由 TMDB 提供，TMDB 是一个由网络社区维护的电影和电视节目免费数据库。
 
-计时器控制
-
-•	启动、暂停或跳过间隔
-•	可选自动开始下一个间隔
-•	规划完成任务所需的间隔并跟踪准确性
-•	管理已完成的间隔
-
-计时器自定义
-
-•	设置工作时段、短休息和长休息的持续时间
-•	定义长休息前的间隔数量
-•	设置每日目标间隔数
-•	为各个任务分配不同的计时器设置
-
-报告
-
-•	查看详细报告以监控您的进度
-•	将数据导出为 CSV 格式
-
-声音与通知
-
-•	可调节频率的计时器滴答声
-•	多种警报声音
-•	交互式通知
-•	可调节的警报和计时器音量
-
-集成
-
-•	在所有设备间同步（iPhone、iPad、Mac）*
-•	与 Focus Matrix 集成，使用紧急/重要原则管理任务 **
-•	与快捷指令 App 集成，实现工作流程自动化
-
-快速访问
-
-•	锁定屏幕和主屏幕的小组件
-•	锁定屏幕和动态岛的实时活动
-•	可从锁定屏幕、控制中心或操作按钮启动或停止计时器
-
-自动化
-
-•	与快捷指令应用集成（通过快捷指令应用控制任务和计时器）
-•	在 Be Focused 应用中基于事件自动执行快捷指令
-
-设备支持
-
-•	支持 Apple Watch
-•	也适用于 Mac
-•	支持深色和浅色模式
-
-* 与 Mac 同步需要安装 macOS 版本的 Be Focused Pro（单独销售）。
-** 与Focus Matrix集成需要Pro版本的Focus Matrix，需单独购买。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/53/4b/53534b7b-efd9-47f7-509d-f8e0cae696da/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/56/5b/0f565b12-12d8-80f0-5b16-84400752fb40/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/a8/96/33a89673-a710-cfa4-0c34-b21a44c013d7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/59/dd/f959dd27-881f-c5a6-922c-642c4ddc364a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/43/20/914320e0-9d67-f19c-fb66-e6aee07910c3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/98/db/1398dbeb-eb08-fe4c-c7e6-44ae7bee711a/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/79/c9/e1/79c9e1e8-de38-8361-8058-9fd43daa45da/bed7a444-23db-4b3d-8afb-e439bbd832fd_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/09/54/12095431-b058-925b-8b4b-de1bc03b50f6/da577c56-d604-426e-aaf4-7246d68d7ad4_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/44/09/0a4409b9-4c09-04de-0d1e-899e011aa7db/69a7f5e5-81e5-4199-9c83-a545862d4697_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0c/90/2f/0c902f56-56d4-d8d7-a9ff-8892d75dc0ff/a1e0c5cb-fa1d-4308-acf3-bda29afa71a8_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/07/de/8807de81-815e-51e6-3bfe-4dbddd862704/75f0fdbf-eaf3-4b9f-a9d3-2dc0927b0cdd_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/fd/e2/9bfde2e7-7a2e-2226-e64b-4d7991fcae01/77a578b8-31e3-4d4f-b008-7f313707833b_6.png/576x768bb.png" />]]></content>
+Privacy Policy and Terms of Use
+https://zh.okaapps.com/privacy_vidhub
+https://zh.okaapps.com/terms_vidhub
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/c4/1e/5bc41e5b-b8f0-563d-dc7e-3769dfbefcb1/4c00b47f-a048-45b6-8728-fcd167e06a03_1cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/05/59/0f0559c5-1255-0c85-9dec-87536881919a/96fa8666-6a55-4c1d-8da4-1cba259d0090_2cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/1d/66/a01d666e-537a-ce1e-0683-54be905635ce/d3600c07-98c9-4663-b077-ac82ad88d4d6_3cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a8/22/c2a822e9-0975-f4a3-b638-b4fd47e6b3dd/32d5ed2e-def0-403c-99f6-976746fdfb98_4cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0b/4d/220b4de4-80f1-a5b8-6e3f-5a8895cf017e/8a4f089d-02ad-4c37-82e7-c62a23b2465b_5cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/e4/84/66e484de-f101-a8fa-0f4e-60b42768f239/afb4137a-07c9-4194-9e59-d1602ca4f734_6cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/2a/e5162a3f-dc10-16ee-a2a6-9e523714baaf/4fc351f1-601e-464a-8f2a-5aea34cab61f_7cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/a7/bc/07a7bc12-3035-d32a-0ad5-cbb8c30e216d/2f681896-a61e-444b-9e62-41f9a24b1222_1cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/90/8e/f5908ed7-67f3-bbc0-f29b-a5b28659d9a8/c010ac0c-ee19-413d-b248-6585d24c2260_2cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/3b/00/7b3b00cf-41db-90be-6b7e-1ac3d8f45061/79a01320-6be8-4ff5-ba5d-5d8dbb92f16c_3cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/a5/02/45a50227-1edf-2dd4-83d3-32e8a75a8073/3498117c-3830-4cea-a162-3e5ba8642159_4cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/73/3a/70733a17-8a76-a10b-ecae-0fc10ad5c45f/ab33f424-7e01-4a79-951d-c9d62300a00c_5cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/14/53/11145368-c47d-0b56-1449-465ac2b8500e/bdca986e-1e0c-4c32-9025-d3eaa85342e5_6cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/07/9c/63079c46-7736-26f5-9b7f-73d42d7e230d/3b79ca8a-f50e-41ea-9681-4d45bbc02f3b_7cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
