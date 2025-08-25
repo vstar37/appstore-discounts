@@ -14726,7 +14726,15 @@
       "My Year in Pixels (Landscape)": "₺179,99",
       "Self-Care Monthly Reflection": "₺179,99",
       "Il mio anno in pixel (Vertical": "₺179,99",
-      "The Smart Teacher's Planner in": "₺499,99"
+      "The Smart Teacher's Planner in": "₺499,99",
+      "The Hustle Planner": "₺449,99",
+      "The Ultimate Student Planner": "₺249,99",
+      "The Universal Daily Planner": "₺449,99",
+      "Filing Cabinet: Document Cover": "₺99,99",
+      "StudyTogether Stickers": "₺99,99",
+      "Good Morning - BuJo Stickers": "₺39,99",
+      "Dotted Grids & Graphs Papers": "₺39,99",
+      "Slouchy Cat Stickers": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14847,9 +14855,36 @@
       "My Year in Pixels (Landscape)": "₺179,99",
       "Self-Care Monthly Reflection": "₺179,99",
       "Il mio anno in pixel (Vertical": "₺179,99",
-      "The Smart Teacher's Planner in": "₺499,99"
+      "The Smart Teacher's Planner in": "₺499,99",
+      "The Hustle Planner": "₺449,99",
+      "The Ultimate Student Planner": "₺249,99",
+      "The Universal Daily Planner": "₺449,99",
+      "Filing Cabinet: Document Cover": "₺99,99",
+      "StudyTogether Stickers": "₺99,99",
+      "Good Morning - BuJo Stickers": "₺39,99",
+      "Dotted Grids & Graphs Papers": "₺39,99",
+      "Slouchy Cat Stickers": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756135539645,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "GoodNotes 5 Unlock": "₺449,99",
+            "The Hustle Planner": "₺449,99",
+            "The Ultimate Student Planner": "₺249,99",
+            "The Universal Daily Planner": "₺449,99",
+            "Filing Cabinet: Document Cover": "₺99,99",
+            "Happy Place Covers": "₺39,99",
+            "StudyTogether Stickers": "₺99,99",
+            "Good Morning - BuJo Stickers": "₺39,99",
+            "Dotted Grids & Graphs Papers": "₺39,99",
+            "Slouchy Cat Stickers": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755958711969,
