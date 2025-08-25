@@ -3789,6 +3789,25 @@
     "history": [
       [
         {
+          "timestamp": 1756156830335,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Hero Pack 3": "₺99,99",
+            "Kutsao": "₺129,99",
+            "Grawl": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756153487567,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -16573,6 +16592,18 @@
     "history": [
       [
         {
+          "timestamp": 1756156830335,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺59,99",
+            "Lifetime": "₺899,99",
+            "Annual": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756153487567,
           "price": 0,
           "formattedPrice": "Free",
@@ -19990,6 +20021,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756156830335,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756153487567,
