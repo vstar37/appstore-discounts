@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-08-20T23:23:21.136Z</updated>
+    <updated>2025-08-25T08:35:17.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,85 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-20T23:23:21.137Z</updated>
+        <updated>2025-08-25T08:35:17.702Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
-        <id>生辰 — 桌面时间小组件-1755732017312</id>
-        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
-        <updated>2025-08-20T23:20:17.312Z</updated>
-        <summary type="html"><![CDATA[永久会员: $14.99 → $12.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>永久会员：</strong><span>$14.99</span> → <b>
-  <strong>$12.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  这是一款关于生、死、心愿与延续的App。
+        <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
+        <id>Be Focused Pro - Focus Timer-1756110729051</id>
+        <link href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4"/>
+        <updated>2025-08-25T08:32:09.051Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$7.99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and track your progress throughout the day, week or custom period. Use Be Focused on your iPhone, iPad, or Mac — everything stays perfectly in sync.
 
-小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
-时针转动，生命流逝，但每一次心跳都可以更加有力。
+Task Management
 
-有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
-而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+•	Create and manage tasks
+•	Add notes and due dates to tasks
+•	Organize tasks with tags and filters
+•	Paste task lists from other apps
 
-生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+Timer Control
 
-- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
-- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
-- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+•	Start, pause, or skip intervals
+•	Auto-start the next interval (optionally)
+•	Plan intervals needed for task completion and track accuracy
+•	Manage completed intervals
 
-美国诗人纳·斯待尔在87岁那年写道：
-"如果我能够从头活过，我会试着犯更多的错。
-我会放松一点，我会灵活一点。
-我会爬更多的山，游更多的河，看更多的日落。"
+Timer Customization
 
-因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+•	Set durations for work sessions, short and long breaks
+•	Define number of intervals before a long break
+•	Set a daily goal for completed intervals 
+•	Assign different timer settings to individual tasks
 
-【生辰 App 会员服务说明】
+Reports
 
-1.会员包含几种订购类型
-订阅周期：1个月、3个月、12个月
-2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
-3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
-4.生辰App 会员协议
-生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
-5.生辰App 软件协议与隐私政策
-生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
-生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
-</p>]]></content>
+•	View detailed reports to monitor your progress
+•	Export your data in CSV format
+
+Sounds and Notifications
+
+•	Chronometer ticking sound with adjustable frequency
+•	Variety of alarm sounds
+•	Interactive notifications
+•	Adjustable volume for alarms and chronometer
+
+Integration
+
+•	Sync across all your devices (iPhone, iPad, Mac) *
+•	Integration with Focus Matrix to manage tasks using urgent/important principle **
+•	Integration with Shortcuts app to automate workflow
+
+Quick Access
+
+•	Widgets for Lock Screen and Home Screen
+•	Live activities for Lock Screen and Dynamic Island
+•	Control to start or stop the timer from the Lock Screen, Controls Center, or Action Button
+
+Automation
+
+•	Integration with Shortcuts app (control tasks and timers via Shortcuts app)
+•	Automate Shortcuts execution on events in Be Focused app
+
+Device Support
+
+•	Apple Watch support
+•	Also available for Mac
+•	Dark and Light mode support
+
+* Sync with Mac requires Be Focused Pro for macOS, sold separately.
+** Integration with Focus Matrix requires the Pro version of Focus Matrix, sold separately.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/82/4d/20824d7d-c5d0-a566-2d98-b902acf5d294/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/37/2b/e8372bbc-f76a-dea2-8a0e-31de2d6d876f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/1c/7b/281c7b07-ee07-5935-34e4-8df4e5837b87/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/78/bf/ad78bfab-e77f-f3f9-5d47-27d9cbe9286b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/5d/65/575d65dc-00bc-9560-7bd9-b0342086c9c2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/21/20/bc2120f7-69ce-9d73-bb9d-c146ee30bd1e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/d6/22/4cd62246-cfb7-a199-9104-ee4c26e4e305/9cabfa62-9a99-45ca-87e0-fa2615013278_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/31/88/7d3188e8-5486-9f20-1f21-23c92f07b21c/efbc24b1-b12f-42e8-a1fb-f985ed0c7199_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/78/4d/7a784d0e-470b-c69b-060f-35de586f19ec/e9d26e1e-fc76-4205-934c-68bc0a3f34ac_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/d1/ec/f0d1ecd8-26fb-af21-cc6f-da018bc2fe37/23f7f239-0c56-457b-ab5e-708dc85b3df4_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/30/89/a23089ea-5ac2-ae96-77b7-5f9beccfdbb7/8899c3f3-bc66-4c66-832d-a3454224ac48_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/13/2b/c5/132bc5eb-1d98-e735-a34d-60fa03c74e36/8d4fd987-3e8c-4145-aaca-ce7591d18b2b_6.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
