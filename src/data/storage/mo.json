@@ -12148,6 +12148,25 @@
     "history": [
       [
         {
+          "timestamp": 1756149476141,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "火辣辣！大胃王挑戰暢吃卡": "USD 2.99",
+            "奇航秘寶（30%off）": "USD 2.99",
+            "奇航秘寶": "USD 3.99",
+            "MSR Anthology_Vol.01（50%off）": "USD 2.99",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "USD 1.99",
+            "暮 色 電 台 ＦＭ１０６": "USD 2.99",
+            "Aim to Be a Rhythm Master!(30%": "USD 2.99",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "USD 2.99",
+            "Aquaria Cruising Guide(30%)": "USD 2.99",
+            "Happy Otaku Pack Vol.20(30%)": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756117525408,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
