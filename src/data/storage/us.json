@@ -35047,6 +35047,17 @@
     "history": [
       [
         {
+          "timestamp": 1756091844375,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753848351517,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -35363,8 +35374,8 @@
       "formattedPrice": "Free",
       "Lifetime": "$31.99",
       "1 Month": "$1.49",
-      "1 Year": "$4.99",
-      "Yearly VIP": "$4.99",
+      "1 Year": "$9.99",
+      "Yearly VIP": "$9.99",
       "Monthly VIP": "$1.49",
       "Lifetime VIP": "$15.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
@@ -35384,6 +35395,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756091844375,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Yearly VIP": "$9.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$9.99",
+            "Lifetime": "$31.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        },
         {
           "timestamp": 1756060174389,
           "price": 0,
