@@ -3789,6 +3789,25 @@
     "history": [
       [
         {
+          "timestamp": 1756153487567,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Vault Of Gems": "₺2.299,99",
+            "Wagon Of Gems": "₺899,99",
+            "Chest Of Gems": "₺449,99",
+            "Barrel Of Gems": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Special Offer Saitam": "₺129,99",
+            "Big Hero Pack 2": "₺599,99",
+            "Saitam": "₺229,99",
+            "Big Hero Pack": "₺449,99",
+            "Hero Pack 5": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756066989821,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -16554,6 +16573,18 @@
     "history": [
       [
         {
+          "timestamp": 1756153487567,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99",
+            "Monthly": "₺59,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754980538616,
           "price": 0,
           "formattedPrice": "Free",
@@ -19959,6 +19990,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756153487567,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "Opposing Fronts - Russian": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "All Content": "₺0,00",
+            "Opposing Fronts": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755415242207,
