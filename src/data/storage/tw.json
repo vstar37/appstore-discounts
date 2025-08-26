@@ -38617,6 +38617,16 @@
     "history": [
       [
         {
+          "timestamp": 1756185765540,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750816564420,
           "price": 1290,
           "formattedPrice": "$1,290.00",

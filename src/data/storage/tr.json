@@ -22725,6 +22725,16 @@
     "history": [
       [
         {
+          "timestamp": 1756185765540,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "₺500,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750816564420,
           "price": 999.99,
           "formattedPrice": "₺999,99",

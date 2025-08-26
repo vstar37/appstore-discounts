@@ -40134,6 +40134,16 @@
     "history": [
       [
         {
+          "timestamp": 1756185765540,
+          "price": 328,
+          "formattedPrice": "HK$ 328.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "HK$ 158.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750816564420,
           "price": 328,
           "formattedPrice": "HK$ 328.00",

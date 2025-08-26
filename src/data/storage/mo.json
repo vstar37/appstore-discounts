@@ -27739,6 +27739,16 @@
     "history": [
       [
         {
+          "timestamp": 1756185765540,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "USD 29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750816564420,
           "price": 59.99,
           "formattedPrice": "USD 59.99",
