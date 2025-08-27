@@ -12541,6 +12541,23 @@
     "history": [
       [
         {
+          "timestamp": 1756259160126,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew quarterly": "$3.99",
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756149476141,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -36720,6 +36737,25 @@
       "Weapon Upgrade Ticket x1 (D)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756259160126,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755851396862,
