@@ -9248,6 +9248,20 @@
     "history": [
       [
         {
+          "timestamp": 1756301422486,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756070352087,
           "price": 0,
           "formattedPrice": "Free",
@@ -14950,6 +14964,20 @@
     "history": [
       [
         {
+          "timestamp": 1756301422486,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "₺179,99",
+            "My Year in Pixels (Landscape)": "₺179,99",
+            "Self-Care Monthly Reflection": "₺179,99",
+            "Il mio anno in pixel (Vertical": "₺179,99",
+            "The Smart Teacher's Planner in": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756139331386,
           "price": 0,
           "formattedPrice": "Free",
@@ -16634,6 +16662,18 @@
       "Annual": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756301422486,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99",
+            "Monthly": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756156830335,
