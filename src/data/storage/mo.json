@@ -5087,6 +5087,16 @@
     "history": [
       [
         {
+          "timestamp": 1756373015805,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750601967957,
           "price": 5,
           "formattedPrice": "USD 5.00",
@@ -9840,6 +9850,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756373015805,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "訂閱 (1 年)": "USD 79.99",
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99"
+          }
+        },
         {
           "timestamp": 1756369775168,
           "price": 0,
