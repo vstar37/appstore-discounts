@@ -37242,13 +37242,25 @@
     "name": "GTA: Vice City – Definitive",
     "maxPriceInfo": {
       "price": 158,
-      "formattedPrice": "HK$ 158.00"
+      "formattedPrice": "HK$ 158.00",
+      "完整版遊戲": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 158,
-      "formattedPrice": "HK$ 158.00"
+      "formattedPrice": "HK$ 158.00",
+      "完整版遊戲": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365699708,
+          "price": 158,
+          "formattedPrice": "HK$ 158.00",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

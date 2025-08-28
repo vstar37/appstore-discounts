@@ -36420,13 +36420,25 @@
     "name": "GTA: Vice City – Definitive",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "Full Game": "$19.99"
     },
     "minPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "Full Game": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365699708,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Full Game": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
