@@ -11369,6 +11369,25 @@
     "history": [
       [
         {
+          "timestamp": 1756376614407,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺179,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99",
+            "Aquaria Cruising Guide(30%)": "₺129,99",
+            "Happy Otaku Pack Vol.20(30%)": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756312070436,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -20199,6 +20218,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756376614407,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "Opposing Fronts - Russian": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "All Content": "₺0,00",
+            "Opposing Fronts": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756156830335,
