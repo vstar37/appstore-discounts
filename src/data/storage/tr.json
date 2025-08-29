@@ -3799,6 +3799,25 @@
     "history": [
       [
         {
+          "timestamp": 1756441596566,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Bag Of Gems": "₺129,99",
+            "Hero Pack 3": "₺99,99",
+            "Dante": "₺229,99",
+            "Sha'tra": "₺129,99",
+            "Kutsao": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756355174088,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -11393,6 +11412,25 @@
       "LegendaryVoyage,MysticTreasure": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756441596566,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Ensemble Arcanum": "₺129,99",
+            "Novice Rider Pack": "₺39,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "unlockall_29": "₺1.499,99",
+            "Valentine Stage": "₺179,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756379879393,
