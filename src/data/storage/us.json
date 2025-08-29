@@ -11852,6 +11852,20 @@
     "history": [
       [
         {
+          "timestamp": 1756449132791,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755732017312,
           "price": 0,
           "formattedPrice": "Free",
@@ -15735,7 +15749,10 @@
       "Touhou Mugakudan -IV-(30%)": "$2.99",
       "MUSE RADIO FM106(30%off)": "$1.99",
       "MUSE RADIO FM106": "$2.99",
-      "MSR Anthology_Vol.01（50%off）": "$2.99"
+      "MSR Anthology_Vol.01（50%off）": "$2.99",
+      "Big Eater Challenge Pass": "$2.99",
+      "Legendary Voyage(30%off)": "$2.99",
+      "LegendaryVoyage,MysticTreasure": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15786,11 +15803,31 @@
       "Ensemble Arcanum(30%)": "$1.99",
       "Touhou Mugakudan -IV-(30%)": "$2.99",
       "MUSE RADIO FM106(30%off)": "$1.99",
-      "MUSE RADIO FM106": "$2.99",
-      "MSR Anthology_Vol.01（50%off）": "$2.99"
+      "MUSE RADIO FM106": "$1.99",
+      "MSR Anthology_Vol.01（50%off）": "$2.99",
+      "Big Eater Challenge Pass": "$2.99",
+      "Legendary Voyage(30%off)": "$2.99",
+      "LegendaryVoyage,MysticTreasure": "$3.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1756449132791,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Big Eater Challenge Pass": "$2.99",
+            "Legendary Voyage(30%off)": "$2.99",
+            "LegendaryVoyage,MysticTreasure": "$3.99",
+            "MSR Anthology_Vol.01（50%off）": "$2.99",
+            "MUSE RADIO FM106(30%off)": "$1.99",
+            "MUSE RADIO FM106": "$1.99",
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99"
+          }
+        },
         {
           "timestamp": 1756441596566,
           "price": 2.99,
@@ -28566,6 +28603,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756449132791,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754973074179,
