@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-30T13:27:18.874Z</updated>
+    <updated>2025-08-30T14:21:03.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,46 +21,39 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-30T13:27:18.875Z</updated>
+        <updated>2025-08-30T14:21:03.152Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JW: Battery Alert Notification]]></title>
-        <id>JW: Battery Alert Notification-1756560248804</id>
-        <link href="https://apps.apple.com/cn/app/jw-battery-alert-notification/id1485101937?uo=4"/>
-        <updated>2025-08-30T13:24:08.804Z</updated>
-        <summary type="html"><![CDATA[价格: ¥48.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/jw-battery-alert-notification/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[我的足迹: GPS记录仪]]></title>
+        <id>我的足迹: GPS记录仪-1756563455702</id>
+        <link href="https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E8%B6%B3%E8%BF%B9-gps%E8%AE%B0%E5%BD%95%E4%BB%AA/id1464666446?uo=4"/>
+        <updated>2025-08-30T14:17:35.702Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%88%91%E7%9A%84%E8%B6%B3%E8%BF%B9-gps%E8%AE%B0%E5%BD%95%E4%BB%AA/id1464666446?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/96/cf/cd96cf9b-571f-13db-fea7-d208e206a5d3/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥48.00</span> → <b>
+  优惠信息（价格：<span>¥8.00</span> → <b>
   <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  从手腕上监控你的iPhone电池电量。
+  我的足迹MyTracks是一款通过使用GPS数据来记录您的位置的应用程序。它非常适合徒步旅行、慢跑、散步、骑行等各种活动。这款应用程序利用先进的技术提供精确的测量和计算。
 
-Juice Watch 是一个简单的应用程序，旨在做好两件事：
+以下是您可以使用MyTracks做的事情：
+记录您的路线：无论您是徒步旅行、慢跑还是骑行，MyTracks都可以记录您的路径并在地图上显示。
+保存收藏的位置：如果有特定的地点您想要记住，您可以将它们标记为应用程序中的收藏夹。
+导入和导出数据：MyTracks允许您以多种格式导入和导出数据，如CSV、GPX、KML和KMZ。
+提高准确性：您可以进行静态GPS观测，以获得更准确的路标。
+轻松导航：该应用程序在指南针上提供路标指南，让您轻松导航到特定位置。
+可定制的路标：您可以手动添加路标，也可以从您的收藏位置导入。您甚至可以添加具有角度和距离的矢量。
+坐标转换：MyTracks允许您随时在四种不同的坐标格式（十进制、度分秒、MGRS、UTM）之间进行转换。
+其他功能：该应用程序在记录过程中显示滑翔比，提供度数或千分度的指南针选项，支持地图上的MGRS网格叠加，并允许您在开始跟踪之前创建路线。
+详细记录：您可以在地图上查看您的轨迹并重播路线。该应用程序提供有关您的轨迹的详细统计信息，并显示与每个轨迹相关联的已保存路标。您还可以更改轨迹的颜色以便更容易识别。
 
-•在Apple Watch上显示配对iPhone的电池电量
-
-•当你的 Apple Watch 正在充电，电量超过 90 %（或者你选择的任何范围，从 50 %到 100 %）时，在你的iPhone 上发送通知提醒
-
-只需要看一眼你的手腕，就可以全天监控iPhone的电量情况。或者，当你的iPhone在另一个房间充电时，你可以密切关注它的电池电量。
-
-你可以同时看到iPhone和Apple Watch的电池电量。
-
-当配对的iPhone正在充电，并且电量至少达到 80 %（或者你选择的任何范围，从 50 %到 100 %）时，可以在你的 Apple Watch 上收到通知提醒。
-
-你可以设置电池低电量通知提醒，当你的Apple Watch或者iPhone电池电量不足时收到通知提醒。
-
-Juice Watch具有多种复杂功能，所以你可以在自己喜欢的表盘上使用它。
-
-你还可以使用这个应用程序从配对的iPhone上查看Apple Watch的电池电量。 当Apple Watch在其他地方充电时，可能会很起作用。
-
-请注意，Apple Watch上显示的iPhone电池电量并不是实时的。 它大约每5-60分钟定期刷新一次。 配对的iPhone上所显示的Apple Watch的电池电量则以大致相同的速率刷新。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/93/c4/a093c457-f9eb-7a0e-4ec8-e884294d9e35/85c225a8-7133-4dce-93da-d1421b26426e_5.5_inch_-_1_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/15/70/31157006-4bcc-b282-6306-1fe9682d4c5c/b28e8371-2da8-403c-ae2b-f6cb92f4a34f_5.5_inch_-_2_-_cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/4b/4c/f24b4c89-3fcd-20c9-7948-6fd43fae3717/4738d87c-93b1-4532-8668-0d4f8f462601_5.5_inch_-_3_-_cn.png/392x696bb.png" />]]></content>
+请注意，持续在后台使用GPS会快速消耗设备的电池。如果您喜欢我们的应用，请分享好友给予我们支持！如果您有任何反馈或问题，请随时通过miaozhi.ai@gmail.com与我们联系。
+</p>]]></content>
     </entry>
 </feed>

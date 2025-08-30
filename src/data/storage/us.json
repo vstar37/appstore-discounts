@@ -28716,6 +28716,14 @@
     "history": [
       [
         {
+          "timestamp": 1756563455702,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        },
+        {
           "timestamp": 1756557597500,
           "price": 0,
           "formattedPrice": "Free",

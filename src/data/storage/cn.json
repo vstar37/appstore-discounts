@@ -21735,6 +21735,16 @@
     "history": [
       [
         {
+          "timestamp": 1756563455702,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755501981845,
           "price": 0,
           "formattedPrice": "免费",
@@ -29813,6 +29823,18 @@
       "终身高级版": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756563455702,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753367153742,
