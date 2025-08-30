@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-08-30T12:43:19.585Z</updated>
+    <updated>2025-08-30T23:22:27.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,39 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-30T12:43:19.585Z</updated>
+        <updated>2025-08-30T23:22:27.136Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1756557597500</id>
-        <link href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2025-08-30T12:39:57.500Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/e8/82e3e850-3063-3dd6-dc77-d69dfb3ab5b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[MyTracks: GPS Recorder]]></title>
+        <id>MyTracks: GPS Recorder-1756595933774</id>
+        <link href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4"/>
+        <updated>2025-08-30T23:18:53.774Z</updated>
+        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/96/cf/cd96cf9b-571f-13db-fea7-d208e206a5d3/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
+  Discount Information（Price：<span>₺39,99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  MyTracks is an app that helps you keep track of your location using GPS data. It's perfect for various activities like hiking, running, walking, biking, and more. This app uses advanced technology to provide precise measurements and calculations.
 
-Juice Watch is a simple app designed to do two things well:
+Here's what you can do with MyTracks:
+- Track your route: Whether you're hiking, running, or cycling, MyTracks can record your path and show it on a map.
+- Save favorite locations: If there are specific places you want to remember, you can mark them as favorites in the app.
+- Import and export data: MyTracks allows you to import and export data in various formats such as CSV, GPX, KML, and KMZ.
+- Improve accuracy: You can take static GPS observations to get more accurate waypoints for your tracks.
+- Easy navigation: The app provides a waypoint guide on the compass, making it easy for you to navigate to specific locations.
+- Customizable waypoints: You can add waypoints manually or import them from your favorite locations. You can even add vectors with angle and distance.
+- Coordinate conversion: MyTracks allows you to convert between four different coordinate formats (Decimal, DMS, MGRS, UTM) at any time.
+- Additional features: The app displays glide ratio during recording, offers compass options in degrees or mils, supports MGRS Grid overlay on the map, and allows you to create routes to follow before starting your track.
+- Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
-
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
-
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
-
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
+</p>]]></content>
     </entry>
 </feed>

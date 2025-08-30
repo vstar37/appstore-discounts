@@ -16751,6 +16751,18 @@
     "history": [
       [
         {
+          "timestamp": 1756595933774,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "₺179,99",
+            "100 Altitude Query Times": "₺129,99",
+            "Lifetime Premium": "₺449,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753399452908,
           "price": 39.99,
           "formattedPrice": "₺39,99",
