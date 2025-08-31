@@ -30456,6 +30456,16 @@
     "history": [
       [
         {
+          "timestamp": 1756649885201,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756560248804,
           "price": 0,
           "formattedPrice": "免费",
@@ -32116,6 +32126,20 @@
       "解锁《一路向海》DLC捆绑包": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756649885201,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥6.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752503087872,
