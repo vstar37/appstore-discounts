@@ -35197,6 +35197,14 @@
     "history": [
       [
         {
+          "timestamp": 1756657467862,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Unlock": "$14.99"
+          }
+        },
+        {
           "timestamp": 1756653575085,
           "price": 0,
           "formattedPrice": "Free",

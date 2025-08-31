@@ -32661,6 +32661,16 @@
     "history": [
       [
         {
+          "timestamp": 1756657467862,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Game Unlock": "$430.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756653575085,
           "price": 0,
           "formattedPrice": "免費",
