@@ -28140,6 +28140,18 @@
     "history": [
       [
         {
+          "timestamp": 1756609714531,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753416031694,
           "price": 0.99,
           "formattedPrice": "$0.99",
