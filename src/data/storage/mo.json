@@ -19191,6 +19191,18 @@
     "history": [
       [
         {
+          "timestamp": 1756692006562,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "終身高級版": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756563455702,
           "price": 0,
           "formattedPrice": "免費",
