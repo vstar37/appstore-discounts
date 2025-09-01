@@ -29110,6 +29110,14 @@
     "history": [
       [
         {
+          "timestamp": 1756751397409,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756060174389,
           "price": 28,
           "formattedPrice": "¥28.00",
