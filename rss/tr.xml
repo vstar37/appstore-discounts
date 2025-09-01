@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-08-30T23:22:27.135Z</updated>
+    <updated>2025-09-01T23:23:04.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,39 +21,98 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-08-30T23:22:27.136Z</updated>
+        <updated>2025-09-01T23:23:04.424Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MyTracks: GPS Recorder]]></title>
-        <id>MyTracks: GPS Recorder-1756595933774</id>
-        <link href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4"/>
-        <updated>2025-08-30T23:18:53.774Z</updated>
-        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/96/cf/cd96cf9b-571f-13db-fea7-d208e206a5d3/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
+        <id>Safety Note+ Pro-1756768780242</id>
+        <link href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4"/>
+        <updated>2025-09-01T23:19:40.242Z</updated>
+        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/96/fa/f596fa2e-edca-6568-3e7b-78b99588bb87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺39,99</span> → <b>
+  Discount Information（Price：<span>₺179,99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  MyTracks is an app that helps you keep track of your location using GPS data. It's perfect for various activities like hiking, running, walking, biking, and more. This app uses advanced technology to provide precise measurements and calculations.
+  Introducing Safety Note+: Keep Your Most Private Notes Secure
 
-Here's what you can do with MyTracks:
-- Track your route: Whether you're hiking, running, or cycling, MyTracks can record your path and show it on a map.
-- Save favorite locations: If there are specific places you want to remember, you can mark them as favorites in the app.
-- Import and export data: MyTracks allows you to import and export data in various formats such as CSV, GPX, KML, and KMZ.
-- Improve accuracy: You can take static GPS observations to get more accurate waypoints for your tracks.
-- Easy navigation: The app provides a waypoint guide on the compass, making it easy for you to navigate to specific locations.
-- Customizable waypoints: You can add waypoints manually or import them from your favorite locations. You can even add vectors with angle and distance.
-- Coordinate conversion: MyTracks allows you to convert between four different coordinate formats (Decimal, DMS, MGRS, UTM) at any time.
-- Additional features: The app displays glide ratio during recording, offers compass options in degrees or mils, supports MGRS Grid overlay on the map, and allows you to create routes to follow before starting your track.
-- Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
+Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
 
-Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
-</p>]]></content>
+Key Features:
+
+• Advanced security system: Utilizing state-of-the-art technology to protect your notes
+• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
+• Biometric support: Unlock the app using TouchID or FaceID for added convenience
+• Intruder report: Capture photos of unauthorized individuals attempting to access your app
+• Decoy password: Conceal your real privacy with a decoy password
+• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
+• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
+• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
+• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
+• Note organization: Create, sort, move, and copy notes within folders
+• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
+• Additional features: Auto-save, note search, email notes, and full orientation support
+• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
+
+Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
+
+Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
+
+Visit us at:
+Website: https://sixbytes.io
+Twitter: https://twitter.com/SixbytesApp
+Facebook: https://www.facebook.com/sixbytesapp
+
+For more information, please refer to our Terms of Service and Privacy Policy:
+Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
+Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vostok — Story Maker]]></title>
+        <id>Vostok — Story Maker-1756768780242</id>
+        <link href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4"/>
+        <updated>2025-09-01T23:19:40.242Z</updated>
+        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1d/98/2c1d98df-53f5-756e-3f8c-32662eb9f304/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺179,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Welcome to Vostok – your ultimate companion for crafting captivating stories and stunning collages, designed to elevate your social media presence! With Vostok, transforming your ideas into professional-grade posts and stories is now a breeze.
+
+Whether you're a blogger, photographer, or simply love sharing your life's moments on social media, Vostok provides all the tools you need to create content that will make an impact. Our sleek and user-friendly app seamlessly combines your passion for photography and storytelling, offering a dynamic platform to showcase your awe-inspiring moments.
+
+Embracing a minimalist style, Vostok becomes your canvas for unlimited creativity. A vast collection of templates, stickers, and effects empowers you to design unique stories that reflect your individuality.
+
+But Vostok goes beyond creative freedom; it's all about simplicity. Our intuitive interface makes editing and sharing your content effortless, freeing up more time for you to focus on crafting compelling narratives that your followers will adore.
+
+No more waiting! Embark on your Vostok journey today and craft captivating posts and stories that leave a lasting impression!
+
+Here's a glimpse of some of our features:
+
+· 200+ design templates for social media
+· Exclusive fonts with Cyrillic support
+· 450+ unique stickers
+· Atmospheric dust and grain effects for photos
+· Variety of backgrounds: paper textures, marble, gradients, colors
+· Ad-free with no subscription requirements
+· Dark mode compatibility
+
+Recognized as one of the Best Apps of 2019 by Apple.
+
+With over 200+ templates, Vostok is your go-to toolkit for creating standout social media content.
+
+We eagerly look forward to your ideas and feedback.
+Connect with us at hello@vostokapp.ru or drop us a direct message on Instagram at @vostokapp.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
