@@ -143,6 +143,23 @@
     "history": [
       [
         {
+          "timestamp": 1756826636309,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "基础会员2年（活动）": "USD 29.99",
+            "基础会员3个月（活动）": "USD 4.99",
+            "基础会员12个月（活动）": "USD 17.99",
+            "基础会员-连续包月": "USD 1.99",
+            "基础会员1个月(尝鲜)": "USD 0.99",
+            "空间会员·365G-3年（活动）": "USD 79.99",
+            "空间会员·365G-1年（活动）": "USD 39.99",
+            "专业会员·无限版-1个月（活动）": "USD 14.99"
+          }
+        },
+        {
           "timestamp": 1756822928935,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -12463,6 +12480,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756826636309,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Rin·Len's Mirrorland": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1756822928935,
           "price": 2.99,
