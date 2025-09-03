@@ -17076,7 +17076,10 @@
       "unlockall_4": "HK$ 138.00",
       "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
       "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
-      "MSR Anthology_Vol.01（50%off）": "HK$ 23.00"
+      "MSR Anthology_Vol.01（50%off）": "HK$ 23.00",
+      "火辣辣！大胃王挑戰暢吃卡": "HK$ 23.00",
+      "奇航秘寶（30%off）": "HK$ 23.00",
+      "奇航秘寶": "HK$ 28.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17141,11 +17144,31 @@
       "unlockall_1": "HK$ 203.00",
       "unlockall_4": "HK$ 138.00",
       "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
-      "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
-      "MSR Anthology_Vol.01（50%off）": "HK$ 23.00"
+      "暮 色 電 台 ＦＭ１０６": "HK$ 15.00",
+      "MSR Anthology_Vol.01（50%off）": "HK$ 23.00",
+      "火辣辣！大胃王挑戰暢吃卡": "HK$ 23.00",
+      "奇航秘寶（30%off）": "HK$ 23.00",
+      "奇航秘寶": "HK$ 28.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1756884011556,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "火辣辣！大胃王挑戰暢吃卡": "HK$ 23.00",
+            "奇航秘寶（30%off）": "HK$ 23.00",
+            "奇航秘寶": "HK$ 28.00",
+            "MSR Anthology_Vol.01（50%off）": "HK$ 23.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+            "暮 色 電 台 ＦＭ１０６": "HK$ 15.00",
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日暢飲券": "HK$ 23.00",
+            "Aquaria Cruising Guide(30%)": "HK$ 23.00",
+            "Happy Otaku Pack Vol.20(30%)": "HK$ 23.00"
+          }
+        },
         {
           "timestamp": 1756873559540,
           "price": 23,
