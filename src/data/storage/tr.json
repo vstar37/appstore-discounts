@@ -11544,6 +11544,25 @@
     "history": [
       [
         {
+          "timestamp": 1756970409644,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺179,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺99,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99",
+            "Aquaria Cruising Guide(30%)": "₺129,99",
+            "Happy Otaku Pack Vol.20(30%)": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756819926473,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -15298,6 +15317,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756970409644,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
         {
           "timestamp": 1756967510664,
           "price": 0,
