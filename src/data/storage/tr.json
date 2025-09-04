@@ -15379,6 +15379,18 @@
     "history": [
       [
         {
+          "timestamp": 1757010627062,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "₺179,99",
+            "My Year in Pixels (Landscape)": "₺179,99",
+            "Self-Care Monthly Reflection": "₺179,99",
+            "Il mio anno in pixel (Vertical": "₺179,99",
+            "The Smart Teacher's Planner in": "₺499,99"
+          }
+        },
+        {
           "timestamp": 1756970409644,
           "price": 0,
           "formattedPrice": "Free",
