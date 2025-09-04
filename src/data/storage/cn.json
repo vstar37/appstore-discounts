@@ -13174,6 +13174,22 @@
     "history": [
       [
         {
+          "timestamp": 1756959911131,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "訂閱 (1 年)": "¥618.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756808619681,
           "price": 0,
           "formattedPrice": "免费",
@@ -22408,7 +22424,7 @@
       "Touhou Mugakudan -IV-(30%)": "¥18.00",
       "MSR Anthology_Vol.01（50%off）": "¥18.00",
       "暮 色 電 台 ＦＭ１０６（30%off）": "¥12.00",
-      "暮 色 電 台 ＦＭ１０６": "¥18.00",
+      "暮 色 電 台 ＦＭ１０６": "¥12.00",
       "可爱即正义 Vol.1": "¥25.00",
       "放弃治疗 Vol.1": "¥25.00",
       "肥宅快乐包 Vol.1": "¥25.00",
@@ -22422,6 +22438,25 @@
       "奇航秘宝": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756959911131,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "火辣辣！大胃王挑战畅吃卡": "¥18.00",
+            "奇航秘宝（30%off）": "¥18.00",
+            "奇航秘宝": "¥25.00",
+            "MSR Anthology_Vol.01（50%off）": "¥18.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "¥12.00",
+            "暮 色 電 台 ＦＭ１０６": "¥12.00",
+            "Aim to Be a Rhythm Master!(30%": "¥18.00",
+            "(/◎＼)咕嘟咕嘟…(*´∀`)哈～夏日畅饮券": "¥18.00",
+            "Aquaria Cruising Guide(30%)": "¥18.00",
+            "Happy Otaku Pack Vol.20(30%)": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756131817437,
