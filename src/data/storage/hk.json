@@ -15959,6 +15959,25 @@
     "history": [
       [
         {
+          "timestamp": 1757056827362,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Green Cam Film Pack": "HK$ 8.00",
+            "Red Cam Film Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Purple Cam Film Pack": "HK$ 8.00",
+            "Black Cam Film Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756319417097,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
