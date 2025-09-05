@@ -6589,6 +6589,16 @@
     "history": [
       [
         {
+          "timestamp": 1757081978767,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "移除广告": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756373015805,
           "price": 0,
           "formattedPrice": "免费",
@@ -29539,6 +29549,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081978767,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756751397409,
