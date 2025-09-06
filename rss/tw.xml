@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-09-04T06:35:12.328Z</updated>
+    <updated>2025-09-06T04:28:17.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,28 +21,110 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-04T06:35:12.328Z</updated>
+        <updated>2025-09-06T04:28:17.126Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沙盒星球]]></title>
-        <id>沙盒星球-1756967510664</id>
-        <link href="https://apps.apple.com/tw/app/%E6%B2%99%E7%9B%92%E6%98%9F%E7%90%83/id1527841661?uo=4"/>
-        <updated>2025-09-04T06:31:50.664Z</updated>
-        <summary type="html"><![CDATA[价格: $390.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%B2%99%E7%9B%92%E6%98%9F%E7%90%83/id1527841661?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/25/81/81258125-d4f8-8e8e-90ee-bb91dbf1c5c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[zFuse - 影片播放器]]></title>
+        <id>zFuse - 影片播放器-1757132699442</id>
+        <link href="https://apps.apple.com/tw/app/zfuse-%E5%BD%B1%E7%89%87%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4"/>
+        <updated>2025-09-06T04:24:59.442Z</updated>
+        <summary type="html"><![CDATA[价格: $150.00 → $120.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/zfuse-%E5%BD%B1%E7%89%87%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3d/0b/d23d0b90-cda3-645b-8e7a-c8b5953a8ab2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>$390.00</span> → <b>
-  <strong>免費</strong>
+  优惠信息（价格：<span>$150.00</span> → <b>
+  <strong>$120.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  模擬真實的太陽系。
-模擬宇宙起源，創建您想要的任何星球。
-高度自由任意建立你的專屬星系。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/96/d6/fb/96d6fb4e-3c98-2670-fdd3-a7a861d2184b/7f29f3ce-4050-4e15-8367-da6dc4b147eb_T-Screen-i6-00.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/f0/84/a7/f084a750-8249-d630-4fff-3754c168839a/7f8a3421-fe0e-4661-9682-a9b2e4ec06e9_T-Screen-i6-01.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b6/00/cc/b600cc25-e32c-8687-fd71-41b824a14370/14a07ff4-b1fc-40ea-9a95-4e34616913d1_T-Screen-i6-02.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/7d/ab/f2/7dabf2f7-13d6-97b9-26b9-1def332cc9e9/58a4fcbb-2789-4232-a94a-9325240422ec_T-Screen-i6-03.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/fa/1a/57/fa1a57d9-b60e-f1b7-e564-1549408846fd/f874b3ed-8a13-457b-8f56-ec2e15fa7300_T-Screen-i6-04.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7e/ad/62/7ead62c6-f654-641b-5c3d-8c9b49aed63e/30d40612-8c54-4a4a-a47e-afa32f0912da_T-Screen-i6-05.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/2a/a9/af/2aa9afe9-9cde-6ac3-e4b7-e452bdd79984/e2d64b6a-cc1c-4223-bc8f-92a342693ab6_T-Screen-i6-06.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/c0/09/ed/c009ed82-f01a-7dbd-7e12-4d96ae1f0b75/38273941-0829-4286-98cb-59cb3caed7d1_T-Screen-i6-07.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b8/b7/41/b8b7410e-2aa5-21f4-f02d-9b5dcc085d37/dfcda4a9-407d-48af-89aa-aca016fcfaa8_T-Screen-i6-08.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1e/b4/73/1eb47316-99ef-795e-9708-92104636de32/8bfdfa1a-0d05-424a-a567-ea2f2525d144_T-Screen-i6-09.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/76/30/48/7630489b-c7f3-b038-a7e5-d7d0cf2d02c3/07b95c35-b1a9-49b2-b749-1b09044e6815_T-Screen-iPad-00.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e2/46/ff/e246ffad-6f21-309b-a65b-ad9cf54901e3/0df8ab62-cebb-4c00-894f-782c0a550f33_T-Screen-iPad-01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/73/f6/cc/73f6ccc1-aa15-22a1-f7ce-500ecb2e26ff/6df464e5-e339-4759-88a3-c84df8b51062_T-Screen-iPad-02.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e0/60/8b/e0608b4d-d129-530c-230b-fa11d7e8b614/a5e0bebb-d2e5-4493-92f5-1ce762c59675_T-Screen-iPad-03.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b7/5d/4d/b75d4d4f-7cdc-8969-f87d-f6fde69234e0/7a84854c-353b-4e8c-aa28-5cd2e62284f1_T-Screen-iPad-08.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cf/3a/f6/cf3af6b7-a0c5-2056-977b-4c479ce65525/7f070e6b-890a-48c6-b89c-502343a47939_T-Screen-iPad-04.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/24/b6/56/24b656b3-0789-6e96-eb0e-f73d3b974e93/8e4cb8e8-ebe3-45d0-a288-04596e41fd12_T-Screen-iPad-05.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/31/90/61/31906146-56e6-2a99-1429-bb4b85c8fe73/66d903eb-6b15-4ded-b57f-1700782f883b_T-Screen-iPad-06.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/ec/35/12ec35f3-dd5d-b264-8686-bcbf94ee4ecc/ebed1041-7945-41d1-b4e9-3eb55f0ff7b8_T-Screen-iPad-07.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5a/0f/05/5a0f0508-fc9a-a169-f504-850b0b000115/dab60d67-af75-4141-afb9-380af92617e6_T-Screen-iPad-09.jpg/576x768bb.jpg" />]]></content>
+  - zFuse 可播放所有影片格式和編碼, 您無需將影片檔案轉換為MP4, 即可在行動裝置中進行播放.
+
+- zFuse 支援ASS/SSA/SUP特效字幕, 您可以體驗到與Mac/PC版完全相同的特效字幕效果.
+
+- zFuse 具有強大的網路技術, 您無需將影片檔案儲存在空間有限的裝置中, 可以直接播放電腦或NAS上的各種格式影片, 無需轉換, 無需下載, 即點即播.
+
+- zFuse 支援直接登入多種雲端硬碟, 直接原畫播放內容, 還可以閱讀雲端硬碟中的小說/圖片/原始碼/直播源等, 甚至可以透過iOS版同步到zFuse TV版, 讓您在tvOS中播放雲端硬碟內容.
+
+- zFuse 也可以讓您輕鬆地從電腦/NAS中直接下載檔案/資料夾, 是您旅途中的最佳夥伴.
+
+- zFuse 支援各種手勢操作, 只需動動手指, 即可調整播放位置, 字體大小, 控制音量和亮度.
+
+- zFuse 為您的隱私安全考量, 擁有資料夾加密功能, 讓您不再擔心隱私問題.
+
+- zFuse 還為廣大學子準備了音視頻變速不變調功能, 幫助您快速瀏覽課件.
+
+- zFuse 還包含了一款強大的程式碼/文字編輯器, 支援各種程式語言/語法高亮/數十種編輯器風格等, 您可以用它直接在iPhone/iPad上編輯程式碼.
+
+- zFuse 甚至可以作為一款檔案管理工具, 您可以用它壓縮/解壓縮/瀏覽圖片/閱讀TXT, PDF, EPUB等各種電子書.
+
+- zFuse的詳細特性如下:
+
+    * SMB/CIFS播放/自動發現(輕鬆播放PC上的共享媒體檔案).
+    * 直接透過SMB/CIFS/DLNA/FTP/WebDAV下載媒體檔案/資料夾到iOS裝置上.
+    * UPnP/DLNA播放/自動發現.
+    * Emby和Jellyfin媒體伺服器支援.
+    * 客戶端之間可以透過QR Code分享媒體檔案/資料夾.
+    * 直接使用PC檔案總管管理媒體資料夾.
+    * AirPlay投影播放.
+    * 支援子母畫面模式.
+    * 支援iPad分割畫面多工.
+    * 硬體加速.
+    * 支援HDR Tone Mapping以便在非HDR顯示裝置中顯示HDR內容.
+    * 支援特效字幕.
+    * 0.5x-3.0x播放速度控制.
+    * 0.5x-5.0x螢幕縮放.
+    * 支援Seeking時預覽媒體內容.
+    * 內建音訊增強.
+    * 多音軌選擇.
+    * 內嵌/外掛字幕選擇.
+    * 字幕同步.
+    * 音訊同步.
+    * 支援外部字幕字型選擇.
+    * 播放清單檔案預覽功能.
+    * 播放藍光資料夾功能.
+    * 直接在裝置上管理和修改播放清單.
+    * 直接播放外接USB隨身碟上的媒體檔案.
+    * 直播源有效性檢測.
+    * 螢幕鏡像.
+
+    * 檔案管理:
+        - 刪除, 移動, 重新命名, 建立資料夾.
+        - 支援Wi-Fi傳輸, 無需連接USB線即可傳輸檔案.
+        - 支援建立串流媒體播放清單.
+        - 支援EPUB/TXT閱讀器.
+        - 支援解壓縮常見壓縮格式: 7z, zip, rar, tar, bz, bz2等.
+        - 支援壓縮常見格式: 7z, zip等.
+
+    * 手勢功能:
+        - 水平拖動: 調整播放位置.
+        - 在螢幕左側垂直拖動: 調整音量.
+        - 在螢幕右側垂直拖動: 調整亮度.
+        - 在螢幕上捏合: 螢幕尺寸調整.
+        - 雙擊: 播放/暫停.
+        - 兩指雙擊: 切換螢幕長寬比.
+
+    * 支援外接鍵盤:
+        - 空白鍵: 暫停/播放.
+        - 左方向鍵: 快退.
+        - 右方向鍵: 快進.
+        - 上方向鍵: 增加音量.
+        - 下方向鍵: 降低音量.
+        - Esc: 退出播放.
+        - S: 改變播放速度.
+        - B: 上一首.
+        - N: 下一首.
+        - Z: 改變螢幕縮放.
+
+    * 支援影片格式: MP4, MOV, MKV, AVI, WMV, FLV, RMVB, ASF, OGV, 藍光ISO等所有常見格式.
+    * 支援音訊格式: MP3, WAV, WMA, FLAC, APE等.
+    * 支援字幕格式: SRT, SSA, ASS, SUP, VTT等.
+    * 支援圖像格式: JPG, PNG, BMP, TIFF, GIF, HEIC等.
+    * 支援電子書格式: EPUB, TXT, PDF.
+    * 編輯器支援的語言格式: JSON, HTML, XML, C/C++, Lua, Java, Objective-C, Swift, Python, JavaScript.
+    * 支援瀏覽的文件格式: Word, Excel, PowerPoint, Numbers, Keynote, Pages, RTF, CSV.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/1b/ed/501bed87-788c-5b0c-e93f-7d95528bce3f/71a98171-a9e2-4777-84b9-1876fbac62e5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/37/cb/fd37cba9-8aaa-3403-88af-248031c31106/ca3e8235-7b29-46eb-bac8-5f07af6df08c__U7ad6_U7248_U77ed_U624b_U673a_tw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/46/14/014614c9-656e-0e65-ffbb-98672b12ece7/be2a4bed-294a-4adf-96ab-000b9bb19f1c_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/0d/55/9e0d5574-b172-7562-e558-587b95a1b02a/5ae2533b-e73f-40b9-bbdb-24f9d20dee17_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/f2/9a/64f29aa4-2515-c817-83b3-f229f2f76015/f8402202-e672-4c7b-a44b-8e86b06a0770_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/c9/bd/bbc9bd9e-d4a9-5fe4-e52d-cf7a100c0142/846c71aa-8d04-4215-b601-9fc204579917_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/68/10/e568108e-870c-cb28-8ffc-12693866d1bf/799556a2-88f3-4716-a9c2-ce21a30d321b_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a7/15/83/a715837d-29ff-69de-e75a-5a50af96272e/e0e5573c-0848-4d18-a7ea-d269d657f975__U6a2a_U7248iPad_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/77/e7/4c77e7c8-5c6b-df88-ed7c-3c1dbf4f8653/c83c8a5d-83ec-401d-a245-98d7e22c4f92_129_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/38/7e/2b387e80-ffc3-ead8-ad2d-30ceaaedcdba/cfbbce9f-be20-44fe-af54-f0b9dce5dff5_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/62/fe/aa62feb1-e079-f6a4-f20f-53cf82c00195/8a3871ed-1bd5-4677-93f0-e340165c37e4_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/f9/43/acf94360-deb4-bd4f-5e53-8b69fc17b3a6/6555c055-e930-46ce-9fa0-b633857d6471_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/b1/05/13b1052f-8693-065e-fb1d-9a363c5c20ea/551f0ad8-c7cb-47f6-9914-7624b6a9a275_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/84/51/7d8451f2-dc48-885c-cdc0-50a02183bf68/ad3ae475-d258-48b7-972b-b574455814bc_1.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

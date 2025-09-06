@@ -6160,6 +6160,25 @@
     "history": [
       [
         {
+          "timestamp": 1757132699442,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756884011556,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -12372,6 +12391,14 @@
     "history": [
       [
         {
+          "timestamp": 1757132699442,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757003239622,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -16114,6 +16141,24 @@
       "LegendaryVoyage,MysticTreasure": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757132699442,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "unlockall_29": "$33.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757056827362,

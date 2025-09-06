@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-09-04T05:23:08.536Z</updated>
+    <updated>2025-09-06T04:28:17.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,30 +21,94 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-04T05:23:08.537Z</updated>
+        <updated>2025-09-06T04:28:17.126Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sandbox Planet]]></title>
-        <id>Sandbox Planet-1756963187135</id>
-        <link href="https://apps.apple.com/tr/app/sandbox-planet/id1527841661?uo=4"/>
-        <updated>2025-09-04T05:19:47.135Z</updated>
-        <summary type="html"><![CDATA[Price: ₺499,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/sandbox-planet/id1527841661?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/25/81/81258125-d4f8-8e8e-90ee-bb91dbf1c5c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[zFuse - Video Player]]></title>
+        <id>zFuse - Video Player-1757132699442</id>
+        <link href="https://apps.apple.com/tr/app/zfuse-video-player/id1009747025?uo=4"/>
+        <updated>2025-09-06T04:24:59.442Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/zfuse-video-player/id1009747025?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3d/0b/d23d0b90-cda3-645b-8e7a-c8b5953a8ab2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺499,99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺179,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Simulate real solar system
+  - zFuse can play all video formats and encodings, allowing you to play video files on your mobile device without the need to convert to MP4.
 
-Emulate universe develop, build any planet you want.
+- zFuse supports ASS/SSA/SUP effect subtitles, enabling you to experience full subtitle effects just like on your PC/Mac.
 
-Highly customizable, bulid your own solar system.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/47/96/3b/47963b2b-ffb1-ed8d-b65c-82ac49876e30/ba90249a-2487-4aaa-bc07-30ef546f1175_E-Screen-i6-00.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e7/7a/23/e77a2374-ba77-8c50-cb90-e899c0569fc4/7f7b90ca-1cd2-4347-815b-8ae8f94458bb_E-Screen-i6-01.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a1/e7/f6/a1e7f65e-d3fa-d939-c3f8-0e36ce5b5fd1/96127f03-8ebd-4f5a-93da-f190f31fd641_E-Screen-i6-02.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b6/30/b7/b630b72f-f9cc-b26a-5459-5c53fe392246/dd214537-193d-4988-b7e2-9d4cc79a664b_E-Screen-i6-03.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/41/ad/c8/41adc89b-fd09-fd88-b197-d52c8432dbec/d7072aad-a87a-4faf-8229-9249339fad54_E-Screen-i6-04.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/59/74/90/597490d2-ada5-b75d-dfce-b079c8c74058/b3ee36db-6a0a-4a59-8bb7-c1244c99b6a2_E-Screen-i6-05.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cb/4c/cd/cb4ccd32-10f5-ac5f-3d6a-a12414430d78/c0438160-e0bd-4edf-a305-a2ba728912ee_E-Screen-i6-06.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c4/b9/e2/c4b9e205-1a0a-994d-184a-ca0890a0b8b7/96223afd-279a-4809-a4c1-955ed506274e_E-Screen-i6-07.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/c9/c2/0e/c9c20e94-ae11-d418-941a-502d233967b1/79182aa1-f0c5-45f0-8b3f-382ecdcfee2d_E-Screen-i6-08.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1d/38/f6/1d38f66e-f019-b715-9d7a-9ce9d9b271e1/215cf12b-975f-4b96-96f3-9828d2f5e17e_E-Screen-i6-09.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ac/bd/c4/acbdc4be-afbc-cfcc-a8f3-79afda9bb262/cd44cf61-8288-49c2-b9a4-05d43326df5a_E-Screen-iPad-00.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bc/57/8d/bc578dee-d104-5e78-9993-4816cc5a6d03/6e15f5fe-f249-4966-a1e3-2d0575414a17_E-Screen-iPad-01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b0/24/bf/b024bf6e-803b-b943-c416-0ec9f4b9a102/0c022110-b231-478e-b954-b9ad75346743_E-Screen-iPad-02.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/25/8a/83/258a839a-b71b-3060-ff01-ad174ae016d9/e28dae1b-caf8-4a24-a3b8-91ef5b67c7f3_E-Screen-iPad-03.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/26/c2/a3/26c2a313-4291-e62e-4257-2d570ec749be/e9bf7fe0-2a7d-48fa-b273-dd37eafcea91_E-Screen-iPad-04.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/85/11/ee/8511ee73-3a88-3100-876a-75a6c50c7912/8a54c60e-9d7f-4f3d-87dc-4b7813cac64d_E-Screen-iPad-05.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/df/1f/47/df1f4738-d396-1b96-5b91-21eb23549a78/9fd65135-72a7-41cd-8426-322367d64e4d_E-Screen-iPad-06.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/6f/b8/ed/6fb8edfe-efb7-06cd-b88f-2135022f30c4/53d9dffa-8fe4-4aa6-8468-e38ba9d9ce02_E-Screen-iPad-07.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/73/68/2a/73682acd-0285-c239-d63f-800993805073/e4b09dc7-c522-4f5f-b342-72c4c380c7bd_E-Screen-iPad-08.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ab/da/b9/abdab918-072f-87a1-d560-3c209a406fcd/339fdc94-9ed4-4d26-b9eb-57820af16392_E-Screen-iPad-09.jpg/576x768bb.jpg" />]]></content>
+- zFuse features powerful networking technologies that allow you to play media from your PC or NAS directly, without occupying any space on your limited device storage and without needing to download anything.
+
+- zFuse also allows you to easily download files or directories directly from your PC or NAS, making it the perfect companion for your trips.
+
+- zFuse supports a variety of gestures - simply move your fingers to adjust playback position, font size, volume, and brightness.
+
+- zFuse carefully protects your privacy with folder encryption, so you no longer need to worry about privacy issues.
+
+- zFuse's detailed features include:
+
+    * SMB/CIFS playback and discovery (easily play media files from your PC).
+    * Download media files or directories from SAMBA/DLNA/WebDAV/FTP directly.
+    * UPnP/DLNA playback and discovery.
+    * Emby and Jellyfin media server support.
+    * AirPlay playback.
+    * Picture-in-Picture mode support.
+    * iPad split-screen multitasking support.
+    * Hardware acceleration.
+    * HDR Tone Mapping support on non-HDR displays.
+    * Subtitle effects support.
+    * 0.5x-3.0x playback speed control.
+    * 0.5x-5.0x screen zoom.
+    * Media preview while seeking.
+    * Built-in audio enhancement.
+    * Multi-soundtrack selection.
+    * Embedded/external subtitle track selection.
+    * Subtitle synchronization.
+    * Audio synchronization.
+    * External subtitle font selection support.
+    * Playlist file preview before playback.
+    * Blu-ray directory playback.
+    * Real-time playlist management and editing.
+    * Screen mirroring.
+
+    * File Management:
+        - Delete, move, rename, create folders.
+        - Wi-Fi file transfer support without USB cable connection.
+        - Streaming media playlist creation support.
+        - File decompression support: 7z, zip, rar, tar, bz, bz2, etc.
+    
+    * Gesture Controls:
+        - Horizontal drag: adjust playback position.
+        - Vertical drag on left side: adjust volume.
+        - Vertical drag on right side: adjust brightness.
+        - Pinch to zoom: adjust screen size.
+        - Double-tap: play/pause.
+        - Two-finger double-tap: change video aspect ratio.
+
+    * External Keyboard Support:
+         - Space: pause/play.
+         - Left Arrow: backward seek.
+         - Right Arrow: forward seek.
+         - Esc: exit playback.
+         - S: change playback speed.
+         - B: play previous.
+         - N: play next.
+         - Z: change screen scale.
+    
+    * Supported Video Formats: MP4, MOV, MKV, AVI, WMV, FLV, RMVB, ASF, OGV, Blu-ray ISO and more.
+    * Supported Audio Formats: MP3, WAV, WMA, FLAC, APE and more.
+    * Supported Subtitle Formats: SRT, SSA, ASS, SUP, VTT.
+    * Supported Image Formats: JPG, PNG, BMP, TIFF, GIF, HEIC and more.
+    * Supported eBook Formats: EPUB, TXT, PDF.
+    * Code Editor Supported Languages: JSON, HTML, XML, C/C++, Lua, Java, Objective-C, Swift, Python, JavaScript.
+    * Supported Document Formats: Word, Excel, PowerPoint, Numbers, Keynote, Pages, RTF, CSV.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/80/ba/8180bada-9204-da39-114f-36d9ec75b7da/6bea3ebd-1387-4596-a62f-3e7f2fa0c01b_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/bc/4c/42bc4c0e-e483-40a7-7c41-cc8d6d61b8f2/7d076890-7a4b-4bee-835d-2217e49a9e1e__U7ad6_U7248_U77ed_U624b_U673a_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/69/b9/ca69b961-24d2-666c-8fb7-945708ceb8f2/a6f8f362-b67f-4b18-80cf-761d5e40f81c_55.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/92/2b/d6922b45-26e6-fbc3-9cb7-dabca6ff2edb/4a6977fe-5d01-4d63-bc83-b768c87ee02c_55_en_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/20/96/d92096e4-60c0-3dd1-3dda-2c1ec75bcf4c/2d476062-c90e-4f9b-b9ec-6d68beb77b96_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/53/9f/82539fa3-9278-f020-30ee-eaed623605db/34f6d01f-02a0-48c9-9fda-d1e8cd7093c4_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/26/72/78267252-51ff-ce8c-1ab4-0ba9ab2c5135/a66a1f13-0baa-479a-ac04-c359d5a5c338_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/95/b1/ee95b12a-9473-73fc-9097-b6f9cbfc8825/619a768f-4ab5-4307-b497-8990a8d75c95_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bb/79/0c/bb790cfc-d5c4-a01c-eece-ee0caca71abb/1806c4ca-7f40-45a2-9149-4d62d5d8badb__U6a2a_U7248iPad_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/10/48/00104871-ed80-7722-074f-2ac4a3ea35de/23fa53e2-ca9a-4ca1-b15c-93acf7c253c3_129.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/46/53/024653a2-3284-cfe6-5e20-ac77672a2d1e/043ab8f1-39cb-4284-9b19-d99866a78dbb_129_en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/8a/9d/458a9d25-1e2a-26e2-c21c-a781571f9bc3/c312345e-6043-49bd-a22a-9f89f7c9590e_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/05/46/0705460d-81af-b45f-045f-5b2678a1ff8a/503666d8-5fe3-433e-ba9b-c6e743b466f5_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/f5/15/d8f5156a-46af-8e3f-884f-5afc97b3ad56/74ad5d11-0d66-4ae5-b4d3-a77c81abc124_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/d6/2c/add62c28-186b-ea1f-6e41-f57c7c0aef42/cde94407-3c91-47ad-9236-b7d67ee2d83d_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/59/a3/d859a3d8-334a-6b66-099b-d669e02c716f/87056b3b-6598-4dea-b2fd-61ad210badcb_1.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
