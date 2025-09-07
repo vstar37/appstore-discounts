@@ -16179,6 +16179,24 @@
     "history": [
       [
         {
+          "timestamp": 1757219060005,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757153953346,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -23577,6 +23595,21 @@
       "The Smart Teacher's Planner in": "$10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757219060005,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757175791923,
