@@ -9827,6 +9827,14 @@
     "history": [
       [
         {
+          "timestamp": 1757272525028,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756790529343,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -34556,6 +34564,25 @@
       "Opposing Fronts - Russian": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757272525028,
+          "price": 139,
+          "formattedPrice": "HK$ 139.00",
+          "inAppPurchases": {
+            "西班牙語音頻": "HK$ 0.00",
+            "戰役任務 11-15": "HK$ 0.00",
+            "俄語音頻": "HK$ 0.00",
+            "Opposing Fronts - Russian": "HK$ 0.00",
+            "2 vs 2 獨立戰役地圖": "HK$ 0.00",
+            "戰役任務 2-5": "HK$ 0.00",
+            "1 vs 1 獨立戰役地圖": "HK$ 0.00",
+            "所有內容": "HK$ 0.00",
+            "《Opposing Fronts》火線對決": "HK$ 0.00",
+            "3 vs 3 獨立戰役地圖": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757243741963,
