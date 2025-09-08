@@ -12901,6 +12901,20 @@
     "history": [
       [
         {
+          "timestamp": 1757327045951,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "Annual Special SVIP": "$12.99"
+          }
+        },
+        {
           "timestamp": 1757323573857,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -16211,6 +16225,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1757327045951,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1757316134320,
           "price": 2.99,
@@ -33447,6 +33477,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1757327045951,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        },
         {
           "timestamp": 1757323573857,
           "price": 19.99,
