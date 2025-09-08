@@ -11896,6 +11896,14 @@
     "history": [
       [
         {
+          "timestamp": 1757313265061,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756110729051,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -16185,6 +16193,25 @@
       "LegendaryVoyage,MysticTreasure": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757313265061,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Big Eater Challenge Pass": "$2.99",
+            "Legendary Voyage(30%off)": "$2.99",
+            "LegendaryVoyage,MysticTreasure": "$3.99",
+            "MSR Anthology_Vol.01（50%off）": "$2.99",
+            "MUSE RADIO FM106(30%off)": "$1.99",
+            "MUSE RADIO FM106": "$2.99",
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757240401686,
@@ -23619,6 +23646,20 @@
       "The Smart Teacher's Planner in": "$10.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757313265061,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reflexión Semanal de Cuidado P": "$3.99",
+            "My Year in Pixels (Landscape)": "$3.99",
+            "Self-Care Monthly Reflection": "$3.99",
+            "Il mio anno in pixel (Vertical": "$3.99",
+            "The Smart Teacher's Planner in": "$10.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757222367302,
