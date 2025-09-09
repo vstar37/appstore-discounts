@@ -23802,6 +23802,19 @@
     "history": [
       [
         {
+          "timestamp": 1757445419731,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$1.99"
+          }
+        },
+        {
           "timestamp": 1757424808360,
           "price": 0,
           "formattedPrice": "Free",

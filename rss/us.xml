@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-09-09T11:22:04.759Z</updated>
+    <updated>2025-09-09T19:20:22.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,69 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-09T11:22:04.760Z</updated>
+        <updated>2025-09-09T19:20:22.167Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
-        <id>生辰 — 桌面时间小组件-1757416720217</id>
-        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
-        <updated>2025-09-09T11:18:40.217Z</updated>
-        <summary type="html"><![CDATA[永久会员: $14.99 → $12.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
+        <id>Goodnotes 6: AI Notes &amp; Docs-1757445419731</id>
+        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
+        <updated>2025-09-09T19:16:59.731Z</updated>
+        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/34/86/4d348602-bd9d-0e48-05a1-696f4b1ba08c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>永久会员：</strong><span>$14.99</span> → <b>
-  <strong>$12.99</strong>
+    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  这是一款关于生、死、心愿与延续的App。
+  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
 
-小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
-时针转动，生命流逝，但每一次心跳都可以更加有力。
+Boost Professional Efficiency and Productivity
+• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
+• Import, annotate, and organize PDFs, documents, and meeting notes.
+• Transcribe audio recordings from meetings so you never miss a detail.
+• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
+• Export and share notes via email, print, PDF, or images for easy collaboration.
+• Send files directly to your unique Goodnotes email for quick access on all devices.
+• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
+• Convert handwriting to text for quick and clean professional notes.
+• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
 
-有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
-而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+Powerful Digital Notes and Study Tools
+• Use AI-powered study tools help you learn faster and retain more information.
+• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
+• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
+• Convert equations to LaTeX format for easy use in reports and presentations.
+• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
+• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
+• Collaborate in real time with classmates by working on the same document for group projects and study sessions
+• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
 
-生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+Enhance Creative Digital Planning
+• Design fully customizable notebooks, templates, and covers to fit your style.
+• Mix handwriting, text, stickers, images, and drawings in a single notebook.
+• Stay focused with Smart Timer, and boost your productivity.
+• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
+• Organize your notes with unlimited folders and advanced search.
+• Get exclusive monthly downloads every month with a paid subscription.
+• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
 
-- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
-- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
-- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
 
-美国诗人纳·斯待尔在87岁那年写道：
-"如果我能够从头活过，我会试着犯更多的错。
-我会放松一点，我会灵活一点。
-我会爬更多的山，游更多的河，看更多的日落。"
+Website: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp 
 
-因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
-
-【生辰 App 会员服务说明】
-
-1.会员包含几种订购类型
-订阅周期：1个月、3个月、12个月
-2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
-3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
-4.生辰App 会员协议
-生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
-5.生辰App 软件协议与隐私政策
-生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
-生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+Privacy policy: https://www.goodnotes.com/privacy-policy 
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
 </p>]]></content>
     </entry>
 </feed>
