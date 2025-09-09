@@ -12178,6 +12178,18 @@
     "history": [
       [
         {
+          "timestamp": 1757416720217,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "生辰-年度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "月度会员": "$1.99"
+          }
+        },
+        {
           "timestamp": 1757413431201,
           "price": 0,
           "formattedPrice": "Free",
