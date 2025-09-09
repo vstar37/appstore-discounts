@@ -12121,6 +12121,14 @@
     "history": [
       [
         {
+          "timestamp": 1757449383399,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "$190.00"
+          }
+        },
+        {
           "timestamp": 1757445419731,
           "price": 0,
           "formattedPrice": "免費",
