@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-09-07T14:20:18.310Z</updated>
+    <updated>2025-09-09T04:29:19.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,43 +21,69 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-07T14:20:18.310Z</updated>
+        <updated>2025-09-09T04:29:19.353Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-1757254618547</id>
-        <link href="https://apps.apple.com/mo/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-09-07T14:16:58.547Z</updated>
-        <summary type="html"><![CDATA[价格: USD 3.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1d/98/2c1d98df-53f5-756e-3f8c-32662eb9f304/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
+        <title type="html"><![CDATA[夜星 (Night Stars)]]></title>
+        <id>夜星 (Night Stars)-1757391990109</id>
+        <link href="https://apps.apple.com/mo/app/%E5%A4%9C%E6%98%9F-night-stars/id533055404?uo=4"/>
+        <updated>2025-09-09T04:26:30.109Z</updated>
+        <summary type="html"><![CDATA[价格: USD 5.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%A4%9C%E6%98%9F-night-stars/id533055404?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/27/2d/63272dd1-9cae-56ee-4fce-31ca05e15ee1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>USD 3.99</span> → <b>
+  优惠信息（价格：<span>USD 5.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  為您的企業、品牌或博客創作精彩的故事。 Vostok 將幫助您釋放照片的潛力，更有效地使用 Instagram 並與觀眾交流。
+  "夜星"是一個很容易上癮的遊戲。一旦你開始,你就無法停下來。
 
-只是一些設計可能性：
+遊戲有兩種模式。
 
-· 200+社交設計模板
-· 西里爾文專屬字體
-· 450+ 獨家貼紙
-· 照片的灰塵和顆粒效果
-· 背景：紙張紋理、大理石、漸變、顏色
-· 無訂閱或廣告
-· 黑暗模式
+遊戲規則
+普通:
+- 點擊兩個或兩個以上相同的顏色的方塊
+- 無時間限制,一旦你達到目標分數,你可以升上下一個關卡
 
-被 Apple 評為 2019 年最佳應用之一
+永恆:
+- 點擊兩個或兩個以上相同的顏色的方塊
+- 點擊方塊越多越好,越快越好
+- 你一次過點擊的方塊越多,增加的時間就越多
+- 每升一級時間就會流失得更快
+- 一但用完所有時間,遊戲就結束
 
-使用 200 多個模板創建精美的社交內容供您選擇。
+得分規則:
+得分= 方塊 x 方塊 × 5
 
-我們喜歡聽到您的想法和反饋。
-給我們發電子郵件 hello@vostokapp.ru 或在 Instagram 上通過@vostokapp DM我們
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
+常規模式的獎勵規則:
+對於10×10:
+獎勵 = 2000 - 方塊 x 方塊 × 20
+
+對於12×12:
+獎勵 = 2000 - 方塊 × 方塊 x 10
+
+對於15×15:
+獎勵 = 2000 - 方塊 x 方塊 x 5
+
+特點:
+- 3級困難度,容易(4種顏色方塊),普通(5種顏色方塊),難(6色方塊)
+- 9種不同顏色的方塊,你可以選擇隨機顏色或固定色彩
+- iPhone / iPod 可以玩 10 x 10, 12×12
+- iPad可以玩 10×10, 12 x 12, 15×15
+
+-----------------------------------------------------------------
+
+
+沙盒宇宙, 發展星系和成長倒不同星球的型態
+
+
+我的夢幻宇宙 - myDream Universe
+
+iOS : https://apps.apple.com/tw/app/mydream-universe/id1447861806
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/b6/0e/96b60eba-4532-e0d5-8dc3-da4610d7b9f5/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/ac/0b/26ac0b84-bcde-fc23-4713-20418c636554/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/3a/ba/a73abaac-0612-ab5b-b8cc-0f111433fc2e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/7b/48/307b4812-8454-30c8-d5e4-1b865aac7d60/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/21/d5/de/21d5dedf-0f53-ce4c-527a-eaa143b0db2c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/34/7a/07347a2d-4dc7-1c39-b2b6-4de9fb30ee48/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/aa/48/50aa48e7-b15f-f9b9-4b7f-ebe48e7393f4/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/c2/c0/97c2c0cc-dbc9-46a6-3f78-6b207f1896e2/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
