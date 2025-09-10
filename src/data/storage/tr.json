@@ -6231,6 +6231,14 @@
     "history": [
       [
         {
+          "timestamp": 1757546318590,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756423186350,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -25011,9 +25019,19 @@
     "minPriceInfo": {
       "price": 439,
       "formattedPrice": "₺439,00",
-      "Full Game": "₺899,99"
+      "Full Game": "₺439,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757546318590,
+          "price": 439,
+          "formattedPrice": "₺439,00",
+          "inAppPurchases": {
+            "Full Game": "₺439,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756365699708,
