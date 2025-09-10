@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-09-09T04:29:19.354Z</updated>
+    <updated>2025-09-10T12:47:20.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,70 +21,27 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-09T04:29:19.354Z</updated>
+        <updated>2025-09-10T12:47:20.643Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Night Stars]]></title>
-        <id>Night Stars-1757391990109</id>
-        <link href="https://apps.apple.com/tr/app/night-stars/id533055404?uo=4"/>
-        <updated>2025-09-09T04:26:30.109Z</updated>
-        <summary type="html"><![CDATA[Price: ₺229,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/night-stars/id533055404?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/27/2d/63272dd1-9cae-56ee-4fce-31ca05e15ee1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg" />
+        <title type="html"><![CDATA[All In One Memo]]></title>
+        <id>All In One Memo-1757508241985</id>
+        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
+        <updated>2025-09-10T12:44:01.985Z</updated>
+        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺229,99</span> → <b>
+  Discount Information（Price：<span>₺179,99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Highly addictive game. Once you start, you cannot stop.
-
-There are two modes.
-
-Game rule
-Regular:
-- Tap two or more blocks, which are same color
-- No time limit, once you meet target you can promote to next level
-
-Endless:
-- Tap two or more blocks, which are same color
-- Tap the blocks as more and fast as you can
-- The more block you tap once, the more time will be added
-- When level up the time drain will be faster
-- Once time up it will game over
-- Click the menu (Moon), the time will be paused
-
-Score rule:
-Score = block x block x 5
-
-Bonus rule of Regular mode:
-For 10 x 10 board:
-bonus = 2000 - block x block x 20
-
-For 12 x 12 board:
-bonus = 2000 - block x block x 10
-
-For 15 x 15 board:
-bonus = 2000 - block x block x 5
-
-Features:
-- 3 difficult level, Easy (4 color blocks), Normal (5 color blocks), Hard (6 color blocks)
-- 9 different color blocks, you can choose random color or fixed color
-- iPhone/iPod can play 10 x 10, 12 x 12 board
-- iPad can play 10 x 10, 12 x 12 , 15 x 15 board
-
------------------------------------------------------------------
-
-
-Play as God, create your own universe
-
-myDream Universe
-
-
-https://apps.apple.com/app/mydream-universe/id1447861806
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/b6/0e/96b60eba-4532-e0d5-8dc3-da4610d7b9f5/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/ac/0b/26ac0b84-bcde-fc23-4713-20418c636554/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/3a/ba/a73abaac-0612-ab5b-b8cc-0f111433fc2e/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/7b/48/307b4812-8454-30c8-d5e4-1b865aac7d60/pr_source.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/21/d5/de/21d5dedf-0f53-ce4c-527a-eaa143b0db2c/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/07/34/7a/07347a2d-4dc7-1c39-b2b6-4de9fb30ee48/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/aa/48/50aa48e7-b15f-f9b9-4b7f-ebe48e7393f4/pr_source.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/c2/c0/97c2c0cc-dbc9-46a6-3f78-6b207f1896e2/pr_source.jpg/576x768bb.jpg" />]]></content>
+  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
+And there are reminders that you can never forget.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
