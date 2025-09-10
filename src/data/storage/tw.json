@@ -9316,6 +9316,14 @@
     "history": [
       [
         {
+          "timestamp": 1757513998963,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756390901046,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -13150,6 +13158,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1757513998963,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "訂閱 (1 年)": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00",
+            "Parallels Desktop for Mac #5": "$2,490.00"
+          }
+        },
         {
           "timestamp": 1757510942304,
           "price": 0,
@@ -34847,9 +34868,19 @@
     "minPriceInfo": {
       "price": 600,
       "formattedPrice": "$600.00",
-      "完整版遊戲": "$690.00"
+      "完整版遊戲": "$600.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757513998963,
+          "price": 600,
+          "formattedPrice": "$600.00",
+          "inAppPurchases": {
+            "完整版遊戲": "$600.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756365699708,

@@ -8868,6 +8868,14 @@
     "history": [
       [
         {
+          "timestamp": 1757513998963,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756390901046,
           "price": 15,
           "formattedPrice": "¥15.00",

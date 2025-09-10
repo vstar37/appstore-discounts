@@ -10047,6 +10047,14 @@
     "history": [
       [
         {
+          "timestamp": 1757513998963,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756390901046,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -38700,7 +38708,7 @@
     "maxPriceInfo": {
       "price": 158,
       "formattedPrice": "HK$ 158.00",
-      "完整版遊戲": "HK$ 148.00"
+      "完整版遊戲": "HK$ 158.00"
     },
     "minPriceInfo": {
       "price": 158,
@@ -38708,6 +38716,16 @@
       "完整版遊戲": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757513998963,
+          "price": 158,
+          "formattedPrice": "HK$ 158.00",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756365699708,
