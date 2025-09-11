@@ -32226,7 +32226,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "$6.99",
+      "Lifetime": "$12.99",
       "Free Trial": "$0.00",
       "Yearly VIP": "$2.99",
       "Tester Award": "$0.00",
@@ -32250,6 +32250,24 @@
       "Latte": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757594572782,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$12.99",
+            "Free Trial": "$0.00",
+            "Yearly VIP": "$2.99",
+            "Education VIP - 2024": "$0.00",
+            "Community VIP": "$0.00",
+            "Mocha": "$3.99",
+            "Americano": "$1.99",
+            "Latte": "$2.99",
+            "Tester Award": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744275750859,
