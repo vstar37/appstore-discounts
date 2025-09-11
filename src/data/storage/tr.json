@@ -25046,12 +25046,20 @@
       "Full Game": "₺899,99"
     },
     "minPriceInfo": {
-      "price": 439,
-      "formattedPrice": "₺439,00",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Game": "₺439,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1757586094648,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game": "₺439,00"
+          }
+        },
         {
           "timestamp": 1757546318590,
           "price": 439,

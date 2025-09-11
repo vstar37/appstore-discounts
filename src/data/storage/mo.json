@@ -27318,11 +27318,21 @@
       "完整版遊戲": "USD 19.99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "USD 19.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "完整版遊戲": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757586094648,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756365699708,

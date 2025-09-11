@@ -6257,6 +6257,24 @@
     "history": [
       [
         {
+          "timestamp": 1757586094648,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "一箱寶石": "HK$ 88.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "但丁": "HK$ 38.00",
+            "剎陀羅": "HK$ 22.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757338339844,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -38747,11 +38765,21 @@
       "完整版遊戲": "HK$ 158.00"
     },
     "minPriceInfo": {
-      "price": 158,
-      "formattedPrice": "HK$ 158.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "完整版遊戲": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757586094648,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757513998963,
