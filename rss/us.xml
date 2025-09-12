@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-09-11T10:24:19.661Z</updated>
+    <updated>2025-09-12T01:42:23.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,30 +21,69 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-11T10:24:19.661Z</updated>
+        <updated>2025-09-12T01:42:23.251Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA: Vice City – Definitive]]></title>
-        <id>GTA: Vice City – Definitive-1757586094648</id>
-        <link href="https://apps.apple.com/us/app/gta-vice-city-definitive/id6468845173?uo=4"/>
-        <updated>2025-09-11T10:21:34.648Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/gta-vice-city-definitive/id6468845173?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/f9/85/a2f98568-b585-479e-fcc7-db9c6291fd64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Download and play GTA: Vice City - Definitive for up to thirty minutes as a free trial. Purchase the full game as a one-time, in-app purchase to play without any time limits. GTA+ Members can enjoy unlimited access while subscribed for as long as it is included in GTA+.
+        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
+        <id>Goodnotes 6: AI Notes &amp; Docs-1757641173588</id>
+        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
+        <updated>2025-09-12T01:39:33.588Z</updated>
+        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/34/86/4d348602-bd9d-0e48-05a1-696f4b1ba08c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
 
-Welcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti’s tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities.
+Boost Professional Efficiency and Productivity
+• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
+• Import, annotate, and organize PDFs, documents, and meeting notes.
+• Transcribe audio recordings from meetings so you never miss a detail.
+• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
+• Export and share notes via email, print, PDF, or images for easy collaboration.
+• Send files directly to your unique Goodnotes email for quick access on all devices.
+• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
+• Convert handwriting to text for quick and clean professional notes.
+• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
 
-Rockstar Games, Inc. 622 Broadway, New York, NY, 10012.  © 2001–2023. Rockstar Games, Grand Theft Auto, Grand Theft Auto: Vice City and R* Logo are marks/logos/copyrights of Take-Two Interactive. Unreal® Engine, Copyright 1998–2023, Epic Games, Inc. All rights reserved.  Uses Oodle. Copyright © 2008–2023 by Epic Games Tools, Inc.  The ratings icon is a trademark of the Entertainment Software Association.  All other marks and trademarks are properties of their respective owners.  All rights reserved.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/57/86/4f5786c1-a632-41a9-3a13-507ae8b74629/108c26a6-096c-4b68-9d58-cdd2d3c23e4a_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/28/7e/d0287edf-9b33-c625-19f5-0c70ca2078a3/a184e77c-cd6f-4064-b5b0-adcb0cacb0ea_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/16/8c/45168c9a-ea80-aed2-8643-684d73c0bb2e/3a53e7c7-c6eb-480c-9bfd-29f93251901b_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/9a/6b/a19a6b01-c174-7fce-6fec-42ea0abb1413/3783220b-0a00-4fa1-957f-a51e16071693_iPad_GTATrilogy_GTAVC_HUD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/50/5f/f0505f2d-7851-2099-45f4-fa29917013d6/4ad19d63-a3d0-48be-ab14-d5aec9671402_iPad_GTATrilogy_GTAVC_5_.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/df/29/d9df29ef-5dfa-c10f-8acb-e752a354199a/0x0ss__U00281_U0029.png/552x414bb.png" />]]></content>
+Powerful Digital Notes and Study Tools
+• Use AI-powered study tools help you learn faster and retain more information.
+• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
+• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
+• Convert equations to LaTeX format for easy use in reports and presentations.
+• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
+• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
+• Collaborate in real time with classmates by working on the same document for group projects and study sessions
+• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
+
+Enhance Creative Digital Planning
+• Design fully customizable notebooks, templates, and covers to fit your style.
+• Mix handwriting, text, stickers, images, and drawings in a single notebook.
+• Stay focused with Smart Timer, and boost your productivity.
+• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
+• Organize your notes with unlimited folders and advanced search.
+• Get exclusive monthly downloads every month with a paid subscription.
+• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
+
+Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
+
+Website: www.goodnotes.com 
+X: @goodnotesapp 
+Instagram: @goodnotes.app 
+Pinterest: @goodnotesapp 
+TikTok: @goodnotesapp 
+
+Privacy policy: https://www.goodnotes.com/privacy-policy 
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p>]]></content>
     </entry>
 </feed>
