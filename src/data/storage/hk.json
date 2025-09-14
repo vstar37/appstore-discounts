@@ -14785,6 +14785,25 @@
     "history": [
       [
         {
+          "timestamp": 1757831360635,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "6财富币": "HK$ 8.00",
+            "68财富币": "HK$ 88.00",
+            "208财富币": "HK$ 228.00",
+            "698财富币": "HK$ 788.00",
+            "998财富币": "HK$ 1,188.00",
+            "98财富币": "HK$ 118.00",
+            "418财富币": "HK$ 488.00",
+            "898财富币": "HK$ 988.00",
+            "1598财富币": "HK$ 1,888.00",
+            "1998财富币": "HK$ 2,288.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757727311519,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -15325,6 +15344,19 @@
       "Monthly Subscription": "HK$ 43.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757831360635,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "HK$ 288.00",
+            "Lifetime license": "HK$ 388.00",
+            "Monthly Subscription": "HK$ 43.00",
+            "Yearly Subscription": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755897571668,
