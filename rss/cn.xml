@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-09-14T21:20:33.189Z</updated>
+    <updated>2025-09-15T14:25:18.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,27 +21,46 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-14T21:20:33.190Z</updated>
+        <updated>2025-09-15T14:25:18.778Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
-        <id>全能记(录音,备忘,流水)-1757884638052</id>
-        <link href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4"/>
-        <updated>2025-09-14T21:17:18.052Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → ¥1.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[笼中窥梦]]></title>
+        <id>笼中窥梦-1757946125320</id>
+        <link href="https://apps.apple.com/cn/app/%E7%AC%BC%E4%B8%AD%E7%AA%A5%E6%A2%A6/id1584313012?uo=4"/>
+        <updated>2025-09-15T14:22:05.320Z</updated>
+        <summary type="html"><![CDATA[价格: ¥25.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%AC%BC%E4%B8%AD%E7%AA%A5%E6%A2%A6/id1584313012?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/e0/66/0de0660e-222b-b9bc-66d8-5fb98d4567a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>¥1.00</strong>
+  优惠信息（价格：<span>¥25.00</span> → <b>
+  <strong>¥18.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
-更有备忘提醒让繁忙的你无一错漏！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
+  《笼中窥梦》是一款「视错觉」解谜游戏，由两人工作室Optillusion开发完成。
+
+游戏的内容全部包含在一个神秘的立方体中，立方体的每个面都是一个独立的世界：工厂，灯塔，游乐园，教堂等等，他们之间看似毫不相关，实则交错万千，充满了意想不到的关联……
+
+【烧脑视错觉解谜】
+发挥你的脑洞与想象力，找到那些平凡场景与物体之间的联系，产生意想不到的奇妙互动，拼接，然后见证奇迹诞生。
+
+【收集照片拼凑故事】
+谜题背后，游戏还有一个等待着被玩家们发现并反转的故事。通过收集照片拼凑故事，试着解开它隐藏的真相吧。
+
+【多重提示杜绝卡关】
+游戏包含多种解谜引导机制，包括最基础的「视觉引导」，帮助你快速定位关键物品；而「文字提示」则可以帮你整理解谜思路；最后还有「视频提示」，用终极手段保证你绝不会卡关。
+
+【拿下奖章证明实力】
+游戏拥有 15 个成就，每个成就都对应着一个根据剧情设计的独特奖章。如果你是解谜游戏达人，那就用这些奖章来证明自己吧~
+
+【联系我们】
+玩家1群：626570283（已满）
+玩家2群：912766585
+官方微博：@心动网络 、@笼中窥梦-Moncage
+官方邮箱：moncagethegame@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/96/c9/6096c967-0a20-cdf0-410d-509a6a1915e8/59c11ec4-0475-4edb-9fd3-161fccc3192e_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/f4/d6/19f4d654-3dc5-4655-47d4-fe0cf17ff615/c70be9f9-25dc-4e98-a90a-0de3f64fb9b7_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ca/59/19/ca5919aa-a7f7-70b1-7ea8-f2f30f771362/8779e75c-b294-4e35-b5e9-8b2e07c619be_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/36/aa/f836aac5-8c84-c816-290a-cd5c4bf2a0d4/1e335283-4ac7-43a6-a6c3-7ec1091bbbe8_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/59/31/e559311e-4567-4c3e-3af2-ef377fed5ac1/25d6fea3-9030-435c-b849-c15a4fa4f0bd_005_Uff08_U4e2d_U6587.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/f2/c0/8ef2c061-edf3-a13b-9549-d3e079c3a9da/49fac2f4-284d-4b71-a1e3-49b4b16dcf78_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/5a/6b/685a6b5f-f76e-e981-bd0a-5050e1e9ec89/f34c5fd6-35cd-4c32-bc98-f9fb5d4e5a60_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/be/a2/2ebea2d2-a56b-4194-87d9-424a0c2b9c40/66f1e6e4-f871-47d0-be81-a324a36842a0_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/a7/54/cca7545c-afe2-d35b-c123-72d026bf5bd5/4a47efdf-c9ef-41db-a7eb-396b6d247383_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/a8/e8/74a8e89c-7cf4-a891-39c4-ce6270a04a76/1136fedd-d2f3-40b6-873d-24e7ecc8967a_005_Uff08_U4e2d_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>

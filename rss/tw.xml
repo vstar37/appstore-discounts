@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-09-15T03:12:18.337Z</updated>
+    <updated>2025-09-15T14:25:18.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,45 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-15T03:12:18.338Z</updated>
+        <updated>2025-09-15T14:25:18.781Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1757905754517</id>
-        <link href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-09-15T03:09:14.517Z</updated>
-        <summary type="html"><![CDATA[Premium: $1,090.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/9c/2b/389c2b02-ca37-45cd-a5de-1a47a17a99a4/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>$1,090.00</span> → <b>
-  <strong>$190.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 年度最佳應用程式 Day One，全球下載次數超過 1,500 萬次，獲得 200,000 次 5 星評價，徹底改變了寫日記的方式，讓你記錄生活中的點點滴滴。  在全球最值得信賴的數位日記中安全地儲存音訊、影片、照片、筆記等其他內容。
+        <title type="html"><![CDATA[籠中窺夢]]></title>
+        <id>籠中窺夢-1757946125320</id>
+        <link href="https://apps.apple.com/tw/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4"/>
+        <updated>2025-09-15T14:22:05.320Z</updated>
+        <summary type="html"><![CDATA[价格: $150.00 → $120.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%B1%A0%E4%B8%AD%E7%AA%BA%E5%A4%A2/id1587860402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$150.00</span> → <b>
+  <strong>$120.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  《籠中窺夢》是一款「視錯覺」解謎遊戲，由兩人工作室Optillusion開發完成。
 
-「Day One 創造珍貴的回憶，近乎完美：完全隱密的數位空間。」 –《紐約時報》
+遊戲的內容全部包含在一個神秘的立方體中，立方體的每個面都是一個獨立的世界：工廠，燈塔，遊樂園，教堂等等，他們之間看似毫不相關，實則交錯萬千，充滿了意想不到的關聯……
 
-「Day One 讓寫日記變得輕鬆愉快。」 – 《連線》
+【燒腦視錯覺解謎】
+發揮你的腦洞與想象力，找到那些平凡場景與物體之間的聯系，產生意想不到的奇妙互動，拼接，然後見證奇跡誕生。
 
-「這款優異的日記應用程式賞心悅目、簡單好用，讓競爭對手難以超越。」–《Macworld》
+【收集照片拼湊故事】
+謎題背後，遊戲還有一個等待著被玩家們發現並反轉的故事。通過收集照片拼湊故事，試著解開它隱藏的真相吧。
 
-為什麼選擇 Day One？
+【多重提示杜絕卡關】
+遊戲包含多種解謎引導機製，包括最基礎的「視覺引導」，幫助你快速定位關鍵物品；而「文字提示」則可以幫你整理解謎思路；最後還有「視頻提示」，用終極手段保證你絕不會卡關。
 
-Day One 是原創日記應用程式。十年來持續更新並增添功能，打造全球最隱密、最值得信賴，也最好用的日記平台。
+【拿下獎章證明實力】
+遊戲擁有 15 個成就，每個成就都對應著一個根據劇情設計的獨特獎章。如果你是解謎遊戲達人，那就用這些獎章來證明自己吧~
 
-簡單好用，讓人著迷
-
-• 獲獎設計，美觀大方
-• 無限文本條目
-• 無限量照片和影片*
-•強大的 RTF 文字格式與 Markdown
-• 記錄生活點滴的全新方式*
-
-私密又安全
-
-• 自動備份，妥善保護日記條目
-• 端對端加密，100% 確保日記隱密
-•透過密碼或 TouchID 保障日記條目安全
-•提供多種匯出選項 (pdf、純文字、JSON 等)，確保日記條目永遠歸你所有
-
-養成並保持習慣
-
-•可設定的提醒通知
-• 每日不重覆的日記提示，消除你的撰寫障礙
-•可自訂範本讓你省下時間，並讓版面看起來井井有條
-• 今日檢視讓你快速查看今天去過哪些地方、做了哪些事
-
-隨時隨地寫日記
-
-• 跨平台應用程式，可在 iPhone、Apple Watch、iPad 和 Mac 上使用
-• 可透過電子郵件直接傳送條目到日記中
-
-專為記錄回憶打造
-
-• 「在這一天」功能讓你重溫過往回憶
-• 標籤、我的最愛和搜尋篩選條件讓你輕鬆找到所需內容
-• 「地圖檢視」讓你快速查看已記錄的所有地點
-
-*Day One 是款提供使用者永久免費使用的應用程式，完全不限條目數量。 Day One Premium 會員另可享有無限量照片、影片及同步功能。 立即開始免費試用。
-
-隱私權政策：https://dayoneapp.com/privacy-policy/
-
-使用條款：https://dayoneapp.com/terms-of-use/
-
-如需技術協助或有其他問題，請前往：https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+【聯系我們】
+官方QQ討論群：626570283
+官方微博：@心動網絡 、@籠中窺夢-Moncage
+官方郵箱：moncagethegame@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7e/da/ac/7edaacb2-e7ac-df1a-aeff-5edff0a7dc22/9d9c35e4-14a8-4bba-b8b9-88c9b0e924ab_5.51.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/d0/85/ccd0856e-5664-a8a6-1304-b3e0f2c42456/6372c104-cce2-48a5-89ba-0e882b86ed06_5.52.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/71/6b/1c/716b1c9f-3466-f8e5-35b3-dfba8d1db607/1d7fffa4-78dd-40db-b1d6-53cc6a2d5b51_5.53.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/26/13/ba/2613baea-a756-b3ae-8ef4-98a92797042e/e0889847-52eb-4d24-897d-89219d25ce03_5.54.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/72/af/f672af40-ae4b-0e3d-77d7-93b2919c8c3b/4fda857c-a032-4a7f-b1fa-9a6cf9eea3fe_5.55.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/51/2c/a5/512ca500-3366-2887-5460-c467751f440a/06fc4263-0ab9-48f2-a29d-e3a491d3dea1_Pad1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/56/ad/9c/56ad9c4c-0175-2d88-8cca-df373b235a5e/1507ffbc-d1bc-4fae-ab62-c1f79feeb51a_Pad2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d0/81/b0/d081b09b-a789-a126-fa73-f215d6904cbd/db61faec-78b3-4cbf-b44c-cd9ef78f33c5_Pad3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1d/94/b1/1d94b1a9-5a3b-9837-9458-bc9fd5f14b84/d59cab3c-6c0d-4111-bd52-7a643aab704e_Pad4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/95/92/73/9592731f-17f2-e057-8d13-d78dde9bb5ee/3ab1e716-4b9e-4108-8d4d-1a4e4a9f34f7_Pad5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
