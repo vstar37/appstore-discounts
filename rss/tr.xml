@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-09-14T21:20:33.193Z</updated>
+    <updated>2025-09-15T23:21:20.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,27 +21,45 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-14T21:20:33.194Z</updated>
+        <updated>2025-09-15T23:21:20.802Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-1757884638052</id>
-        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-09-14T21:17:18.052Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → ₺4,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Moncage]]></title>
+        <id>Moncage-1757978284131</id>
+        <link href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4"/>
+        <updated>2025-09-15T23:18:04.131Z</updated>
+        <summary type="html"><![CDATA[Price: ₺229,99 → ₺179,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moncage/id1587860402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>₺4,99</strong>
+  Discount Information（Price：<span>₺229,99</span> → <b>
+  <strong>₺179,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
+  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
+
+The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
+
+【Solve Puzzles with Mind-Boggling Optical Illusions】
+Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
+
+【Collect All Photos to Unveil the Story】
+Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
+
+【Get Unstuck with Thoughtful Hints】
+There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
+
+【Prove Your Puzzle-Solving Skills with Medals】
+There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
+
+【Connect with us:】
+Twitter: @MoncageTheGame
+Email: moncagethegame@gmail.com
+Discord: https://discord.com/invite/TEVX2uPEsj
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
