@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-09-16T14:26:02.526Z</updated>
+    <updated>2025-09-16T16:31:02.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,127 +21,79 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-16T14:26:02.526Z</updated>
+        <updated>2025-09-16T16:31:02.996Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
-        <id>Safety Note+ Pro-1758032512592</id>
-        <link href="https://apps.apple.com/tw/app/safety-note-pro/id460661291?uo=4"/>
-        <updated>2025-09-16T14:21:52.592Z</updated>
-        <summary type="html"><![CDATA[价格: $120.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/safety-note-pro/id460661291?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/96/fa/f596fa2e-edca-6568-3e7b-78b99588bb87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$120.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  介紹安全筆記+：保護您最私密的筆記
+        <title type="html"><![CDATA[Day One Journal]]></title>
+        <id>Day One Journal-1758040058558</id>
+        <link href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-09-16T16:27:38.558Z</updated>
+        <summary type="html"><![CDATA[Premium: $1,090.00 → $190.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/9c/2b/389c2b02-ca37-45cd-a5de-1a47a17a99a4/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>$1,090.00</span> → <b>
+  <strong>$190.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Apple 年度最佳應用程式 Day One，全球下載次數超過 1,500 萬次，獲得 200,000 次 5 星評價，徹底改變了寫日記的方式，讓你記錄生活中的點點滴滴。  在全球最值得信賴的數位日記中安全地儲存音訊、影片、照片、筆記等其他內容。
 
-您曾經遇過這樣的情況嗎？把手機借給別人後，他們卻像自己的一樣翻閱您的資訊。您討厭這樣的事情嗎？如果您有一些不希望其他人存取的筆記，那麼您需要安全筆記+。這款應用程式能讓您快速、輕鬆地設定密碼，保護您最私密或敏感的筆記，只有您自己能夠找到它們。
+「Day One 創造珍貴的回憶，近乎完美：完全隱密的數位空間。」 –《紐約時報》
 
-主要功能：
+「Day One 讓寫日記變得輕鬆愉快。」 – 《連線》
 
-• 使用觸控ID或臉部辨識支援的生物辨識技術來解鎖應用程式
-• 入侵者報告：當有入侵者試圖存取您的應用程式時，應用程式將拍攝其照片
-• 偽裝密碼以保護您的真實隱私
-• 個別資料夾的密碼鎖定
-• 提供更高安全性的點圖案鎖定樣式
-• 密碼鎖定樣式（組合鎖、數字鍵盤鎖）
-• 可選擇的時尚主題，易於使用的介面
-• 按資料夾建立和排序筆記
-• 支援移動、複製和貼上功能
-• 完整方向支援
-• 透過iTunes檔案共享或iCloud將筆記從iPhone備份到電腦
-• 透過藍牙/無線網路與安裝了安全筆記+的兩個iOS設備分享筆記
-• 自動儲存筆記
-• 搜尋您的筆記
-• 透過電子郵件傳送筆記
-• 此應用程式可在iPhone和iPad上使用，您只需購買一次
+「這款優異的日記應用程式賞心悅目、簡單好用，讓競爭對手難以超越。」–《Macworld》
 
-憑藉三種時尚且易於使用的鎖定設計，您可以根據自己的喜好自定義密碼樣式，而不會影響安全性。現在，您可以選擇使用標準的組合鎖樣式、鍵盤樣式或全新的點圖案樣式，以便輕鬆訪問那些私人物品。為了增加安全性，為每個單獨的文件夾設置獨特的密碼和鎖定設計。
+為什麼選擇 Day One？
 
-立即下載安全筆記+，您可以確保只有您可以查看安全筆記+中的內容。
+Day One 是原創日記應用程式。十年來持續更新並增添功能，打造全球最隱密、最值得信賴，也最好用的日記平台。
 
-訪問我們的網站：
-網站：https://sixbytes.io
-推特：https://twitter.com/SixbytesApp
-Facebook：https://www.facebook.com/sixbytesapp
+簡單好用，讓人著迷
 
-請閱讀我們的服務條款和隱私政策的更多信息：
-服務條款：https://sixbytes.io/assets/terms-of-service.pdf
-隱私政策：https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-1758032512592</id>
-        <link href="https://apps.apple.com/tw/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-09-16T14:21:52.592Z</updated>
-        <summary type="html"><![CDATA[价格: $120.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/c4/e7/f6c4e773-b29d-cca8-4f75-dd238a14ebe6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$120.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  為您的企業、品牌或博客創作精彩的故事。 Vostok 將幫助您釋放照片的潛力，更有效地使用 Instagram 並與觀眾交流。
+• 獲獎設計，美觀大方
+• 無限文本條目
+• 無限量照片和影片*
+•強大的 RTF 文字格式與 Markdown
+• 記錄生活點滴的全新方式*
 
-只是一些設計可能性：
+私密又安全
 
-· 200+社交設計模板
-· 西里爾文專屬字體
-· 450+ 獨家貼紙
-· 照片的灰塵和顆粒效果
-· 背景：紙張紋理、大理石、漸變、顏色
-· 無訂閱或廣告
-· 黑暗模式
+• 自動備份，妥善保護日記條目
+• 端對端加密，100% 確保日記隱密
+•透過密碼或 TouchID 保障日記條目安全
+•提供多種匯出選項 (pdf、純文字、JSON 等)，確保日記條目永遠歸你所有
 
-被 Apple 評為 2019 年最佳應用之一
+養成並保持習慣
 
-使用 200 多個模板創建精美的社交內容供您選擇。
+•可設定的提醒通知
+• 每日不重覆的日記提示，消除你的撰寫障礙
+•可自訂範本讓你省下時間，並讓版面看起來井井有條
+• 今日檢視讓你快速查看今天去過哪些地方、做了哪些事
 
-我們喜歡聽到您的想法和反饋。
-給我們發電子郵件 hello@vostokapp.ru 或在 Instagram 上通過@vostokapp DM我們
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FocusDots · 專注於當下]]></title>
-        <id>FocusDots · 專注於當下-1758032512592</id>
-        <link href="https://apps.apple.com/tw/app/focusdots-%E5%B0%88%E6%B3%A8%E6%96%BC%E7%95%B6%E4%B8%8B/id703265535?uo=4"/>
-        <updated>2025-09-16T14:21:52.592Z</updated>
-        <summary type="html"><![CDATA[价格: $60.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/focusdots-%E5%B0%88%E6%B3%A8%E6%96%BC%E7%95%B6%E4%B8%8B/id703265535?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/5f/f2/5c5ff2c2-8aef-dd3e-4087-0b648e068bf3/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$60.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  感謝您使用FocusDots！這是一個簡單的時間管理應用，將提高您的工作效率。
+隨時隨地寫日記
 
-有時候，保持注意力集中在任務上可能並不容易。FocusDots是一個精美設計的計時器，旨在提高您對任務的專注，並丟棄可能分散注意力的活動。
+• 跨平台應用程式，可在 iPhone、Apple Watch、iPad 和 Mac 上使用
+• 可透過電子郵件直接傳送條目到日記中
 
-FocusDots是一個簡單的時間管理應用，包含四個簡單的步驟：
+專為記錄回憶打造
 
-1) 決定要完成的單個任務。
-2) 啟動FocusDots並在計時器結束前（25分鐘）專注於該任務。
-3) 休息一下（5分鐘）。
-4) 完成四個Dots後，休息更長時間（15分鐘）。
+• 「在這一天」功能讓你重溫過往回憶
+• 標籤、我的最愛和搜尋篩選條件讓你輕鬆找到所需內容
+• 「地圖檢視」讓你快速查看已記錄的所有地點
 
-特點：
-- 優雅的極簡設計
-- 每日總結
-- 精美設計主題
-- 激勵引用語
-- 可為您的任務自定義計時器時長
+*Day One 是款提供使用者永久免費使用的應用程式，完全不限條目數量。 Day One Premium 會員另可享有無限量照片、影片及同步功能。 立即開始免費試用。
 
-感謝您選擇FocusDots！我們由衷感謝您的支持，希望我們的應用能幫助您提高生產力和時間管理技巧。如果您有任何反饋或建議，我們非常樂意聽取！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/f0/04/43f00472-2b4f-1bbe-f24d-8a0031f8ce5b/4dbcc262-6737-4442-858b-22fa348e3549_0__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/d6/64/61d66405-93e5-b25c-8c74-962e7a2c6b51/dee3ec66-a1ae-464c-833c-6add0e7fccc9_1__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/61/53/e961538c-4bcc-cefc-ecf2-bea284c353c4/40caa804-c214-4556-820b-5f8a5bc69dc5_2__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/bb/da/a6bbda55-a111-8f6c-40d3-28aef598a316/a31449e5-c435-4078-ac1b-e4c26e810dc6_3__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/00/41/a60041f2-d44c-35cc-7d65-a1200438ab21/f8534652-96aa-4eb0-9f1f-728bc0ac43bd_4__U2013_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/57/92/e6/5792e661-1de2-b874-4ad2-55733b603ae6/040b21bd-9d3f-44fb-b9ae-0a7cd89b94b0_5__U2013_2.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
+隱私權政策：https://dayoneapp.com/privacy-policy/
+
+使用條款：https://dayoneapp.com/terms-of-use/
+
+如需技術協助或有其他問題，請前往：https://dayoneapp.com/contact/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
