@@ -6596,6 +6596,14 @@
     "history": [
       [
         {
+          "timestamp": 1758205278670,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753021260750,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -34175,8 +34183,8 @@
   "1527841661": {
     "name": "沙盒星球",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00",
+      "price": 98,
+      "formattedPrice": "¥98.00",
       "5000 GP": "¥15.00",
       "25000 GP": "¥38.00",
       "Remove Ad": "¥22.00",
@@ -34195,6 +34203,21 @@
       "120000 GP": "¥148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "5000 GP": "¥15.00",
+            "25000 GP": "¥38.00",
+            "Remove Ad": "¥22.00",
+            "50000 GP": "¥68.00",
+            "200000 GP": "¥198.00",
+            "120000 GP": "¥148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756967510664,
@@ -34600,6 +34623,14 @@
     "history": [
       [
         {
+          "timestamp": 1758205278670,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755613339332,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -34880,6 +34911,14 @@
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755353967515,
@@ -36092,6 +36131,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757884638052,

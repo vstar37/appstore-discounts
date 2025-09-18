@@ -5145,6 +5145,14 @@
     "history": [
       [
         {
+          "timestamp": 1758205278670,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753021260750,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -22171,8 +22179,8 @@
   "1527841661": {
     "name": "沙盒星球",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "USD 12.00",
+      "price": 14.99,
+      "formattedPrice": "USD 14.99",
       "120000 GP": "USD 19.99",
       "200000 GP": "USD 29.99",
       "25000 GP": "USD 5.99",
@@ -22191,6 +22199,21 @@
       "Remove Ad": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "120000 GP": "USD 19.99",
+            "200000 GP": "USD 29.99",
+            "25000 GP": "USD 5.99",
+            "50000 GP": "USD 9.99",
+            "5000 GP": "USD 1.99",
+            "Remove Ad": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756967510664,
@@ -22636,6 +22659,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755613339332,
@@ -23533,6 +23564,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758205278670,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757884638052,
