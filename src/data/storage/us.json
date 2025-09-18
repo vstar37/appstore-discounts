@@ -1597,6 +1597,21 @@
     "history": [
       [
         {
+          "timestamp": 1758166463035,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "CamScanner Premium": "$49.99",
+            "3000 cp + Six chance to Draw": "$4.99",
+            "600 cp + One chance to Draw": "$0.99",
+            "3000 C-Points": "$4.99",
+            "Ten-page Fax": "$8.99",
+            "One-page Fax": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756203879092,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -6291,6 +6306,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758166463035,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$4.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758007264117,
@@ -30095,6 +30129,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758166463035,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757300911830,
