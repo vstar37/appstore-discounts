@@ -13799,6 +13799,19 @@
     "history": [
       [
         {
+          "timestamp": 1758270516545,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "Parallels Desktop for Mac #3": "¥498.00"
+          }
+        },
+        {
           "timestamp": 1758266424696,
           "price": 0,
           "formattedPrice": "免费",
@@ -17672,6 +17685,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758270516545,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
         {
           "timestamp": 1758266424696,
           "price": 22,
