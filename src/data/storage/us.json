@@ -5674,6 +5674,14 @@
     "history": [
       [
         {
+          "timestamp": 1758250942318,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753070757041,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -32001,8 +32009,8 @@
   "1527841661": {
     "name": "Sandbox Planet",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "$12.00",
+      "price": 14.99,
+      "formattedPrice": "$14.99",
       "Remove Ad": "$2.99",
       "5000 GP": "$1.99",
       "25000 GP": "$5.99",
@@ -32021,6 +32029,21 @@
       "120000 GP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758250942318,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "200000 GP": "$29.99",
+            "120000 GP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756967510664,
@@ -32466,6 +32489,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758250942318,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755659434868,
@@ -33367,6 +33398,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758250942318,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757884638052,
