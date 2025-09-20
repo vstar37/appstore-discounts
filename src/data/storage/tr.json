@@ -15716,7 +15716,15 @@
       "StudyTogether Stickers": "₺99,99",
       "Good Morning - BuJo Stickers": "₺39,99",
       "Dotted Grids & Graphs Papers": "₺39,99",
-      "Slouchy Cat Stickers": "₺99,99"
+      "Slouchy Cat Stickers": "₺99,99",
+      "The Weekly Action Planner (Sun": "₺399,99",
+      "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+      "1000 Kanji Workbook": "₺699,99",
+      "2026 Essential Digital planner": "₺499,99",
+      "2026 Daily Scheduler (Sunday,": "₺499,99",
+      "2026 Smart Digital Planner (Mo": "₺499,99",
+      "ADHD Student Planner 2025-2026": "₺499,99",
+      "AI Pass (Monthly)": "₺379,00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15845,9 +15853,34 @@
       "StudyTogether Stickers": "₺99,99",
       "Good Morning - BuJo Stickers": "₺39,99",
       "Dotted Grids & Graphs Papers": "₺39,99",
-      "Slouchy Cat Stickers": "₺99,99"
+      "Slouchy Cat Stickers": "₺99,99",
+      "The Weekly Action Planner (Sun": "₺399,99",
+      "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+      "1000 Kanji Workbook": "₺699,99",
+      "2026 Essential Digital planner": "₺499,99",
+      "2026 Daily Scheduler (Sunday,": "₺499,99",
+      "2026 Smart Digital Planner (Mo": "₺499,99",
+      "ADHD Student Planner 2025-2026": "₺499,99",
+      "AI Pass (Monthly)": "₺379,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758356764883,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Weekly Action Planner (Sun": "₺399,99",
+            "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+            "1000 Kanji Workbook": "₺699,99",
+            "2026 Essential Digital planner": "₺499,99",
+            "2026 Daily Scheduler (Sunday,": "₺499,99",
+            "2026 Smart Digital Planner (Mo": "₺499,99",
+            "ADHD Student Planner 2025-2026": "₺499,99",
+            "AI Pass (Monthly)": "₺379,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758040058558,
