@@ -5701,6 +5701,14 @@
     "history": [
       [
         {
+          "timestamp": 1758464268423,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758205278670,
           "price": 0,
           "formattedPrice": "免費",
@@ -38699,6 +38707,17 @@
     "history": [
       [
         {
+          "timestamp": 1758464268423,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756390901046,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -43168,6 +43187,14 @@
       "formattedPrice": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758464268423,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735743734261,
