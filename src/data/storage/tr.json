@@ -15876,6 +15876,21 @@
     "history": [
       [
         {
+          "timestamp": 1758561828997,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺379,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺919,00",
+            "Goodnotes 6 (1 Year)": "₺379,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1758558493967,
           "price": 0,
           "formattedPrice": "Free",
@@ -24377,6 +24392,22 @@
       "Lifetime VIP(iPhone&iPad only)": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758561828997,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99",
+            "Lifetime VIP(iPhone&iPad only)": "₺1.299,99",
+            "1 Year": "₺449,99",
+            "1 Month": "₺59,99",
+            "Yearly VIP": "₺449,99",
+            "Lifetime VIP": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756077602824,
