@@ -37333,6 +37333,16 @@
     "history": [
       [
         {
+          "timestamp": 1758529827135,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "DLC pack": "$9.99",
+            "All Access Voucher": "$1.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        },
+        {
           "timestamp": 1758525761942,
           "price": 39.99,
           "formattedPrice": "$39.99",
@@ -38992,6 +39002,19 @@
       "Street Wolf Outfit": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758529827135,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$9.99",
+            "All Access Voucher": "$1.99",
+            "DLC pack": "$9.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755854650809,

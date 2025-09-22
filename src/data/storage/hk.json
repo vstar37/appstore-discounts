@@ -38434,6 +38434,16 @@
     "history": [
       [
         {
+          "timestamp": 1758529827135,
+          "price": 72,
+          "formattedPrice": "HK$ 72.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 69.00",
+            "通行證": "HK$ 14.00",
+            "Street Wolf 裝束": "HK$ 16.00"
+          }
+        },
+        {
           "timestamp": 1758525761942,
           "price": 288,
           "formattedPrice": "HK$ 288.00",
@@ -40018,6 +40028,19 @@
       "Street Wolf 裝束": "HK$ 16.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758529827135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 72.00",
+            "通行證": "HK$ 14.00",
+            "可下載內容包": "HK$ 69.00",
+            "Street Wolf 裝束": "HK$ 16.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755854650809,
