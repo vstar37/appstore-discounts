@@ -15600,11 +15600,11 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Goodnotes 6 (1 year)": "₺379,00",
+      "Goodnotes 6 (1 year)": "₺449,00",
       "GoodNotes 5 Unlock": "₺449,99",
       "Goodnotes 6 One-Time Payment": "₺919,00",
       "Goodnotes 6 Free Trial": "₺0,00",
-      "Goodnotes 6 (1 Year)": "₺379,00",
+      "Goodnotes 6 (1 Year)": "₺449,00",
       "Dotted Squares: Draft Papers": "₺39,99",
       "Happy Place Covers": "₺39,99",
       "Goodmind Journal": "₺0,00",
@@ -15740,7 +15740,7 @@
       "formattedPrice": "Free",
       "Goodnotes 6 (1 year)": "₺379,00",
       "GoodNotes 5 Unlock": "₺399,99",
-      "Goodnotes 6 One-Time Payment": "₺919,00",
+      "Goodnotes 6 One-Time Payment": "₺1.099,99",
       "Goodnotes 6 Free Trial": "₺0,00",
       "Goodnotes 6 (1 Year)": "₺379,00",
       "Dotted Squares: Draft Papers": "₺39,99",
@@ -15874,6 +15874,23 @@
       "Goodnotes Pro (Yearly)": "₺1.369,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758583157852,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺449,00",
+            "GoodNotes 5 Unlock": "₺449,99",
+            "Goodnotes 6 One-Time Payment": "₺1.099,99",
+            "Goodnotes 6 (1 Year)": "₺449,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758561828997,
