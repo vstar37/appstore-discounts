@@ -3895,6 +3895,25 @@
     "history": [
       [
         {
+          "timestamp": 1758755962690,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Nivus": "₺39,99",
+            "Bag of gems": "₺229,99",
+            "Kutsao": "₺39,99",
+            "Barrel Of Gems": "₺229,99",
+            "Dante": "₺129,99",
+            "Dierdre": "₺39,99",
+            "Sha'tra": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758687928226,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -10447,6 +10466,14 @@
     "history": [
       [
         {
+          "timestamp": 1758755962690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754695363346,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -11218,6 +11245,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758755962690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752621731107,
@@ -14884,6 +14919,14 @@
     "history": [
       [
         {
+          "timestamp": 1758755962690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752621731107,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -17386,6 +17429,14 @@
     "history": [
       [
         {
+          "timestamp": 1758755962690,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758323939924,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -17613,6 +17664,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758755962690,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754695363346,
@@ -18483,6 +18542,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758755962690,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758655072197,
