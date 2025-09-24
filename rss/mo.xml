@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-09-24T19:21:04.940Z</updated>
+    <updated>2025-09-24T20:28:05.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-24T19:21:04.940Z</updated>
+        <updated>2025-09-24T20:28:05.833Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,17 +29,35 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
-        <id>Kingdom Rush Frontiers 塔防生存戰爭-1758741464979</id>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1758745475186</id>
         <link href="https://apps.apple.com/mo/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
-        <updated>2025-09-24T19:17:44.979Z</updated>
-        <summary type="html"><![CDATA[价格: USD 1.99 → USD 0.99]]></summary>
+        <updated>2025-09-24T20:24:35.186Z</updated>
+        <summary type="html"><![CDATA[黑龍灰霸齒: USD 6.99 → USD 4.99<br/>骷心巫龍: USD 6.99 → USD 4.99<br/>但丁: USD 4.99 → USD 2.99<br/>庫紹: USD 2.99 → USD 0.99<br/>崗牢: USD 2.99 → USD 0.99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 1.99</span> → <b>
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>黑龍灰霸齒：</strong><span>USD 6.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b>
+  </li><li>
+    <strong>骷心巫龍：</strong><span>USD 6.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b>
+  </li><li>
+    <strong>但丁：</strong><span>USD 4.99</span> → <b>
+  <strong>USD 2.99</strong>
+</b>
+  </li><li>
+    <strong>庫紹：</strong><span>USD 2.99</span> → <b>
   <strong>USD 0.99</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
+</b>
+  </li><li>
+    <strong>崗牢：</strong><span>USD 2.99</span> → <b>
+  <strong>USD 0.99</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
   全球最讓人欲罷不能的防禦遊戲歸來——歡迎來到《王國保衛戰：前線！》
 
 空前盛大激烈的王國保衛戰：「前線」是全新的關卡，帶來迅猛刺激、扣人心弦的玩法，讓這款原創遊戲成為廣受歡迎的獲獎佳作。在這場史詩級的冒險（災難）中，可點擊你的部隊，配合最新的防禦塔、關卡、英雄和更多好東東，守衛異國大陸，抵禦飛龍、食人植物和地下世界恐怖族群的侵擾，把敵人統統殲滅。（別擔心，前作舊版的好東東，全都有保留。現在是經典復刻版。） 
