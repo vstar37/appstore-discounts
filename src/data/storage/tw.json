@@ -14379,6 +14379,14 @@
     "history": [
       [
         {
+          "timestamp": 1758723582806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754663152953,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -15786,6 +15794,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758723582806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752589369081,
@@ -23128,6 +23144,14 @@
     "history": [
       [
         {
+          "timestamp": 1758723582806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752589369081,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -27082,6 +27106,14 @@
     "history": [
       [
         {
+          "timestamp": 1758723582806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758291628604,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -27365,6 +27397,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758723582806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754663152953,
@@ -28153,6 +28193,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758723582806,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1758655072197,
           "price": 0,
