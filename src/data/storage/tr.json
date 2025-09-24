@@ -3895,6 +3895,25 @@
     "history": [
       [
         {
+          "timestamp": 1758687928226,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Nivus": "₺39,99",
+            "Bag of gems": "₺229,99",
+            "Kutsao": "₺129,99",
+            "Barrel Of Gems": "₺229,99",
+            "Dante": "₺229,99",
+            "Dierdre": "₺39,99",
+            "Sha'tra": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758655072197,
           "price": 99.99,
           "formattedPrice": "₺99,99",

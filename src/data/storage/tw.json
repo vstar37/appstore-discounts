@@ -15200,6 +15200,19 @@
     "history": [
       [
         {
+          "timestamp": 1758687928226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$1,190.00",
+            "Lifetime license": "$1,490.00",
+            "Yearly Subscription": "$650.00",
+            "Monthly Subscription": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757838303086,
           "price": 0,
           "formattedPrice": "免費",
