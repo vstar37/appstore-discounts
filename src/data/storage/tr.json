@@ -7298,6 +7298,23 @@
     "history": [
       [
         {
+          "timestamp": 1758731291784,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺769,99",
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99",
+            "Annual": "₺769,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755789865327,
           "price": 0,
           "formattedPrice": "Free",
@@ -10790,6 +10807,19 @@
       "Lifetime license": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758731291784,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "₺1.499,99",
+            "Lifetime license": "₺1.499,99",
+            "Monthly Subscription": "₺109,99",
+            "Yearly Subscription": "₺459,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751635995033,
