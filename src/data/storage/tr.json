@@ -3883,7 +3883,7 @@
       "Bag Of Gems": "₺129,99",
       "Special Offer Saitam": "₺129,99",
       "Big Hero Pack 2": "₺599,99",
-      "Saitam": "₺229,99",
+      "Saitam": "₺129,99",
       "Big Hero Pack": "₺449,99",
       "Hero Pack 5": "₺229,99",
       "Dierdre": "₺39,99",
@@ -3893,6 +3893,25 @@
       "Karkinos": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758838712559,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Vault Of Gems": "₺2.299,99",
+            "Wagon Of Gems": "₺899,99",
+            "Chest Of Gems": "₺449,99",
+            "Barrel Of Gems": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Special Offer Saitam": "₺129,99",
+            "Big Hero Pack 2": "₺599,99",
+            "Saitam": "₺129,99",
+            "Big Hero Pack": "₺449,99",
+            "Hero Pack 5": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758827870761,
@@ -9907,6 +9926,20 @@
       "Parallels Desktop for Mac #3": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758838712559,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757323573857,
