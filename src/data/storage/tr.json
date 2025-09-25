@@ -3895,6 +3895,23 @@
     "history": [
       [
         {
+          "timestamp": 1758827870761,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Bonehart": "₺229,99",
+            "Ashbite": "₺229,99",
+            "Chest of gems": "₺449,99",
+            "Nivus": "₺39,99",
+            "Bag of gems": "₺229,99",
+            "Kutsao": "₺39,99",
+            "Dante": "₺129,99",
+            "Barrel Of Gems": "₺229,99",
+            "Chest Of Gems": "₺449,99",
+            "Sha'tra": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1758784930323,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -11969,7 +11986,9 @@
       "unlockall_4": "₺799,99",
       "Big Eater Challenge Pass": "₺129,99",
       "Legendary Voyage(30%off)": "₺129,99",
-      "LegendaryVoyage,MysticTreasure": "₺179,99"
+      "LegendaryVoyage,MysticTreasure": "₺179,99",
+      "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+      "MEDIUM⁵ Echoes": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -12038,9 +12057,30 @@
       "unlockall_4": "₺799,99",
       "Big Eater Challenge Pass": "₺129,99",
       "Legendary Voyage(30%off)": "₺129,99",
-      "LegendaryVoyage,MysticTreasure": "₺179,99"
+      "LegendaryVoyage,MysticTreasure": "₺179,99",
+      "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+      "MEDIUM⁵ Echoes": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758827870761,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+            "MEDIUM⁵ Echoes": "₺179,99",
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺179,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757838303086,
@@ -16029,6 +16069,24 @@
       "Goodnotes Pro (Yearly)": "₺1.369,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758827870761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Weekly Action Planner (Sun": "₺399,99",
+            "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+            "1000 Kanji Workbook": "₺699,99",
+            "2026 Essential Digital planner": "₺499,99",
+            "2026 Daily Scheduler (Sunday,": "₺499,99",
+            "2026 Smart Digital Planner (Mo": "₺499,99",
+            "ADHD Student Planner 2025-2026": "₺499,99",
+            "AI Pass (Monthly)": "₺379,00",
+            "Goodnotes Pro (Yearly)": "₺1.369,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758583157852,
