@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-09-25T12:50:18.465Z</updated>
+    <updated>2025-09-26T05:24:18.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,27 +21,107 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-25T12:50:18.465Z</updated>
+        <updated>2025-09-26T05:24:18.371Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-1758804443280</id>
-        <link href="https://apps.apple.com/us/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-09-25T12:47:23.280Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
+        <id>FyTube - YouTube Without Ads-1758864068889</id>
+        <link href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4"/>
+        <updated>2025-09-26T05:21:08.889Z</updated>
+        <summary type="html"><![CDATA[Price: $1.49 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$0.99</strong>
+  Discount Information（Price：<span>$1.49</span> → <b>
+  <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
+  Our app connects to YouTube in real-time and lets you play any video with exclusive features designed just for you!
+Highlight Features:
+• Locked screen playback: Keep listening to your videos’ audio in the background.
+• Floating playback (PIP): Use other apps while watching your videos.
+• Sleep timer: Set an automatic shutdown and relax worry-free.
+• Loop mode: Play your favorite video on infinite repeat.
+It also includes:
+• Toggleable subtitles
+• Playback speed control
+• Quality selection and fullscreen mode
+• Smart search with real-time suggestions (predictive search)
+• Upload date filters: Day, week, month, or year
+FyTube is perfect for those who don’t want to miss a single video about their favorite topics.
+Explore, play, and enjoy your favorite content to the fullest — interruption-free!
+
+SPECIAL FEATURES
+FLOATING PLAYBACK
+Never stop watching! With this feature, you can keep watching your videos while using other apps .
+Just enter fullscreen mode and tap the PIP button — it’s the second icon at the top of the player.
+Your video will float on top of your screen no matter what app you open!
+
+LOCKED SCREEN PLAYBACK
+Listen without interruptions!
+Keep enjoying your video’s audio even when your screen is off. Perfect for listening to music, podcasts, or your favorite tunes while driving or relaxing.
+How to activate it?
+Just lock your device screen. You’ll instantly see the background player.
+Tap Play — and that’s it! The audio will keep going without pauses.
+
+SLEEP TIMER
+Fall asleep peacefully — your app will stop by itself!
+Enable this feature to automatically stop your videos after the time you choose. Perfect for sleeping or napping without worrying about stopping anything.
+How to activate it?
+Tap the timer button, choose how long you want it to run, and that’s it.
+Relax and let the app handle the rest!
+
+LOOP MODE
+Play your favorite video over and over again!
+Enable this feature to make the video repeat automatically as many times as you want.
+How to know if it’s on?
+The icon will turn red when active.
+(VoiceOver compatible: it will indicate whether it’s on or off.)
+Perfect for songs, meditations, or any content you love to repeat!
+
+Need help using these features? Visit: fydub.com/fytube
+
+BASIC FEATURES
+• Fullscreen high-quality video playback
+• Easy-to-use interface, friendly design
+• Skip forward or rewind anytime — never miss the best parts
+• Subtitle activation
+• Adjust playback speed to your preference
+• Change video quality
+• Smart search with real-time suggestions and upload date filters: day, week, month, year, all
+• Each video includes a related videos section to discover more interesting content
+• Discover the latest videos and stay up to date with the news
+• Our app connects directly to YouTube, letting you find any video
+• Enjoy content on any AirPlay-compatible device
+• VoiceOver compatible (enhanced descriptions)
+• No account required
+• We don’t store cache, cookies, or personal data without your permission — watch safely
+• Interface available in 29 languages
+• NO ADS, NO SUBSCRIPTIONS
+Get FyTube with a one-time payment and start a new streaming experience — ad-free and subscription-free.
+
+Minimum Requirements:
+• iOS 13 or later
+• 3G connection or higher
+
+Privacy Policy:
+https://fydub.com/privacy-policy_fytube
+Terms of Service:
+https://fydub.com/terms-of-service_fytube
+
+Keywords related to our app:
+youtube, youtube music, youtube vanced, ad blocker for YouTube, no subscription, skip ads on YouTube, music without ads, ad-free, YouTube app, adblocker for YouTube, block pop-ups, remove ads, block ads, adblock, content blocker, no ads, ad-free browser, block advertising, skip ads, ad-free music, YouTube without ads, videos without ads, etc.
+
+Have questions about how to use FyTube?
+Visit fydub.com/fytube or write to us — we’ll be happy to help. We reply to all emails: fytube@fydub.com
+
+FyTube works with YouTube.
+The YouTube name and logo are trademarks of Google, Inc. All rights reserved.
+© FyTube®
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2c/f7/b82cf72d-77a8-3f19-2bf0-f7d5b034ba2c/cf0a4645-e4c7-45bc-80be-ab665a8f6408_IMG2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d9/f3/b5d9f3b8-763d-3c2e-ce63-050eda16fa09/3899c162-1e28-45dd-bdf2-25d7db7b2f2d_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/09/0a/18090a8e-1e4b-e350-df19-1ca8bf25eb0c/b6243bbd-cf1f-4a6a-8282-268afbb1b5ae_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f8/01/baf801c9-a383-1ac2-0e01-9737d573d02d/d816a813-16bd-4c0c-9dae-b3007f5a0e15_imagen2-ok2.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
