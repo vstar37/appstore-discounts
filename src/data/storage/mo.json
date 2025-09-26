@@ -10609,6 +10609,20 @@
     "history": [
       [
         {
+          "timestamp": 1758904028130,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758900173751,
           "price": 0,
           "formattedPrice": "免費",
@@ -16219,6 +16233,24 @@
       "Goodnotes Pro (Yearly)": "USD 35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758904028130,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週行動規劃師 (週日開始)": "USD 8.99",
+            "2025-2026 保持專注 ADHD 規劃本 (Googl": "USD 10.99",
+            "1000 漢字練習簿": "USD 14.99",
+            "2026 必備數位規劃本，星期日開始": "USD 10.99",
+            "2026年每日規劃工具 (星期日開始, 蘋果適用)": "USD 10.99",
+            "2026 智慧數位規劃本 (週一開始, Google)": "USD 10.99",
+            "ADHD 學生規劃本 2025-2026 (週一開始, 適用": "USD 10.99",
+            "AI Pass (Monthly)": "USD 9.99",
+            "Goodnotes Pro (Yearly)": "USD 35.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758896429694,
