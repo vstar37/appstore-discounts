@@ -24563,6 +24563,17 @@
     "history": [
       [
         {
+          "timestamp": 1759015096736,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758496731046,
           "price": 229.99,
           "formattedPrice": "₺229,99",
