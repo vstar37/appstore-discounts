@@ -159,6 +159,25 @@
     "history": [
       [
         {
+          "timestamp": 1758979359762,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "基础会员2年（活动）": "HK$ 228.00",
+            "基础会员3个月（活动）": "HK$ 38.00",
+            "基础会员12个月（活动）": "HK$ 148.00",
+            "基础会员-连续包月": "HK$ 18.00",
+            "基础会员1个月(尝鲜)": "HK$ 8.00",
+            "空间会员·365G-3年（活动）": "HK$ 588.00",
+            "空间会员·365G-1年（活动）": "HK$ 288.00",
+            "专业会员·无限版-1个月（活动）": "HK$ 118.00",
+            "专业会员·无限版-12个月（活动）": "HK$ 1,188.00",
+            "专业会员·10人版-12个月（活动）": "HK$ 588.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758842350115,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -16787,6 +16806,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758979359762,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1758976767993,
           "price": 22,
