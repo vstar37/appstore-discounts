@@ -1652,6 +1652,18 @@
     "history": [
       [
         {
+          "timestamp": 1758937127759,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "CamScanner Premium": "$49.99",
+            "One-page Fax": "$0.99",
+            "Ten-page Fax": "$8.99",
+            "3000 C-Points": "$4.99",
+            "600 cp + One chance to Draw": "$0.99"
+          }
+        },
+        {
           "timestamp": 1758928748564,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -15467,6 +15479,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758937127759,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$39.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        },
         {
           "timestamp": 1758928748564,
           "price": 0,
@@ -34833,6 +34856,25 @@
       "French Audio": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758937127759,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758356764883,
