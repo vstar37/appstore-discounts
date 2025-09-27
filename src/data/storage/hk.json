@@ -159,6 +159,23 @@
     "history": [
       [
         {
+          "timestamp": 1758982662332,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6香蕉贝": "HK$ 8.00",
+            "连续包年": "HK$ 288.00",
+            "30香蕉贝": "HK$ 32.00",
+            "连续包季": "HK$ 88.00",
+            "68香蕉贝": "HK$ 88.00",
+            "免广告会员十二个月": "HK$ 18.00",
+            "128香蕉贝": "HK$ 148.00",
+            "同步账本高级功能月套餐": "HK$ 18.00",
+            "12香蕉贝": "HK$ 18.00",
+            "14香蕉贝": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1758979359762,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -37753,6 +37770,14 @@
     "history": [
       [
         {
+          "timestamp": 1758982662332,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758864068889,
           "price": 0,
           "formattedPrice": "免費",
@@ -39230,6 +39255,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758982662332,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758464268423,
