@@ -28420,6 +28420,14 @@
     "history": [
       [
         {
+          "timestamp": 1758986335510,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        },
+        {
           "timestamp": 1758982662332,
           "price": 220,
           "formattedPrice": "$220.00",
