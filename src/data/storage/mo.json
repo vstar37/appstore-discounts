@@ -10658,6 +10658,20 @@
     "history": [
       [
         {
+          "timestamp": 1759101502312,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758907101925,
           "price": 0,
           "formattedPrice": "免費",
@@ -11625,6 +11639,25 @@
       "698财富币": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759101502312,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "6财富币": "USD 0.99",
+            "68财富币": "USD 9.99",
+            "208财富币": "USD 29.99",
+            "698财富币": "USD 99.99",
+            "998财富币": "USD 149.99",
+            "98财富币": "USD 14.99",
+            "418财富币": "USD 59.99",
+            "898财富币": "USD 129.99",
+            "1598财富币": "USD 229.99",
+            "1998财富币": "USD 299.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754130251954,
