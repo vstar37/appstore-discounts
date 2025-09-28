@@ -6462,6 +6462,23 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "骷心巫龍": "$220.00",
+            "黑龍灰霸齒": "$220.00",
+            "大型英雄包 2": "$390.00",
+            "倪浮世": "$30.00",
+            "剎陀羅": "$90.00",
+            "但丁": "$150.00",
+            "庫紹": "$90.00",
+            "英雄包 3": "$60.00",
+            "英雄包 5": "$150.00",
+            "英雄包 1": "$60.00"
+          }
+        },
+        {
           "timestamp": 1758997668600,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -17345,6 +17362,25 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$690.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "新手上路包": "$33.00",
+            "MSR特選曲目組合包_Vol.02": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758655072197,
           "price": 100,
           "formattedPrice": "$100.00",
@@ -27419,6 +27455,14 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 0,
           "formattedPrice": "免費",
@@ -31739,6 +31783,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759069014035,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758804443280,
@@ -41710,6 +41762,14 @@
       "formattedPrice": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759069014035,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758464268423,

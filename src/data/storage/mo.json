@@ -5872,6 +5872,25 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "黑龍灰霸齒": "USD 6.99",
+            "骷心巫龍": "USD 6.99",
+            "英雄包 5": "USD 4.99",
+            "倪浮世": "USD 0.99",
+            "一箱寶石": "USD 9.99",
+            "帝娥翠": "USD 0.99",
+            "特別優惠大聖": "USD 2.99",
+            "但丁": "USD 4.99",
+            "庫紹": "USD 2.99",
+            "崗牢": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758745475186,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -13146,6 +13165,25 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "喵斯快跑·傳奇": "USD 3.99",
+            "unlockall_0": "USD 27.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "unlockall_29": "USD 20.99",
+            "cyTus": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758896429694,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -19991,6 +20029,14 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 0,
           "formattedPrice": "免費",
@@ -24110,6 +24156,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759069014035,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758804443280,
@@ -30108,6 +30162,14 @@
       "formattedPrice": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759069014035,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758464268423,

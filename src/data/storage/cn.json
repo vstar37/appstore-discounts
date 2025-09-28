@@ -7358,6 +7358,25 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "波恩哈特": "¥48.00",
+            "阿什比特": "¥48.00",
+            "大型英雄包 2": "¥88.00",
+            "纽维斯": "¥8.00",
+            "沙塔尔": "¥22.00",
+            "但丁": "¥38.00",
+            "黑棘船长": "¥8.00",
+            "库绍": "¥22.00",
+            "德得尔": "¥8.00",
+            "英雄包 1": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758745475186,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -18134,6 +18153,23 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1759065817405,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -24427,6 +24463,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759069014035,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "unlockall_0": "¥188.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "新手上路包": "¥8.00",
+            "Let's GROOVE": "¥25.00",
+            "unlockall_29": "¥138.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        },
         {
           "timestamp": 1758997668600,
           "price": 18,
@@ -31686,6 +31739,14 @@
     "history": [
       [
         {
+          "timestamp": 1759069014035,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 0,
           "formattedPrice": "免费",
@@ -37126,6 +37187,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759069014035,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758804443280,
