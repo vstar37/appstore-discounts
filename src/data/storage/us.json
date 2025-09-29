@@ -6435,6 +6435,25 @@
     "history": [
       [
         {
+          "timestamp": 1759115181170,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758774393287,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -17022,6 +17041,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759115181170,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1759054804212,
           "price": 2.99,
@@ -29480,6 +29515,14 @@
     "history": [
       [
         {
+          "timestamp": 1759115181170,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758769395105,
           "price": 0,
           "formattedPrice": "Free",
@@ -34050,6 +34093,14 @@
     "history": [
       [
         {
+          "timestamp": 1759115181170,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758804443280,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -36697,6 +36748,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759115181170,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759029021304,
@@ -43275,6 +43334,14 @@
       "formattedPrice": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759115181170,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758510566883,
