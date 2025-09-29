@@ -11752,6 +11752,19 @@
     "history": [
       [
         {
+          "timestamp": 1759155739306,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "3D Model (A Month)": "$30.00",
+            "3D Model (A Year)": "$180.00",
+            "Location Explorer (Month)": "$160.00",
+            "Location Explorer (A Year)": "$980.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755040940735,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -27524,6 +27537,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759155739306,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759069014035,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-09-28T14:20:12.283Z</updated>
+    <updated>2025-09-29T14:25:18.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,61 +21,76 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-28T14:20:12.284Z</updated>
+        <updated>2025-09-29T14:25:18.470Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[喵斯快跑]]></title>
-        <id>喵斯快跑-1759069014035</id>
-        <link href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4"/>
-        <updated>2025-09-28T14:16:54.035Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥3.00<br/>unlockall_29: ¥228.00 → ¥138.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a3/eb/1aa3ebaf-bc22-4cda-0c42-a7b8ae5cfc23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
+        <id>Vostok — 创建美丽快拍页面-1759155739306</id>
+        <link href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
+        <updated>2025-09-29T14:22:19.306Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f3/02/40f3029d-b0ec-557e-565c-2f86798e8baf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥3.00</strong>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>¥8.00</strong>
 </b>）
-</h2><h3>App 内购买项目</h3><ul>
+</h2><h2>应用描述</h2><p>
+  欢迎来到Vostok - 你的终极故事编辑器和拼贴制作工具，旨在提升你在社交媒体上的存在感！Vostok可以轻松将你的创意转化为令人惊叹的专业级帖子和故事。
+
+无论你是博主、摄影师，还是喜欢在社交媒体上记录生活点滴的人，Vostok都为你提供了一切所需，打造引人注目的内容。我们时尚且用户友好的应用巧妙地融合了你对摄影和讲故事的热爱，为你提供了一个动态的平台，展示你的惊奇时刻。
+
+Vostok以极简主义风格自豪，成为你释放创意的完美空间。多种模板、贴纸和特效尽在指尖，让你打造独特的故事，展现个性。
+
+但Vostok不仅提供创意自由，更注重简便性。我们直观的界面使得编辑和分享内容变得轻而易举，让你有更多时间专注于创作引人入胜的故事，让你的粉丝喜爱。
+
+不要犹豫！立刻开始你的Vostok之旅，打造引人入胜的帖子和故事，留下深刻印象！
+
+以下是我们的一些功能预览：
+
+· 200+社交媒体设计模板
+· 支持西里尔字母的独家字体
+· 450+独特贴纸
+· 照片大气灰尘和颗粒特效
+· 多种背景：纸张纹理、大理石、渐变、颜色
+· 无广告，无需订阅
+· 支持深色模式
+
+被Apple评为2019年最佳应用之一。
+
+拥有200多个模板，Vostok是你打造出众社交媒体内容的工具箱。
+
+我们热切期待你的想法和反馈。
+通过hello@vostokapp.ru与我们联系，或在Instagram直接向我们发送消息，帐号为@vostokapp。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜡烛人]]></title>
+        <id>蜡烛人-1759155739306</id>
+        <link href="https://apps.apple.com/cn/app/%E8%9C%A1%E7%83%9B%E4%BA%BA/id1344655035?uo=4"/>
+        <updated>2025-09-29T14:22:19.306Z</updated>
+        <summary type="html"><![CDATA[蜡烛人完整版: ¥30.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%9C%A1%E7%83%9B%E4%BA%BA/id1344655035?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/72/15/09721509-2852-241c-399c-28a752389cf8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>unlockall_29：</strong><span>¥228.00</span> → <b>
-  <strong>¥138.00</strong>
+    <strong>蜡烛人完整版：</strong><span>¥30.00</span> → <b>
+  <strong>¥18.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  『当战斗与演奏间的屏障被打破』
-『你可否听到来自另一个世界的呼唤？』
-【 Game Starts Now!! —— 】
+  一根只能燃烧10秒的小蜡烛决心走出黑暗，追寻光明。
 
-你喜欢可爱的美少女角色？
-还是节奏感十足的音乐？
-如果有一个地方可以同时满足这两个愿望……
-那就是狂拽跑酷和传统音游结合的世界 —— 《 Muse Dash 》!!
+《蜡烛人》是一款拥有独特游戏玩法和故事情节的动作冒险游戏。玩家将扮演一根只能燃烧10秒的小蜡烛，挑战由光与影构成的陷阱谜题，体验令人惴惴不安的游戏氛围，依靠微弱的火光探索黑暗的世界、追寻远方的光明，发掘冒险背后富有现实意义的童话故事……
 
-什么？！手残？没有关系！
-谁说音游只有照着节奏打才是强者，
-打不过就躲亦是一种制胜之道（？）
-只要你有 100% 的热情、勇气以及……对美少女的爱～
-音乐也好战斗也好都是小问题啦！
-
-【媒体评价】
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
-
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
-
-支持语言：
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
-English
-
-问题反馈专区：https://service.peropero.net/
-官方微博：@MuseDash_喵斯快跑
-B 站：@MuseDash_喵斯快跑
-</p>]]></content>
+特色
+• 依靠10秒火光在黑暗中摸索前行
+• 挑战由光与影构成的独特陷阱谜题
+• 阅读一段富有现实意义的童话故事
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/70/ae/7170ae43-0eb2-8ed5-d384-268b0577c679/dd4343a7-c07a-4a0c-bf00-09a4488cd118_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/a1/9c/fda19c47-7b45-fb34-13f8-73435155beb6/7f4a527d-7c19-496b-a725-eebfb17840e1_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c7/e9/ef/c7e9ef8d-8b14-ace1-5f64-b9769516fe62/2c83b2df-5d90-4a4b-9c25-2509615b7a1f_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/ae/a8/42aea8ad-4d02-fb08-6f54-8575ee0a63f3/f070c272-5b18-49b2-abd5-257a01c4c0d5_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/9b/a6/309ba64b-24f9-47da-ace7-cc6957eb9121/4724cbd3-1520-4bf7-9728-59322c8c6da3_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/e4/c5/27e4c502-54aa-5f54-0175-6eaceb620964/b0368460-6c6d-4a20-9d8f-cb017cccec2f_6.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/24/d7/4e24d7f5-28e7-970d-057e-20f4e12dace8/06252ea6-5e43-4979-b882-a5af8440666b_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/3b/9f/da3b9fc9-b522-b0f9-be72-17c9860bac58/660fc7ae-5d1e-4620-89da-9401b6f9d7b3_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f5/ae/0f/f5ae0f83-7e19-9629-cb06-b69ca9dd9b61/173e43c6-eee4-40fe-9d43-00fc63ea33ce_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1e/84/00/1e840089-a6af-f315-afda-5055a4ef1d2c/0f8b227e-eb4b-4ae5-92d1-293cff9bebbb_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/69/60/0f/69600ff0-7b34-99de-832d-788a290a60b2/f8076b05-da6d-44c2-8aa1-22a6ff466d55_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/69/ba/6069ba0c-466a-d75f-fd0e-a99cf5d83085/9f1283ea-7263-4e0b-aaff-730f2ff50e38_6.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

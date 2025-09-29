@@ -8907,6 +8907,19 @@
     "history": [
       [
         {
+          "timestamp": 1759155739306,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "3D Model (A Month)": "USD 0.99",
+            "3D Model (A Year)": "USD 5.99",
+            "Location Explorer (Month)": "USD 4.99",
+            "Location Explorer (A Year)": "USD 29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755040940735,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -10062,6 +10075,25 @@
       "連續包季 SVIP": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759155739306,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "連續包年 SVIP": "USD 12.99",
+            "連續包季 SVIP": "USD 3.99",
+            "活動特惠季度 SVIP": "USD 2.99",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "USD 12.99",
+            "SVIP特惠 (買一年送半年)": "USD 12.99",
+            "SVIP特惠 (買兩年送一年)": "USD 24.99",
+            "雨季特惠 100 天 SVIP": "USD 2.99",
+            "季度SVIP": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757974748418,
@@ -20123,6 +20155,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759155739306,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759069014035,
