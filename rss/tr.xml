@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-09-28T23:21:19.928Z</updated>
+    <updated>2025-09-29T08:36:04.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,92 +21,162 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-28T23:21:19.929Z</updated>
+        <updated>2025-09-29T08:36:04.994Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEATH STRANDING DIRECTOR'S CUT]]></title>
-        <id>DEATH STRANDING DIRECTOR'S CUT-1759101502312</id>
-        <link href="https://apps.apple.com/tr/app/death-stranding-directors-cut/id6449748961?uo=4"/>
-        <updated>2025-09-28T23:18:22.312Z</updated>
-        <summary type="html"><![CDATA[Price: ₺899,99 → ₺399,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/death-stranding-directors-cut/id6449748961?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺899,99</span> → <b>
-  <strong>₺399,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. 
- 
-In the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. 
- 
-As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. 
- Can you reunite the shattered world, one step at a time?
+        <title type="html"><![CDATA[Resident Evil Village]]></title>
+        <id>Resident Evil Village-1759134762953</id>
+        <link href="https://apps.apple.com/tr/app/resident-evil-village/id6450980545?uo=4"/>
+        <updated>2025-09-29T08:32:42.953Z</updated>
+        <summary type="html"><![CDATA[Base Game: ₺349,90 → ₺1.399,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/resident-evil-village/id6450980545?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/f8/8f/c9f88fed-f216-c68a-b6b6-3d112a674d90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Base Game：</strong><span>₺349,90</span> → <b>
+  <strong>₺1.399,00</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Experience survival horror like never before in the 8th major installment in the Resident Evil franchise - Resident Evil Village. With detailed graphics, intense first-person action and masterful storytelling, the terror has never felt more realistic. 
+------------------------------------------------------------
+■In-App Purchases
+        ■Resident Evil Village (Base Game)
+        ・The Trauma Pack DLC
+                ・Samurai Edge - AW Model-01
+                ・Resident Evil 7 Found Footage Filter
+                ・Resident Evil 7 Tape Recorder Save Point
+                ・Saferoom Music "Go Tell Aunt Rhody"
+                ・Mr. Everywhere Weapon Charm
+                ・Unlock "Village of Shadows" Difficulty
+                ・The Tragedy of Ethan Winters Artwork
+                ・The Baker Incident Report
+        ・Survival Resources Pack
+        ・Mr. Raccoon Weapon Charm
 
-DEATH STRANDING DIRECTOR'S CUT on iOS includes a HIGH FRAME RATE, PHOTO MODE, and cross-over content from Valve Corporation's HALF-LIFE series and CD Projekt Red's Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.
+        ■Winters' Expansion
+               ・Experience brand-new additional content for the award-winning modern horror masterpiece Resident Evil Village: Third Person Mode, The Mercenaries Additional Orders, and Shadows of Rose.
+        ・Street Wolf Outfit
+        ・Street Wolf Outfit for Rose (applies to Shadow of Rose content only)
 
-Mac and iOS
-• Sign-in to iCloud and activation of iCloudDrive are required to play this product.
-• This product can be played offline, but a network connection is required to fully experience the Social Strand System™. Communication fees will be incurred during online play.
+        ■Extra Content Shop All Access Voucher
+------------------------------------------------------------
+■By purchasing, you will be granted a license to use the product.
+■A network connection is required when starting the application.
 
-Only for iOS version
-• When playing this product for the first time, you will be required to download additional data. You can start the game once you have downloaded approximately 13 GB, but additional downloads will occur as the game progresses, requiring a total of approximately 50 GB of downloads. Additional downloads will occur when additional language voice data is used.
+■About the End User License Agreement
+・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
+・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
+・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
 
-FAQs
-https://505.games/DSDCAppStoreFAQ
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/0d/24/6d0d2461-e372-5e08-4569-437b2fd51902/cf50affd-3bcc-49f5-9dd2-45ecedf502f4_DSDC_Mac_Higgs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/57/79/a3/5779a3b7-455e-3025-b239-d0e78f3c2e20/2ec2c950-3d7b-4bcf-ae92-dd50a7fcf04d_DSDC_Mac_Sam.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/8f/14/d38f14ff-5d7e-c0b1-a6ea-cebc3e991c78/a26a0e41-5590-40de-ba64-51250fae188f_DSDC_iPad129_BB.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/28/cd/5128cdae-535a-a320-ff22-9c8a4e62ef2d/26bc9f26-21a0-407b-81e3-083f1fadb1b6_DSDC_iPad129_Sam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/e6/bb/a2e6bb89-2599-4f25-5e88-57adf8df16b7/51303ce2-eb25-4e0f-86de-cdd804af9aa2_DSDC_iPad129_Mission.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/b8/ea/3cb8ea1b-dee1-61d1-efdd-9f4d85a6c83b/45ce2e3e-ea92-4cd7-88f1-ce0935bd96dd_DSDC_iPad129_Ladder.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/50/84/7050841d-5665-1193-f834-70a2f698841f/7254f44e-c30f-485b-8067-f36710573424_DSDC_iPad129_Gazers.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/9a/c8/139ac8f7-6e13-dd30-406a-af1f9d2692b5/779f9f5c-6b2d-48f7-a35d-f2d439f15ac6_DSDC_iPad129_Delivery.png/552x414bb.png" />]]></content>
+Please confirm the terms above and agree to this Agreement before purchasing the Program. 
+------------------------------------------------------------
+
+■A limited part of the base game can be played for free.
+In order to play the full game, an in-app purchase is required.
+
+■Keyboard and mouse are not supported.
+
+■We recommend playing this game with a controller.
+It can be played on an iPad, but using a controller will provide a better experience.
+Note: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.
+
+■This application is approximately 16GB.
+Important Note: The installation process requires that you have at least twice the size of the application in free storage space available.
+We recommend downloading the data in an environment with good connectivity.
+
+■Estimated download time based on connection speed:
+	10Mbps - Over 3 hours
+	100Mbps - 30 to 40 minutes
+	300Mbps - 8 to 10 minutes
+
+■Save data upload and download functionality via iCloud Drive has been added.
+■Save data cannot be uploaded and downloaded between MacOS and iOS devices.
+■Resident Evil Village does not support Universal Purchase.
+
+■Purchase Precautions
+・After purchase, returns (including exchange for other products/services) will not be provided for any reason.
+・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.
+
+■Compatible OSs and Devices
+https://www.capcom-games.com/apple/en-us/
+------------------------------------------------------------
+
+RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/f8/97/43f89730-a1cc-ae23-475e-8815092a1bf1/f70c16dc-b7ff-4d02-93e3-28e1dec19a85_ss001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/64/4e/f8644e90-e8e7-68ee-a4b3-99c4931577e2/6db1cfd2-a5a8-4298-9c5d-2830ec7c1ee0_ss002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/52/11/d2/5211d28e-4eff-a0ef-3f62-d61dd7458a11/d9e9b491-ac47-4226-854b-5ce5aca815c6_ss003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/a8/98/e6a89854-7668-f141-7e56-48fc45c53662/565f2122-03fa-46a1-b0f7-fd2ab6289a69_ss004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/01/29/b9012956-c7aa-7e34-fde4-2a6ddef71399/cd486c91-98be-4bfd-96c0-98b26da33c2b_ss005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d6/22/f8/d622f81c-03da-770c-8604-89308d58a323/e203360f-44be-44ef-a2c1-4d83e5fd24c0_ss006.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/c4/c5/14c4c572-10b6-fd7d-2c77-b1a841255312/da38ac50-7af5-4155-ad2f-a8f21b8af77a_ss007.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/af/e4/cfafe4de-a31b-63da-dd1f-509dcdb71b4d/ed7de2c8-ce0c-4e52-8bd7-a63c4cd66301_ss008.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/14/81/611481a3-3909-9e59-9fab-8ff7616cb4c8/e341754e-27ec-4202-9ce3-511199de2a16_ss009.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/ba/3f/7cba3f97-47da-3d2e-6e0e-1caf365d453e/334f2fe3-5c55-4e04-934d-bd9d81ebc45a_ss010.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ab/83/1b/ab831b1b-e2d7-c5f2-edee-658f77a2bd19/f521fec7-da6b-4970-987f-4ce591211814_ss001.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/20/6e/60206eb4-46ac-e04e-9d2d-ed76e9653430/4c980a5e-2cb4-436b-a434-9644c45e2ce8_ss002.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/31/c8/e931c8e6-26e2-742b-09ee-825ce9481648/fbb1a7eb-6a23-4fdd-b935-d3e37c520c1c_ss003.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/30/9e/7c309e3a-8b04-d5e0-741e-97c2a6e29880/16aa1958-5afc-4ec3-835e-e62a054fd7f7_ss004.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/b5/61/49b56118-a1ea-947c-1856-7f46342a4b96/dd131879-756c-437a-9992-cd93267657b9_ss005.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/6b/7e/c36b7eec-f0e2-d3cd-8253-88c3e6d36a88/397837d2-5032-4225-8f48-7a67da01f117_ss006.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/d8/22/d8d8225f-e540-d9f2-5130-93989c262fb7/22f9bad7-31e7-42aa-8aab-5e4962317b7e_ss007.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/b0/20/f7b02056-dd45-4e42-ce09-dcf5edd45338/5415701a-87d0-432a-8d01-6fdefc090356_ss008.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/b5/5a/27b55a49-b344-504a-c352-40417f37be54/dcfa14fd-59f2-479a-aeee-2645252b6cfd_ss009.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/8d/39/818d396f-5280-9d85-7087-a5ca6395c6e1/fb6b8c81-054e-42ec-a255-0cd6cdf1d282_ss010.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MuseDash]]></title>
-        <id>MuseDash-1759101502312</id>
-        <link href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4"/>
-        <updated>2025-09-28T23:18:22.312Z</updated>
-        <summary type="html"><![CDATA[Price: ₺129,99 → ₺19,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/musedash/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a3/eb/1aa3ebaf-bc22-4cda-0c42-a7b8ae5cfc23/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺129,99</span> → <b>
-  <strong>₺19,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  "Hitting while listening to music."
-"Is that the call from another world?"
-[Game Starts Now—!!]
+        <title type="html"><![CDATA[Resident Evil 4]]></title>
+        <id>Resident Evil 4-1759134762953</id>
+        <link href="https://apps.apple.com/tr/app/resident-evil-4/id6462360082?uo=4"/>
+        <updated>2025-09-29T08:32:42.953Z</updated>
+        <summary type="html"><![CDATA[Base Game: ₺869,00 → ₺2.599,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/resident-evil-4/id6462360082?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/02/1a/bb021a23-70e7-e3e4-9405-fa76426bd453/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Base Game：</strong><span>₺869,00</span> → <b>
+  <strong>₺2.599,00</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Survival is just the beginning.
 
-Lovely girls
-or rhythmic music?
-If there’s a place for you to have them both…
-It must be the paradise of parkour & rhythm game  — Muse Dash!!
+Six years have passed since the biological disaster in Raccoon City.
+Agent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president's kidnapped daughter.
+He tracks her to a secluded European village, where there is something terribly wrong with the locals.
+And the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersect.
 
-Huh?! Not your forte? It doesn’t matter!
-Who says you must have a strong sense of rhythm to win?
-Avoid is also a valid option (?)
-As long as you have 100% of passion, courage, and… love for lovely girls~
-Rhythm and fight won’t be an issue
+Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics,
+Resident Evil 4 marks the rebirth of an industry juggernaut.
 
-[Gameplay]
-Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
-What an easy, beginner-friendly rhythm game
+Relive the nightmare that revolutionized survival horror.
 
-[Media Review]
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+------------------------------------------------------------
+■By purchasing, you will be granted a license to use the product.
+■A network connection is required when starting the application.
 
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+■About the End User License Agreement
+・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
+・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
+・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
 
-Languages Supported:
-English
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
+Please confirm the terms above and agree to this Agreement before purchasing the Program. 
+------------------------------------------------------------
 
-Feedback: https://service.peropero.net/
-Twitter:@MuseDash_EN
-@PeroPeroGuys
-</p>]]></content>
+■A limited part of the base game can be played for free.
+In order to play the full game, an in-app purchase is required.
+
+■Keyboard and mouse are not supported.
+
+■We recommend playing this game with a controller.
+It can be played on an iPad, but using a controller will provide a better experience.
+Note: Please check the Apple website for controllers compatible with iPad. Not all controllers will work as intended.
+
+■This application is approximately 30GB.
+Important Note: The installation process requires that you have at least twice the size of the application in free storage space available.
+We recommend downloading the data in an environment with good connectivity.
+
+■Estimated download time based on connection speed:
+	10Mbps - Over 6 hours
+	100Mbps - 30 to 40 minutes
+	300Mbps - 8 to 10 minutes
+
+■Save data can be uploaded and downloaded between MacOS and iOS devices.
+
+■Purchase Precautions
+・After purchase, returns (including exchange for other products/services) will not be provided for any reason.
+・In-app purchases can only be used by the Apple Account that made the purchase and cannot be shared with Family Sharing members.
+
+■Compatible OSs and Devices
+https://www.capcom-games.com/apple/en-us/
+------------------------------------------------------------
+
+RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/ca/9e/a4ca9ec2-8d23-8ced-14d4-dd8fa03e2ecc/8964ae53-8369-4b03-922c-7229288b2144_01_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0c/b4/3e/0cb43e22-134f-4950-b6ba-f2dffebb480d/7507c173-fe5e-416e-88e0-3091ce45f793_02_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/69/20/71692013-0b37-a744-cdbf-a7a04d773088/d523d64c-2770-41ed-b98b-e95fca79ff6b_03_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/21/9b/0f/219b0f3b-2cc8-a3ff-d30a-3839df3fbcd3/8f9f3791-42cf-4e36-8005-e61a3b9a81ab_04_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/5b/f9/385bf959-9837-ae07-8968-1a7be7ab2e41/f9f9999d-fe80-4ff9-830b-ee1a9b11b01e_05_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/11/6a/ba/116aba20-038a-ecb2-43fc-b22492ad3743/ed5df9cf-8c6f-47a4-8878-e1151ad25b08_06_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9c/85/18/9c851874-ac81-b3ce-1638-776eff651d9e/b7fe0af1-6cbf-4d43-903f-dacf1a983615_07_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b2/0d/e5/b20de548-7d16-67f2-869d-d000393fef4c/a5c418ee-37eb-494e-ac31-003bf05486fe_08_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8e/41/a4/8e41a41c-b4e0-1490-9e98-1f9692db7129/af49f157-971c-47b4-893e-74f582ca8e0e_09_iPhone_2208x1242_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/b8/75/14b875b6-d563-71c1-9893-79796263ea1f/b8f1b16a-7219-4f26-a923-c7b940dcb007_iPhone55_10.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/41/1e/5e/411e5eca-d6b2-c98f-c6a1-32cfa97256f4/0ae34a1a-1f3a-4269-8c02-758916cc5cd1_01_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/86/b8/0186b8db-b01e-f828-1157-a3683dbb00a7/b74fe99c-99eb-476f-9817-f600d16647fd_02_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b7/a9/ae/b7a9aed3-9527-1ea8-979c-172ff9038439/60a53fb6-92fb-471e-a4c2-fc8ea1bc0ced_03_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/dd/1a/f7/dd1af7d5-99af-8cea-3077-e1f9f30135b9/9a67a5bc-2f55-49a4-83b2-339c20145a3d_04_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/88/f6/dd88f610-3ff2-e0f0-b313-158942fc6bf0/59714d34-a36d-41c9-8872-dd646e49bddd_05_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/af/71/ae/af71ae6e-692c-1bb0-b6b2-d6b95ffe4ed2/cc11f838-b1d1-4f1b-838d-80e015c969ae_06_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/56/85/ee/5685eeaf-7d53-33d8-83c5-27bc07016147/dc2e9867-61fa-4103-a024-b4d5bec61c33_07_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/36/53/52/3653524b-d39c-3b5e-3da6-6fd72c3070bd/08f49403-38a5-46fe-8502-38f816455211_08_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/f1/a0/ecf1a0e9-a874-cfdc-dc2d-a1f4ea4c9625/b1e09923-6867-4b88-8ed6-79337231a58b_09_iPad_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ed/f5/84/edf58428-1ff6-6311-4579-a7397b8af3a3/6bfbdbb9-df76-4337-a2a7-ff461984502b_iPad_10.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
