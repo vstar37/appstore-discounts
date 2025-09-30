@@ -173,6 +173,23 @@
     "history": [
       [
         {
+          "timestamp": 1759216886656,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "专业会员·5人版-1个月": "$5.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "基础会员-1个月": "$2.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99"
+          }
+        },
+        {
           "timestamp": 1759214026665,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -17231,6 +17248,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759216886656,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1759206370438,
           "price": 0.49,
