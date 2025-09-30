@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-09-29T23:22:19.477Z</updated>
+    <updated>2025-09-30T05:24:19.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,117 +21,49 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-29T23:22:19.478Z</updated>
+        <updated>2025-09-30T05:24:19.034Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MovieSpirit - Movie Maker Pro]]></title>
-        <id>MovieSpirit - Movie Maker Pro-1759187957330</id>
-        <link href="https://apps.apple.com/tr/app/moviespirit-movie-maker-pro/id1020541183?uo=4"/>
-        <updated>2025-09-29T23:19:17.330Z</updated>
-        <summary type="html"><![CDATA[Price: ₺449,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moviespirit-movie-maker-pro/id1020541183?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Deflection]]></title>
+        <id>Deflection-1759209672091</id>
+        <link href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4"/>
+        <updated>2025-09-30T05:21:12.091Z</updated>
+        <summary type="html"><![CDATA[Price: ₺349,99 → ₺299,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/deflection/id670400597?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ca/0b/63ca0b9f-d0f0-41b2-e454-3186c4e2691d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>₺449,99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>₺349,99</span> → <b>
+  <strong>₺299,99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Pay once, use forever！ You are free to use and upgrade the App in your whole life once you pay for the download once.
+  Deflection is a powerful, versatile calculator for beams, 2D trusses, and 2D frames.  The interface is simple and intuitive, and the graphical output is state-of-the-art.  In addition to reaction, shear, bending moment, and deflection results, Deflection also computes internal shear and bending stress along the cross section and along the beam.
 
-Do you want to share your exciting and memorable moments with someone?
-Do you want to make your own movie?
-Do you want to be a director, a producer, a starring actor?
+2D FRAME AND TRUSS EDITOR
 
-In MovieSpirit, these characters can all be done by you alone!
+The 2D editor is seamlessly integrated with the beam editor.  Draw arbitrary frame and truss structures and apply loads and constraints using the same simple interface as for beams.  You can visualize results directly within the 2D editor, or you can select a beam and get additional insights. 
 
-With MovieSpirit, you can combine various media materials, such as videos, photos, music, text, recording and finger graffiti, and according to your creativity,  edit them together and add various special effects (scene switching effects, Text animation, Filter effects, video Intro, masks and so on) to create your own movie. 
+INTERNAL STRESSES
 
-Main functions:
+Obtain internal bending and shear stress diagrams in addition to shear, bending, and deflection diagrams.  The internal stresses can be visualized along the length of the beam as well as along the vertical axis of the cross section using the beam editor.
 
-- Crop, split, merge, cut, transform, flip and scale media clips
-- Overlay multi-layers video (Picture-in-picture effect),  no limit to the number of videos or pictures
-- Professional Video Ratio, Scalable Timeline (frame by frame), Unlimited Track Layers
-- Add masks (Line mask, Rectangle mask, Circle mask, Text mask and Path mask options) to hide or show parts of the video
-- Video matting, remove video background
-- Cutout Tool (Custom Shape Tools such as Pen Tool, Lasso Tool, Smudge Tool and Text Tool can be used for image matting)
-- Replace background for green/blue screen video, chroma key compositing
-- up to 50 special effects options, such as Blur, Snow, Rain, Bubble, Flower, Earthquake, Mirror, Fireworks, Smoke, Vortex, flame, Starry Sky and so on
-- Gradual Opaque
-- Fast-Forward, Slow-Motion and reverse video (1/12 Slow to 16-fold Speed)
-- Text-to-Voice function (dozens of language options)
-- 360 Degrees rotating video
-- Multiple Image Blending modes
-- Various fonts, text templates, text colors, vertical text, emojis, shadows, text strokes, alignment etc., supports downloading new fonts from Internet or icloud 
-- Built-in free music and sound effects in various styles, adding music from your computer or from iTunes, and extracting audio from videos
-- Voice recording
-- Draw graffiti with your finger directly on the film, variety of auxiliary drawing shape tools that can be freely selected such as straight line, curve, arrow, circle, square, triangle, star, heart, colorful text and so on
-- Simple automatic tracking function
-- Add movable mosaic
-- Custom Background Color, such as solid color, gradient color and extract color from picture
-- Dozens of Animation effects
-- Adjustable Brightness, Contrast, Saturation, Exposure, White Balance, Gamma
-- Create your own GIF animation
-- Private Custom Intro titles (sold separately)
-- Up to 80 filter effects (sketch, comics, fisheye, magnifiers, glass, background blur, rotation blur, vortex, various color filter and so on
-- Up to 60 scene switching effects
-- dozens of appearance shapes can be set for video/picture such as circle, heart, diamond, star, various irregular shapes and even customize unique shapes
-- Can turn the video/photo into black and white, highlight the part that needs to be highlighted (Color Splash)
-- Free to deform video/photo into irregular shapes
-- Add motion points to video/photo/text to make them move, zoom, rotate and move together to create a variety of gorgeous effects, such as fade-in and fade-out effect and up to 100 multiple phantom effect
-- Real-time preview, high resolution video output (HD)
-- Import multimedia material directly from your computer via Wi-Fi: videos, photos, music and GIF animations
-- Save and share videos directly to social networks such as Facebook, Instagram, Twitter, iCloud, WeChat, Mailbox and so on
-- Helpful video tutorials
+CROSS SECTION EDITOR
 
+Edit built-in cross sections.  Moment of inertia and area values are automatically calculated and applied to the rest of the beam calculations.
 
-We're looking forward to any feedback and comments on MovieSpirit, and if you have any query or problem, please feel free to contact us via email verytools2006@gmail.com
+MORE FEATURES
 
-We are committed to your long-term satisfaction. Thanks!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/84/43/c6/8443c612-e66f-2cc4-5404-28496758665d/mzl.vouvntxp.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/a6/b9/81a6b968-db10-16b0-7122-fc4bf9a89139/mzl.irrolmav.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/8d/10/5e8d104d-5b8e-8725-b913-0fec3a00d852/mzl.mhpnjkrz.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/55/22/99/552299e2-cf56-fa58-c350-3896ade7ec99/mzl.tasdcgmo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/55/80/e55580c3-ea91-dee0-2e79-6aacfa44eaa6/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/a0/dd/d1a0dd33-42a6-43d9-bd74-e4d1aaf3e727/mzl.gyaqzhtx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/f8/b1/14f8b185-87f3-3d82-6b0c-e34173307848/mzl.zegpdavb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/8a/dd/f28addfb-74f5-1398-1267-8fb1cabff9e6/mzl.spbtrnit.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/3d/f1/5f3df1c1-daac-1cb8-f8c2-adf671519289/mzl.rkeuxqiq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/15/b1/b815b16e-b741-2fb6-68f7-7f1a61ac89b5/pr_source.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vostok — Story Maker]]></title>
-        <id>Vostok — Story Maker-1759187957330</id>
-        <link href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4"/>
-        <updated>2025-09-29T23:19:17.330Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → ₺39,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/vostok-story-maker/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f3/02/40f3029d-b0ec-557e-565c-2f86798e8baf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>₺39,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Welcome to Vostok – your ultimate companion for crafting captivating stories and stunning collages, designed to elevate your social media presence! With Vostok, transforming your ideas into professional-grade posts and stories is now a breeze.
+• The built-in database contains more data for your reference and convenience.
+• Apply beam self-weight optionally
+• Unlimited design files
+• Quick-start templates
 
-Whether you're a blogger, photographer, or simply love sharing your life's moments on social media, Vostok provides all the tools you need to create content that will make an impact. Our sleek and user-friendly app seamlessly combines your passion for photography and storytelling, offering a dynamic platform to showcase your awe-inspiring moments.
+CONTACT
 
-Embracing a minimalist style, Vostok becomes your canvas for unlimited creativity. A vast collection of templates, stickers, and effects empowers you to design unique stories that reflect your individuality.
-
-But Vostok goes beyond creative freedom; it's all about simplicity. Our intuitive interface makes editing and sharing your content effortless, freeing up more time for you to focus on crafting compelling narratives that your followers will adore.
-
-No more waiting! Embark on your Vostok journey today and craft captivating posts and stories that leave a lasting impression!
-
-Here's a glimpse of some of our features:
-
-· 200+ design templates for social media
-· Exclusive fonts with Cyrillic support
-· 450+ unique stickers
-· Atmospheric dust and grain effects for photos
-· Variety of backgrounds: paper textures, marble, gradients, colors
-· Ad-free with no subscription requirements
-· Dark mode compatibility
-
-Recognized as one of the Best Apps of 2019 by Apple.
-
-With over 200+ templates, Vostok is your go-to toolkit for creating standout social media content.
-
-We eagerly look forward to your ideas and feedback.
-Connect with us at hello@vostokapp.ru or drop us a direct message on Instagram at @vostokapp.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
+We like to hear from you!  Please email contact@ketchep.com if you have any issues, questions, or comments.
+</p>]]></content>
     </entry>
 </feed>
