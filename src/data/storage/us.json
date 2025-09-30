@@ -12090,6 +12090,19 @@
     "history": [
       [
         {
+          "timestamp": 1759201195772,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "3D Model (A Year)": "$5.99",
+            "3D Model (A Month)": "$0.99",
+            "Location Explorer (Month)": "$4.99",
+            "Location Explorer (A Year)": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755040940735,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -13174,6 +13187,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759201195772,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755573151761,
@@ -29675,6 +29696,14 @@
     "history": [
       [
         {
+          "timestamp": 1759201195772,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759115181170,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -40050,6 +40079,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759201195772,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        },
         {
           "timestamp": 1759134762953,
           "price": 0,
