@@ -17242,12 +17242,29 @@
       "MSR Anthology_Vol.01（50%off）": "$2.99",
       "Big Eater Challenge Pass": "$2.99",
       "Legendary Voyage(30%off)": "$2.99",
-      "LegendaryVoyage,MysticTreasure": "$3.99",
+      "LegendaryVoyage,MysticTreasure": "$2.99",
       "MEDIUM⁵ Echoes(30%off)": "$2.99",
       "MEDIUM⁵ Echoes": "$3.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1759239087466,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "MEDIUM⁵ Echoes(30%off)": "$2.99",
+            "MEDIUM⁵ Echoes": "$3.99",
+            "Big Eater Challenge Pass": "$2.99",
+            "Legendary Voyage(30%off)": "$2.99",
+            "LegendaryVoyage,MysticTreasure": "$2.99",
+            "MSR Anthology_Vol.01（50%off）": "$2.99",
+            "MUSE RADIO FM106(30%off)": "$1.99",
+            "MUSE RADIO FM106": "$2.99",
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99"
+          }
+        },
         {
           "timestamp": 1759216886656,
           "price": 0.49,
