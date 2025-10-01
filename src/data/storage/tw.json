@@ -167,6 +167,23 @@
     "history": [
       [
         {
+          "timestamp": 1759328538334,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "连续包季": "$320.00",
+            "连续包月": "$130.00",
+            "6香蕉贝": "$30.00",
+            "30香蕉贝": "$120.00",
+            "基础会员2年（活动）": "$990.00",
+            "基础会员3个月（活动）": "$150.00",
+            "基础会员12个月（活动）": "$590.00",
+            "基础会员-连续包月": "$60.00",
+            "基础会员1个月(尝鲜)": "$30.00",
+            "空间会员·365G-3年（活动）": "$2,490.00"
+          }
+        },
+        {
           "timestamp": 1759325496146,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -3320,6 +3337,21 @@
       "Reset Password": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759328538334,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758291628604,
