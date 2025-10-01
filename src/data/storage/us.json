@@ -173,6 +173,23 @@
     "history": [
       [
         {
+          "timestamp": 1759288402311,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "专业会员·5人版-1个月": "$5.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "基础会员-1个月": "$2.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99"
+          }
+        },
+        {
           "timestamp": 1759283591025,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -13248,6 +13265,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759288402311,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759201195772,
@@ -31049,6 +31074,14 @@
     "history": [
       [
         {
+          "timestamp": 1759288402311,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755314207432,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -31214,6 +31247,16 @@
       "Value for Value": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759288402311,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759162966904,

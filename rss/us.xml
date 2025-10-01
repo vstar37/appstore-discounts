@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-09-30T10:27:01.404Z</updated>
+    <updated>2025-10-01T03:16:19.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,48 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-09-30T10:27:01.405Z</updated>
+        <updated>2025-10-01T03:16:19.850Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
-        <id>Goodnotes: AI Notes, Docs, PDF-1759227818987</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
-        <updated>2025-09-30T10:23:38.987Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/c5/d9/42c5d9c4-be16-6dda-7e1d-27867662ceb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Goodnotes has always been the place to capture your ideas — from quick notes to big plans. Now, it goes further. With powerful AI and new ways to capture information, Goodnotes helps you connect the dots, unlock insights, and turn ideas into action.
+        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
+        <id>BreatheIn: Calm Breathing-1759288402311</id>
+        <link href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4"/>
+        <updated>2025-10-01T03:13:22.311Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.
 
-*Existing Goodnotes 5 users can continue to use Goodnotes 5 indefinitely or upgrade to the new Goodnotes. Either way, your notes are safe!* 
+Rediscover Calm and Energy
 
-For professionals: Increase productivity at work
-■ Whiteboard + Goodnotes AI: One of our most requested features — brainstorm, mind-map, and diagram freely on an infinite canvas that grows with your ideas. Enhanced diagramming tools and real-time collaboration make it easy for teams to workshop, ideate, and problem-solve together, while Goodnotes AI helps you capture and organize key takeaways instantly. 
-■ Goodnotes AI Audio & Meetings: Stay fully present in every conversation while Goodnotes does the work for you. AI-powered transcription and live summarization automatically capture discussions and structure them into clear meeting minutes. After the meeting, merge transcripts with your own notes to create polished, shareable documents in seconds. 
-■ Text Documents + AI: Create documents that think with you. Enjoy a superior typing experience with rich inline blocks, build on ideas with external insights, and collaborate seamlessly with teammates. With AI-powered summarization, automated note generation, and transcript support, you can turn rough notes and meetings into finished content faster than ever. 
-■ Present your notes, slides, and content directly from Goodnotes when you connect your device via AirPlay or HDMI to an external screen. 
-■ Use Laser Pointer to guide your audience’s attention during your presentation.
-■ Export your notes to email, print, or share them anywhere as PDFs. 
-■ Send a link to your notebooks to work on the same notes directly — perfect for asynchronous work or collaborative brainstorming. 
-■ Import documents by emailing them to your custom Goodnotes email. 
+Deep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.
 
-For students: Ace your exams with ease
-■ Record audio notes that are magically synced to the moment you write — perfect for lectures or presentations.
-■ Search and instantly find any of your notes from any class. 
-■ Study and practice straight from your notes with Study Sets — flashcards built on active recall and spaced repetition. 
-■ Use AI to summarize, shorten, change the tone of your words, and perfect your typed text. 
+Expertly Curated Practices
 
-For planners: Let your creativity flow 
-■ Customize the size and color of your paper templates to create the template you want. 
-■ Add, create, or import stickers, stamps, washi tapes, images, and more 
+We've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!
 
-Digital notebooks: unlimited notebooks for the price of a single physical one. 
-■ Combine handwriting and typed text on one page, alongside images, stickers, diagrams, and doodles. 
-■ Create digital notebooks with customizable paper templates, including Blank Paper, Ruled Paper, Cornell Paper, Checklists, Planners, and more. 
-■ Navigate long documents with ease. PDF tables of contents are automatically imported; or create custom outlines yourself. 
-■ Back up all your notes to Google Drive, Dropbox, or OneDrive, and use iCloud to sync across iPad, iPhone, and Mac — so your notes are always safe. 
-■ Edit your writing by resizing it, changing the text color, or moving it to another spot on the page. 
-Privacy Policy: https://www.goodnotes.com/privacy-policy
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/8e/a9/688ea90e-945a-18bc-587f-1cd7f8af2ec7/ASO_EN_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/ca/9916caa6-24cd-7bf4-b706-3c13feb289b2/ASO_EN_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/7a/56/4d7a565c-6196-d5f3-fd3c-a43974a14478/ASO_EN_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/7f/83/a27f8361-a94d-2e2b-fc4b-eafa3cdf6a9e/ASO_EN_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3b/5d/ba3b5d02-5042-7b27-8cb2-918fbd658488/ASO_EN_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a0/a0/6da0a071-fffb-58e4-b22c-388418f1a41b/ASO_EN_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/8b/7d0f8bc4-8c8d-27aa-6f82-6903df878c0d/ASO_EN_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/83/89/4d83896c-8e7c-bacd-9ef6-0ac0123fa0f6/ASO_EN_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/99/ce/db99ce15-b5df-3c97-7e1f-4a10fb0a928a/ASO_EN_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/d2/3f16d24d-54ab-6565-5e04-bec402af7e3a/ASO_EN_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
+Seamless Apple Health Integration
+
+Track your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.
+
+Explore a Range of Techniques
+
+- Square Breathing (4-4-4-4): Regain control and calm your mind.
+- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.
+- Bee Breathing: Soothe your mind with this relaxing technique.
+- Coherent Breathing: Improve your well-being through HRV enhancement.
+- Transform Your Life, One Breath at a Time
+
+Conquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
