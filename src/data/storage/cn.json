@@ -24972,6 +24972,25 @@
     "history": [
       [
         {
+          "timestamp": 1759422412907,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "新手上路包": "¥8.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "unlockall_3": "¥138.00",
+            "Let's GROOVE": "¥25.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "奇航秘宝": "¥18.00",
+            "unlockall_29": "¥138.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759336061543,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -38670,6 +38689,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759422412907,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759110341988,

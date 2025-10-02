@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-01T15:25:21.806Z</updated>
+    <updated>2025-10-02T16:30:12.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,107 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-01T15:25:21.807Z</updated>
+        <updated>2025-10-02T16:30:12.789Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1759332154660</id>
-        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-10-01T15:22:34.660Z</updated>
-        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/5e/b8/0a5eb8a5-96ad-9124-2b45-69277fde72a5/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>¥253.00</span> → <b>
+        <title type="html"><![CDATA[FyTube - 没有广告的 YouTube]]></title>
+        <id>FyTube - 没有广告的 YouTube-1759422412907</id>
+        <link href="https://apps.apple.com/cn/app/fytube-%E6%B2%A1%E6%9C%89%E5%B9%BF%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
+        <updated>2025-10-02T16:26:52.907Z</updated>
+        <summary type="html"><![CDATA[价格: ¥148.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/fytube-%E6%B2%A1%E6%9C%89%E5%B9%BF%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥148.00</span> → <b>
   <strong>¥38.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+</b>）
+</h2><h2>应用描述</h2><p>
+  我们的应用实时连接到YouTube，让您播放任何视频，并拥有专为您设计的独家功能！
+主要功能亮点：
+• 锁屏播放：在后台持续收听您视频的音频。
+• 浮动播放（画中画）：在观看视频时使用其他应用。
+• 睡眠定时器：设置自动关闭，安心放松。
+• 循环模式：无限循环播放您喜欢的视频。
+此外还包括：
+• 可切换字幕
+• 播放速度控制
+• 质量选择和全屏模式
+• 智能搜索，实时建议（预测搜索）
+• 上传日期筛选：按天、周、月或年
+FyTube非常适合不想错过任何喜欢主题视频的用户。
+尽情探索、播放并享受您喜爱的内容——无干扰！
 
-“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+特别功能
+浮动播放
+永不停播！有了此功能，您可以在使用其他应用时继续观看视频。
+只需进入全屏模式，点击画中画按钮——它是播放器顶部的第二个图标。
+无论打开哪个应用，您的视频都会浮动在屏幕顶部！
 
-“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+锁屏播放
+无中断收听！
+即使屏幕关闭，也能继续享受视频音频。非常适合开车或休息时听音乐、播客或喜欢的曲目。
+如何激活？
+只需锁定设备屏幕，即刻会看到后台播放器。
+点击播放——音频将持续不断。
 
-“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
+睡眠定时器
+安然入睡——应用会自动停止！
+启用此功能后，视频将在您设定的时间后自动停止。非常适合睡觉或小憩，无需担心忘记关闭。
+如何激活？
+点击定时器按钮，选择运行时间，就完成了。
+放松，剩下的交给应用！
 
-为什么选择 DAY ONE？
+循环模式
+反复播放您喜欢的视频！
+启用此功能，视频会自动重复播放任意次数。
+怎么知道它是否开启？
+激活时图标会变红。
+（支持VoiceOver：会提示开启或关闭状态。）
+非常适合歌曲、冥想或任何您喜欢反复播放的内容！
 
-Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
+需要帮助使用这些功能？访问：fydub.com/fytube
 
-易于使用，让您爱不释手
+基本功能
+• 全屏高清播放
+• 简单易用的界面，友好设计
+• 随时快进或倒退——不错过精彩部分
+• 启用字幕
+• 根据喜好调整播放速度
+• 更改视频质量
+• 智能搜索，实时建议和上传日期筛选：天、周、月、年、全部
+• 每个视频包含相关视频区，发现更多有趣内容
+• 发现最新视频，保持资讯更新
+• 应用直接连接YouTube，让您找到任何视频
+• 支持任何兼容AirPlay的设备播放
+• 支持VoiceOver（增强描述）
+• 无需账户
+• 未经您允许，不存储缓存、Cookie或个人数据——安全观看
+• 界面支持29种语言
+• 无广告，无订阅
+购买FyTube一次付费，开启无广告无订阅的新流媒体体验。
 
-• 备受赞誉的美观设计
-• 无限的文本日记条目
-• 无限量照片和视频*
-•功能强大的富文本格式，带有 Markdown 功能
-• 不同的日记类型适用于记录您生活的方方面面*
+最低要求：
+• iOS 13或更高版本
+• 3G及以上网络连接
 
-私密且安全
+隐私政策：
+https://fydub.com/privacy-policy_fytube
+服务条款：
+https://fydub.com/terms-of-service_fytube
 
-• 自动备份可确保日记条目的安全性
-• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
-•日记条目使用密码或 TouchID 来保证安全性
-•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+与我们应用相关的关键词：
+youtube，youtube音乐，youtube vanced，YouTube广告拦截器，无订阅，跳过YouTube广告，无广告音乐，无广告，YouTube应用，YouTube广告屏蔽，拦截弹窗，移除广告，屏蔽广告，广告拦截，内容屏蔽，无广告，无广告浏览器，拦截广告，跳过广告，无广告音乐，无广告YouTube，无广告视频等。
 
-养成习惯并坚持下去
+有关于如何使用FyTube的问题？
+访问fydub.com/fytube或联系我们——我们乐意为您服务。所有邮件均有回复：fytube@fydub.com
 
-•可编程的提醒通知
-• 独特的每日日记提示功能有助于避免日记中断
-•可自定义的模板可节省时间，并可向日记条目中添加组织
-• 通过今日视图，您可以大致了解您去过哪里，做了什么
-
-随时随地写日记
-
-• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
-• 能够直接向您的日记发送文本或电子邮件条目
-
-专为记录回忆而生
-
-• 那年今日功能让您可以回顾过去的回忆
-• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
-• 地图视图可快速显示您在日记中记录的所有地点
-
-*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
-
-隐私政策：https://dayoneapp.com/privacy-policy/
-
-使用条款：https://dayoneapp.com/terms-of-use/
-
-如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+FyTube与YouTube合作。
+YouTube名称和标志为Google公司注册商标。版权所有。
+© FyTube®
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/a4/d9/90a4d952-0b39-a742-bc4a-4eb47ccc970f/f776954c-6912-48b6-934a-86239979e6a6_imagen2-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/40/28/564028f3-d2cb-c54f-f51e-f21f4bf259e8/a73f7310-e47b-42f1-8b98-21939fbd4104_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/be/84/66be840a-0f2c-ff7b-071f-03b442a653cd/0d632ab1-8ec0-4617-98c8-8f4af7dfac9e_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/62/cc/3662cc6d-1c52-d780-5c41-e996eee6f81c/bd380450-bf62-4eee-8adf-66d1c6f8aa8b_imagen1-ok2.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
