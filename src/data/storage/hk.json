@@ -1545,6 +1545,19 @@
     "history": [
       [
         {
+          "timestamp": 1759418549406,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "HK$ 393.00",
+            "一頁傳真": "HK$ 8.00",
+            "3000 C-Points": "HK$ 38.00",
+            "十頁傳真": "HK$ 68.00",
+            "3000 cp + Six chance to Draw": "HK$ 38.00",
+            "600 cp + One chance to Draw": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1759414896016,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -11750,6 +11763,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759418549406,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "年訂閱（早鳥）": "HK$ 200.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一大袋寶石": "HK$ 88.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "一推車寶石": "HK$ 188.00",
+            "年訂閱": "HK$ 200.00"
+          }
+        },
         {
           "timestamp": 1759414896016,
           "price": 0,

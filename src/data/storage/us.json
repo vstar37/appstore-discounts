@@ -12921,6 +12921,20 @@
     "history": [
       [
         {
+          "timestamp": 1759418549406,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758547874132,
           "price": 0,
           "formattedPrice": "Free",
@@ -14303,6 +14317,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759418549406,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
         {
           "timestamp": 1759414896016,
           "price": 0,
