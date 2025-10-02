@@ -12377,6 +12377,25 @@
     "history": [
       [
         {
+          "timestamp": 1759425409031,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+            "MEDIUM⁵ Echoes": "₺179,99",
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺129,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759155739306,
           "price": 19.99,
           "formattedPrice": "₺19,99",
