@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-01T03:16:19.849Z</updated>
+    <updated>2025-10-02T03:02:18.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,57 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-01T03:16:19.850Z</updated>
+        <updated>2025-10-02T03:02:18.193Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-1759288402311</id>
-        <link href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4"/>
-        <updated>2025-10-01T03:13:22.311Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
+        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
+        <id>Safety Note+ Pro-1759373938264</id>
+        <link href="https://apps.apple.com/us/app/safety-note-pro/id460661291?uo=4"/>
+        <updated>2025-10-02T02:58:58.264Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/safety-note-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/c5/d1/15c5d1f6-7236-07bc-bf97-68ff8499583a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
+  Discount Information（Price：<span>$3.99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.
+  Introducing Safety Note+: Keep Your Most Private Notes Secure
 
-Rediscover Calm and Energy
+Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
 
-Deep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.
+Key Features:
 
-Expertly Curated Practices
+• Advanced security system: Utilizing state-of-the-art technology to protect your notes
+• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
+• Biometric support: Unlock the app using TouchID or FaceID for added convenience
+• Intruder report: Capture photos of unauthorized individuals attempting to access your app
+• Decoy password: Conceal your real privacy with a decoy password
+• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
+• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
+• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
+• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
+• Note organization: Create, sort, move, and copy notes within folders
+• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
+• Additional features: Auto-save, note search, email notes, and full orientation support
+• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
 
-We've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!
+Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
 
-Seamless Apple Health Integration
+Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
 
-Track your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.
+Visit us at:
+Website: https://sixbytes.io
+Twitter: https://twitter.com/SixbytesApp
+Facebook: https://www.facebook.com/sixbytesapp
 
-Explore a Range of Techniques
-
-- Square Breathing (4-4-4-4): Regain control and calm your mind.
-- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.
-- Bee Breathing: Soothe your mind with this relaxing technique.
-- Coherent Breathing: Improve your well-being through HRV enhancement.
-- Transform Your Life, One Breath at a Time
-
-Conquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
+For more information, please refer to our Terms of Service and Privacy Policy:
+Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
+Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
