@@ -13833,6 +13833,22 @@
     "history": [
       [
         {
+          "timestamp": 1759465502124,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "Annual Special SVIP": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759462329677,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -17518,6 +17534,24 @@
       "MEDIUM⁵ Echoes": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759465502124,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "unlockall_3": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759303309608,

@@ -14416,6 +14416,22 @@
     "history": [
       [
         {
+          "timestamp": 1759465502124,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "訂閱 (1 年)": "¥618.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759411756511,
           "price": 0,
           "formattedPrice": "免费",
@@ -24971,6 +24987,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759465502124,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "新手上路包": "¥8.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "unlockall_3": "¥138.00",
+            "Let's GROOVE": "¥25.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "unlockall_29": "¥138.00",
+            "Nyanya Universe!": "¥25.00"
+          }
+        },
         {
           "timestamp": 1759422412907,
           "price": 3,
