@@ -16379,7 +16379,9 @@
       "ADHD Student Planner 2025-2026": "₺499,99",
       "AI Pass (Monthly)": "₺379,00",
       "Goodnotes Pro (Yearly)": "₺1.369,99",
-      "Goodnotes 6 (1년)": "₺449,00"
+      "Goodnotes 6 (1년)": "₺449,00",
+      "Essential (Yearly)": "₺449,00",
+      "Pro (Yearly)": "₺1.369,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -16518,10 +16520,27 @@
       "ADHD Student Planner 2025-2026": "₺499,99",
       "AI Pass (Monthly)": "₺379,00",
       "Goodnotes Pro (Yearly)": "₺1.369,99",
-      "Goodnotes 6 (1년)": "₺449,00"
+      "Goodnotes 6 (1년)": "₺449,00",
+      "Essential (Yearly)": "₺449,00",
+      "Pro (Yearly)": "₺1.369,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1759518979339,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "₺449,00",
+            "Goodnotes 6 One-Time Payment": "₺1.099,99",
+            "Essential (Yearly)": "₺449,00",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
         {
           "timestamp": 1759504884420,
           "price": 0,

@@ -25317,7 +25317,8 @@
       "Il mio anno in pixel (Vertical": "$3.99",
       "The Smart Teacher's Planner in": "$10.99",
       "Goodnotes Pro (Yearly)": "$35.99",
-      "Goodnotes 6 (1년)": "$11.99"
+      "Goodnotes 6 (1년)": "$11.99",
+      "Essential (Yearly)": "$11.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25472,10 +25473,24 @@
       "Il mio anno in pixel (Vertical": "$3.99",
       "The Smart Teacher's Planner in": "$10.99",
       "Goodnotes Pro (Yearly)": "$35.99",
-      "Goodnotes 6 (1년)": "$11.99"
+      "Goodnotes 6 (1년)": "$11.99",
+      "Essential (Yearly)": "$11.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1759518979339,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Essential (Yearly)": "$11.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
         {
           "timestamp": 1759504884420,
           "price": 0,
