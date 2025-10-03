@@ -20483,6 +20483,21 @@
     "history": [
       [
         {
+          "timestamp": 1759473117588,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "120000 GP": "₺899,99",
+            "200000 GP": "₺1.299,99",
+            "25000 GP": "₺249,99",
+            "50000 GP": "₺449,99",
+            "5000 GP": "₺99,99",
+            "Remove Ad": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758237555467,
           "price": 699.99,
           "formattedPrice": "₺699,99",
