@@ -25479,6 +25479,19 @@
     "history": [
       [
         {
+          "timestamp": 1759522996070,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1년)": "$11.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Essential (Yearly)": "$11.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
+        {
           "timestamp": 1759518979339,
           "price": 0,
           "formattedPrice": "Free",
