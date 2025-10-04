@@ -9373,6 +9373,14 @@
     "history": [
       [
         {
+          "timestamp": 1759555129620,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺389,99"
+          }
+        },
+        {
           "timestamp": 1759551868211,
           "price": 0,
           "formattedPrice": "Free",
@@ -12386,6 +12394,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759555129620,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "unlockall_3": "₺999,99",
+            "Valentine Stage": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺999,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        },
         {
           "timestamp": 1759551868211,
           "price": 19.99,
@@ -25486,6 +25511,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759555129620,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺699,99",
+            "Monthly VIP": "₺59,99",
+            "Yearly VIP": "₺449,99",
+            "1 Year": "₺449,99",
+            "Lifetime": "₺1.499,99",
+            "1 Month": "₺59,99",
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1759551868211,
           "price": 0,
