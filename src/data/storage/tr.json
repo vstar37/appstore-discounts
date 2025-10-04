@@ -9373,6 +9373,16 @@
     "history": [
       [
         {
+          "timestamp": 1759551868211,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺122,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756412636133,
           "price": 0,
           "formattedPrice": "Free",
@@ -12375,6 +12385,25 @@
       "MEDIUM⁵ Echoes": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759551868211,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+            "MEDIUM⁵ Echoes": "₺179,99",
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺129,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99",
+            "Chill & Sip Summer Pass": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759429862135,
@@ -25456,6 +25485,22 @@
       "Lifetime VIP(iPhone&iPad only)": "₺1.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759551868211,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99",
+            "Lifetime VIP(iPhone&iPad only)": "₺1.299,99",
+            "1 Year": "₺449,99",
+            "1 Month": "₺59,99",
+            "Yearly VIP": "₺449,99",
+            "Lifetime VIP": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758565753481,
