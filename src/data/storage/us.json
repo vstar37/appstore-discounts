@@ -25454,7 +25454,15 @@
       "The Smart Teacher's Planner in": "$10.99",
       "Goodnotes Pro (Yearly)": "$35.99",
       "Goodnotes 6 (1년)": "$11.99",
-      "Essential (Yearly)": "$11.99"
+      "Essential (Yearly)": "$11.99",
+      "The Weekly Action Planner (Sun": "$8.99",
+      "2025-2026 Stay Focused ADHD Pl": "$10.99",
+      "1000 Kanji Workbook": "$14.99",
+      "2026 Essential Digital planner": "$10.99",
+      "2026 Daily Scheduler (Sunday,": "$10.99",
+      "2026 Smart Digital Planner (Mo": "$10.99",
+      "ADHD Student Planner 2025-2026": "$10.99",
+      "AI Pass (Monthly)": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25610,9 +25618,35 @@
       "The Smart Teacher's Planner in": "$10.99",
       "Goodnotes Pro (Yearly)": "$35.99",
       "Goodnotes 6 (1년)": "$11.99",
-      "Essential (Yearly)": "$11.99"
+      "Essential (Yearly)": "$11.99",
+      "The Weekly Action Planner (Sun": "$8.99",
+      "2025-2026 Stay Focused ADHD Pl": "$10.99",
+      "1000 Kanji Workbook": "$14.99",
+      "2026 Essential Digital planner": "$10.99",
+      "2026 Daily Scheduler (Sunday,": "$10.99",
+      "2026 Smart Digital Planner (Mo": "$10.99",
+      "ADHD Student Planner 2025-2026": "$10.99",
+      "AI Pass (Monthly)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759681416191,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Weekly Action Planner (Sun": "$8.99",
+            "2025-2026 Stay Focused ADHD Pl": "$10.99",
+            "1000 Kanji Workbook": "$14.99",
+            "2026 Essential Digital planner": "$10.99",
+            "2026 Daily Scheduler (Sunday,": "$10.99",
+            "2026 Smart Digital Planner (Mo": "$10.99",
+            "ADHD Student Planner 2025-2026": "$10.99",
+            "AI Pass (Monthly)": "$9.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759522996070,
@@ -40951,6 +40985,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759681416191,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        },
         {
           "timestamp": 1759638239252,
           "price": 0,
