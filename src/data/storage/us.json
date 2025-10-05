@@ -25631,6 +25631,19 @@
     "history": [
       [
         {
+          "timestamp": 1759684593749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1년)": "$11.99",
+            "Essential (Yearly)": "$11.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
+        {
           "timestamp": 1759681416191,
           "price": 0,
           "formattedPrice": "Free",
@@ -40985,6 +40998,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759684593749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99"
+          }
+        },
         {
           "timestamp": 1759681416191,
           "price": 0,
