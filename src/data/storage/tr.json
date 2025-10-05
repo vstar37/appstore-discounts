@@ -7586,6 +7586,23 @@
     "history": [
       [
         {
+          "timestamp": 1759691723374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺769,99",
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99",
+            "Annual": "₺769,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758734356174,
           "price": 0,
           "formattedPrice": "Free",
