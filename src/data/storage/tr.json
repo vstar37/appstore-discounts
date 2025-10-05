@@ -3594,6 +3594,16 @@
     "history": [
       [
         {
+          "timestamp": 1759706215427,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Remove advertisement": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757391990109,
           "price": 0,
           "formattedPrice": "Free",
@@ -12479,6 +12489,25 @@
     "history": [
       [
         {
+          "timestamp": 1759706215427,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "unlockall_3": "₺999,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Valentine Stage": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺1.499,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759555129620,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -19490,6 +19519,16 @@
       "Value for Value": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759706215427,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759598172991,
