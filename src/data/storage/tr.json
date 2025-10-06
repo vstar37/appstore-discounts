@@ -24053,6 +24053,16 @@
     "history": [
       [
         {
+          "timestamp": 1759792753815,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758554624842,
           "price": 99.99,
           "formattedPrice": "₺99,99",
