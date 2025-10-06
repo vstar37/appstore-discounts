@@ -7596,6 +7596,22 @@
     "history": [
       [
         {
+          "timestamp": 1759749488304,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺769,99",
+            "Monthly (Early Bird)": "₺129,00",
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Annual": "₺769,99",
+            "Advanced Bonus Pack": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1759746287852,
           "price": 0,
           "formattedPrice": "Free",
