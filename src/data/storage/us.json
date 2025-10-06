@@ -173,6 +173,23 @@
     "history": [
       [
         {
+          "timestamp": 1759760520736,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "基础会员-1个月": "$2.99",
+            "免广告会员十二个月": "$1.99",
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "专业会员·5人版-1个月": "$5.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99"
+          }
+        },
+        {
           "timestamp": 1759757473352,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -25725,6 +25742,20 @@
       "AI Pass (Monthly)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759760520736,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$11.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759684593749,
