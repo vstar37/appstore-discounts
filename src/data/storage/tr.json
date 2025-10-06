@@ -7596,6 +7596,23 @@
     "history": [
       [
         {
+          "timestamp": 1759746287852,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺769,99",
+            "Deluxe Pack": "₺799,99",
+            "Select Pack": "₺599,99",
+            "Elite Package": "₺449,99",
+            "Supreme Package": "₺229,99",
+            "Advanced Package": "₺129,99",
+            "Starter Package": "₺39,99",
+            "Annual": "₺769,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759695676593,
           "price": 0,
           "formattedPrice": "Free",
@@ -12488,6 +12505,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759746287852,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "unlockall_3": "₺999,99",
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Valentine Stage": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺1.499,99",
+            "Let's GROOVE": "₺179,99",
+            "Endless Pirouette": "₺249,99"
+          }
+        },
         {
           "timestamp": 1759742783498,
           "price": 129.99,
