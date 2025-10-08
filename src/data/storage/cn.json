@@ -40718,6 +40718,22 @@
     "history": [
       [
         {
+          "timestamp": 1759937016853,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身VIP": "¥98.00",
+            "月度VIP": "¥12.00",
+            "年度VIP": "¥68.00",
+            "终身VIP(iPhone & iPad平台)": "¥89.00",
+            "终身VIP(Apple TV 平台)": "¥178.00",
+            "终身": "¥198.00",
+            "终身VIP(Mac平台)": "¥89.00",
+            "每年": "¥68.00",
+            "每月": "¥12.00"
+          }
+        },
+        {
           "timestamp": 1759933349177,
           "price": 0,
           "formattedPrice": "免费",
