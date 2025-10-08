@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-06T03:07:08.101Z</updated>
+    <updated>2025-10-08T03:02:20.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,107 +21,44 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-06T03:07:08.101Z</updated>
+        <updated>2025-10-08T03:02:20.169Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FyTube - YouTube Without Ads]]></title>
-        <id>FyTube - YouTube Without Ads-1759719828926</id>
-        <link href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4"/>
-        <updated>2025-10-06T03:03:48.926Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fytube-youtube-without-ads/id1610668825?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[FocusDots · Focus What Matters]]></title>
+        <id>FocusDots · Focus What Matters-1759892359381</id>
+        <link href="https://apps.apple.com/us/app/focusdots-focus-what-matters/id703265535?uo=4"/>
+        <updated>2025-10-08T02:59:19.381Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/focusdots-focus-what-matters/id703265535?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/5f/f2/5c5ff2c2-8aef-dd3e-4087-0b648e068bf3/AppIcon-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>$4.99</strong>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Our app connects to YouTube in real-time and lets you play any video with exclusive features designed just for you!
-Highlight Features:
-• Locked screen playback: Keep listening to your videos’ audio in the background.
-• Floating playback (PIP): Use other apps while watching your videos.
-• Sleep timer: Set an automatic shutdown and relax worry-free.
-• Loop mode: Play your favorite video on infinite repeat.
-It also includes:
-• Toggleable subtitles
-• Playback speed control
-• Quality selection and fullscreen mode
-• Smart search with real-time suggestions (predictive search)
-• Upload date filters: Day, week, month, or year
-FyTube is perfect for those who don’t want to miss a single video about their favorite topics.
-Explore, play, and enjoy your favorite content to the fullest — interruption-free!
+  A Simple Time Management App That Will Increase Your Productivity
 
-SPECIAL FEATURES
-FLOATING PLAYBACK
-Never stop watching! With this feature, you can keep watching your videos while using other apps .
-Just enter fullscreen mode and tap the PIP button — it’s the second icon at the top of the player.
-Your video will float on top of your screen no matter what app you open!
+Keeping yourself focused on tasks can be not easy sometimes. FocusDots is a beautifully designed timer to improve your focus on tasks and discard activity that can divert your attention. 
 
-LOCKED SCREEN PLAYBACK
-Listen without interruptions!
-Keep enjoying your video’s audio even when your screen is off. Perfect for listening to music, podcasts, or your favorite tunes while driving or relaxing.
-How to activate it?
-Just lock your device screen. You’ll instantly see the background player.
-Tap Play — and that’s it! The audio will keep going without pauses.
+FocusDots is a simple time management app with four easy steps:
+1) Decide on a single task to be done.
+2) Start FocusDots and work on the task until the timer finishes (25 minutes).
+3) Take a short break (5 minutes).
+4) After completing four Dots, go for a longer break (15 minutes)
 
-SLEEP TIMER
-Fall asleep peacefully — your app will stop by itself!
-Enable this feature to automatically stop your videos after the time you choose. Perfect for sleeping or napping without worrying about stopping anything.
-How to activate it?
-Tap the timer button, choose how long you want it to run, and that’s it.
-Relax and let the app handle the rest!
+Features
+- Elegant minimalist design
+- Daily Summary
+- Beautiful crafted design themes
+- Quotes to inspire and motivate you
+- Custom timer duration for your tasks
 
-LOOP MODE
-Play your favorite video over and over again!
-Enable this feature to make the video repeat automatically as many times as you want.
-How to know if it’s on?
-The icon will turn red when active.
-(VoiceOver compatible: it will indicate whether it’s on or off.)
-Perfect for songs, meditations, or any content you love to repeat!
 
-Need help using these features? Visit: fydub.com/fytube
-
-BASIC FEATURES
-• Fullscreen high-quality video playback
-• Easy-to-use interface, friendly design
-• Skip forward or rewind anytime — never miss the best parts
-• Subtitle activation
-• Adjust playback speed to your preference
-• Change video quality
-• Smart search with real-time suggestions and upload date filters: day, week, month, year, all
-• Each video includes a related videos section to discover more interesting content
-• Discover the latest videos and stay up to date with the news
-• Our app connects directly to YouTube, letting you find any video
-• Enjoy content on any AirPlay-compatible device
-• VoiceOver compatible (enhanced descriptions)
-• No account required
-• We don’t store cache, cookies, or personal data without your permission — watch safely
-• Interface available in 29 languages
-• NO ADS, NO SUBSCRIPTIONS
-Get FyTube with a one-time payment and start a new streaming experience — ad-free and subscription-free.
-
-Minimum Requirements:
-• iOS 13 or later
-• 3G connection or higher
-
-Privacy Policy:
-https://fydub.com/privacy-policy_fytube
-Terms of Service:
-https://fydub.com/terms-of-service_fytube
-
-Keywords related to our app:
-youtube, youtube music, youtube vanced, ad blocker for YouTube, no subscription, skip ads on YouTube, music without ads, ad-free, YouTube app, adblocker for YouTube, block pop-ups, remove ads, block ads, adblock, content blocker, no ads, ad-free browser, block advertising, skip ads, ad-free music, YouTube without ads, videos without ads, etc.
-
-Have questions about how to use FyTube?
-Visit fydub.com/fytube or write to us — we’ll be happy to help. We reply to all emails: fytube@fydub.com
-
-FyTube works with YouTube.
-The YouTube name and logo are trademarks of Google, Inc. All rights reserved.
-© FyTube®
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2c/f7/b82cf72d-77a8-3f19-2bf0-f7d5b034ba2c/cf0a4645-e4c7-45bc-80be-ab665a8f6408_IMG2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d9/f3/b5d9f3b8-763d-3c2e-ce63-050eda16fa09/3899c162-1e28-45dd-bdf2-25d7db7b2f2d_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/09/0a/18090a8e-1e4b-e350-df19-1ca8bf25eb0c/b6243bbd-cf1f-4a6a-8282-268afbb1b5ae_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f8/01/baf801c9-a383-1ac2-0e01-9737d573d02d/d816a813-16bd-4c0c-9dae-b3007f5a0e15_imagen2-ok2.png/392x696bb.png" />]]></content>
+Thank you for choosing FocusDots! We sincerely appreciate your support and hope that our app helps you enhance your productivity and time management skills. If you have any feedback or suggestions, we'd love to hear from you!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ae/dc/11/aedc1144-2eef-15ea-1495-76d1a2123e42/605f621a-1356-4395-a207-4d7a89b41252_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/c0/1e/31c01e7d-ce13-4462-1b15-8fa0c6059220/f7f31807-7535-4adf-815b-1df9f22ef251_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b7/26/ef/b726ef21-9379-d51d-61e7-9bb9770c0dbd/53030e38-f263-4af6-b46e-4db04d0be2a6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/c3/62/eac36217-9aa5-14d9-907b-3a0c2e7101c0/d04f6a2a-3600-459b-b576-498596c451cd_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1a/d9/45/1ad94533-b97c-7709-646f-9dd0719089a0/07cdb4ab-2afd-40fb-a675-e5c471e3c756_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c7/a4/45/c7a44535-a303-dc89-aaa5-558d2578d794/8ba99bba-3eac-402c-bf73-47cfa316a305_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

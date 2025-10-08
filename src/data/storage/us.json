@@ -10489,6 +10489,14 @@
     "history": [
       [
         {
+          "timestamp": 1759892359381,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758164318931,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -35324,6 +35332,14 @@
     "history": [
       [
         {
+          "timestamp": 1759892359381,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759629046333,
           "price": 0,
           "formattedPrice": "Free",
@@ -35487,6 +35503,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759892359381,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757991467858,
