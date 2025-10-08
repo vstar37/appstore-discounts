@@ -8564,6 +8564,19 @@
     "history": [
       [
         {
+          "timestamp": 1759940876345,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "3D Model (A Year)": "₺64,99",
+            "Location Explorer (A Year)": "₺699,99",
+            "3D Model (A Month)": "₺22,99",
+            "Location Explorer (Month)": "₺114,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759187957330,
           "price": 449.99,
           "formattedPrice": "₺449,99",
