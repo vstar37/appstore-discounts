@@ -38033,6 +38033,14 @@
     "history": [
       [
         {
+          "timestamp": 1759908042624,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759719828926,
           "price": 4.99,
           "formattedPrice": "$4.99",

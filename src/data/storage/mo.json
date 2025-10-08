@@ -13458,6 +13458,25 @@
     "history": [
       [
         {
+          "timestamp": 1759908042624,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_3": "USD 20.99",
+            "unlockall_29": "USD 33.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Miku in Museland": "USD 5.99",
+            "肥宅快樂包 Vol.3": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759673846535,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -16645,6 +16664,22 @@
       "Goodnotes Pro (Yearly)": "USD 35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759908042624,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 11.99",
+            "Goodnotes 6 一次性付款": "USD 28.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00",
+            "心儀地點封面": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759414896016,
@@ -26463,6 +26498,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759908042624,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759719828926,
