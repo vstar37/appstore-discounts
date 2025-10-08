@@ -9637,6 +9637,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759846991348,
           "price": 0,
           "formattedPrice": "免费",
@@ -16620,6 +16628,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -16841,6 +16857,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -17044,6 +17068,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -18539,6 +18571,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -28632,6 +28672,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -33108,6 +33156,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -33348,6 +33404,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -36122,6 +36186,20 @@
       "解锁《一路向海》DLC捆绑包": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥6.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759242071121,
@@ -40640,6 +40718,22 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身VIP(Apple TV 平台)": "¥89.00",
+            "终身VIP(Mac平台)": "¥178.00",
+            "终身VIP(iPhone & iPad平台)": "¥178.00",
+            "每年": "¥68.00",
+            "每月": "¥12.00",
+            "年度VIP": "¥68.00",
+            "终身VIP": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759177271798,
           "price": 0,
           "formattedPrice": "免费",
@@ -41827,6 +41921,14 @@
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,

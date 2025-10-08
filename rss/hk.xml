@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-10-08T07:24:05.098Z</updated>
+    <updated>2025-10-08T14:25:17.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,107 +21,51 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-08T07:24:05.098Z</updated>
+        <updated>2025-10-08T14:25:17.491Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
-        <id>FyTube -沒有廣告的 YouTube-1759908042624</id>
-        <link href="https://apps.apple.com/hk/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
-        <updated>2025-10-08T07:20:42.624Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  我們的應用實時連接到YouTube，讓您播放任何視頻，並擁有專為您設計的獨家功能！
-主要功能亮點：
-• 鎖屏播放：在後台持續收聽您視頻的音頻。
-• 浮動播放（畫中畫）：在觀看視頻時使用其他應用。
-• 睡眠定時器：設置自動關閉，安心放鬆。
-• 循環模式：無限循環播放您喜歡的視頻。
-此外還包括：
-• 可切換字幕
-• 播放速度控制
-• 質量選擇和全屏模式
-• 智能搜索，即時建議（預測搜索）
-• 上傳日期篩選：按天、週、月或年
-FyTube非常適合不想錯過任何喜歡主題視頻的用戶。
-盡情探索、播放並享受您喜愛的內容——無干擾！
+        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
+        <id>VidHub -Video Library &amp; Player-1759933349177</id>
+        <link href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4"/>
+        <updated>2025-10-08T14:22:29.177Z</updated>
+        <summary type="html"><![CDATA[生命周期VIP(Apple TV 版): HK$ 228.00 → HK$ 118.00<br/>生命周期: HK$ 268.00 → HK$ 128.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/a7/71/25a771c0-87b0-1dda-2188-116149636936/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>生命周期VIP(Apple TV 版)：</strong><span>HK$ 228.00</span> → <b>
+  <strong>HK$ 118.00</strong>
+</b>
+  </li><li>
+    <strong>生命周期：</strong><span>HK$ 268.00</span> → <b>
+  <strong>HK$ 128.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
 
-特別功能
-浮動播放
-永不停播！有了此功能，您可以在使用其他應用時繼續觀看視頻。
-只需進入全屏模式，點擊畫中畫按鈕——它是播放器頂部的第二個圖標。
-無論打開哪個應用，您的視頻都會浮動在螢幕頂部！
+Some of the key features that VidHub offers include:
+- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
+- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
+- High-quality video playback for HD, 4K, HDR, and various other resolutions
+- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
+- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
+- Support downloading and deleting cloud files
+- Support renaming cloud files, support add character, replace character, regular expression renaming method.
+- Support direct-link to Emby, Jellyfin, Plex media server.
+- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
 
-鎖屏播放
-無中斷收聽！
-即使螢幕關閉，也能繼續享受視頻音頻。非常適合開車或休息時聽音樂、播客或喜歡的曲目。
-如何激活？
-只需鎖定設備螢幕，即刻會看到後台播放器。
-點擊播放——音頻將持續不斷。
+All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
 
-睡眠定時器
-安然入睡——應用會自動停止！
-啟用此功能後，視頻將在您設定的時間後自動停止。非常適合睡覺或小憩，無需擔心忘記關閉。
-如何激活？
-點擊定時器按鈕，選擇運行時間，就完成了。
-放鬆，剩下的交給應用！
+Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
 
-循環模式
-反覆播放您喜歡的視頻！
-啟用此功能，視頻會自動重複播放任意次數。
-怎麼知道它是否開啟？
-啟動時圖標會變紅。
-（支援VoiceOver：會提示開啟或關閉狀態。）
-非常適合歌曲、冥想或任何您喜歡反覆播放的內容！
-
-需要幫助使用這些功能？訪問：fydub.com/fytube
-
-基本功能
-• 全屏高清播放
-• 簡單易用的介面，友好設計
-• 隨時快進或倒退——不錯過精彩部分
-• 啟用字幕
-• 根據喜好調整播放速度
-• 更改視頻質量
-• 智能搜索，即時建議和上傳日期篩選：天、週、月、年、全部
-• 每個視頻包含相關視頻區，發現更多有趣內容
-• 發現最新視頻，保持資訊更新
-• 應用直接連接YouTube，讓您找到任何視頻
-• 支援任何兼容AirPlay的設備播放
-• 支援VoiceOver（增強描述）
-• 無需帳號
-• 未經您允許，不儲存快取、Cookie或個人資料——安全觀看
-• 介面支援29種語言
-• 無廣告，無訂閱
-購買FyTube一次付費，開啟無廣告無訂閱的新串流體驗。
-
-最低要求：
-• iOS 13或更高版本
-• 3G及以上網路連接
-
-隱私政策：
-https://fydub.com/privacy-policy_fytube
-服務條款：
-https://fydub.com/terms-of-service_fytube
-
-與我們應用相關的關鍵詞：
-youtube，youtube音樂，youtube vanced，YouTube廣告攔截器，無訂閱，跳過YouTube廣告，無廣告音樂，無廣告，YouTube應用，YouTube廣告屏蔽，攔截彈窗，移除廣告，屏蔽廣告，廣告攔截，內容屏蔽，無廣告，無廣告瀏覽器，攔截廣告，跳過廣告，無廣告音樂，無廣告YouTube，無廣告視頻等。
-
-有關如何使用FyTube的問題？
-訪問fydub.com/fytube或聯繫我們——我們樂意為您服務。所有郵件均有回覆：fytube@fydub.com
-
-FyTube與YouTube合作。
-YouTube名稱和標誌為Google公司註冊商標。版權所有。
-© FyTube®
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/e2/f3/b9e2f302-23ae-179a-8242-201991a7ff5c/c1983b44-0d79-4ee3-a8e0-b75ecca7580f_imagen1-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/b2/b7/e0b2b752-2cb9-6375-446b-bfd87089923d/bd0e6f4d-bf1c-46e3-89a7-a3d92ade6c84_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/f7/7e70f758-63ac-29c2-68e0-51a8b1cb0622/604d18d7-22f1-4bb0-85ec-3c53c9e84d20_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/4b/77/694b77f9-023b-619d-6f9d-7ae6a06dacc0/5a4eb7ab-8789-4b6b-b295-24e00df14fc1_imagen2-ok2.png/392x696bb.png" />]]></content>
+Privacy Policy and Terms of Use
+https://okaapps.com/privacy_vidhub
+https://okaapps.com/terms_vidhub
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>

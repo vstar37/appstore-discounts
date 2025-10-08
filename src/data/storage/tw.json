@@ -9972,6 +9972,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759846991348,
           "price": 0,
           "formattedPrice": "免費",
@@ -14141,6 +14149,20 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758040058558,
           "price": 0,
           "formattedPrice": "免費",
@@ -14893,6 +14915,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -16359,6 +16389,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -23838,6 +23876,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -28292,6 +28338,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,

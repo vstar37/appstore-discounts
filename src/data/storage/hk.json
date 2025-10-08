@@ -10770,6 +10770,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759846991348,
           "price": 0,
           "formattedPrice": "免費",
@@ -15584,6 +15592,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -17224,6 +17240,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -26908,6 +26932,14 @@
     "history": [
       [
         {
+          "timestamp": 1759933349177,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758723582806,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -32500,6 +32532,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758723582806,
@@ -40929,6 +40969,21 @@
       "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759933349177,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+            "生命周期VIP(Mac 版)": "HK$ 228.00",
+            "生命周期VIP(iPhone & iPad 版)": "HK$ 228.00",
+            "年方案": "HK$ 88.00",
+            "月方案": "HK$ 12.00",
+            "生命周期": "HK$ 128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757200682369,
