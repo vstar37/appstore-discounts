@@ -24417,6 +24417,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023850195,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759908042624,
           "price": 39.99,
           "formattedPrice": "₺39,99",

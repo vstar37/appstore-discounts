@@ -38220,6 +38220,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023850195,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759908042624,
           "price": 0.99,
           "formattedPrice": "$0.99",

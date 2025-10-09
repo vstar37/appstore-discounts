@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-08T16:31:18.640Z</updated>
+    <updated>2025-10-09T15:34:10.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,48 +21,77 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-08T16:31:18.641Z</updated>
+        <updated>2025-10-09T15:34:10.925Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[巧摄专业版：风光摄影计划神器]]></title>
-        <id>巧摄专业版：风光摄影计划神器-1759940876345</id>
-        <link href="https://apps.apple.com/cn/app/%E5%B7%A7%E6%91%84%E4%B8%93%E4%B8%9A%E7%89%88-%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E8%AE%A1%E5%88%92%E7%A5%9E%E5%99%A8/id898876435?uo=4"/>
-        <updated>2025-10-08T16:27:56.345Z</updated>
-        <summary type="html"><![CDATA[价格: ¥68.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%B7%A7%E6%91%84%E4%B8%93%E4%B8%9A%E7%89%88-%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E8%AE%A1%E5%88%92%E7%A5%9E%E5%99%A8/id898876435?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/a3/e8/65a3e826-f16d-40b8-de48-290e4cf64a39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[DayCost]]></title>
+        <id>DayCost-1760023850195</id>
+        <link href="https://apps.apple.com/cn/app/daycost/id931188326?uo=4"/>
+        <updated>2025-10-09T15:30:50.195Z</updated>
+        <summary type="html"><![CDATA[价格: ¥22.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/daycost/id931188326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/51/6d/b4516d63-0c1f-388c-5319-59c9737f5d2d/ProAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥68.00</span> → <b>
-  <strong>¥38.00</strong>
+  优惠信息（价格：<span>¥22.00</span> → <b>
+  <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  请订阅PlanItPhoto微信公众号，查看更多的精彩文章和教程。我们的另外有个免费应用巧摄现场版也已经发布。
+  三秒记一笔！快速、安全、好用是我们的宗旨，更有 iOS 通知中心的Widget插件。
 
-免费中文视频教学：
-YouTube：
-https://youtube.com/playlist?list=PLTmlTTxPbBbfOTOEQhi3klBpHP952Y9je
-哔哩哔哩：
-https://space.bilibili.com/382927099/channel/seriesdetail?sid=2490499
+看看其他人怎么说：
+◎ 分类多样细致明确，操作方便快速。
+◎ 操作又简单，又快。虽然没宣传说的三秒那么快，但五秒内没问题。报表也很详细，还有预算功能。我会一直用下去，谢谢作者。
+◎ 迄今为止用过的最完善的记账软件。
+◎ 操作方便，没有多余的功能。
+◎ 很好用的app，使用很方便。超喜欢屏幕下拉widget里面添加账目的方式。
 
+Apple Watch:
+您可以在 Apple Watch 中增加收支数据。在 Glance 中查看您今日和本月的开支情况。
 
-另外我们还有20个小时的收费直播课。欢迎订阅我们的微信公众号了解更多信息。
+特色功能：
+◎ 三秒速记：向下拉、填金额、选分类 
+◎ iOS 通知中心插件：iPhone锁屏时也能轻松、快速地记帐
+◎ 密码安全保护：除了您，任何人均无法打开。即使双击Home键在App清单中也无法查看数据
+◎ 支持 160 多种货币，更能自动更新换算汇率
+◎ 计算器：内置计算器，任何时候都无需先心算再输入，她帮你轻松搞定
+◎ 全手势操作：快速记帐的基础
+◎ 人性化的新手引导：对于特别的操作，我们通过动画 + 文字的方式引导，更直观、更易懂
+◎ iCloud 备份和恢复
+◎ Dropbox 备份和恢复
+◎ 导出数据至CSV
+◎ 经常性事件，无论是开支和收入，具有丰富的频率选项。
+◎ 允许自定义主题颜色和墙纸
+◎ 允许从收支模板生成新的收支记录
 
-也许您正在寻找一个这样的应用，可以帮助您计划风光摄影的各种细节。那恭喜您，真的不用再找了，巧摄专业版就是梦寐以求的应用。不管您喜欢风光摄影的哪个方面，旅行，城市，自然，夜景，星空，银河，星轨，延时，这个应用都可以帮助到您。
+基本功能：
+◎ 收支记录可以加入照片
+◎ 收入、支出、转账，该有的都有
+◎ 多种图形报表，让您轻松查看年/月/周的收支情况
+◎ 预算管理：给自己控制消费一个理由
+◎ 多种颜色主题及墙纸，让您充分个性化
+◎ 自定义收支类别和消费账户，更符合您的需要
+◎ 同时支持 iPhone 和 iPad
+◎ 每日记账提醒
 
-著名美国摄影师安塞尔•亚当斯在他的第一本书《Taos Pueblo》强调了“可视化”的概念。他提出“预可视化”，也就是说摄影师应该在按下快门之前就想像出最后出来的照片会使怎样。当然，很多伟大的照片是即兴拍摄出来的，但是对于风光摄影师来说，如果可以提前预见到场景的样子会很大程度上避免因为没有准备好而错失良机，也会大大增加出好片的机会。
+增强功能：
+◎ 通过手势轻松复制历史记录，并自动将消费日期定位在当天，您只需要修改金额即可。当然，您也可以使用现有金额直接保存
+◎ 帐单编辑时也可以新增收支类别和消费账户，更可以点击国旗更改当前消费的币种
 
-现在科技发达，摄影师可以使用很多不同的工具实现场景的预可视化。当然，手机应用就是很多这样的工具之一，而且越来越流行。我们这个巧摄专业版就是这样的一个全功能的应用。它巧妙地利用地图结合各种摄影工具和日月银河星历功能，来实现场景预可视化。
+如果您因为担心记账麻烦而放弃记账
+如果您因为时间匆忙而放弃记账
+如果您想知道自己的花销在何处
+如果您想通过记账来控制花销，达到省钱的目的
+如果。。。
 
-在这个看似简单的应用里面，我们加了很多的功能。比如说任何地点的GPS坐标、海拔高度、两点距离、海拔高度差、以及从某一点是否可以看到某个景点。这些信息不单对摄影师，可能对很多热爱旅游的人来说，都是重要的。而对摄影师，我们还专门提供了焦距（水平方向和垂直方向），景深、超焦距和全景工具。不仅如此，我们还加入了星历表的功能。这样您就可以查到任何一天任何地点的日出日落时间、月出月落时间、曙暮光开始结束时间、黄金时段、蓝色时段。甚至任何时刻的太阳和月亮的位置你都可以查到。还有星星、星座、银河、星云的位置。另外还有星轨计算器和延时摄影计算器功能，曝光自动计算，ND滤镜计算器，光度计，彩虹位置预测，部分国家的潮汐数据。可以说是风光摄影需要的功能，应有尽有。和其它类似应用不同的是我们这个应用把上面提到的所有功能都在地图上或者取景框方式下直观地显示出来，各个功能之间还可以结合使用。
+试试我们的“天天记账”吧，她会是您最佳的助理
 
-风光摄影是我们对自然界的探险。 我们知道您在外面探索时，可能会没有任何网络。 巧摄专业版当然知道这个，所以只要您预装离线海拔文件和离线mbtiles地图，您可以完全离线使用该应用程序，而无需网络连接。
+URL Schemes: DayCost://
 
-许可协议：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-隐私声明：https://planitphoto.cn/privacy.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/24/29/ed/2429edc4-cc0c-54d3-9623-faff875846fc/bd0a9209-2bfb-4574-b7fa-8df3d314a540_Final-jingmao-zh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/74/b1/ff74b16d-75bf-9678-ebe3-d8217ed3cb33/6c40ae3e-b56a-4f96-a463-785d1dd4d085_Final-mission_peak-zh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/03/e3/df03e393-158e-d6b6-2ee1-98c541762a9c/7e30116b-8277-4464-b914-9081492f9583_Final-moon_half_dome-zh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/33/9a/43339ae4-75d7-6651-ff69-483ce872f6df/a7280769-edf0-4eb1-874a-2d7f9714091b_Final-moonbow-zh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/25/21/43252186-467e-994b-8f38-3b9cde87f7ab/00bfb3ec-dd31-4bff-9934-5443931c3abf_Final-sunrise-zh.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/77/84/427784ef-b397-5570-02e9-db4337d63537/d8d80c55-203a-4d14-b1eb-71239b3095d9_Final-travel-zh.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/ba/e8/83bae870-9428-a362-3a35-39a1ef6f33c1/60e941f6-9b25-41ae-be05-a5c74d8259a6_Final-moonbow-zh.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/86/e6/a486e6df-7e76-f525-025c-5ed7d8009b2b/a04615be-4c4f-46b9-ab4f-c593df2ed56a_Final-mission_peak-zh.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/97/b8/6e/97b86e5e-8f77-2bca-1bcd-a1c6edc1487a/320d81f9-3afc-4659-b776-38cac1397255_Final-sunrise-zh.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/af/c9/11afc94a-ead9-4126-d815-b9be8d43cbc8/676a318a-37b0-49ff-b629-57dd30690bab_Final-travel-zh.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d0/c0/fc/d0c0fcd4-2dc1-953b-1e43-d580e611b267/53531bf0-0881-4fb4-9537-ba956a75ec13_Final-moon_half_dome-zh.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/50/e4/00/50e40065-1641-0253-9515-552c9bfac983/5ff4b98e-6f44-4bec-b4cb-85aeea1b3656_Final-jingmao-zh.jpg/576x768bb.jpg" />]]></content>
+有任何建议或意见，请给我们来信：support@daycost.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/eb/a5/86eba570-e20a-c722-7abb-a0a1051ebc6d/mzl.zohrlfie.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/49/c8/1249c81a-2b59-c713-29d2-ee6157b2d9c4/mzl.iydrsahs.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/53/20/295320a8-7334-1ab8-34b4-eafa7c93f8d0/mzl.vpuzijpt.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/23/dc/7b/23dc7bfe-d6c8-7ead-493a-a35271d7f6bf/mzl.afrpgmac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/d6/96/a3d69618-4317-7eba-c6f1-2f4b7700cb3b/mzl.sjlhtobj.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/0e/79/ec0e7927-daa4-9562-fefb-2708b53d1ce4/mzl.wydrhfwd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/39/45/7b394532-fa86-fe64-944f-858db98fe493/mzl.uanpsojf.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/a1/a8/dda1a844-417a-233c-f21a-6b80b9b55527/mzl.cvnykbxa.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/2e/68/bb2e68a7-ef8e-4e89-b530-aed32697a3d1/mzl.tflygrmy.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
