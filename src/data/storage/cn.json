@@ -24927,6 +24927,16 @@
     "history": [
       [
         {
+          "timestamp": 1760019744939,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759155739306,
           "price": 0,
           "formattedPrice": "免费",
@@ -40167,6 +40177,17 @@
       "终业(DLC)": "¥10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760019744939,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "终业(DLC)": "¥10.00",
+            "暖雪全家桶": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758810127668,
