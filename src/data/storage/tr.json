@@ -16914,6 +16914,20 @@
     "history": [
       [
         {
+          "timestamp": 1760080859227,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Goodnotes 6 One-Time Payment": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1760070357745,
           "price": 0,
           "formattedPrice": "Free",
