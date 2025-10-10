@@ -19841,6 +19841,16 @@
     "history": [
       [
         {
+          "timestamp": 1760116729434,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759706215427,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -25355,14 +25365,22 @@
   "1633865171": {
     "name": "獬豸 · 民法典 - 法律/司法解释/指导案例",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760116729434,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,

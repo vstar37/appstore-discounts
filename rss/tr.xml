@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-10T04:29:17.918Z</updated>
+    <updated>2025-10-10T17:22:08.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,59 +21,50 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-10T04:29:17.919Z</updated>
+        <updated>2025-10-10T17:22:08.709Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
-        <id>Goodnotes: AI Notes, Docs, PDF-1760070357745</id>
-        <link href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
-        <updated>2025-10-10T04:25:57.745Z</updated>
-        <summary type="html"><![CDATA[Goodnotes 6 One-Time Payment: ₺1.369,99 → ₺1.099,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/34/7f/ea347f3d-f477-6add-a898-7a9c56d98cea/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Goodnotes 6 One-Time Payment：</strong><span>₺1.369,99</span> → <b>
-  <strong>₺1.099,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Goodnotes has always been the place to capture your ideas — from quick notes to big plans. Now, it goes further. With powerful AI and new ways to capture information, Goodnotes helps you connect the dots, unlock insights, and turn ideas into action.
+        <title type="html"><![CDATA[Juice Watch: Battery Monitor]]></title>
+        <id>Juice Watch: Battery Monitor-1760116729434</id>
+        <link href="https://apps.apple.com/tr/app/juice-watch-battery-monitor/id1485101937?uo=4"/>
+        <updated>2025-10-10T17:18:49.434Z</updated>
+        <summary type="html"><![CDATA[Price: ₺299,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/juice-watch-battery-monitor/id1485101937?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5a/5e/825a5e36-5df5-08a0-c3fd-33d2b0df1ecf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺299,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Monitor your iPhone battery level from your wrist.
 
-*Existing Goodnotes 5 users can continue to use Goodnotes 5 indefinitely or upgrade to the new Goodnotes. Either way, your notes are safe!*
+Juice Watch is a simple app designed to do two things well:
 
-For professionals: Increase productivity at work
-■ Whiteboard + Goodnotes AI: One of our most requested features — brainstorm, mind-map, and diagram freely on an infinite canvas that grows with your ideas. Enhanced diagramming tools and real-time collaboration make it easy for teams to workshop, ideate, and problem-solve together, while Goodnotes AI helps you capture and organize key takeaways instantly. 
-■ Goodnotes AI Audio & Meetings: Stay fully present in every conversation while Goodnotes does the work for you. AI-powered transcription and live summarization automatically capture discussions and structure them into clear meeting minutes. After the meeting, merge transcripts with your own notes to create polished, shareable documents in seconds. 
-■ Text Documents + AI: Create documents that think with you. Enjoy a superior typing experience with rich inline blocks, build on ideas with external insights, and collaborate seamlessly with teammates. With AI-powered summarization, automated note generation, and transcript support, you can turn rough notes and meetings into finished content faster than ever. 
-■ Present your notes, slides, and content directly from Goodnotes when you connect your device via AirPlay or HDMI to an external screen. 
-■ Use Laser Pointer to guide your audience’s attention during your presentation.
-■ Export your notes to email, print, or share them anywhere as PDFs. 
-■ Send a link to your notebooks to work on the same notes directly — perfect for asynchronous work or collaborative brainstorming. 
-■ Import documents by emailing them to your custom Goodnotes email. 
+• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-For students: Ace your exams with ease
-■ Record audio notes that are magically synced to the moment you write — perfect for lectures or presentations.
-■ Search and instantly find any of your notes from any class. 
-■ Study and practice straight from your notes with Study Sets — flashcards built on active recall and spaced repetition. 
-■ Use AI to summarize, shorten, change the tone of your words, and perfect your typed text. 
+• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
 
-For planners: Let your creativity flow 
-■ Customize the size and color of your paper templates to create the template you want. 
-■ Add, create, or import stickers, stamps, washi tapes, images, and more 
+Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
 
-Digital notebooks: unlimited notebooks for the price of a single physical one. 
-■ Combine handwriting and typed text on one page, alongside images, stickers, diagrams, and doodles. 
-■ Create digital notebooks with customizable paper templates, including Blank Paper, Ruled Paper, Cornell Paper, Checklists, Planners, and more. 
-■ Navigate long documents with ease. PDF tables of contents are automatically imported; or create custom outlines yourself. 
-■ Back up all your notes to Google Drive, Dropbox, or OneDrive, and use iCloud to sync across iPad, iPhone, and Mac — so your notes are always safe. 
-■ Edit your writing by resizing it, changing the text color, or moving it to another spot on the page. 
-Privacy Policy: https://www.goodnotes.com/privacy-policy
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/8e/a9/688ea90e-945a-18bc-587f-1cd7f8af2ec7/ASO_EN_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/ca/9916caa6-24cd-7bf4-b706-3c13feb289b2/ASO_EN_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/7a/56/4d7a565c-6196-d5f3-fd3c-a43974a14478/ASO_EN_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/7f/83/a27f8361-a94d-2e2b-fc4b-eafa3cdf6a9e/ASO_EN_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3b/5d/ba3b5d02-5042-7b27-8cb2-918fbd658488/ASO_EN_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a0/a0/6da0a071-fffb-58e4-b22c-388418f1a41b/ASO_EN_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/8b/7d0f8bc4-8c8d-27aa-6f82-6903df878c0d/ASO_EN_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/83/89/4d83896c-8e7c-bacd-9ef6-0ac0123fa0f6/ASO_EN_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/99/ce/db99ce15-b5df-3c97-7e1f-4a10fb0a928a/ASO_EN_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/d2/3f16d24d-54ab-6565-5e04-bec402af7e3a/ASO_EN_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
+You can see both your iPhone and Apple Watch battery levels on the same complication.
+
+You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+
+You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+
+Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+
+You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+
+Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+
+Note: The Juice Watch complication must be installed on your active watch face for the app to work as expected.
+
+As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

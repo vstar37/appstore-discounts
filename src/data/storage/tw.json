@@ -29292,6 +29292,16 @@
     "history": [
       [
         {
+          "timestamp": 1760116729434,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759706215427,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -35958,14 +35968,22 @@
   "1633865171": {
     "name": "獬豸 · 民法典 - 法律/司法解释/指导案例",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760116729434,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
