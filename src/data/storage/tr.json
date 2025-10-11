@@ -7336,6 +7336,14 @@
     "history": [
       [
         {
+          "timestamp": 1760224734491,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756941514623,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -19881,6 +19889,16 @@
     "history": [
       [
         {
+          "timestamp": 1760224734491,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Value for Value": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760116729434,
           "price": 0,
           "formattedPrice": "Free",
@@ -23044,6 +23062,19 @@
     "history": [
       [
         {
+          "timestamp": 1760224734491,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "₺99,99",
+            "黄鸭证件照-周度会员": "₺19,99",
+            "黄鸭证件照1元": "₺4,99",
+            "黄鸭证件照3元": "₺19,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -25837,6 +25868,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760224734491,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759015096736,
