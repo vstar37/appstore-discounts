@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-10-10T17:22:08.707Z</updated>
+    <updated>2025-10-11T14:20:04.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,50 +21,27 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-10T17:22:08.707Z</updated>
+        <updated>2025-10-11T14:20:04.713Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch: Battery Monitor]]></title>
-        <id>Juice Watch: Battery Monitor-1760116729434</id>
-        <link href="https://apps.apple.com/hk/app/juice-watch-battery-monitor/id1485101937?uo=4"/>
-        <updated>2025-10-10T17:18:49.434Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/juice-watch-battery-monitor/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/5a/5e/825a5e36-5df5-08a0-c3fd-33d2b0df1ecf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[时间轴-全球历史]]></title>
+        <id>时间轴-全球历史-1760192200831</id>
+        <link href="https://apps.apple.com/hk/app/%E6%97%B6%E9%97%B4%E8%BD%B4-%E5%85%A8%E7%90%83%E5%8E%86%E5%8F%B2/id818394449?uo=4"/>
+        <updated>2025-10-11T14:16:40.831Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 32.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E6%97%B6%E9%97%B4%E8%BD%B4-%E5%85%A8%E7%90%83%E5%8E%86%E5%8F%B2/id818394449?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b7/a6/ec/b7a6ec8f-0fe7-2917-0aaf-237ee83bb763/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  优惠信息（价格：<span>HK$ 32.00</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
-
-Juice Watch is a simple app designed to do two things well:
-
-• Show the battery level of the paired iPhone in a complication on Apple Watch
-
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
-
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
-
-You can see both your iPhone and Apple Watch battery levels on the same complication.
-
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
-
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
-
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
-
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
-
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
-
-Note: The Juice Watch complication must be installed on your active watch face for the app to work as expected.
-
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+  跨越万年，从石器时代到21世纪，重大历史事件一一展现在您面前，更有平行时间轴让您更直观的查看全球历史。
+游戏玩累了，剧集追完了，找个时间看看我们世界真实的历史，也许您会发现些不一样的东西。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/20/62/e1206290-0866-071d-2252-786a2be16917/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e4/39/98/e439984a-4153-1d09-ea3f-19b8726f180e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/eb/04/b5eb045e-4b53-a536-b2be-415e42d1aa03/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/94/28/2e/94282ee4-4305-87c6-1349-6d5e49f6f8ea/mzl.dljnmwwg.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/33/33/83/333383b1-2b44-863d-3250-9a6b486c3991/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a3/5d/a9/a35da9c5-7411-4241-aaa4-ba5732b76fad/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c1/88/ec/c188ec68-dfe2-aa81-725e-f309897f953e/mzl.nrqplopd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/08/09/bf0809a0-264f-5f2a-b2dc-b97e5e9ed41c/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

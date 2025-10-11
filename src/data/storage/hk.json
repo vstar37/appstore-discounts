@@ -11555,6 +11555,14 @@
     "history": [
       [
         {
+          "timestamp": 1760192200831,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756909251239,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -11962,6 +11970,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760192200831,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "年訂閱（早鳥）": "HK$ 200.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一大袋寶石": "HK$ 88.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "一推車寶石": "HK$ 188.00",
+            "年訂閱": "HK$ 200.00"
+          }
+        },
         {
           "timestamp": 1760188972979,
           "price": 0,
@@ -33622,6 +33646,14 @@
     "history": [
       [
         {
+          "timestamp": 1760192200831,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760116729434,
           "price": 0,
           "formattedPrice": "免費",
@@ -40861,6 +40893,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760192200831,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758982662332,

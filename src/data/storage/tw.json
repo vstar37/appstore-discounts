@@ -10740,6 +10740,14 @@
     "history": [
       [
         {
+          "timestamp": 1760192200831,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756909251239,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -29361,6 +29369,14 @@
     "history": [
       [
         {
+          "timestamp": 1760192200831,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        },
+        {
           "timestamp": 1760116729434,
           "price": 0,
           "formattedPrice": "免費",
@@ -36474,6 +36490,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760192200831,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758982662332,
