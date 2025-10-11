@@ -16914,6 +16914,22 @@
     "history": [
       [
         {
+          "timestamp": 1760156652900,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Goodnotes 6 One-Time Payment": "₺1.099,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760080859227,
           "price": 0,
           "formattedPrice": "Free",
@@ -26975,7 +26991,7 @@
       "formattedPrice": "Free",
       "连续包月订阅": "₺29,99",
       "连续包年订阅": "₺249,99",
-      "拦截猫股东会员": "₺899,99"
+      "拦截猫股东会员": "₺999,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26985,6 +27001,18 @@
       "拦截猫股东会员": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760156652900,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月订阅": "₺29,99",
+            "连续包年订阅": "₺249,99",
+            "拦截猫股东会员": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1733126594374,
