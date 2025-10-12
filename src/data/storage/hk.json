@@ -11555,6 +11555,14 @@
     "history": [
       [
         {
+          "timestamp": 1760278660256,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760192200831,
           "price": 0,
           "formattedPrice": "免費",
@@ -13144,6 +13152,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760278660256,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760023850195,
@@ -42685,6 +42701,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760278660256,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x1 (A)": "HK$ 21.00",
+            "金色公事包": "HK$ 7.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "綠色藥草吊飾": "HK$ 7.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "經典公事包": "HK$ 7.00"
+          }
+        },
         {
           "timestamp": 1760275433042,
           "price": 0,

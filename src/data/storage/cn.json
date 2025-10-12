@@ -7550,6 +7550,23 @@
     "history": [
       [
         {
+          "timestamp": 1760278660256,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "波恩哈特": "¥48.00",
+            "阿什比特": "¥48.00",
+            "大型英雄包 2": "¥88.00",
+            "纽维斯": "¥8.00",
+            "沙塔尔": "¥22.00",
+            "但丁": "¥38.00",
+            "黑棘船长": "¥8.00",
+            "德得尔": "¥8.00",
+            "英雄包 1": "¥15.00",
+            "英雄包 3": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1760275433042,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -10346,6 +10363,14 @@
     "history": [
       [
         {
+          "timestamp": 1760278660256,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760192200831,
           "price": 0,
           "formattedPrice": "免费",
@@ -11682,6 +11707,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760278660256,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760023850195,
