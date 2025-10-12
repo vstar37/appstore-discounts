@@ -11467,6 +11467,14 @@
     "history": [
       [
         {
+          "timestamp": 1760238250277,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756956742501,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -32328,6 +32336,16 @@
     "history": [
       [
         {
+          "timestamp": 1760238250277,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760116729434,
           "price": 0,
           "formattedPrice": "Free",
@@ -36361,6 +36379,19 @@
     "history": [
       [
         {
+          "timestamp": 1760238250277,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -39865,6 +39896,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760238250277,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759029021304,
