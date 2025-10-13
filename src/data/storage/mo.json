@@ -16680,7 +16680,8 @@
       "ADHD 學生規劃本 2025-2026 (週一開始, 適用": "USD 10.99",
       "AI Pass (Monthly)": "USD 9.99",
       "Goodnotes Pro (Yearly)": "USD 35.99",
-      "Goodnotes 6 One-Time Payment": "USD 35.99"
+      "Goodnotes 6 One-Time Payment": "USD 35.99",
+      "特別版": "USD 35.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -16834,9 +16835,28 @@
       "ADHD 學生規劃本 2025-2026 (週一開始, 適用": "USD 10.99",
       "AI Pass (Monthly)": "USD 9.99",
       "Goodnotes Pro (Yearly)": "USD 35.99",
-      "Goodnotes 6 One-Time Payment": "USD 35.99"
+      "Goodnotes 6 One-Time Payment": "USD 35.99",
+      "特別版": "USD 35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760375927350,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 11.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "特別版": "USD 35.99",
+            "Goodnotes 6 一次性付款": "USD 28.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00",
+            "心儀地點封面": "USD 0.99",
+            "秋貓貼紙組": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760359652700,

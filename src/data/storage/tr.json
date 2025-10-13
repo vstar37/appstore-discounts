@@ -16810,7 +16810,8 @@
       "Goodnotes Pro (Yearly)": "₺1.369,99",
       "Goodnotes 6 (1년)": "₺449,00",
       "Essential (Yearly)": "₺449,00",
-      "Pro (Yearly)": "₺1.369,99"
+      "Pro (Yearly)": "₺1.369,99",
+      "Special Edition": "₺1.369,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -16951,9 +16952,26 @@
       "Goodnotes Pro (Yearly)": "₺1.369,99",
       "Goodnotes 6 (1년)": "₺449,00",
       "Essential (Yearly)": "₺449,00",
-      "Pro (Yearly)": "₺1.369,99"
+      "Pro (Yearly)": "₺1.369,99",
+      "Special Edition": "₺1.369,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760375927350,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760264425204,
