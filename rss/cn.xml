@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-11T16:27:09.380Z</updated>
+    <updated>2025-10-13T01:53:19.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,112 +21,62 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-11T16:27:09.381Z</updated>
+        <updated>2025-10-13T01:53:19.903Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黄鸭证件照-最美求职考试证照制作神器]]></title>
-        <id>黄鸭证件照-最美求职考试证照制作神器-1760199830750</id>
-        <link href="https://apps.apple.com/cn/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4"/>
-        <updated>2025-10-11T16:23:50.750Z</updated>
-        <summary type="html"><![CDATA[价格: ¥2.80 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/6b/b0/b06bb0b1-a97e-59c8-2e41-e0ac06f1d597/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Inspire Pro]]></title>
+        <id>Inspire Pro-1760320206576</id>
+        <link href="https://apps.apple.com/cn/app/inspire-pro/id355460798?uo=4"/>
+        <updated>2025-10-13T01:50:06.576Z</updated>
+        <summary type="html"><![CDATA[价格: ¥148.00 → ¥68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/inspire-pro/id355460798?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥2.80</span> → <b>
-  <strong>免费</strong>
+  优惠信息（价格：<span>¥148.00</span> → <b>
+  <strong>¥68.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  黄鸭证件照， 小红书博主推荐，抖音超热门证件照APP，求职求学必备！
+  App Store专供、精心设计、功能强大、iPad量身定做 - Inspire Pro为您提供令人难以置信的快速逼真绘画体验，让您随时随地记录灵感。
 
-为什么选择黄鸭证件照？
+我们独有的绘画引擎Sorcery™充分利用GPU的性能，以炫丽的64位色彩、激光般锐利的子像素精度和极快速度来渲染画笔的笔触。本身已很精美的湿油画笔笔触，加上干画笔的惊人混合效果绝对会惊艳到您。轻压并涂抹画布即可为您的作品添加淡柔模糊效果，而用力按压则可将画布上的颜色混合，创造出新的色彩。
 
-一次付费下载，永久使用，还可设置分享给朋友家人（依照iCloud家庭账户规则）
+无论您是初学者、专业画家或是介于二者之间的阶段，这款最直观而令人惊叹的iPad插画应用Inspire Pro的简单性和强大功能都将令您乐在其中。
 
-“一款功能强大的证件照制作软件，用户可免费保存无水印电子证件照到手机相册，还有众多实用小工具功能等你探索。”
+画笔
+• 150种分为15组供您选用的高品质画笔：油漆、气笔、喷漆、泼漆、石墨铅笔、蜡笔、马克笔、粉笔、炭笔、粉彩和孔泰笔、基本图形、复杂图形、形状轮廓、图案和纹理
+• 所有画笔均可用作湿画笔，干画笔（混合）或橡皮擦
+• 超过20种不同的配置赋予画笔笔触强大的多功能性和变化性
 
-===百种证件照尺寸，够专业===
+绘画
+• Sorcery™，App Store上最快的64位绘画引擎
+• 功能完备的Apple Pencil支持压力、倾斜角度、方向和双击
+• Smart Keyboard支持超过20个上下文敏感型键盘快捷键
+• 可创建任意尺寸画布，iPad Pro上可大至16K (64MP)
+• 双纹理画笔
+• 64位颜色
+• 时刻支持所有设备方向 - 轻松切换横竖屏绘画
+• 多达1000级的撤消和重做功能
+• 无需打开菜单，触摸和滑动热点即可快速更改画笔大小、不透明度和压力
+• 可利用吸管工具通过触摸和保持手势从画布中选择绘画颜色
+• 画布可以移动，旋转和放大（可放大至6400％）
 
-包含1寸、2寸、3寸、4寸等常规尺寸，同时提供百余种官方指定证照规格，如：毕业照、学位照、入学照等学生证照；会计、考研、计算机、公务员、医护、考研、幼师及语言类考试证照；还有社保、签证、简历、驾照等其他类满足您的各类拍摄场景需求。软件智能推出当下热门的证件照尺寸，让你更快捷高效的用手机制作证件照！
+画布回放视频录制
+• 绘画时自动记录画笔笔触而无任何延迟
+• 您可以直接在图库中逐笔播放您正在创建的作品视频
+• 画布回放视频可以导出到您的照片或任何其他地方
+• 导出的视频拥有高品质HD画质，分辨率最高可达1080p
 
-===一键抠图换背景，够智能===
+颜色选择器
+• 使用直观的颜色选择器选择您可以想象到的任何绘画颜色
+• HSB和RGB滑块搭配一个大色轮，色块和不透明度滑块
+• 在绘画时，您上一次使用的颜色会自动保存到调色板中
+• 您也可以通过拖放将您喜爱的颜色保存到调色板中
 
-发丝级抠图引擎，ps小白的福音！傻瓜式操作智能抠图，配合多元化背景底色，除了常规红蓝白，还增加高级色和糖果色，可根据不同的使用场景随意切换。展现你最美气质的同时，确保证件照的专业合规性，一图多用不是梦，旧图改造还能用！
-
-===超自然美颜美妆，够高级===
-
-AI智能算法提供磨皮、美白、瘦脸、等美颜功能。更有适合懒人、手残党的一键式化妆，满足你对自然妆、男神妆、女神妆的需求，支持自定义妆容程度。一键还原最美且真实的你，打造完美、自然、高级感脸庞，告别证照不美时代！
-
-===海量服饰在线换，够正式===
-
-不同风格的男装、女装、童装，满足多种场景需求的同时，支持自助调节服饰大小和位置，搭配消除笔调整细节，效果简直完美！
-
-
--隐私政策：https://shimo.im/docs/qKVR8J3PQKtGHKk6/
--服务条款：https://www.freeprivacypolicy.com/live/8d648196-576f-4b7b-a889-01476e5f167b
-
-https://idcamera-834ff.web.app
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/77/4b/da774b68-162b-49a2-92c5-dec27e638d4a/d46268ee-6d52-4e55-ab8e-1c106deea1ba_1242x2208aa.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/82/63/c782639d-d958-d6f1-4c93-83a4968bfaed/d0b5c7a6-3c28-4cb0-865f-e397dc95e63d_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/95/33/b395338e-43d1-5c98-df4a-ca588c157431/c2cf5247-bcbb-4d36-9eff-812d46911ad7_Apple_iPhone_8_Plus_Screenshot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/56/68/3c5668ef-67ea-5182-d2ac-7d49d7952d3d/fabed569-5543-4cf7-a1d0-9e4d93f70221_Apple_iPhone_8_Plus_Screenshot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/05/ba/f605bae7-9607-a11e-f34b-8f058d51c87d/435cc9e5-5220-46cc-9d65-23dbfd892e51_Apple_iPhone_8_Plus_Screenshot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-1760199830750</id>
-        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-10-11T16:23:50.750Z</updated>
-        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f1/4f/3bf14f8d-b541-ac77-ea8c-f9e03dd0cb6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥1.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  「Card.Note」：每个念头都值得用心记录
-
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
-
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-「Card.Note」九大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
-
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
+访问snowCanoe.com查看更多的屏幕快照，视频和作品。
+</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/92/33/3c/92333c1f-72ee-f1fb-1213-41bc247fe52b/44a1dc0b-4f26-477b-a05d-10adcd9298cc_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/45/ea/e445ea25-5ce5-c01b-286a-29abb3c72bcf/2f3dc663-a885-4a26-b31f-442214eae818_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/79/17/1a/79171a11-e834-c6f9-b876-8b215bbb2f1d/06bc0b57-5f67-4108-ae8e-b832dfbc8ed9_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b1/c8/47b1c821-ad70-53e3-b983-86e5099ed583/ba9408fe-2c05-46cf-b327-d7edc32740c3_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/71/2f/93/712f9369-eae4-b486-80bc-1837c38e9969/e2ffb1ba-ae83-46bc-b37b-c923c368a283_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/59/66/d5/5966d5a8-a5ab-e5f6-9177-ef5b383534ff/34f3f204-f498-4d2e-8fe4-ac45ec203462_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/ae/eb/92aeeb27-eaa8-6529-9a96-e0d5ae0e93e9/15c362d2-4851-439c-bbfb-535de5f98419_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/3e/92/0d3e92ee-d109-3fa1-9f02-c34b4f890063/3f26ca87-0daa-44c6-92e2-b9c14d0fd3e9_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/4d/c6/2f4dc6e0-61cc-18e3-3547-bff1e073d74d/3ea66689-9c6c-4a57-bc6f-ac05146c2662_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/14/2d/07/142d073f-d424-0b98-ed0f-a64304e081c3/5e8f249e-8dbc-4259-9ee7-8147d3d4afb3_Screenshot10.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
