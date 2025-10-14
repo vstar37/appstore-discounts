@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-14T03:06:05.544Z</updated>
+    <updated>2025-10-14T06:36:18.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,56 +21,47 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-14T03:06:05.545Z</updated>
+        <updated>2025-10-14T06:36:18.253Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1760410962372</id>
-        <link href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-10-14T03:02:42.372Z</updated>
-        <summary type="html"><![CDATA[Lifetime: $19.99 → $19.95]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1b/ca/361bca41-6f29-1825-6f28-25677ba98031/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
+        <id>VidHub -Video Library &amp; Player-1760423600764</id>
+        <link href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4"/>
+        <updated>2025-10-14T06:33:20.764Z</updated>
+        <summary type="html"><![CDATA[Lifetime VIP(Apple TV only): $29.99 → $14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/a7/71/25a771c0-87b0-1dda-2188-116149636936/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime：</strong><span>$19.99</span> → <b>
-  <strong>$19.95</strong>
+    <strong>Lifetime VIP(Apple TV only)：</strong><span>$29.99</span> → <b>
+  <strong>$14.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  MoneyTrack - Smart Personal Finance Tracker
-Record every dollar, take control of your finances. A clutter-free budgeting app with zero ads, zero splash screens, and zero financial product promotions.
+  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
 
-■ KEY FEATURES
-• Auto-Tracking: Seamlessly integrates with Shortcuts for automatic expense capture triggered by your transactions
-• Versatile Entries: Track income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Powerful Analytics: Visualize spending patterns through pie charts, bar graphs and trend lines to quickly spot financial issues
-• Smart Budgeting: Create annual/monthly budgets for total spending and categories with dynamic daily allowance adjustments
+Some of the key features that VidHub offers include:
+- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
+- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
+- High-quality video playback for HD, 4K, HDR, and various other resolutions
+- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
+- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
+- Support downloading and deleting cloud files
+- Support renaming cloud files, support add character, replace character, regular expression renaming method.
+- Support direct-link to Emby, Jellyfin, Plex media server.
+- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
 
-■ COMPREHENSIVE ASSET MANAGEMENT
-• Unified dashboard for all account types (cash, checking accounts, credit cards, store cards)
-• Balance sheet and net worth tracking for real-time financial status monitoring
-• Credit card management system (payment alerts, limit tracking, grace period calculation)
-• Multi-currency support with exchange rates for all major world currencies
+All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
 
-■ SMART FEATURES
-• Multiple Books: Easily separate personal, business, and project finances
-• Collaborative Tracking: Invite family members to create transparent household finances
-• Cloud Sync: Free data backup across devices with secure protection
-• Easy Import/Export: Support for importing from banking apps and exporting to Excel
-• Recurring Transactions: Set up automatic entries that generate on schedule
-• Payment Plans: Track installment payments with due date reminders
-• Custom Categories: Create unlimited category levels to match your financial organization
+Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
 
-■ MULTI-DEVICE EXPERIENCE
-Sync between iPhone, iPad and PC with instant updates, keeping your financial picture complete no matter where you are.
-
-■ FOCUSED ON FINANCIAL WELLNESS
-We're dedicated to one mission — helping you achieve financial clarity. No investment pitches, no social distractions, just a clean and effective expense tracking experience.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+Privacy Policy and Terms of Use
+https://okaapps.com/privacy_vidhub
+https://okaapps.com/terms_vidhub
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
