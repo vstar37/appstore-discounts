@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-13T20:27:28.722Z</updated>
+    <updated>2025-10-14T23:23:18.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,82 +21,57 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-13T20:27:28.722Z</updated>
+        <updated>2025-10-14T23:23:18.544Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[随手记Pro–记账财务管理软件]]></title>
-        <id>随手记Pro–记账财务管理软件-1760387059520</id>
-        <link href="https://apps.apple.com/tr/app/%E9%9A%8F%E6%89%8B%E8%AE%B0pro-%E8%AE%B0%E8%B4%A6%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/id373454750?uo=4"/>
-        <updated>2025-10-13T20:24:19.520Z</updated>
-        <summary type="html"><![CDATA[专业会员·无限版-1个月（活动）: ₺699,99 → ₺599,99<br/>专业会员·10人版-12个月（活动）: ₺3.499,99 → ₺2.999,99<br/>专业会员·无限版-12个月（活动）: ₺6.999,99 → ₺5.999,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/%E9%9A%8F%E6%89%8B%E8%AE%B0pro-%E8%AE%B0%E8%B4%A6%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/id373454750?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/bf/cd/34bfcd33-bf3f-d614-1663-e55e147e4350/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>专业会员·无限版-1个月（活动）：</strong><span>₺699,99</span> → <b>
-  <strong>₺599,99</strong>
-</b>
-  </li><li>
-    <strong>专业会员·10人版-12个月（活动）：</strong><span>₺3.499,99</span> → <b>
-  <strong>₺2.999,99</strong>
-</b>
-  </li><li>
-    <strong>专业会员·无限版-12个月（活动）：</strong><span>₺6.999,99</span> → <b>
-  <strong>₺5.999,99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  多赚会花每一天，记账就要随手记！个人、家庭、生意账随心选。
-记账快捷又专业，轻松管理多人记账。多维度账单解读，全面了解你的财务状况。账单数据实时存，云端数据不丢失。
+        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
+        <id>Safety Note+ Pro-1760483991996</id>
+        <link href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4"/>
+        <updated>2025-10-14T23:19:51.996Z</updated>
+        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f7/03/38f703ea-8813-d3b2-c788-1f29d8ad3df6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺179,99</span> → <b>
+  <strong>Free</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Introducing Safety Note+: Keep Your Most Private Notes Secure
 
-【神象云账本】
-- 记一笔记账快捷又专业
-- 账本首页流水页，数据呈现更清晰
-- 云端存储数据，安全不丢失
-- 账本操作必留痕，安全又省心
+Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
 
-【海量账本模板，陪伴你的各个人生阶段】
-to成长中的你：
-- 高中生、大学生账本：生活费聪明花，课外兼职也能记
-- 班费账本：班委管钱大家看，班费收支更透明
-to工作中的你：
-- 差旅报销流水账：流水详尽不漏报
-- 网约司机、健身教练、装修队长：职业账本专属定制
-to爱生活的你：
-- 合租、恋爱、生活账：日常生活随心记
-- 旅游、宠物、爱好账：为自己所爱的事物，记录美好回忆
-- 攒钱、健身、目标账：设定一个小目标，让账本陪你变成想要的样子
-to创业中的你：
-- 奶茶、快餐、餐饮业：店铺经营实用工具
-- 服装、代购、零售业：成本营收全把控，应收应付不遗漏
-- 培训、酒店、服务业：各行各业全覆盖，首页报表指导经营
-to顾家的你：
-- 人情账本、结婚账本：人情红包收入支出一览无余
-- 儿童教育、宝宝账本：家人共享宝贝成长点滴
-- 汽车、储蓄家庭账本：日常生活分类全，全家合记一本账
-还有更多账本模板等你发现！
+Key Features:
 
-【专业记账，省心易用】
-- 记一笔：多人协同共同记账，随时随地记一笔
-- 账本首页：首页即报表，数据卡片及图表让财务状况一目了然
-- 流水：从各个维度查看收支情况，拒绝糊涂账
-- 账户：全面了解你的各账户余额，手有余粮心不慌
+• Advanced security system: Utilizing state-of-the-art technology to protect your notes
+• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
+• Biometric support: Unlock the app using TouchID or FaceID for added convenience
+• Intruder report: Capture photos of unauthorized individuals attempting to access your app
+• Decoy password: Conceal your real privacy with a decoy password
+• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
+• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
+• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
+• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
+• Note organization: Create, sort, move, and copy notes within folders
+• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
+• Additional features: Auto-save, note search, email notes, and full orientation support
+• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
 
-————献给热爱记账的你————
-生活需要一点仪式感。 有人每天早上一定要喝一杯咖啡， 有人每天睡前一定要写两句日记， 也有人每天都把挣到的和花过的每一分钱记录下来 在快节奏的时代，扫一扫就完成付款，动动手指就能解决三餐、完成购物。 移动支付把生活中的花销从实实在在的钱变成了一串变动的数字，很多时候我们对于花钱没有了概念，甚至，想不起来把钱花在了哪里。 这时，需要消费后的用心记账，提高自己对钱的敏感度。 希望热爱记账的你梳理财务状况的时候可以沉浸在随手记这个“工作台”！
+Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
 
-【联系我们】 使用过程中如遇问题，欢迎联系我们，可爱的客服妹纸会认真处理你的每一个反馈哦。
-- 在线客服："我的"-"求助反馈"-“功能咨询”/“业务咨询”
-- 留言路径：“我的”-“求助反馈”-“意见反馈”
-- 随手记官网：www.sui.com
-- 随手记微信：suishoujicom
-- 随手记服务条款：https://www.sui.com/help/agreement-mobile.html
-- 随手记隐私政策：https://www.sui.com/help/privacy.jsp
-如果您喜欢随手记，请在应用商店留下您的星星和评论，您的支持是我们进步的动力！
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/13/21/56132101-0b31-aad1-5d0b-32bd0f1917aa/ea10ca35-1c07-4842-9a28-57b1525fbb41_1_U591a_U8d26_U672c.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/b5/da/94b5da67-f3d4-bd70-d45a-e476554d8187/3cfe3720-4d43-4a6b-b098-2999fc561269_2_U6d41_U6c34_U65e5_U5386.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d4/22/67d42282-690d-d664-67dc-0069459d4c84/a892ff36-da7b-4388-b307-8a44b6e42bc5_3_U7ba1_U7406_U8d26_U6237.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/45/fd/5e45fddb-738d-c46d-616f-173c1e9873f7/e8301bc4-720e-40cb-8690-ea447f97f87c_4_U9080_U8bf7_U597d_U53cb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/b8/c3/7ab8c3bb-9376-e90f-1955-3ea1a7e29bc6/119dd367-4a30-4823-bb7f-ac09bec4fb60_5_U8bb0_U8d26_U952e_U76d8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/7e/f7/077ef716-fd2c-e28b-753a-8bd9767eec00/44704348-f02c-4005-b771-dab8dce97e11_6_U7edf_U8ba1_U62a5_U8868.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/f1/91/d7f191bd-729b-e82c-448b-3620ed4d2305/f4a756e6-c084-49eb-9f22-5daf055b1a61_7_U9996_U9875_U81ea_U5b9a_U4e49.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/9d/ce/279dce7a-c746-0804-2c54-ca97a089da28/e951cd8d-1846-4c45-b23f-6e542ba2797e__U5c0f_U7ec4_U4ef6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/19/91/45199130-274b-58f4-ab63-57bb15bcfde7/72d8fb00-7ef4-4f08-a0a2-bcaaa6e31d60__U65b0_U589e_U8d26_U672c.png/392x696bb.png" />]]></content>
+Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
+
+Visit us at:
+Website: https://sixbytes.io
+Twitter: https://twitter.com/SixbytesApp
+Facebook: https://www.facebook.com/sixbytesapp
+
+For more information, please refer to our Terms of Service and Privacy Policy:
+Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
+Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
