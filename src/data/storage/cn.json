@@ -18471,7 +18471,8 @@
       "PRO yearly subscription": "¥228.00",
       "Lifetime license": "¥698.00",
       "Yearly Subscription": "¥138.00",
-      "Monthly Subscription": "¥35.00"
+      "Monthly Subscription": "¥35.00",
+      "Controller Subscription": "¥228.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -18479,9 +18480,23 @@
       "PRO yearly subscription": "¥173.00",
       "Lifetime license": "¥328.00",
       "Yearly Subscription": "¥138.00",
-      "Monthly Subscription": "¥35.00"
+      "Monthly Subscription": "¥35.00",
+      "Controller Subscription": "¥228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760455507100,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Controller Subscription": "¥228.00",
+            "Yearly Subscription": "¥138.00",
+            "Lifetime license": "¥698.00",
+            "Monthly Subscription": "¥35.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756444840294,

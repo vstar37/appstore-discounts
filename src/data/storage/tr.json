@@ -11471,7 +11471,8 @@
       "PRO yearly subscription": "₺579,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
-      "Lifetime license": "₺4.499,99"
+      "Lifetime license": "₺4.499,99",
+      "Controller Subscription": "₺1.499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11479,9 +11480,23 @@
       "PRO yearly subscription": "₺1.499,99",
       "Yearly Subscription": "₺459,99",
       "Monthly Subscription": "₺109,99",
-      "Lifetime license": "₺1.499,99"
+      "Lifetime license": "₺1.499,99",
+      "Controller Subscription": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760455507100,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Subscription": "₺1.499,99",
+            "Yearly Subscription": "₺459,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758734356174,
