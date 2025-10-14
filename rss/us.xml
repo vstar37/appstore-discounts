@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-14T07:25:17.619Z</updated>
+    <updated>2025-10-14T22:23:22.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,51 +21,59 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-14T07:25:17.620Z</updated>
+        <updated>2025-10-14T22:23:22.495Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1760426529844</id>
-        <link href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-10-14T07:22:09.844Z</updated>
-        <summary type="html"><![CDATA[Lifetime VIP(iPhone&iPad only): $29.99 → $14.99<br/>Lifetime VIP(Mac Only): $29.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/a7/71/25a771c0-87b0-1dda-2188-116149636936/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-1760480416654</id>
+        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2025-10-14T22:20:16.654Z</updated>
+        <summary type="html"><![CDATA[永久会员: $14.99 → $12.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/02/1d/7b021dd2-0839-e158-f254-4cce3fa8c920/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime VIP(iPhone&iPad only)：</strong><span>$29.99</span> → <b>
-  <strong>$14.99</strong>
-</b>
-  </li><li>
-    <strong>Lifetime VIP(Mac Only)：</strong><span>$29.99</span> → <b>
-  <strong>$14.99</strong>
+    <strong>永久会员：</strong><span>$14.99</span> → <b>
+  <strong>$12.99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
+  这是一款关于生、死、心愿与延续的App。
 
-Some of the key features that VidHub offers include:
-- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
-- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
-- High-quality video playback for HD, 4K, HDR, and various other resolutions
-- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
-- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
-- Support downloading and deleting cloud files
-- Support renaming cloud files, support add character, replace character, regular expression renaming method.
-- Support direct-link to Emby, Jellyfin, Plex media server.
-- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
 
-All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
 
-Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
 
-Privacy Policy and Terms of Use
-https://okaapps.com/privacy_vidhub
-https://okaapps.com/terms_vidhub
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
 </feed>

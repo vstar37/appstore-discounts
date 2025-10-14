@@ -16990,6 +16990,24 @@
     "history": [
       [
         {
+          "timestamp": 1760480416654,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Weekly Action Planner (Sun": "₺399,99",
+            "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+            "1000 Kanji Workbook": "₺699,99",
+            "2026 Essential Digital planner": "₺499,99",
+            "2026 Daily Scheduler (Sunday,": "₺499,99",
+            "2026 Smart Digital Planner (Mo": "₺499,99",
+            "ADHD Student Planner 2025-2026": "₺499,99",
+            "AI Pass (Monthly)": "₺379,00",
+            "Pro (Yearly)": "₺1.369,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760426529844,
           "price": 0,
           "formattedPrice": "Free",
