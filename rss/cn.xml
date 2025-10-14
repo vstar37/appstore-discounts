@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-13T04:30:05.665Z</updated>
+    <updated>2025-10-14T14:27:04.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,107 +21,60 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-13T04:30:05.666Z</updated>
+        <updated>2025-10-14T14:27:04.317Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FyTube - 没有广告的 YouTube]]></title>
-        <id>FyTube - 没有广告的 YouTube-1760329607947</id>
-        <link href="https://apps.apple.com/cn/app/fytube-%E6%B2%A1%E6%9C%89%E5%B9%BF%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
-        <updated>2025-10-13T04:26:47.947Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/fytube-%E6%B2%A1%E6%9C%89%E5%B9%BF%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/30/99/043099d7-1dfb-74a4-841b-f5066d2ef923/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[安全笔记+ Pro]]></title>
+        <id>安全笔记+ Pro-1760451819700</id>
+        <link href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4"/>
+        <updated>2025-10-14T14:23:39.700Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f7/03/38f703ea-8813-d3b2-c788-1f29d8ad3df6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
+  优惠信息（价格：<span>¥28.00</span> → <b>
   <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  我们的应用实时连接到YouTube，让您播放任何视频，并拥有专为您设计的独家功能！
-主要功能亮点：
-• 锁屏播放：在后台持续收听您视频的音频。
-• 浮动播放（画中画）：在观看视频时使用其他应用。
-• 睡眠定时器：设置自动关闭，安心放松。
-• 循环模式：无限循环播放您喜欢的视频。
-此外还包括：
-• 可切换字幕
-• 播放速度控制
-• 质量选择和全屏模式
-• 智能搜索，实时建议（预测搜索）
-• 上传日期筛选：按天、周、月或年
-FyTube非常适合不想错过任何喜欢主题视频的用户。
-尽情探索、播放并享受您喜爱的内容——无干扰！
+  介绍安全笔记+：保护您最私密的笔记
 
-特别功能
-浮动播放
-永不停播！有了此功能，您可以在使用其他应用时继续观看视频。
-只需进入全屏模式，点击画中画按钮——它是播放器顶部的第二个图标。
-无论打开哪个应用，您的视频都会浮动在屏幕顶部！
+您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。
 
-锁屏播放
-无中断收听！
-即使屏幕关闭，也能继续享受视频音频。非常适合开车或休息时听音乐、播客或喜欢的曲目。
-如何激活？
-只需锁定设备屏幕，即刻会看到后台播放器。
-点击播放——音频将持续不断。
+主要功能：
 
-睡眠定时器
-安然入睡——应用会自动停止！
-启用此功能后，视频将在您设定的时间后自动停止。非常适合睡觉或小憩，无需担心忘记关闭。
-如何激活？
-点击定时器按钮，选择运行时间，就完成了。
-放松，剩下的交给应用！
+• 使用触摸ID或面容ID支持的生物识别来解锁应用程序
+• 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片
+• 伪装密码以保护您的真实隐私
+• 对个别文件夹进行密码锁定
+• 提供更高安全性的点图案锁定样式
+• 密码锁定样式（组合锁、键盘锁）
+• 可选择的时尚主题，界面易于使用
+• 按文件夹创建和排序笔记
+• 支持移动、复制和粘贴
+• 支持全方位显示
+• 通过iTunes文件共享或iCloud将笔记从iPhone备份到电脑
+• 通过蓝牙/ Wi-Fi与安装了安全笔记+的两个iOS设备共享笔记
+• 自动保存笔记
+• 搜索您的笔记
+• 发送电子邮件笔记
+• 该应用程序适用于iPhone和iPad，您只需购买一次
 
-循环模式
-反复播放您喜欢的视频！
-启用此功能，视频会自动重复播放任意次数。
-怎么知道它是否开启？
-激活时图标会变红。
-（支持VoiceOver：会提示开启或关闭状态。）
-非常适合歌曲、冥想或任何您喜欢反复播放的内容！
+凭借三种时尚且易于使用的锁定设计，您可以根据自己的喜好自定义密码样式，而不会影响安全性。现在，您可以选择使用标准的组合锁样式、键盘样式或全新的点图案样式，以便轻松访问那些私人物品。为了增加安全性，为每个单独的文件夹设置独特的密码和锁定设计。
 
-需要帮助使用这些功能？访问：fydub.com/fytube
+立即下载安全笔记+，您可以确保只有您可以查看安全笔记+中的内容。
 
-基本功能
-• 全屏高清播放
-• 简单易用的界面，友好设计
-• 随时快进或倒退——不错过精彩部分
-• 启用字幕
-• 根据喜好调整播放速度
-• 更改视频质量
-• 智能搜索，实时建议和上传日期筛选：天、周、月、年、全部
-• 每个视频包含相关视频区，发现更多有趣内容
-• 发现最新视频，保持资讯更新
-• 应用直接连接YouTube，让您找到任何视频
-• 支持任何兼容AirPlay的设备播放
-• 支持VoiceOver（增强描述）
-• 无需账户
-• 未经您允许，不存储缓存、Cookie或个人数据——安全观看
-• 界面支持29种语言
-• 无广告，无订阅
-购买FyTube一次付费，开启无广告无订阅的新流媒体体验。
+访问我们的网站：
+网站：https://sixbytes.io
+推特：https://twitter.com/SixbytesApp
+Facebook：https://www.facebook.com/sixbytesapp
 
-最低要求：
-• iOS 13或更高版本
-• 3G及以上网络连接
-
-隐私政策：
-https://fydub.com/privacy-policy_fytube
-服务条款：
-https://fydub.com/terms-of-service_fytube
-
-与我们应用相关的关键词：
-youtube，youtube音乐，youtube vanced，YouTube广告拦截器，无订阅，跳过YouTube广告，无广告音乐，无广告，YouTube应用，YouTube广告屏蔽，拦截弹窗，移除广告，屏蔽广告，广告拦截，内容屏蔽，无广告，无广告浏览器，拦截广告，跳过广告，无广告音乐，无广告YouTube，无广告视频等。
-
-有关于如何使用FyTube的问题？
-访问fydub.com/fytube或联系我们——我们乐意为您服务。所有邮件均有回复：fytube@fydub.com
-
-FyTube与YouTube合作。
-YouTube名称和标志为Google公司注册商标。版权所有。
-© FyTube®
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/a4/d9/90a4d952-0b39-a742-bc4a-4eb47ccc970f/f776954c-6912-48b6-934a-86239979e6a6_imagen2-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/40/28/564028f3-d2cb-c54f-f51e-f21f4bf259e8/a73f7310-e47b-42f1-8b98-21939fbd4104_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/be/84/66be840a-0f2c-ff7b-071f-03b442a653cd/0d632ab1-8ec0-4617-98c8-8f4af7dfac9e_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/62/cc/3662cc6d-1c52-d780-5c41-e996eee6f81c/bd380450-bf62-4eee-8adf-66d1c6f8aa8b_imagen1-ok2.png/392x696bb.png" />]]></content>
+请阅读我们的服务条款和隐私政策的更多信息：
+服务条款：https://sixbytes.io/assets/terms-of-service.pdf
+隐私政策：https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

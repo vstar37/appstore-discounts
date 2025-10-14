@@ -2740,6 +2740,21 @@
     "history": [
       [
         {
+          "timestamp": 1760451819700,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759587442555,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -23563,6 +23578,21 @@
     "history": [
       [
         {
+          "timestamp": 1760451819700,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "120000 GP": "USD 19.99",
+            "200000 GP": "USD 29.99",
+            "25000 GP": "USD 5.99",
+            "50000 GP": "USD 9.99",
+            "5000 GP": "USD 1.99",
+            "Remove Ad": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759473117588,
           "price": 0,
           "formattedPrice": "免費",
@@ -25891,6 +25921,25 @@
       "3 vs 3 獨立戰役地圖": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760451819700,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "西班牙語音頻": "USD 0.00",
+            "戰役任務 11-15": "USD 0.00",
+            "俄語音頻": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "1 vs 1 獨立戰役地圖": "USD 0.00",
+            "所有內容": "USD 0.00",
+            "《Opposing Fronts》火線對決": "USD 0.00",
+            "3 vs 3 獨立戰役地圖": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756801818104,
