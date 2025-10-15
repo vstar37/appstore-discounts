@@ -266,7 +266,7 @@
 |193|1443988620|❌|Quantumult X|Quantumult X|Quantumult X|Quantumult X|Quantumult X|
 |194|932747118|❌|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|
 |195|1642682818|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|
-|196|1319191852|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|
+|196|1319191852|熊猫吃短信 - 旧版|熊猫吃短信 - 旧版|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 旧版|熊猫吃短信 - 旧版|熊猫吃短信 - 垃圾短信过滤|
 |197|1067198688|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|
 |198|955297617|CodeRunner 4|CodeRunner 4|CodeRunner 4|CodeRunner 4|CodeRunner 4|CodeRunner 4|
 
