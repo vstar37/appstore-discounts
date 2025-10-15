@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-15T16:28:22.496Z</updated>
+    <updated>2025-10-15T19:21:04.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,57 +21,73 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-15T16:28:22.497Z</updated>
+        <updated>2025-10-15T19:21:04.601Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1760545529866</id>
-        <link href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-10-15T16:25:29.866Z</updated>
-        <summary type="html"><![CDATA[Lifetime: ₺899,99 → ₺800,00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1b/ca/361bca41-6f29-1825-6f28-25677ba98031/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Forest: Focus for Productivity]]></title>
+        <id>Forest: Focus for Productivity-1760555862955</id>
+        <link href="https://apps.apple.com/tr/app/forest-focus-for-productivity/id866450515?uo=4"/>
+        <updated>2025-10-15T19:17:42.955Z</updated>
+        <summary type="html"><![CDATA[Annual (Early Bird): ₺769,99 → ₺649,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/forest-focus-for-productivity/id866450515?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/4b/6c/854b6c81-84a9-f35c-82c8-cbb228361976/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime：</strong><span>₺899,99</span> → <b>
-  <strong>₺800,00</strong>
+    <strong>Annual (Early Bird)：</strong><span>₺769,99</span> → <b>
+  <strong>₺649,00</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  MoneyTrack - Streamlined Personal Finance Tracker
+  ## Top productivity app in 136 countries. More than 2 million satisfied paying users. Featured in Apple's "Amazing Apps" TV commercial.
+## Staying focused with the cutest gamified timer. 
+## Over 1,500,000 real trees were planted on Earth by our users.  
 
-Track every penny, master your financial freedom. A pure expense tracking app with no ads, no splash screens, and no investment promotions.
+"Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times 
 
-■ CORE FEATURES
-• Auto-Tracking: Deep integration with Shortcuts allows automatic expense recording triggered by your transactions
-• Comprehensive Entries: Support for income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Insightful Analytics: Visualize spending patterns with pie charts, bar graphs and trend lines to quickly identify financial issues
-• Precise Budgeting: Set annual/monthly budgets for total spending and categories with dynamic daily budget adjustments
+"In order to establish new, better habits, it's helpful to engage with tools that make it easier to reinforce them. For anyone looking to curtail their phone usage, the Forest app might be for you."— Business Insider
 
-■ COMPLETE ASSET MANAGEMENT
-• Unified management of multiple account types (cash, bank cards, credit cards, store cards)
-• Balance sheet and asset curve for real-time financial status tracking
-• Credit card management system (payment reminders, limit management, interest-free period calculation)
-• Multi-currency asset recording with support for all major currency exchange rates
+If you want to temporarily put down your phone and focus on what’s more important in real life, you can plant a seed in Forest. As time goes by, this seed will gradually grow into a tree. However, if you cannot resist the temptation of using your phone and leave the app, your tree will wither. 
 
-■ THOUGHTFUL FUNCTIONS
-• Multiple Ledgers: Flexibly separate different financial records
-• Shared Accounting: Invite family and friends to maintain transparent shared finances
-• Cloud Backup: Free data synchronization across devices with secure protection
-• Flexible Import/Export: Support for importing data from multiple platforms and exporting in Excel format
-• Recurring Entries: Customisable automatic entry tasks that generate transactions on schedule
-• Installment Tracking: Easily monitor payment schedules and receive timely reminders
-• Sub-Categories: Unlimited categorisation options to meet personalised needs
+The sense of achievement and responsibility will encourage you to stay away from your phone, and will help you make better use of your time. Stop getting distracted by your phone, make you self-motivated and get more things done.
 
-■ CROSS-PLATFORM EXPERIENCE
-Synchronise across iPhone, iPad and PC with real-time updates, recording every expenditure wherever you are.
+Stay focused, Be present! 
 
-■ FOCUSED ON FINANCE MANAGEMENT
-We do one thing only — help you better manage your personal finances. No investment promotions, no community distractions, just a pure and efficient expense tracking experience.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+STAY FOCUSED
+• A interesting way to help you beat phone addiction and overcome distraction
+• Turn your focused moments into a lush forest.
+• Create personalized Allow Lists for different situations. Non-allowed apps will be blocked. (iOS 16 or above)
+
+GET MOTIVATED
+• Earn rewards and unlock more than 90 new tree species and white noises.
+• Share your forest and compete with friends and users around the world.
+• Plant trees along with friends & family.
+• Unlock achievements and earn extra rewards.
+• Plant real trees on Earth and protect the environment with tree-planting organization Trees for the Future.
+
+STATISTICS
+• Manage your own tags and view detailed statistics of your time distribution.
+• Browse your weekly, monthly and even your yearly big forest.
+• Track your focused time in the Apple Health App.
+• Track your daily phone usage and screen time.
+• Recall memories of your planting journey with our brand new Forest Timeline!
+
+It's never too late to build up productive habits! 
+
+NOTICE
+• Forest is compatible with iPhone, iPad and Apple Watch, and can be used across these iOS devices with a one-time purchase. The full app with the aforementioned features is available on iPhone and iPad; on Apple Watch you can view live planting session and today’s focus stats. To download or unlock a non-iOS version, it requires a separate purchase. By logging into the same account, your data can be synchronized across all platforms.
+• Due to iOS limitations, the Allow List feature is only available on iOS/iPadOS 16 or above. If you’re using a device running iOS/iPadOS 15 or below, your tree will wither when you leave Forest during a planting session.
+• Due to budget constraint, the number of real trees each user can plant is limited to five. We will be introducing limited time events that will allow users to plant more real trees. Please follow our social media page or check the in-app announcement for more updates.
+• There is only one version of Forest on the App Store. Other apps that are similar and mimics Forest are not developed by the Forest team. Thank you for your support!
+
+Like us on Facebook: https://www.facebook.com/forestapp.cc/
+Follow us on Twitter: https://twitter.com/forestapp_cc
+Follow us on Instagram: https://www.instagram.com/forest_app/
+
+We also provide browser extensions. Find out more on www.forestapp.cc
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/9f/cf/849fcf35-6429-881f-c5cd-8792b4044968/91f65b25-230a-48ec-a9ed-daef18cfb1f1_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/dc/1e/56dc1e48-da55-0642-cfa3-39f21e8fb75e/16c91a3c-240f-4ab6-8158-9eb6647a7b77_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/09/4b/1d094b63-98c8-e1a8-4e9b-5fd0d272a02d/872ba353-22ab-4e7c-b4af-a2d26dd62620_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/17/21/891721e6-4b04-5112-7cde-df7fa704c308/31301af3-8a11-46e4-8d00-baf3ab19a38d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/78/97/0e78979c-54ce-05ef-061a-f0a2dcfe8c29/89958e58-d3e8-4ab6-8c46-fdf1c3cfb29f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/93/70/629370cc-f2e0-0ed4-c6ed-4027f8aaa033/1cbb5fae-d89a-473e-b926-e62013de193a_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/a3/48/25a34800-ff55-b993-753a-9b1e04dafa16/3885e062-494f-4040-a4a7-7065eb6652ae_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/93/93/e093938d-1fce-a320-c6f9-4aadca87ddf8/b24c164c-f68a-467f-b139-3b609debbffe_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/f1/2f/13f12fd9-8930-8170-6df8-0886c9ec7a73/af8398e6-2f70-48e6-9b0a-5505d63ced64_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/c6/a9/bbc6a9ed-6f47-49f9-b89c-7b16a298fc82/7d9fce37-c32c-4de6-977d-c19c8ddf33a2_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/b6/29/a0b62981-8e03-46e7-26b3-671e2853172b/9602ea02-00be-4024-b9ef-6d8e8b1467da_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/52/0d/a7520d40-9020-a5ca-cc01-e6cd3d7391a8/29a0733e-9fc1-4e60-9cbc-b9d8d7156fcf_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/9a/74/589a743a-8cd8-949b-4adc-59d65adb4ff3/316cebd2-8c26-4836-9c6e-d5b2c3cfbdf6_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/4b/5b/824b5b06-4b14-88ff-c9fd-72e188c90b62/020f1d0c-6bee-4fc2-b8c8-c5b93b8eadaa_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/96/b8/dc96b868-35f4-8119-a182-1a66db376e8d/088b85ca-fe0a-40b3-8b83-1e30b55afbe9_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/6e/79/8b6e79a3-4079-1250-d713-7d2c61fffb7f/c0fa2535-6449-434b-821b-12fe5d3bbd0f_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/cb/9f/19cb9fef-bc8a-b4e7-b24a-b87657d59434/4b8e370b-7e4b-4b1f-a1cc-d7b91a73bce5_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/14/a3/5314a323-306d-6f87-f0a9-899ff98b8b19/0b6a438e-9d37-4b1a-980d-5de3f7fc2386_8_2.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -7707,11 +7707,28 @@
       "2025 Birthday Package (Basic)": "₺449,99",
       "Deluxe Pack": "₺799,99",
       "Select Pack": "₺599,99",
-      "Annual (Early Bird)": "₺769,99",
+      "Annual (Early Bird)": "₺649,00",
       "Annual": "₺1.289,99",
       "Monthly (Early Bird)": "₺129,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760555862955,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual (Early Bird)": "₺649,00",
+            "Monthly (Early Bird)": "₺129,00",
+            "Bottle of Sunshine Elixir": "₺39,99",
+            "Box of Sunshine Elixir": "₺99,99",
+            "Shovelful of Crystal": "₺39,99",
+            "Small pot of Crystal": "₺229,99",
+            "Large bag of Crystal": "₺499,99",
+            "Annual": "₺769,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759749488304,
