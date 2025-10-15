@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-14T23:23:18.543Z</updated>
+    <updated>2025-10-15T16:28:22.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,57 +21,57 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-14T23:23:18.544Z</updated>
+        <updated>2025-10-15T16:28:22.497Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
-        <id>Safety Note+ Pro-1760483991996</id>
-        <link href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4"/>
-        <updated>2025-10-14T23:19:51.996Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/safety-note-pro/id460661291?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f7/03/38f703ea-8813-d3b2-c788-1f29d8ad3df6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Introducing Safety Note+: Keep Your Most Private Notes Secure
+        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
+        <id>MoneyTrack: Expense &amp; Budget-1760545529866</id>
+        <link href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4"/>
+        <updated>2025-10-15T16:25:29.866Z</updated>
+        <summary type="html"><![CDATA[Lifetime: ₺899,99 → ₺800,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1b/ca/361bca41-6f29-1825-6f28-25677ba98031/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>₺899,99</span> → <b>
+  <strong>₺800,00</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MoneyTrack - Streamlined Personal Finance Tracker
 
-Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
+Track every penny, master your financial freedom. A pure expense tracking app with no ads, no splash screens, and no investment promotions.
 
-Key Features:
+■ CORE FEATURES
+• Auto-Tracking: Deep integration with Shortcuts allows automatic expense recording triggered by your transactions
+• Comprehensive Entries: Support for income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
+• Insightful Analytics: Visualize spending patterns with pie charts, bar graphs and trend lines to quickly identify financial issues
+• Precise Budgeting: Set annual/monthly budgets for total spending and categories with dynamic daily budget adjustments
 
-• Advanced security system: Utilizing state-of-the-art technology to protect your notes
-• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
-• Biometric support: Unlock the app using TouchID or FaceID for added convenience
-• Intruder report: Capture photos of unauthorized individuals attempting to access your app
-• Decoy password: Conceal your real privacy with a decoy password
-• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
-• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
-• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
-• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
-• Note organization: Create, sort, move, and copy notes within folders
-• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
-• Additional features: Auto-save, note search, email notes, and full orientation support
-• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
+■ COMPLETE ASSET MANAGEMENT
+• Unified management of multiple account types (cash, bank cards, credit cards, store cards)
+• Balance sheet and asset curve for real-time financial status tracking
+• Credit card management system (payment reminders, limit management, interest-free period calculation)
+• Multi-currency asset recording with support for all major currency exchange rates
 
-Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
+■ THOUGHTFUL FUNCTIONS
+• Multiple Ledgers: Flexibly separate different financial records
+• Shared Accounting: Invite family and friends to maintain transparent shared finances
+• Cloud Backup: Free data synchronization across devices with secure protection
+• Flexible Import/Export: Support for importing data from multiple platforms and exporting in Excel format
+• Recurring Entries: Customisable automatic entry tasks that generate transactions on schedule
+• Installment Tracking: Easily monitor payment schedules and receive timely reminders
+• Sub-Categories: Unlimited categorisation options to meet personalised needs
 
-Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
+■ CROSS-PLATFORM EXPERIENCE
+Synchronise across iPhone, iPad and PC with real-time updates, recording every expenditure wherever you are.
 
-Visit us at:
-Website: https://sixbytes.io
-Twitter: https://twitter.com/SixbytesApp
-Facebook: https://www.facebook.com/sixbytesapp
-
-For more information, please refer to our Terms of Service and Privacy Policy:
-Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
-Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
+■ FOCUSED ON FINANCE MANAGEMENT
+We do one thing only — help you better manage your personal finances. No investment promotions, no community distractions, just a pure and efficient expense tracking experience.
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

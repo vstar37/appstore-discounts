@@ -17005,6 +17005,22 @@
     "history": [
       [
         {
+          "timestamp": 1760545529866,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "The Weekly Action Planner (Sun": "₺399,99",
+            "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+            "1000 Kanji Workbook": "₺699,99",
+            "2026 Essential Digital planner": "₺499,99",
+            "2026 Daily Scheduler (Sunday,": "₺499,99",
+            "2026 Smart Digital Planner (Mo": "₺499,99",
+            "ADHD Student Planner 2025-2026": "₺499,99",
+            "AI Pass (Monthly)": "₺379,00",
+            "Pro (Yearly)": "₺1.369,99"
+          }
+        },
+        {
           "timestamp": 1760483991996,
           "price": 0,
           "formattedPrice": "Free",
@@ -19645,6 +19661,18 @@
       "Annual": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760545529866,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99",
+            "Monthly": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759702728830,
@@ -23461,6 +23489,25 @@
       "Opposing Fronts - Russian": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760545529866,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "Opposing Fronts - Russian": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "All Content": "₺0,00",
+            "Opposing Fronts": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760278660256,
