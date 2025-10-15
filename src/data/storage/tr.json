@@ -17005,6 +17005,20 @@
     "history": [
       [
         {
+          "timestamp": 1760548779099,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1760545529866,
           "price": 0,
           "formattedPrice": "Free",
@@ -19662,6 +19676,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760548779099,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺59,99",
+            "Lifetime": "₺899,99",
+            "Annual": "₺299,99"
+          }
+        },
         {
           "timestamp": 1760545529866,
           "price": 0,
@@ -23490,6 +23514,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760548779099,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
         {
           "timestamp": 1760545529866,
           "price": 549,
