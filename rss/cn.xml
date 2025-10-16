@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-16T13:37:04.774Z</updated>
+    <updated>2025-10-16T14:26:03.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,79 +21,102 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-16T13:37:04.775Z</updated>
+        <updated>2025-10-16T14:26:03.970Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1760621625317</id>
-        <link href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-10-16T13:33:45.317Z</updated>
-        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/c1/f5/2dc1f5be-8b08-12dd-9f5b-530bec25b427/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
+        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防史诗冒险]]></title>
+        <id>Kingdom Rush Frontiers 塔防史诗冒险-1760624561070</id>
+        <link href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4"/>
+        <updated>2025-10-16T14:22:41.070Z</updated>
+        <summary type="html"><![CDATA[波恩哈特: ¥48.00 → ¥38.00<br/>沙塔尔: ¥22.00 → ¥8.00<br/>阿什比特: ¥48.00 → ¥38.00<br/>库绍: ¥22.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>Premium：</strong><span>¥253.00</span> → <b>
+    <strong>波恩哈特：</strong><span>¥48.00</span> → <b>
   <strong>¥38.00</strong>
+</b>
+  </li><li>
+    <strong>沙塔尔：</strong><span>¥22.00</span> → <b>
+  <strong>¥8.00</strong>
+</b>
+  </li><li>
+    <strong>阿什比特：</strong><span>¥48.00</span> → <b>
+  <strong>¥38.00</strong>
+</b>
+  </li><li>
+    <strong>库绍：</strong><span>¥22.00</span> → <b>
+  <strong>¥8.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+  全世界最令人着迷的防御游戏重磅回归 —— 欢迎来到《王国保卫战：前线》！ 
 
-“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+《王国保卫战：前线》规模更加宏大，战况更胜从前，堪称全新水准的快节奏、超迷人游戏玩法，可谓是实至名归。轻按指挥你的的部队，展开一场史诗级的冒险，保卫这片异国大陆免受飞龙、食人植物和地下世界可怕居民的侵害 —— 你完全可以利用华丽的新防御塔、关卡、英雄和众多好东西，助你将敌人碾碎！（别担心，我们仍然提供前作中的好东西，只不过现在已是陈年经典。） 
 
-“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+《王国保卫战：前线》涵盖众多内容，它就像是完全升级版的诱人火炮，将像素化的欢乐径直发射到你笑逐颜开的小脸上... 可疼了！ 
 
-“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
+游戏
 
-为什么选择 DAY ONE？
+•  巩固异国新大陆的前线 —— 在沙漠、丛林甚至地下世界中坚守阵地！
 
-Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
+•  八种全新专业防御塔升级！你可以用弩兵堡垒、强大的圣殿骑士、亡灵甚至地震机切开、烤焦和践踏你的敌人 —— 嘿，我们告诉过你会动摇一切的。
 
-易于使用，让您爱不释手
+•  超过18种防御塔技能！释放死亡骑手、瘟疫毒云或刺客，暗杀你的敌人！
 
-• 备受赞誉的美观设计
-• 无限的文本日记条目
-• 无限量照片和视频*
-•功能强大的富文本格式，带有 Markdown 功能
-• 不同的日记类型适用于记录您生活的方方面面*
+•  超过40位具有独特技能的敌人！随时待命，对抗沙漠沙虫、部落萨满、游牧部落和地下世界恐怖生物。
 
-私密且安全
+• 十六位传奇英雄。选择你的战士，训练他们的技能！
 
-• 自动备份可确保日记条目的安全性
-• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
-•日记条目使用密码或 TouchID 来保证安全性
-•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+•  每个关卡都会出现特殊单位和特色！注意黑龙！
 
-养成习惯并坚持下去
+•  残酷无情的头目战！嘿，我们告诉过你会有这些升级...
 
-•可编程的提醒通知
-• 独特的每日日记提示功能有助于避免日记中断
-•可自定义的模板可节省时间，并可向日记条目中添加组织
-• 通过今日视图，您可以大致了解您去过哪里，做了什么
+•  70多个成就，让你尽享游戏时间！
 
-随时随地写日记
+•  经典、钢铁和英雄游戏模式，挑战你的战术技能！
 
-• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
-• 能够直接向您的日记发送文本或电子邮件条目
+•  三种难度模式！你是否准备迎接真正的挑战？试试困难模式吧！
+振奋人心的配乐，圆润醇厚的旁白，加上图文并茂的动画效果，真令人陶醉其中而不能自拔！（自然也包括动画的鲜血效果。）
 
-专为记录回忆而生
+•  游戏内百科全书！真正的战士知己知彼... 对防御塔的了解也不例外。用功研读吧！
 
-• 那年今日功能让您可以回顾过去的回忆
-• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
-• 地图视图可快速显示您在日记中记录的所有地点
+《王国保卫战》所获赞誉：IGN编辑精选游戏，Slide To Play必玩游戏，148 Apps编辑精选游戏，Jay is Games年度游戏，Pocket Gamer金奖，Touch Arcade 4.5/5，CNET。最佳iPad游戏
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e4/d0/0f/e4d00fcd-188d-fd5a-d105-835ed009c5bd/a317a203-92f2-4e87-9e66-bc34f6146e23_screenshots_2208x12420011.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/db/36/28/db36287e-872c-b2bb-e4ca-880fb04e4e64/ed2440e8-7636-4721-9cd6-e6611ee15246_screenshots_2208x12420012.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/44/9c/8a/449c8a55-c61f-2507-f4a6-4b85479272b4/ce301336-b1fa-4b2a-aa90-c274d5374365_screenshots_2208x12420013.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e9/49/3c/e9493ccd-0f7b-99ee-ec09-a046b8893f50/26187e05-8313-40e0-9f8b-c1558caf7bd7_screenshots_2208x12420014.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/9c/ff/279cff26-14e4-a77a-e316-2a44a896833b/95e7c5b8-6e36-4971-b952-799de509b935_screenshots_2208x12420015.jpg/406x228bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredibox - 好玩的音乐盒]]></title>
+        <id>Incredibox - 好玩的音乐盒-1760624561070</id>
+        <link href="https://apps.apple.com/cn/app/incredibox-%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%9F%B3%E4%B9%90%E7%9B%92/id1547418803?uo=4"/>
+        <updated>2025-10-16T14:22:41.070Z</updated>
+        <summary type="html"><![CDATA[价格: ¥38.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/incredibox-%E5%A5%BD%E7%8E%A9%E7%9A%84%E9%9F%B3%E4%B9%90%E7%9B%92/id1547418803?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/4b/e8/524be8dc-12eb-4fe2-c201-e67ab2c84098/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥38.00</span> → <b>
+  <strong>¥22.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  Incredibox 可让你在一群酷帅的 beatbox 歌手的帮助下打造属于自己的音乐。选择你喜欢的音乐风格，开始创作、录制并分享你的混音作品。尽情享受嘻哈节拍、电波、流行人声、爵士摇摆、巴西节奏等众多美妙的音乐节拍。此外，还可以探索由社区创作的一系列模组。丰富的内容让你沉浸于混音创作数小时，且不含广告，没有微交易。
 
-*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
+如游戏般好玩，又如工具般实用，Incredibox 让用户拥有了全新的音频和视觉体验，并迅速受到所有年龄层人士的欢迎。音乐、图像、动画和交互性的完美组合，使 Incredibox 成為每個人的首選。同时，由于 Incredibox 寓教于乐，现在其已在世界各地的学校广泛使用。
 
-隐私政策：https://dayoneapp.com/privacy-policy/
+如何使用？很简单！只需将图标拖放到人物身上，即可让他们开始演唱，并混合出属于你自己的音乐！找到正确的音乐节奏组合，即可解锁不同的动画合唱来帮助你提高混音技巧。
 
-使用条款：https://dayoneapp.com/terms-of-use/
+一旦你对你的作品感到满意，请保存并分享，获取尽可能多的票数。如果你的作品获得足够的票数，那么你可以登上 Top 50 排行榜，从而在 Incredibox 载入史册。准备好露一手了吗？
 
-如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
+在 App 中，你可以将混音作品下载为 MP3 文件，随时聆听和欣赏！
+
+懒得制作自己的混音作品？没问题，自动模式能为你播放乐曲！
+
+大声嗨起来 ;)
+
+****************
+Incredibox 是法国里昂 So Far So Good 工作室的智慧结晶，于 2009 年创建。以网页开始，随后发布手机和平板电脑 App，并立即成为热门话题。它荣获数个奖项，并出现在多个国际媒体上，包括：BBC、Adobe、FWA、Gizmodo、Slate、Konbini、Softonic、Kotaku、Cosmopolitan、PocketGamer、AppAdvice、AppSpy、Vice、Ultralinx 等等。自创建以来，其在线试玩版已吸引了超过一亿访客。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b6/4a/23/b64a235a-de2c-cd46-7aa1-a2fdc4d7a47f/fbbd495a-cefd-4902-beae-d7f041a1728f_01-home.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a7/64/43/a7644383-4866-d3a3-a4b9-162f33cb364f/7b43ca42-05ea-4f65-b527-135e177ad4ca_02-scene.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/e1/fb/84e1fb9c-06fd-eb38-11a0-f5208daf4085/6e888232-15e1-4b57-b0ab-040eb1691e2e_03-bonus.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c5/9f/ad/c59fadc9-9184-3ad4-9ec7-522c3fab8896/3f4f9f1f-d533-4ebb-8636-5adea77b7c49_04-switch.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/46/ac/2f46ac9e-81fc-d871-ad08-173edba954c6/646e2fe0-2e42-41da-ae79-fea5abf102c4_05-top50.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/32/f1/4a32f1be-c009-289c-5f6d-47746919ffaf/6bd5e75b-3e91-4a1b-94c5-6dfa7f34ba4b_02-scene.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/36/a4/4136a4f1-2ca8-9d9f-5c86-5521aef4d94d/4bb6e96a-2bfe-4222-8ced-fe903c3a95cb_06-scene-v7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/b2/4e/7ab24e4d-4ba2-47c6-32d3-3553581a8494/0f55be95-46d0-49e1-bda8-371a0836c0eb_07-scene-v6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/e6/67/8ee667c1-19a8-b5a5-73d8-501fafe002da/c2d7a5d9-af7a-41ac-acb5-30b272f35f0f_08-scene-v5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/96/c3/5f96c3d3-7ef3-7473-90b8-a1c1f8e21a15/86ab566e-e112-4a73-9cc0-5716e72bfd77_09-scene-v4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/20/16/f62016a9-af6b-87c5-fd46-6e2c70d024fe/f6778b48-609b-4443-87a3-4c17a2cd4760_01-home.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/74/40/7a74406b-41e2-da99-2096-4069a8d4b0cd/3d72c96a-93ac-429b-8056-00929700dc09_02-scene.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/63/c8/29/63c82925-b33e-0fd1-69d9-e5237c444bc5/62098716-e19e-4934-8b12-31340b55327a_03-bonus.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/42/83/8e428327-2b82-7b90-a4c4-99932cf6b755/f99e4049-bab2-434c-aea7-6593f6584b14_05-top50.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/df/c4/a3dfc460-2cb2-8db7-606b-9b56df3197eb/28dbf637-fdf1-4f7b-8540-6d206309d3dc_04-switch.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/10/dc/6110dc35-69cc-998a-93a5-931140e0d59c/4ea70323-0873-4760-9a0c-c31f9372bc00_06-scene-v8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/9b/62/d19b62c4-532c-c26d-ecf7-b99c99e26212/42a7310d-26f5-4ba5-bf77-f5db46b6e5ae_08-scene-v6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/07/8e/15/078e15af-962a-c851-8081-8f6c4b06f1ab/942de305-f672-4e56-9e04-d38e14692d07_07-scene-v7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1a/2a/06/1a2a068f-4c9e-9e44-4cb4-f8a11770f8da/86c142d1-9796-4893-8761-8de3a1947f16_09-scene-v5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/85/d4/2e85d4c5-cb5e-5658-7bd5-1f5dce294fdd/b7e22fcc-f80c-469b-a10e-30da8327f857_10-scene-v4.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

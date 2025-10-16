@@ -37007,6 +37007,25 @@
     "history": [
       [
         {
+          "timestamp": 1760624561070,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "German Audio": "$0.00",
+            "Tales of Valor - Russian": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Tales of Valor - Spanish": "$0.00",
+            "Opposing Fronts - French": "$0.00",
+            "Opposing Fronts - Spanish": "$0.00",
+            "Tales of Valor - French": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "High-Quality Models": "$0.00",
+            "French Audio": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758941739451,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -40698,6 +40717,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760624561070,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Monthly VIP": "$1.49",
+            "Yearly VIP": "$9.99",
+            "Lifetime VIP(Apple TV only)": "$29.99",
+            "Lifetime VIP(iPhone&iPad only)": "$14.99",
+            "Lifetime": "$31.99",
+            "1 Year": "$9.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Mac Only)": "$14.99"
+          }
+        },
         {
           "timestamp": 1760621625317,
           "price": 0,
