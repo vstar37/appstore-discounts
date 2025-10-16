@@ -40699,6 +40699,22 @@
     "history": [
       [
         {
+          "timestamp": 1760621625317,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99",
+            "Lifetime VIP(iPhone&iPad only)": "$29.99",
+            "1 Year": "$9.99",
+            "1 Month": "$1.49",
+            "Yearly VIP": "$9.99",
+            "Lifetime VIP": "$15.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760426529844,
           "price": 0,
           "formattedPrice": "Free",
