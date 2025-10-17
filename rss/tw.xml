@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-16T14:26:03.973Z</updated>
+    <updated>2025-10-17T14:24:21.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,116 +21,61 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-16T14:26:03.973Z</updated>
+        <updated>2025-10-17T14:24:21.511Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-1760624561070</id>
-        <link href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-10-16T14:22:41.070Z</updated>
-        <summary type="html"><![CDATA[Premium: $1,090.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/c1/f5/2dc1f5be-8b08-12dd-9f5b-530bec25b427/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>$1,090.00</span> → <b>
-  <strong>$190.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 年度最佳應用程式 Day One，全球下載次數超過 1,500 萬次，獲得 200,000 次 5 星評價，徹底改變了寫日記的方式，讓你記錄生活中的點點滴滴。  在全球最值得信賴的數位日記中安全地儲存音訊、影片、照片、筆記等其他內容。
+        <title type="html"><![CDATA[無處遁形：全網公敵]]></title>
+        <id>無處遁形：全網公敵-1760710895507</id>
+        <link href="https://apps.apple.com/tw/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4"/>
+        <updated>2025-10-17T14:21:35.507Z</updated>
+        <summary type="html"><![CDATA[价格: $150.00 → $90.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$150.00</span> → <b>
+  <strong>$90.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  《無處遁形：全網公敵》是Steam平臺廣受好評的劇情向駭客解密遊戲《全網公敵》手遊版本。玩家通過網絡蒐索和社工手段獲取目標人物資訊，其隱藏最深的秘密都無處遁形。遊戲中的每個故事看似各自獨立，但隨著劇情的發展卻是草蛇灰線，伏脈千里。當所有事件串聯起來，竟隱藏著驚天的秘密……
 
-「Day One 創造珍貴的回憶，近乎完美：完全隱密的數位空間。」 –《紐約時報》
+希望玩家在遊玩的同時，對網絡本身也能產生反思，學會保護好個人隱私。
 
-「Day One 讓寫日記變得輕鬆愉快。」 – 《連線》
+【遊戲內容】
+◆第一章：程式師之死
+某公司CEO跳樓自殺，自稱被毒妻勒索千萬； 而妻子卻在社交網絡上發佈被家暴的照片。 謠言滿天，誰在說謊？
+◆第二章：看不見的眼睛
+女大學生的不雅視頻在網絡瘋傳，這一刻，她已然社會性死亡。 到底誰才是始作俑者？ 女性的安全又該由誰去保護？
+◆第三章：消失的證據
+品學兼優的學生會長忽然失踪。 霸淩事件使案情越發撲朔迷離。 誰是兇手，誰是受害者？
+◆第四章：羞辱的代價
+天降巨瓜，女歌星再次被爆黑料！ 恐嚇信、炒作、前女團成員自殺事件……網絡再掀輿論狂歡！
+◆第五章：永生代碼
+當社會陷入癲狂，你是否也願意加入永生代碼，獲得真正的愛與永生？
+◆DLC：甜蜜之家
+一個看似甜蜜而美滿的家庭背後，每個人都有各自的秘密，隱藏在背後的真相到底是什麼？！
+◆DLC：HelloWorld
+一場離奇的車禍，讓泰坦公司的高級研究員Lucrezia Borgia博士當場死亡，同行的Benjamin Engle死裡逃生，但他卻沒有意識到自己即將捲入一場巨大的陰謀之中……
 
-「這款優異的日記應用程式賞心悅目、簡單好用，讓競爭對手難以超越。」–《Macworld》
+【遊戲特點】
+◆代入感强：在虛構的世界裏，玩家扮演一名駭客，接受一家公司委託，完成一個個不同的社工事件，體驗真實的駭客操作。
+◆玩法多樣：遊戲內有多個系統，除了社工系統，還會有推理、追跡、解謎，破壞侵入等系統需要玩家們去一一攻破。
+◆劇情複雜：遊戲中你將面臨大量的選擇和謎題，而不同的選擇可能將導致不同的結局。
+◆人物眾多：登場人物眾多，每個人物都有自己的性格特點，而他們背後都有著不為人知的故事，需要作為駭客的你去一一發現事件的真相。
+◆全程配音：遊戲中所有出現的角色都有真人配音，讓整個遊戲的體驗和代入感更加强烈。
+◆原創音樂：多首原創主題曲以及各種音樂音效，搭配精彩劇情，享受震撼體驗。
 
-為什麼選擇 Day One？
-
-Day One 是原創日記應用程式。十年來持續更新並增添功能，打造全球最隱密、最值得信賴，也最好用的日記平台。
-
-簡單好用，讓人著迷
-
-• 獲獎設計，美觀大方
-• 無限文本條目
-• 無限量照片和影片*
-•強大的 RTF 文字格式與 Markdown
-• 記錄生活點滴的全新方式*
-
-私密又安全
-
-• 自動備份，妥善保護日記條目
-• 端對端加密，100% 確保日記隱密
-•透過密碼或 TouchID 保障日記條目安全
-•提供多種匯出選項 (pdf、純文字、JSON 等)，確保日記條目永遠歸你所有
-
-養成並保持習慣
-
-•可設定的提醒通知
-• 每日不重覆的日記提示，消除你的撰寫障礙
-•可自訂範本讓你省下時間，並讓版面看起來井井有條
-• 今日檢視讓你快速查看今天去過哪些地方、做了哪些事
-
-隨時隨地寫日記
-
-• 跨平台應用程式，可在 iPhone、Apple Watch、iPad 和 Mac 上使用
-• 可透過電子郵件直接傳送條目到日記中
-
-專為記錄回憶打造
-
-• 「在這一天」功能讓你重溫過往回憶
-• 標籤、我的最愛和搜尋篩選條件讓你輕鬆找到所需內容
-• 「地圖檢視」讓你快速查看已記錄的所有地點
-
-*Day One 是款提供使用者永久免費使用的應用程式，完全不限條目數量。 Day One Premium 會員另可享有無限量照片、影片及同步功能。 立即開始免費試用。
-
-隱私權政策：https://dayoneapp.com/privacy-policy/
-
-使用條款：https://dayoneapp.com/terms-of-use/
-
-如需技術協助或有其他問題，請前往：https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1760624561070</id>
-        <link href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-10-16T14:22:41.070Z</updated>
-        <summary type="html"><![CDATA[生命周期VIP(iPhone & iPad 版): $990.00 → $490.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>生命周期VIP(iPhone & iPad 版)：</strong><span>$990.00</span> → <b>
-  <strong>$490.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
-
-Some of the key features that VidHub offers include:
-- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
-- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
-- High-quality video playback for HD, 4K, HDR, and various other resolutions
-- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
-- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
-- Support downloading and deleting cloud files
-- Support renaming cloud files, support add character, replace character, regular expression renaming method.
-- Support direct-link to Emby, Jellyfin, Plex media server.
-- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
-
-All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
-
-Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
-
-Privacy Policy and Terms of Use
-https://okaapps.com/privacy_vidhub
-https://okaapps.com/terms_vidhub
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
+【覈心功能】
+◆網絡蒐索：玩家通過瀏覽器搜索功能收集目標對象的基礎資訊。
+◆資料庫：利用已知資訊輸入到資料庫中，通過篩選後或許目標對象的其他資訊。
+◆破解：通過獲得的目標人物資訊來生成密碼，用於登入各平臺的帳戶（包括郵箱、社交平臺、聊天軟體等）。
+◆偽裝：獲取目標對象的需求、社交圈等，根據資訊選擇偽裝，通過和目標對象接觸獲取更多資訊。
+◆聊天溝通：添加目標對象為好友後，進行聊天溝通獲取資訊。
+◆圖片分析：從圖片中獲取有價值的資訊內容及相關線索。
+當然，後期還會解鎖更多的高階社工方法！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/b8/dd/43b8ddcd-4ab2-43fe-480a-5d1524256f60/99009b54-dda7-4115-8345-b92a4da1bea5_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8d/61/a3/8d61a307-7352-b0f6-26e2-28a74547d0cc/9dbdf1b1-dce6-45a9-bd2c-445ae85fdc21_QQ20220928-1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b0/89/84/b0898459-7fed-a793-c9b4-61dc5f3e2d58/82688c16-2383-47a7-9451-0ee8e7b24bb6_QQ20220928-25.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/d2/16/83d2166c-4276-8af2-eb19-9aee12480d78/7ac0e37a-5d69-444f-9cdb-f0c58510c720_QQ20220928-14.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/63/8f/d0638f9d-abbc-6f11-ffb0-a8a03d0c2505/adf9b016-725f-4168-b3c7-819145fe4f75_QQ20220928-24.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/15/fe/de15feda-6c08-d817-8d2a-5f56a518c9c8/461783b7-ff95-48ea-be82-1c5dd15973c1_QQ20220928-15.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/36/10/2036101c-7b0b-e9ef-b1e6-5fa743f3d1e6/7b4e9ee7-b4af-45d4-89f5-c58a7fba0ba5_QQ20220928-19.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/43/bc/4d/43bc4dc7-3d3b-6472-7f84-8da22793c72f/88b2a278-30ea-429d-8b5c-2f894b5ea0fe_QQ20220928-17.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/25/f3/f425f389-d566-b8ea-8ea0-d76e4e0a60ae/e816b1f6-9955-45c3-bfbd-2b462e82a19b_QQ20220928-9.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/43/b3/e243b343-2a21-5ee8-9dda-235ad1eb369f/55edaf96-ef07-4732-87fa-c42a2f3362af_QQ20220928-16.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ec/1d/0e/ec1d0ec9-67cb-518c-dd72-3ca0aa41a7ee/b3c98720-b9a0-4078-8b88-034054b24965_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a3/09/fa/a309fad8-d31f-36b1-3943-f4c0b478fb97/bb92bbcf-1c9e-4fcc-bfd7-5dbf4eec86e6_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/07/c3/c507c3aa-1d3b-0e50-90a7-fe0ec84178d0/7237da17-1bb3-47b8-bb96-9428c7ad4b3c_19.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/a9/a5/3aa9a52d-9f70-5de7-372e-d630ffd199b8/5b9c9e9a-58b3-40f4-84f3-180c6b18b0c6_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/4a/5b/a44a5be3-0b49-be94-1715-4ef12bf7fc3f/81e913bf-96aa-457e-870d-2b9968fa0e0f_f1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4b/6b/5a/4b6b5a78-6672-b766-0356-c65d1100d177/1a9bcd6b-1459-4746-8daa-7ddc42d15d3e_17.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fd/50/d4/fd50d412-fe7b-c540-f84a-d88f8fdb90cc/b9c6279a-6184-42b8-b879-b1f6ab43cf89_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f7/b2/29/f7b22993-0d76-d06a-a25d-fa7ae0887baa/7fecc4b4-3c9f-43ce-a22b-bfc6da6d9d06_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/16/e7/ca16e719-5eae-7ba4-ee96-2e8d738fb2b8/c3be5896-f75c-4555-8297-762a278d7663_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0b/f2/32/0bf232fd-3f49-e560-df8c-052c14c53897/0e2115a2-55e7-4ac0-922f-cdb3ebee47ab_11.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
