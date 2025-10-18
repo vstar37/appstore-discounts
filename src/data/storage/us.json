@@ -26350,7 +26350,8 @@
       "2026 Daily Scheduler (Sunday,": "$10.99",
       "2026 Smart Digital Planner (Mo": "$10.99",
       "ADHD Student Planner 2025-2026": "$10.99",
-      "AI Pass (Monthly)": "$9.99"
+      "AI Pass (Monthly)": "$9.99",
+      "Monthly Project Budget (Green)": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26514,9 +26515,28 @@
       "2026 Daily Scheduler (Sunday,": "$10.99",
       "2026 Smart Digital Planner (Mo": "$10.99",
       "ADHD Student Planner 2025-2026": "$10.99",
-      "AI Pass (Monthly)": "$9.99"
+      "AI Pass (Monthly)": "$9.99",
+      "Monthly Project Budget (Green)": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760782852814,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "$0.99",
+            "The Weekly Action Planner (Sun": "$8.99",
+            "2025-2026 Stay Focused ADHD Pl": "$10.99",
+            "1000 Kanji Workbook": "$14.99",
+            "2026 Essential Digital planner": "$10.99",
+            "2026 Daily Scheduler (Sunday,": "$10.99",
+            "2026 Smart Digital Planner (Mo": "$10.99",
+            "ADHD Student Planner 2025-2026": "$10.99",
+            "AI Pass (Monthly)": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759760520736,
