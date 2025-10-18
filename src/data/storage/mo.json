@@ -1258,6 +1258,19 @@
     "history": [
       [
         {
+          "timestamp": 1760812099481,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "USD 49.99",
+            "一頁傳真": "USD 0.99",
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1760807796907,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
