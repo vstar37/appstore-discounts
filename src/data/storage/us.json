@@ -12156,6 +12156,21 @@
     "history": [
       [
         {
+          "timestamp": 1760912381209,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99",
+            "Supreme Package": "$4.99",
+            "Advanced Package": "$2.99",
+            "Starter Package": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760535237585,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -14522,6 +14537,23 @@
       "150 Conversations": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760912381209,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew quarterly": "$3.99",
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759595018860,

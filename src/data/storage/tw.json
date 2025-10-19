@@ -25578,7 +25578,8 @@
       "Goodnotes Pro (Yearly)": "$1,150.00",
       "心儀地點封面": "$30.00",
       "Goodnotes 6 One-Time Payment": "$1,150.00",
-      "特別版": "$1,150.00"
+      "特別版": "$1,150.00",
+      "Monthly Project Budget (Green)": "$10.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25779,9 +25780,28 @@
       "Goodnotes Pro (Yearly)": "$1,150.00",
       "心儀地點封面": "$30.00",
       "Goodnotes 6 One-Time Payment": "$1,150.00",
-      "特別版": "$1,150.00"
+      "特別版": "$1,150.00",
+      "Monthly Project Budget (Green)": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760912381209,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "$10.00",
+            "每週行動規劃師 (週日開始)": "$290.00",
+            "2025-2026 保持專注 ADHD 規劃本 (Googl": "$390.00",
+            "1000 漢字練習簿": "$490.00",
+            "2026 必備數位規劃本，星期日開始": "$390.00",
+            "2026年每日規劃工具 (星期日開始, 蘋果適用)": "$390.00",
+            "2026 智慧數位規劃本 (週一開始, Google)": "$390.00",
+            "ADHD 學生規劃本 2025-2026 (週一開始, 適用": "$390.00",
+            "AI Pass (Monthly)": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760375927350,
