@@ -28597,7 +28597,8 @@
       "AI Pass (Monthly)": "HK$ 88.00",
       "Goodnotes Pro (Yearly)": "HK$ 319.00",
       "Goodnotes 6 One-Time Payment": "HK$ 319.00",
-      "特別版": "HK$ 319.00"
+      "特別版": "HK$ 319.00",
+      "Monthly Project Budget (Green)": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -28784,9 +28785,28 @@
       "AI Pass (Monthly)": "HK$ 88.00",
       "Goodnotes Pro (Yearly)": "HK$ 319.00",
       "Goodnotes 6 One-Time Payment": "HK$ 319.00",
-      "特別版": "HK$ 319.00"
+      "特別版": "HK$ 319.00",
+      "Monthly Project Budget (Green)": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760898511932,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "HK$ 8.00",
+            "每週行動規劃師 (週日開始)": "HK$ 68.00",
+            "2025-2026 保持專注 ADHD 規劃本 (Googl": "HK$ 88.00",
+            "1000 漢字練習簿": "HK$ 118.00",
+            "2026 必備數位規劃本，星期日開始": "HK$ 88.00",
+            "2026年每日規劃工具 (星期日開始, 蘋果適用)": "HK$ 88.00",
+            "2026 智慧數位規劃本 (週一開始, Google)": "HK$ 88.00",
+            "ADHD 學生規劃本 2025-2026 (週一開始, 適用": "HK$ 88.00",
+            "AI Pass (Monthly)": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760880282376,
