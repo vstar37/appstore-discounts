@@ -13541,6 +13541,20 @@
     "history": [
       [
         {
+          "timestamp": 1760851256849,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760480416654,
           "price": 0,
           "formattedPrice": "Free",
@@ -18405,6 +18419,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760851256849,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1760847983056,
           "price": 2.99,
