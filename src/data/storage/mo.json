@@ -151,6 +151,23 @@
     "history": [
       [
         {
+          "timestamp": 1760977702978,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "专业会员·无限版-1个月（活动）": "USD 12.99",
+            "专业会员·10人版-12个月（活动）": "USD 69.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99",
+            "专业会员·无限版-12个月（活动）": "USD 129.99",
+            "专业会员·10人版-1个月（活动）": "USD 6.99",
+            "专业会员·5人版-1个月（活动）": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760973790769,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -18015,6 +18032,24 @@
     "history": [
       [
         {
+          "timestamp": 1760977702978,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 11.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "特別版": "USD 35.99",
+            "Goodnotes 6 One-Time Payment": "USD 28.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00",
+            "心儀地點封面": "USD 0.99",
+            "秋貓貼紙組": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760973790769,
           "price": 0,
           "formattedPrice": "免費",
@@ -23282,6 +23317,16 @@
       "Value for Value": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760977702978,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760970107054,
