@@ -155,6 +155,23 @@
     "history": [
       [
         {
+          "timestamp": 1760970107054,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "1香蕉贝": "¥1.00",
+            "连续包年": "¥273.00",
+            "128香蕉贝": "¥128.00",
+            "连续包季": "¥72.00",
+            "免广告会员十二个月": "¥12.00",
+            "6随手贝": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1760967115449,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -19383,7 +19400,7 @@
       "formattedPrice": "免费",
       "PRO yearly subscription": "¥228.00",
       "Lifetime license": "¥698.00",
-      "Yearly Subscription": "¥138.00",
+      "Yearly Subscription": "¥298.00",
       "Monthly Subscription": "¥35.00",
       "Controller Subscription": "¥228.00"
     },
@@ -19398,6 +19415,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Controller Subscription": "¥228.00",
+            "Yearly Subscription": "¥298.00",
+            "Lifetime license": "¥698.00",
+            "Monthly Subscription": "¥35.00"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,
@@ -36538,6 +36566,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,

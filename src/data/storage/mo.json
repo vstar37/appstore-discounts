@@ -12973,7 +12973,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Yearly Subscription": "USD 19.99",
+      "Yearly Subscription": "USD 39.99",
       "PRO yearly subscription": "USD 34.99",
       "Lifetime license": "USD 99.99",
       "Monthly Subscription": "USD 5.49",
@@ -12990,6 +12990,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "USD 34.99",
+            "Yearly Subscription": "USD 39.99",
+            "Lifetime license": "USD 99.99",
+            "Monthly Subscription": "USD 5.49"
+          }
+        },
         {
           "timestamp": 1760955906513,
           "price": 0,
@@ -23241,6 +23252,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,

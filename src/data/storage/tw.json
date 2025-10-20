@@ -16687,7 +16687,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "PRO yearly subscription": "$1,190.00",
-      "Yearly Subscription": "$650.00",
+      "Yearly Subscription": "$1,290.00",
       "Lifetime license": "$2,990.00",
       "Monthly Subscription": "$170.00",
       "Controller Subscription": "$1,190.00"
@@ -16703,6 +16703,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "$1,190.00",
+            "Yearly Subscription": "$1,290.00",
+            "Lifetime license": "$2,990.00",
+            "Monthly Subscription": "$170.00"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,
@@ -30747,6 +30758,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760970107054,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,
