@@ -151,6 +151,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760621625317,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -1256,6 +1264,14 @@
       "扫描全能王高级帐户（一个月）": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760812099481,
@@ -2860,6 +2876,14 @@
       "Reset Password": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760710895507,
@@ -5678,6 +5702,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759894473099,
           "price": 0,
           "formattedPrice": "免費",
@@ -6129,6 +6161,14 @@
       "卡茲": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760880282376,
@@ -7057,6 +7097,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -7562,6 +7610,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -7601,6 +7657,14 @@
       "AI 空間": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758227024055,
@@ -8504,6 +8568,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760628249113,
           "price": 0,
           "formattedPrice": "免費",
@@ -9311,6 +9383,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759940876345,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -9964,6 +10044,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744726910409,
           "price": 0,
           "formattedPrice": "免費",
@@ -10290,6 +10378,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1739682132299,
           "price": 0,
           "formattedPrice": "免費",
@@ -10343,6 +10439,14 @@
       "Premium": "USD 34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
@@ -10524,6 +10628,14 @@
       "連續包季 SVIP": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760621625317,
@@ -11228,6 +11340,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759166371303,
           "price": 0,
           "formattedPrice": "免費",
@@ -11788,6 +11908,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -11821,6 +11949,14 @@
       "Infuse Pro - 生命週期": "USD 98.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -11872,6 +12008,14 @@
       "18元": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750152356934,
@@ -12259,6 +12403,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759110341988,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -12496,6 +12648,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743563675880,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -12541,6 +12701,14 @@
       "Controller Subscription": "USD 34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760455507100,
@@ -12645,6 +12813,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免費",
@@ -12674,6 +12850,14 @@
       "Picsew Plus": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
@@ -13038,6 +13222,14 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1738249337483,
@@ -13662,6 +13854,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 0,
           "formattedPrice": "免費",
@@ -13854,6 +14054,14 @@
       "五維迴響": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760592071332,
@@ -16177,6 +16385,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748355747435,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -16318,6 +16534,14 @@
       "Card.Note Premiun": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760199830750,
@@ -16595,6 +16819,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735398133297,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -16646,6 +16878,14 @@
       "Purchase the current game": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732813340473,
@@ -16705,6 +16945,14 @@
       "偉大的統治": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746505592316,
@@ -16830,6 +17078,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -16881,6 +17137,14 @@
       "Surge Pro": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -17239,6 +17503,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1760915961181,
           "price": 0,
@@ -20951,6 +21221,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757629168612,
           "price": 0,
           "formattedPrice": "免費",
@@ -21092,6 +21370,14 @@
       "不玩手机永久会员": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748310609030,
@@ -21677,6 +21963,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -21702,6 +21996,14 @@
       "捐贈可樂，支持我们": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753927495044,
@@ -21811,6 +22113,14 @@
       "終身高級版": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756692006562,
@@ -21945,6 +22255,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745659239922,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -21994,6 +22312,14 @@
       "终身买断": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743557378627,
@@ -22058,6 +22384,14 @@
       "秘靈": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728223329840,
@@ -22236,6 +22570,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 79.99,
+          "formattedPrice": "USD 79.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742264150416,
           "price": 79.99,
           "formattedPrice": "USD 79.99",
@@ -22288,6 +22630,14 @@
       "Value for Value": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760883481192,
@@ -23821,6 +24171,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -24007,6 +24365,14 @@
       "Remove Ad": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760451819700,
@@ -24794,6 +25160,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757772965981,
           "price": 0,
           "formattedPrice": "免費",
@@ -24911,6 +25285,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免費",
@@ -24937,6 +25319,14 @@
       "Filebar Pro Lifetime": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750342927101,
@@ -25223,6 +25613,14 @@
       "MenubarX Pro": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -25800,6 +26198,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731430929415,
           "price": 0,
           "formattedPrice": "免費",
@@ -25878,6 +26284,14 @@
       "Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1743062557675,
@@ -26044,6 +26458,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1740690133850,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -26120,6 +26542,14 @@
       "黄鸭证件照3元": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760538198236,
@@ -26365,6 +26795,14 @@
       "3 vs 3 獨立戰役地圖": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760455507100,
@@ -27056,6 +27494,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -27084,6 +27530,14 @@
       "Mr. X Nightmare DLC": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759760520736,
@@ -27269,6 +27723,14 @@
       "1.99美元禮包": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -28123,6 +28585,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744207375612,
           "price": 0,
           "formattedPrice": "免費",
@@ -28225,6 +28695,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免費",
@@ -28252,6 +28730,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免費",
@@ -28275,6 +28761,14 @@
       "Buy Pro Version": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736348537474,
@@ -28338,6 +28832,14 @@
       "Full Game Unlock": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756657467862,
@@ -28459,6 +28961,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743350539827,
           "price": 0,
           "formattedPrice": "免費",
@@ -28550,6 +29060,14 @@
       "Street Wolf 裝束": "USD 2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759134762953,
@@ -28820,6 +29338,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1725717733368,
           "price": 0,
           "formattedPrice": "免費",
@@ -28857,6 +29383,14 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760710895507,
@@ -29259,6 +29793,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756060174389,
           "price": 0,
           "formattedPrice": "免費",
@@ -29540,6 +30082,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760156652900,
           "price": 0,
           "formattedPrice": "免費",
@@ -29669,6 +30219,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -29705,6 +30263,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -29735,6 +30301,14 @@
       "包年会员": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742306545225,
@@ -29928,6 +30502,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752744529273,
           "price": 0,
           "formattedPrice": "免費",
@@ -29983,6 +30565,14 @@
       "完整版遊戲": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757586094648,
@@ -30049,6 +30639,14 @@
       "Pro Yearly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1744795468008,
@@ -30152,6 +30750,14 @@
       "可下載內容包": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759134762953,
@@ -30396,6 +31002,14 @@
       "武器專屬強化券 x3 (B)": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759177271798,
@@ -31308,6 +31922,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1724403722048,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -31391,6 +32013,14 @@
       "Yearly": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1735819396333,
@@ -31510,6 +32140,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1724293035090,
           "price": 0,
           "formattedPrice": "免費",
@@ -31568,6 +32206,14 @@
       "Premium Lifetime-Early Bird": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736261626842,
@@ -31633,6 +32279,14 @@
       "Lies of P: Overture": "USD 29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756185765540,
@@ -31771,6 +32425,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1725636889563,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
@@ -31797,6 +32459,14 @@
       "Yearly": "USD 10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,

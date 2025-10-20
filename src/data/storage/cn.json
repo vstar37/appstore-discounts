@@ -155,6 +155,12 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1760905374297,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -2625,6 +2631,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760847983056,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -4385,6 +4399,14 @@
       "Cloud Backup Monthly": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760710895507,
@@ -7246,6 +7268,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759894473099,
           "price": 0,
           "formattedPrice": "免费",
@@ -7739,6 +7769,14 @@
       "卡兹": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760843911483,
@@ -10295,6 +10333,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758227024055,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -11118,6 +11164,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760843911483,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -11906,6 +11960,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759940876345,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -12538,6 +12600,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760639522897,
           "price": 0,
           "formattedPrice": "免费",
@@ -13122,6 +13192,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755066958542,
           "price": 0,
           "formattedPrice": "免费",
@@ -13213,6 +13291,14 @@
       "高级版": "¥248.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760624561070,
@@ -14154,6 +14240,14 @@
       "连续包季 SVIP": "¥26.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759411756511,
@@ -15173,6 +15267,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1760891075534,
           "price": 0,
@@ -16839,6 +16939,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -16872,6 +16980,14 @@
       "Infuse Pro - 终身": "¥698.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -16923,6 +17039,14 @@
       "618元": "¥698.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760682746788,
@@ -18148,6 +18272,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760103029093,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -18925,6 +19057,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743563675880,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -18970,6 +19110,14 @@
       "Controller Subscription": "¥228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760455507100,
@@ -19237,6 +19385,14 @@
       "升级到 Picsew Pro": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1723994479838,
@@ -19622,6 +19778,14 @@
       "Geometric Frame Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759955030196,
@@ -20877,6 +21041,14 @@
       "首充特惠": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760696632905,
@@ -25777,6 +25949,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760019744939,
           "price": 0,
           "formattedPrice": "免费",
@@ -26010,6 +26190,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 0,
           "formattedPrice": "免费",
@@ -26222,6 +26410,14 @@
       "五维回响": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760243102115,
@@ -29941,6 +30137,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760199830750,
           "price": 0,
           "formattedPrice": "免费",
@@ -30409,6 +30613,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735398133297,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -30460,6 +30672,14 @@
       "购买游戏": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1732813340473,
@@ -30519,6 +30739,14 @@
       "异象号": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750861419158,
@@ -30841,6 +31069,14 @@
       "桌面透明小组件": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -31221,6 +31457,14 @@
       "Monthly Project Budget (Green)": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760678452487,
@@ -33933,6 +34177,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744755653662,
           "price": 0,
           "formattedPrice": "免费",
@@ -34022,6 +34274,14 @@
       "不玩手机永久会员": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748310609030,
@@ -34817,6 +35077,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -34842,6 +35110,14 @@
       "送上咖啡，支持开发者": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753927495044,
@@ -34984,6 +35260,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756692006562,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -35105,6 +35389,14 @@
       "高级特性": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745659239922,
@@ -35250,6 +35542,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743557378627,
           "price": 0,
           "formattedPrice": "免费",
@@ -35300,6 +35600,14 @@
       "秘灵": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759846991348,
@@ -35574,6 +35882,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 329,
+          "formattedPrice": "¥329.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1742264150416,
           "price": 329,
           "formattedPrice": "¥329.00",
@@ -35626,6 +35942,14 @@
       "Value for Value": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760883481192,
@@ -37242,6 +37566,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750152356934,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -37454,6 +37786,14 @@
       "解锁《一路向海》DLC捆绑包": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759933349177,
@@ -37771,6 +38111,14 @@
       "120000 GP": "¥148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760451819700,
@@ -38686,6 +39034,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757772965981,
           "price": 0,
           "formattedPrice": "免费",
@@ -38976,6 +39332,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免费",
@@ -39002,6 +39366,14 @@
       "Filebar 高级版永久解锁": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750342927101,
@@ -39298,6 +39670,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免费",
@@ -39477,6 +39857,14 @@
       "纪念碑谷": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -39954,6 +40342,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1731430929415,
           "price": 0,
           "formattedPrice": "免费",
@@ -40028,6 +40424,14 @@
       "年度会员升级终身会员": "¥78.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753885454706,
@@ -40236,6 +40640,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1740690133850,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -40283,6 +40695,14 @@
       "黄鸭证件照1元": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 2.8,
+          "formattedPrice": "¥2.80",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760538198236,
@@ -40504,6 +40924,14 @@
       "8800炭币": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -41118,6 +41546,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744207375612,
           "price": 0,
           "formattedPrice": "免费",
@@ -41236,6 +41672,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免费",
@@ -41263,6 +41707,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 0,
           "formattedPrice": "免费",
@@ -41286,6 +41738,14 @@
       "解锁专业版(Pro)": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1736348537474,
@@ -41411,6 +41871,14 @@
       "终业(DLC)": "¥10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760027372819,
@@ -41557,6 +42025,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1743350539827,
           "price": 0,
           "formattedPrice": "免费",
@@ -41669,6 +42145,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1725804134093,
           "price": 0,
           "formattedPrice": "免费",
@@ -41717,6 +42201,14 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760710895507,
@@ -42125,6 +42617,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760843911483,
           "price": 0,
           "formattedPrice": "免费",
@@ -42450,6 +42950,14 @@
       "212枚鸡蛋": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757092710082,
@@ -43613,6 +44121,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760156652900,
           "price": 0,
           "formattedPrice": "免费",
@@ -43742,6 +44258,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -43778,6 +44302,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1721960142187,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -43808,6 +44340,14 @@
       "包年会员": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742306545225,
@@ -44065,6 +44605,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1744795468008,
           "price": 0,
           "formattedPrice": "免费",
@@ -44310,6 +44858,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1734620559485,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -44435,6 +44991,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1735819396333,
           "price": 0,
           "formattedPrice": "免费",
@@ -44478,6 +45042,14 @@
       "2080 星钻": "¥118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756736447446,
@@ -44797,6 +45369,14 @@
     "history": [
       [
         {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1724293035090,
           "price": 0,
           "formattedPrice": "免费",
@@ -44857,6 +45437,14 @@
       "Premium Annual": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1742839361906,
@@ -44949,6 +45537,14 @@
       "Monthly Weather Subscription": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760934469551,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
