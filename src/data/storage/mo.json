@@ -6212,6 +6212,23 @@
     "history": [
       [
         {
+          "timestamp": 1760955906513,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "黑龍灰霸齒": "USD 6.99",
+            "骷心巫龍": "USD 6.99",
+            "英雄包 5": "USD 4.99",
+            "倪浮世": "USD 0.99",
+            "一箱寶石": "USD 9.99",
+            "帝娥翠": "USD 0.99",
+            "特別優惠大聖": "USD 2.99",
+            "但丁": "USD 4.99",
+            "庫紹": "USD 2.99",
+            "崗牢": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1760952397129,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -12974,6 +12991,17 @@
     "history": [
       [
         {
+          "timestamp": 1760955906513,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "USD 34.99",
+            "Yearly Subscription": "USD 19.99",
+            "Lifetime license": "USD 99.99",
+            "Monthly Subscription": "USD 5.49"
+          }
+        },
+        {
           "timestamp": 1760942076249,
           "price": 0,
           "formattedPrice": "免費",
@@ -14390,6 +14418,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760955906513,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "MSR特選曲目組合包_Vol.02": "USD 5.99",
+            "Let's GROOVE": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Miku in Museland": "USD 5.99",
+            "unlockall_3": "USD 20.99",
+            "肥宅快樂包 Vol.3": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1760952397129,
           "price": 2.99,
