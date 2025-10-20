@@ -151,6 +151,21 @@
     "history": [
       [
         {
+          "timestamp": 1760980789820,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "专业会员·无限版-1个月（活动）": "USD 12.99",
+            "专业会员·10人版-12个月（活动）": "USD 69.99",
+            "专业会员·5人版-12个月（活动）": "USD 49.99",
+            "专业会员·无限版-12个月（活动）": "USD 129.99",
+            "专业会员·10人版-1个月（活动）": "USD 6.99",
+            "专业会员·5人版-1个月（活动）": "USD 3.99",
+            "基础会员2年（活动）": "USD 29.99",
+            "基础会员1个月（活动）": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1760977702978,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -23318,6 +23333,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760980789820,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1760977702978,
           "price": 6.99,
