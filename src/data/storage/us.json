@@ -3586,6 +3586,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -6504,6 +6517,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -6980,6 +7001,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 1.99,
@@ -10696,6 +10734,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "$0.00",
+            "Paquete para el idioma español": "$0.00",
+            "Arabic language pack": "$0.00",
+            "Пакет поддержки русского языка": "$0.00",
+            "Pacchetto lingua italiana": "$0.00",
+            "Polski pakiet językowy": "$0.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 29.99,
@@ -14440,6 +14491,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "$34.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -16374,6 +16433,23 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "98财富币": "$14.99",
+            "6财富币": "$0.99",
+            "68财富币": "$9.99",
+            "128财富币": "$19.99",
+            "88财富币": "$12.99",
+            "198财富币": "$29.99",
+            "168财富币": "$24.99",
+            "1998财富币": "$299.99",
+            "1598财富币": "$229.99",
+            "898财富币": "$129.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -16998,6 +17074,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Subscription": "$39.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -17236,6 +17323,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Picsew Pro": "$1.99",
+            "Upgrade to Picsew Plus": "$0.00",
+            "Picsew Plus": "$0.99",
+            "Upgrade to Picsew Pro": "$0.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -17606,6 +17704,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 2.99,
@@ -18425,6 +18540,23 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纸短情长-纸质信纸尊享版": "$19.99",
+            "纸短情长-纸质信纸普通版": "$4.99",
+            "时间胶囊-永久去广告": "$0.99",
+            "时间胶囊-年度超级会员": "$2.99",
+            "纸短情长-纸质信纸升级版": "$9.99",
+            "时间胶囊-月度超级会员服务": "$0.99",
+            "时间胶囊超级会员": "$5.99",
+            "给你的Ta寄一封三行情书": "$0.99",
+            "给未来寄一封带照片的信": "$0.99",
+            "获取不限字数的信纸": "$0.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -18626,6 +18758,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_29": "$33.99",
+            "Muse Radio FM101": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "MSR Anthology": "$5.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 2.99,
@@ -25945,6 +26093,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$1.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -26228,6 +26384,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$1.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -26308,6 +26472,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Purchase the current game": "$1.99",
+            "A stack of gold coins": "$0.99",
+            "A gold coin": "$0.99",
+            "A bundle of gold coins": "$1.99",
+            "A large number of gold coins": "$3.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -26862,6 +27038,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$11.99",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -31563,6 +31751,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$29.99",
+            "Monthly Subscription": "$7.99",
+            "Lifetime": "$119.99",
+            "Exclusive Lifetime Offer": "$79.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -31788,6 +31987,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "不玩手机永久会员": "$3.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 3.99,
@@ -32407,6 +32614,15 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Encourage us, Donate Coke": "$0.99",
+            "Encourage  us, Buy me a coffee": "$2.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -32523,6 +32739,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Lifetime Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0.99,
@@ -32664,6 +32890,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Advanced Features": "$1.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -32710,6 +32944,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$19.99",
+            "Monthly": "$0.99",
+            "Annual": "$6.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -33182,6 +33426,20 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 99.99,
+          "formattedPrice": "$99.99",
+          "inAppPurchases": {
+            "Medium Tip": "$19.99",
+            "Little Tip": "$4.99",
+            "Annual Tip": "$19.99",
+            "Monthly Tip": "$2.99",
+            "Small Tip": "$9.99",
+            "Huge Tip": "$199.99",
+            "Large Tip": "$99.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 99.99,
           "formattedPrice": "$99.99",
@@ -33257,6 +33515,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -35235,6 +35501,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "200000 GP": "$29.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "120000 GP": "$19.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -37038,6 +37317,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$4.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -37125,6 +37412,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$9.99",
+            "Yearly Membership": "$3.99",
+            "Quarterly Membership": "$2.99",
+            "Lifetime - Education": "$9.99",
+            "Monthly Membership": "$0.99",
+            "月度会员": "$0.99",
+            "年度会员升级终身会员": "$9.99",
+            "年度会员": "$3.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -37300,6 +37602,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Cheat Codes": "$2.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -37385,6 +37695,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0.99,
@@ -40238,6 +40559,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$1.99",
+            "Yearly": "$9.99",
+            "Lifetime Pro": "$24.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -40409,6 +40740,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Buy Pro Version": "$1.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0.99,
@@ -40599,6 +40938,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "$9.99",
+            "Pro (Yearly)": "$6.99",
+            "Pro (Monthly)": "$1.49",
+            "Pro (Activate)": "$9.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -41880,6 +42230,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包年订阅": "$6.99",
+            "连续包月订阅": "$0.99",
+            "拦截猫股东会员": "$24.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -46142,6 +46502,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "本体1-6章": "$5.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -46236,6 +46604,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$0.99",
+            "Yearly": "$0.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -46362,6 +46739,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Early Bird Membership": "$4.99",
+            "Lifetime Membership": "$4.99",
+            "Annual subscription": "$3.99",
+            "Month Member": "$0.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "Free",
@@ -46416,6 +46804,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Monthly": "$0.99",
+            "Premium Annual": "$8.99",
+            "Premium Lifetime": "$17.99",
+            "Premium Lifetime-Early Bird": "$17.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -46477,6 +46876,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 59.99,
+          "formattedPrice": "$59.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "$29.99"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 59.99,
@@ -46622,6 +47029,15 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "Yearly Weather Subscription": "$4.99",
+            "Monthly Weather Subscription": "$0.99"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 11.99,
           "formattedPrice": "$11.99",
@@ -46657,6 +47073,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$1.00",
+            "Yearly": "$10.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,

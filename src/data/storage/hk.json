@@ -167,6 +167,23 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6香蕉贝": "HK$ 8.00",
+            "连续包年": "HK$ 288.00",
+            "30香蕉贝": "HK$ 32.00",
+            "连续包季": "HK$ 88.00",
+            "68香蕉贝": "HK$ 88.00",
+            "免广告会员十二个月": "HK$ 18.00",
+            "128香蕉贝": "HK$ 148.00",
+            "同步账本高级功能月套餐": "HK$ 18.00",
+            "12香蕉贝": "HK$ 18.00",
+            "14香蕉贝": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -1632,6 +1649,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "HK$ 393.00",
+            "一頁傳真": "HK$ 8.00",
+            "3000 C-Points": "HK$ 38.00",
+            "十頁傳真": "HK$ 68.00",
+            "3000 cp + Six chance to Draw": "HK$ 38.00",
+            "600 cp + One chance to Draw": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 8,
@@ -3421,6 +3451,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 32,
@@ -6246,6 +6289,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "移除廣告": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -6728,6 +6779,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 22.00",
+            "但丁": "HK$ 38.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00",
+            "黑棘船長": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 18,
@@ -10631,6 +10699,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 199,
+          "formattedPrice": "HK$ 199.00",
+          "inAppPurchases": {
+            "Single Player DLC Pack": "HK$ 0.00",
+            "Пакет поддержки русского языка": "HK$ 0.00",
+            "Pacchetto lingua italiana": "HK$ 0.00",
+            "Polski pakiet językowy": "HK$ 0.00",
+            "Paquete para el idioma español": "HK$ 0.00",
+            "Arabic language pack": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 199,
           "formattedPrice": "HK$ 199.00",
@@ -11151,6 +11232,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "被遺忘的海岸": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -11199,6 +11288,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "ZERO: 直接感測器擷取": "HK$ 0.00",
+            "4K Ultra HD 視訊影片": "HK$ 38.00",
+            "AI 空間": "HK$ 0.00",
+            "大師系列": "HK$ 18.00",
+            "4K Ultra HD 延時攝影": "HK$ 22.00",
+            "城市系列": "HK$ 8.00",
+            "批量相片處理": "HK$ 0.00",
+            "基本系列": "HK$ 8.00",
+            "8K Max 延時攝影": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 88,
@@ -12108,6 +12213,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一盒陽光菁華": "HK$ 18.00",
+            "年訂閱（早鳥）": "HK$ 200.00",
+            "一瓶陽光菁華": "HK$ 8.00",
+            "一小盆寶石": "HK$ 38.00",
+            "一鏟子寶石": "HK$ 8.00",
+            "一大袋寶石": "HK$ 88.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "一推車寶石": "HK$ 188.00",
+            "年訂閱": "HK$ 200.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -13090,6 +13211,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "3D Model (A Month)": "HK$ 8.00",
+            "3D Model (A Year)": "HK$ 48.00",
+            "Location Explorer (Month)": "HK$ 38.00",
+            "Location Explorer (A Year)": "HK$ 233.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -13751,6 +13883,18 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生辰-年度会员": "HK$ 98.00",
+            "生辰年度会员": "HK$ 88.00",
+            "永久会员": "HK$ 118.00",
+            "生辰-季度会员": "HK$ 98.00",
+            "月度会员": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -14085,6 +14229,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "去除廣告": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -14163,6 +14315,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "HK$ 273.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -14382,6 +14542,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "年度 SVIP": "HK$ 103.00",
+            "連續包月 SVIP": "HK$ 10.00",
+            "SVIP 連續包月": "HK$ 10.00",
+            "SVIP 連續包年": "HK$ 98.00",
+            "雨季特惠 100 天 SVIP": "HK$ 22.00",
+            "季度SVIP": "HK$ 22.00",
+            "SVIP特惠 (買兩年送一年)": "HK$ 188.00",
+            "連續包季 SVIP": "HK$ 32.00",
+            "1年SVIP": "HK$ 98.00",
+            "連續包年 SVIP": "HK$ 98.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 118,
@@ -14965,6 +15142,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "HK$ 588.00",
+            "Parallels Desktop for Mac #4": "HK$ 588.00",
+            "訂閱 (1 年)": "HK$ 588.00",
+            "Parallels Desktop for Mac #2": "HK$ 588.00",
+            "Parallels Desktop for Mac #5": "HK$ 588.00",
+            "Parallels Desktop for Mac #3": "HK$ 588.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -15596,6 +15786,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Patient Education Animations": "HK$ 148.00",
+            "Advanced Animations": "HK$ 88.00",
+            "3D Dental Anatomy": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -15638,6 +15838,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Infuse Pro - 月方案": "HK$ 18.00",
+            "Infuse Pro - 年方案": "HK$ 98.00",
+            "DTS 音效": "HK$ 0.00",
+            "杜比音效": "HK$ 0.00",
+            "Infuse Pro - 生命週期": "HK$ 788.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -15697,6 +15909,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "私信付费1元": "HK$ 8.00",
+            "私信付费8元": "HK$ 8.00",
+            "私信付费6元": "HK$ 8.00",
+            "私信付费3元": "HK$ 8.00",
+            "998元": "HK$ 1,188.00",
+            "618元": "HK$ 688.00",
+            "488元": "HK$ 588.00",
+            "218元": "HK$ 268.00",
+            "118元": "HK$ 148.00",
+            "50元": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 8,
@@ -16234,6 +16463,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "6财富币": "HK$ 8.00",
+            "128财富币": "HK$ 148.00",
+            "88财富币": "HK$ 98.00",
+            "198财富币": "HK$ 228.00",
+            "168财富币": "HK$ 188.00",
+            "1998财富币": "HK$ 2,288.00",
+            "1598财富币": "HK$ 1,888.00",
+            "898财富币": "HK$ 988.00",
+            "418财富币": "HK$ 488.00",
+            "98财富币": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 32,
@@ -16956,6 +17202,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "VIP会员  1个月": "HK$ 588.00",
+            "VIP会员  1年": "HK$ 5,888.00",
+            "VIP会员  3个月": "HK$ 1,488.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -17010,6 +17266,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "HK$ 288.00",
+            "Yearly Subscription": "HK$ 158.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -17579,6 +17846,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "《INSIDE》完整版": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -17617,6 +17892,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Picsew Pro": "HK$ 18.00",
+            "升級到 Picsew Plus": "HK$ 0.00",
+            "Picsew Plus": "HK$ 8.00",
+            "升級到 Picsew Pro": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -17989,6 +18275,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 22,
@@ -19316,6 +19619,23 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "时间胶囊-年度超级会员": "HK$ 22.00",
+            "时间胶囊-月度超级会员服务": "HK$ 8.00",
+            "纸短情长-纸质信纸尊享版": "HK$ 148.00",
+            "纸短情长-纸质信纸普通版": "HK$ 38.00",
+            "时间胶囊-永久去广告": "HK$ 8.00",
+            "纸短情长-纸质信纸升级版": "HK$ 88.00",
+            "时间胶囊超级会员": "HK$ 48.00",
+            "给你的Ta寄一封三行情书": "HK$ 8.00",
+            "给未来寄一封带照片的信": "HK$ 8.00",
+            "获取不限字数的信纸": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -19543,6 +19863,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_0": "HK$ 218.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 23,
@@ -27900,6 +28237,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "The Bad Seed": "HK$ 32.00",
+            "Fatal Falls": "HK$ 32.00",
+            "The Queen and the Sea": "HK$ 32.00",
+            "Return to Castlevania": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 68,
           "formattedPrice": "HK$ 68.00",
@@ -28050,6 +28398,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -28334,6 +28690,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -28394,6 +28758,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Purchase the current game": "HK$ 18.00",
+            "A stack of gold coins": "HK$ 8.00",
+            "A bundle of gold coins": "HK$ 18.00",
+            "A gold coin": "HK$ 8.00",
+            "A large number of gold coins": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -28461,6 +28837,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "偉大的統治": "HK$ 18.00",
+            "邪惡病房": "HK$ 22.00",
+            "異象號": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 32,
@@ -28593,6 +28979,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Unlock all Tools": "HK$ 8.00",
+            "永久會員": "HK$ 32.00",
+            "解鎖所有動態壁紙": "HK$ 8.00",
+            "包月會員": "HK$ 5.00",
+            "包年會員": "HK$ 28.00",
+            "桌面透明小組件": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -28653,6 +29052,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Surge Pro": "HK$ 388.00",
+            "Feature Subscription": "HK$ 118.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -29082,6 +29490,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 108.00",
+            "特別版": "HK$ 319.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "Goodnotes 6 一次性付款": "HK$ 253.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "好心智雜誌": "HK$ 0.00",
+            "秋貓貼紙組": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -33360,6 +33783,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度訂閱": "HK$ 228.00",
+            "月度訂閱": "HK$ 58.00",
+            "終生": "HK$ 888.00",
+            "專屬終生優惠方案": "HK$ 588.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -33553,6 +33987,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "不玩手机永久会员": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 32,
@@ -34129,6 +34571,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "解锁剩余九个章节": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -34163,6 +34613,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "送上咖啡，支持開發者": "HK$ 22.00",
+            "捐贈可樂，支持我们": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 18,
@@ -34280,6 +34739,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "終身高級版": "HK$ 88.00",
+            "300次高精度海拔": "HK$ 32.00",
+            "100次高精度海拔查詢": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 8,
@@ -34421,6 +34890,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Advanced Features": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -34479,6 +34956,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "HK$ 148.00",
+            "Monthly": "HK$ 8.00",
+            "Annual": "HK$ 48.00",
+            "终身买断": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -34551,6 +35039,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "追加內容·「深入黑霧」": "HK$ 8.00",
+            "遺忘之潮": "HK$ 22.00",
+            "泰倫斯先驅者套裝": "HK$ 8.00",
+            "皇座之舞": "HK$ 18.00",
+            "成人禮": "HK$ 8.00",
+            "睡美人套裝": "HK$ 8.00",
+            "秘靈": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 38,
@@ -34736,6 +35238,20 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 588,
+          "formattedPrice": "HK$ 588.00",
+          "inAppPurchases": {
+            "Annual Tip": "HK$ 153.00",
+            "Monthly Tip": "HK$ 23.00",
+            "Huge Tip": "HK$ 1,488.00",
+            "Large Tip": "HK$ 788.00",
+            "Medium Tip": "HK$ 148.00",
+            "Small Tip": "HK$ 88.00",
+            "Little Tip": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 588,
           "formattedPrice": "HK$ 588.00",
@@ -34797,6 +35313,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -36495,6 +37019,18 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "698包野果": "HK$ 788.00",
+            "98包野果": "HK$ 118.00",
+            "30包野果": "HK$ 38.00",
+            "12包野果": "HK$ 18.00",
+            "6包野果": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -36676,6 +37212,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Remove Ad": "HK$ 22.00",
+            "120000 GP": "HK$ 148.00",
+            "200000 GP": "HK$ 228.00",
+            "25000 GP": "HK$ 48.00",
+            "50000 GP": "HK$ 88.00",
+            "5000 GP": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 118,
@@ -37470,6 +38019,22 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身版": "HK$ 98.00",
+            "免費試用": "HK$ 0.00",
+            "年付VIP": "HK$ 38.00",
+            "Americano": "HK$ 18.00",
+            "Mocha": "HK$ 32.00",
+            "Latte": "HK$ 22.00",
+            "社區版 VIP": "HK$ 0.00",
+            "教育版VIP(2024)": "HK$ 0.00",
+            "內測獎勵": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -37595,6 +38160,15 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PasteNow Free Trial": "HK$ 0.00",
+            "PasteNow Pro": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -37630,6 +38204,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -37924,6 +38506,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "MenubarX Pro": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -38500,6 +39090,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -38587,6 +39185,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Membership": "HK$ 32.00",
+            "Lifetime Membership": "HK$ 88.00",
+            "Lifetime - Education": "HK$ 88.00",
+            "Monthly Membership": "HK$ 8.00",
+            "Quarterly Membership": "HK$ 22.00",
+            "年度会员升级终身会员": "HK$ 88.00",
+            "年度会员": "HK$ 32.00",
+            "月度会员": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -38760,6 +39373,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Cheat Codes": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -38845,6 +39466,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "HK$ 18.00",
+            "黄鸭证件照3元": "HK$ 8.00",
+            "黄鸭证件照-周度会员": "HK$ 8.00",
+            "黄鸭证件照1元": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 8,
@@ -39102,6 +39734,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 139,
+          "formattedPrice": "HK$ 139.00",
+          "inAppPurchases": {
+            "所有內容": "HK$ 0.00",
+            "《Opposing Fronts》火線對決": "HK$ 0.00",
+            "《Tales of Valor》": "HK$ 0.00",
+            "1 vs 1 獨立戰役地圖": "HK$ 0.00",
+            "戰役任務 2-5": "HK$ 0.00",
+            "2 vs 2 獨立戰役地圖": "HK$ 0.00",
+            "高畫質模型": "HK$ 0.00",
+            "4 vs 4 獨立戰役地圖": "HK$ 0.00",
+            "3 vs 3 獨立戰役地圖": "HK$ 0.00",
+            "戰役任務 6-10": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 139,
@@ -40509,6 +41158,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "600炭币": "HK$ 8.00",
+            "6800 炭币": "HK$ 88.00",
+            "1800 炭币": "HK$ 22.00",
+            "3000 炭币": "HK$ 32.00",
+            "5000 炭币": "HK$ 58.00",
+            "100炭币": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -40546,6 +41208,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 58,
@@ -40739,6 +41409,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 53,
+          "formattedPrice": "HK$ 53.00",
+          "inAppPurchases": {
+            "1.99美元禮包": "HK$ 15.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 53,
@@ -41586,6 +42264,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "按年訂閱": "HK$ 88.00",
+            "按月訂閱": "HK$ 18.00",
+            "終身會員": "HK$ 188.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -41696,6 +42384,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Bob Free Trial": "HK$ 0.00",
+            "Bob Pro": "HK$ 68.00",
+            "Bob Pro Original": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -41731,6 +42429,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "APTV Pro": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -41763,6 +42469,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Buy Pro Version": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 8,
@@ -41834,6 +42548,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Game Unlock": "HK$ 109.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -41980,6 +42702,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "HK$ 88.00",
+            "Pro (Yearly)": "HK$ 58.00",
+            "Pro (Monthly)": "HK$ 12.00",
+            "Pro (Activate)": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -42080,6 +42813,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 138.00",
+            "通行證": "HK$ 35.00",
+            "Street Wolf 裝束": "HK$ 21.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 288,
@@ -42357,6 +43100,15 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "HK$ 8.00",
+            "订阅机器学习模型（按月）": "HK$ 5.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -42403,6 +43155,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 22,
@@ -42812,6 +43573,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "HK$ 268.00",
+            "月方案": "HK$ 12.00",
+            "年方案": "HK$ 88.00",
+            "生命周期VIP(Apple TV 版)": "HK$ 228.00",
+            "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00",
+            "生命周期VIP(Mac 版)": "HK$ 228.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -43164,6 +43938,16 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "连续包年订阅": "HK$ 58.00",
+            "连续包月订阅": "HK$ 8.00",
+            "拦截猫股东会员": "HK$ 188.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -43301,6 +44085,19 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "终身会员": "HK$ 22.00",
+            "季卡": "HK$ 18.00",
+            "月度卡": "HK$ 8.00",
+            "周度卡": "HK$ 8.00",
+            "月卡": "HK$ 8.00",
+            "周卡": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -43345,6 +44142,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "季度会员": "HK$ 58.00",
+            "周度会员": "HK$ 32.00",
+            "年度会员": "HK$ 98.00",
+            "月度会员": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -43384,6 +44192,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "HK$ 88.00",
+            "包月会员": "HK$ 18.00",
+            "包年会员": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -43584,6 +44402,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 158.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -43654,6 +44480,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版遊戲": "HK$ 158.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -43738,6 +44572,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Yearly": "HK$ 38.00",
+            "Pro version lifetime": "HK$ 98.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -43849,6 +44692,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 288.00",
+            "通行證": "HK$ 35.00",
+            "可下載內容包": "HK$ 138.00",
+            "Street Wolf 裝束": "HK$ 21.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -44101,6 +44955,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "武器專屬強化券 x1 (A)": "HK$ 21.00",
+            "金色公事包": "HK$ 7.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "綠色藥草吊飾": "HK$ 7.00",
+            "經典公事包": "HK$ 7.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -46963,6 +47834,14 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "本体1-6章": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -47055,6 +47934,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "HK$ 8.00",
+            "Yearly": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -47181,6 +48069,17 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身會員": "HK$ 38.00",
+            "早鳥會員": "HK$ 38.00",
+            "按年度訂閱": "HK$ 32.00",
+            "月份會員": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 0,
           "formattedPrice": "免費",
@@ -47248,6 +48147,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Annual": "HK$ 58.00",
+            "Premium Monthly": "HK$ 8.00",
+            "Premium Lifetime": "HK$ 78.00",
+            "Premium Lifetime-Early Bird": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
@@ -47331,6 +48241,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 328,
+          "formattedPrice": "HK$ 328.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "HK$ 158.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 328,
@@ -47476,6 +48394,15 @@
     "history": [
       [
         {
+          "timestamp": 1760942076249,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Yearly Weather Subscription": "HK$ 38.00",
+            "Monthly Weather Subscription": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1760934469551,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -47511,6 +48438,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760942076249,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "HK$ 8.00",
+            "Yearly": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1760934469551,
           "price": 0,
