@@ -17060,7 +17060,8 @@
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$99.99",
       "Monthly Subscription": "$5.49",
-      "Controller Subscription": "$39.99"
+      "Controller Subscription": "$39.99",
+      "Controller Plus Subscription": "$8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17069,10 +17070,23 @@
       "Yearly Subscription": "$19.99",
       "Lifetime license": "$49.99",
       "Monthly Subscription": "$5.49",
-      "Controller Subscription": "$39.99"
+      "Controller Subscription": "$4.99",
+      "Controller Plus Subscription": "$8.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1760991962386,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Subscription": "$4.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49",
+            "Controller Plus Subscription": "$8.99"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 0,

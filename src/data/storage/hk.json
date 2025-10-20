@@ -17284,7 +17284,8 @@
       "Yearly Subscription": "HK$ 288.00",
       "Lifetime license": "HK$ 788.00",
       "Monthly Subscription": "HK$ 43.00",
-      "Controller Subscription": "HK$ 288.00"
+      "Controller Subscription": "HK$ 288.00",
+      "Controller Plus Subscription": "HK$ 68.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17293,9 +17294,24 @@
       "Yearly Subscription": "HK$ 158.00",
       "Lifetime license": "HK$ 388.00",
       "Monthly Subscription": "HK$ 43.00",
-      "Controller Subscription": "HK$ 288.00"
+      "Controller Subscription": "HK$ 38.00",
+      "Controller Plus Subscription": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760991962386,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "HK$ 38.00",
+            "Yearly Subscription": "HK$ 288.00",
+            "Lifetime license": "HK$ 788.00",
+            "Monthly Subscription": "HK$ 43.00",
+            "Controller Plus Subscription": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760970107054,
