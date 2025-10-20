@@ -12214,6 +12214,21 @@
     "history": [
       [
         {
+          "timestamp": 1760952397129,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "HK$ 200.00",
+            "森日豪華禮包": "HK$ 148.00",
+            "森日精選禮包": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00",
+            "Supreme Package": "HK$ 38.00",
+            "Advanced Package": "HK$ 22.00",
+            "Starter Package": "HK$ 8.00",
+            "年訂閱": "HK$ 200.00"
+          }
+        },
+        {
           "timestamp": 1760942076249,
           "price": 0,
           "formattedPrice": "免費",

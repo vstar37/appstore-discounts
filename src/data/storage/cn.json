@@ -18483,6 +18483,23 @@
     "history": [
       [
         {
+          "timestamp": 1760952397129,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "128财富币": "¥128.00",
+            "88财富币": "¥88.00",
+            "198财富币": "¥198.00",
+            "168财富币": "¥168.00",
+            "1998财富币": "¥1,998.00",
+            "1598财富币": "¥1,598.00",
+            "898财富币": "¥898.00",
+            "418财富币": "¥418.00",
+            "98财富币": "¥98.00",
+            "998财富币": "¥998.00"
+          }
+        },
+        {
           "timestamp": 1760942076249,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -20039,6 +20056,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1760952397129,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Pack": "¥8.00",
+            "Geometric Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Color Frame Pack": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        },
         {
           "timestamp": 1760942076249,
           "price": 22,
