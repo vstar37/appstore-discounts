@@ -10638,6 +10638,19 @@
     "history": [
       [
         {
+          "timestamp": 1761064155952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99",
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Subscription (1 year)": "₺2.299,99"
+          }
+        },
+        {
           "timestamp": 1761060208506,
           "price": 0,
           "formattedPrice": "Free",
@@ -17390,6 +17403,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761064155952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        },
         {
           "timestamp": 1761060208506,
           "price": 0,
