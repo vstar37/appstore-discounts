@@ -11698,6 +11698,18 @@
     "history": [
       [
         {
+          "timestamp": 1761056449329,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Subscription": "₺229,99",
+            "Yearly Subscription": "₺1.799,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99",
+            "Controller Plus Subscription": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1761053738749,
           "price": 0,
           "formattedPrice": "Free",
@@ -28907,6 +28919,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761056449329,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        },
         {
           "timestamp": 1761053738749,
           "price": 0,
