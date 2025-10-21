@@ -27119,6 +27119,19 @@
     "history": [
       [
         {
+          "timestamp": 1761081609565,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$11.99",
+            "Special Edition": "$35.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
+        {
           "timestamp": 1761078378657,
           "price": 0,
           "formattedPrice": "Free",

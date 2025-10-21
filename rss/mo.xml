@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-10-21T01:50:17.792Z</updated>
+    <updated>2025-10-21T21:23:26.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,58 +21,75 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-21T01:50:17.792Z</updated>
+        <updated>2025-10-21T21:23:26.217Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes：AI 筆記、白板、PDF]]></title>
-        <id>Goodnotes：AI 筆記、白板、PDF-1761011227458</id>
-        <link href="https://apps.apple.com/mo/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=4"/>
-        <updated>2025-10-21T01:47:07.458Z</updated>
-        <summary type="html"><![CDATA[特別版: USD 35.99 → USD 28.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/bf/07/5dbf0719-5e2b-7843-80f0-772f83d44919/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Forest 專注森林 - 讀書專注番茄鐘]]></title>
+        <id>Forest 專注森林 - 讀書專注番茄鐘-1761081609565</id>
+        <link href="https://apps.apple.com/mo/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4"/>
+        <updated>2025-10-21T21:20:09.565Z</updated>
+        <summary type="html"><![CDATA[年訂閱（早鳥）: USD 249.00 → USD 25.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/69/7d/23697d6d-1778-200f-2e6e-9413ec6569d7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>特別版：</strong><span>USD 35.99</span> → <b>
-  <strong>USD 28.99</strong>
+    <strong>年訂閱（早鳥）：</strong><span>USD 249.00</span> → <b>
+  <strong>USD 25.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Goodnotes 隨時準備好記下您所有的點子，從速記到大型計畫都絕無遺漏。 現在，我們要更進一步！ 在強大的人工智慧和新的資訊擷取方式加持下，可協助連結線索、開啟洞見，並將想法轉化為行動。
-*現有的 Goodnotes 5 使用者可以無限期地繼續使用 Goodnotes 5 ，或升級為新的 Goodnotes。 無論如何，您的筆記都絕對安全！*
-專業人士：提高工作生產力
-■ 白板 + Goodnotes AI：我們最受歡迎的功能之一——腦力激盪、心智圖和圖表，隨著你的想法自由成長。 藉由經過強化的圖表工具和即時協作，團隊可以輕鬆地集思廣益、發展想法和解決問題，而 Goodnotes AI 可幫助您即時擷取和整理關鍵要點。
-■ Goodnotes AI 音訊與會議：完整參與所有對話，讓 Goodnotes 為您完成工作。 人工智慧驅動的轉錄和即時摘要會自動擷取討論，並將其結構化為清晰的會議紀要。 會議結束後，您可以將文字記錄與自己的筆記合併，在幾秒鐘內建立可分享的精緻文件。
-■ 文字文件 + 人工智慧：建立與您一起思考的文件。 透過豐富的內嵌區塊享受卓越的輸入體驗、利用外部的深入解析建立構想、與團隊夥伴無縫協作。 藉助人工智慧驅動的摘要、自動筆記生成和速記功能，您可以用史上最快的速度將粗略的筆記和會議轉換為完稿。
-
-■ 透過 AirPlay 或 HDMI 將裝置連線到外接螢幕，直接從 Goodnotes 呈現筆記、投影片和內容。
-■ 在簡報期間，使用雷射筆引導觀眾的注意力。
-■ 筆記可匯出至電子郵件、列印，或以 PDF 格式在任何地方分享。
-■ 將連結傳送到筆記型電腦，直接處理同一筆記，非常適合非同步工作或協作腦力激盪。
-■ 透過電子郵件將文件匯入您的自訂 Goodnotes 電子郵件。
-學生：輕鬆高分通過測驗
-■ 以神奇的同步效率為您寫作的內容錄製音訊，非常適合講演或報告。
-■ 能搜尋並立即找出任何班級的任何筆記。
-■ 利用學習卡組功能，以主動回憶和間隔的概念建立抽認卡，直接從筆記中學習和練習。
-■ 使用人工智慧摘要、精簡、調整文風、完善所輸入的文字。
-手帳：讓您的創意自由發揮
-■ 自訂紙張範本的尺寸和顏色，隨心所欲建立範本。
-■ 新增、建立或匯入貼紙、戳記、紙帶、影像等要素
-數位筆記本：以一本實體筆記本的價格享受無限制的數位筆記本。
-■ 將手寫和輸入的文字與圖片、貼紙、圖表和塗鴉結合。
-■ 採用自訂紙張範本，包括白紙、格線紙、康乃爾筆記紙、核對清單、計劃表等，建立電子筆記簿。
-■ 輕鬆瀏覽冗長的文件。 可自動匯入 PDF 目錄，或自行建立自訂大綱。
-■ 將所有筆記備份到 Google 雲端硬碟、Dropbox 或 OneDrive ，並使用 iCloud 在 iPad、iPhone 和 Mac 之間同步，確保筆記安全無虞。
-■ 可為自己的書寫內容調整尺寸、更改文字顏色，或將其移動到頁面上的其他位置。
-
-特別說明：Goodnotes AI 功能將分階段逐步向用戶開放（僅適用於中國及香港地區）
-
-隱私權政策：https://www.goodnotes.com/privacy-policy
-條款與條件：https://www.goodnotes.com/terms-and-conditions
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/ad/3e/65ad3edd-969d-9c87-010e-3d106c10b152/ASO_TC_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/37/e0/5637e048-1fa3-3701-6552-fe6aa0473c8b/ASO_TC_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/c6/48/e7c64893-30f5-549b-29ad-632f55e59bee/ASO_TC_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/af/cf/0aafcf74-1212-1ead-3ba2-b4ffa250a1a3/ASO_TC_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f7/58/83f7585a-0418-d608-9177-9c934060e202/ASO_TC_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d3/1a/7ad31a5a-8457-665e-a15c-d20bbd2b51da/ASO_TC_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/dd/70/4add7055-a731-11ad-aab4-f9c6446fc4e9/ASO_TC_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/0c/4f/960c4fe3-4eb9-1e72-33f8-4504224fb221/ASO_TC_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/ad/9f/24ad9f8d-3ae7-eff5-5f7f-ae5c5f7210f3/ASO_TC_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/47/07/8047075a-e28e-7c2c-9cc9-38f54dec49e8/ASO_TC_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
+  ## 136 國家中排名第一名的生產力工具 app；超過兩百萬付費用戶的專注神器
+## 我們的用戶在世界各地種下超過 1,500,000 棵真樹
+## 簡單有趣的方式幫助您保持專注，培養高效率的生活習慣
+    
+紐約時報：「如果你想要放下手機、專注當下，真誠地和你的家人朋友們渡過相聚的時光，Forest 是你的最佳選擇。」
+    
+數位時代：「好的習慣必須要一段時間養成，要改善低頭族、不時會滑手機的症狀也不是一天兩天，記得多多使用這款App來幫助你改掉壞習慣，重新找回專注的自己。」
+    
+不論你是在圖書館讀書或是在辦公室上班，每當你希望有一段專心工作或學習的時間，你可以在 Forest 中種下一顆種子。在接下來的時間內，這顆種子將會慢慢地成長為一棵大樹。若是你禁不起誘惑，在這段時間內離開這個 app，你充滿生機、可愛的小樹將會枯萎而死。每一天，你都會有一片森林種滿了你今天所有茁壯的大樹，每一棵樹都代表了你曾經努力的時光。伴隨著畫面中生長的小樹，成就感以及責任感將會幫助你暫時離開手機，全心投入到手邊的工作，建立高效率與專注的生活習慣。 #治療拖延症 #提升時間效率 #遇見心流 #戒除手機成癮
+    
+保持專注，拒當低頭族！
+    
+保持專注：
+• 基於番茄工作法（番茄鐘）把時間抓回自己手中
+• 種植漂亮的小樹，並專注於生活中更重要的事情上
+• 因應不同專注情境，自訂你的應用程式允許名單，種樹時名單外的 App 將會被屏蔽（iOS 16 以上）
+• 用你專注的時光，一點一滴茁壯你的森林
+    
+滿滿的成就感：
+• 和朋友們分享你的成果並與全世界的使用者一同競賽
+• 用專注的時光累積 Forest 金幣，解鎖超過 90 種精心設計的大樹、灌木及背景白噪音
+• 與家人、好友一起，開始一局種樹挑戰
+• 達成成就獲得額外獎勵
+• 在保持專心的同時，與 Trees for the Future 一起為世界種下真正的樹苗
+    
+歷史回顧：
+• 自定義任務標籤，讓你花在各個任務的時間分配一目瞭然，幫助助你自主時間管理
+• 回顧你一週、一個月甚至一整年累積的大森林
+• 可追蹤你每日的手機使用時數與頻率
+• 以時間軸的形式回顧你在 Forest 經歷的專注旅程
+• 將你的專心時間記錄在蘋果健康 App
+    
+現在就放下手機，種出專屬自己的專注森林！
+    
+注意事項：
+• Forest 是一個 iPhone, iPad, Apple Watch 通用的應用程式，買一次即可在不同 iOS 設備上使用。於 iPhone, iPad 能使用上述提及的完整功能，於 Apple Watch 可提供查看今日專注紀錄以及顯示即時專注狀態。若要下載/解鎖其他非 iOS 平台的版本需要另外購買，不過只要登入同一個 Forest 帳號，你的帳號資料便可以在不同平台的設備間同步。
+• 由於 iOS 系統限制，允許名單功能需要 iOS/iPadOS 16 以上才能使用。iOS/iPadOS 15 以下的裝置無法使用允許名單，在種樹時離開 Forest 會導致小樹枯萎。
+ • 種植真樹功能因為預算限制，每個帳號最多只能兌換五棵真樹。除此之外，我們時常會有一些限時活動可以種植更多的真樹，請記得關注我們的社交平台訊息，或是 app 內部通知。
+ • Forest 在 App Store 上僅有此唯一版本，其他雷同或是刻意假冒 Forest 的軟體皆不是本團隊開發的產品，感謝您對於原創者的支持！
+    
+你可以在這些社群平台找到我們：：
+在 Facebook 給我們個讚: https://www.facebook.com/forestapp.cc/
+在 Twitter 跟隨我們: https://twitter.com/forestapp_cc
+在 Instagram 追蹤我們: https://www.instagram.com/forest_app/
+    
+我們還有提供瀏覽器的擴充套件，立即前往 www.forestapp.cc 查看吧！
+    
+- 音效設計 : Shi Kuang Lee
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/db/c7/8bdbc7ed-c41b-bbbd-c8d2-4bcef2a92969/f2b6bbcf-7885-419f-9666-3d88480e592d_iPhone5.5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/b9/25/71b92545-9fee-54ff-afdb-e67f07761c0b/9eca0da0-7790-42f7-a4e1-fb33d06033bf_iPhone5.5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/ee/a7/3eeea703-1e5d-fb4c-093a-008c52c9707a/75719620-5726-48d1-94ed-6e641f74a204_iPhone5.5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/fb/cf/4bfbcfb3-3bf4-292f-c87a-85a0307dd328/0e369b47-1d89-4a0f-af69-45dfffe064cf_iPhone5.5_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/ea/ef/43eaef51-beca-643e-05ce-186b51fc600b/e089caff-340e-46a0-88a3-f832ebd7e97b_iPhone5.5_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/1a/15/0e1a15b1-1c04-a884-f60d-1ef29d2e168b/9a001b53-53db-4bb6-b127-93e52595231e_iPhone5.5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/a6/f9/26a6f924-875c-fad6-2b5b-b43184d833c4/54328093-1c36-47c1-b0fc-a365d488bb36_iPhone5.5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/ed/81/e2ed81c6-08b5-a927-fde6-fad73839a9fc/68646ed4-9168-4f06-92d7-8d954f92b51d_iPhone5.5_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/2a/a7/972aa718-5cb2-96dd-2df5-9a9ec55e5158/2e6406f0-690a-46c7-8ecf-2faa3e2b61be_iPad_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/49/9e/ac499e0f-199d-500f-98b5-caec75b92836/5c0d3935-5617-4d7a-895b-5ffad32aa2da_iPad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ac/cb/ceaccb8e-f186-7a4c-7561-00b511ceae8c/f8abf6cb-2f12-4018-9439-65286f821bf8_iPad_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/46/b0/f046b04e-0926-8536-a590-477ebb96621d/1e8e02ce-ac1d-49cf-8134-c856d98d455f_iPad_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/e1/63/fde1632c-2bc5-a16a-8f64-e0a8f6cf6774/1ecac2fc-2a35-4a36-900f-58195c8fc41f_iPad_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/4d/17/f64d17e1-2f68-d5c7-d1bc-da82d14efecb/d0848a44-4d03-48d7-9a00-0cbad526438e_iPad_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/05/8d/fd058dcb-22ca-0b13-c2e6-480ef9823885/48a793db-8b0c-41f5-a50e-e41c08f46c92_iPad_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/75/db/4d75db3d-8d57-60a7-1e14-872f03e1447c/9463ad4f-973f-4bfa-89b9-34eb48ec9c9b_iPad_8.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
