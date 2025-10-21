@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-21T01:50:17.793Z</updated>
+    <updated>2025-10-21T13:39:01.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,58 +21,124 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-21T01:50:17.793Z</updated>
+        <updated>2025-10-21T13:39:01.366Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goodnotes：AI 筆記、白板、PDF]]></title>
-        <id>Goodnotes：AI 筆記、白板、PDF-1761011227458</id>
-        <link href="https://apps.apple.com/tw/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=4"/>
-        <updated>2025-10-21T01:47:07.458Z</updated>
-        <summary type="html"><![CDATA[特別版: $1,150.00 → $925.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/goodnotes-ai-%E7%AD%86%E8%A8%98-%E7%99%BD%E6%9D%BF-pdf/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/bf/07/5dbf0719-5e2b-7843-80f0-772f83d44919/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761053738749</id>
+        <link href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
+        <updated>2025-10-21T13:35:38.749Z</updated>
+        <summary type="html"><![CDATA[骷心巫龍: $220.00 → $150.00<br/>剎陀羅: $90.00 → $30.00<br/>黑龍灰霸齒: $220.00 → $150.00<br/>庫紹: $90.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>特別版：</strong><span>$1,150.00</span> → <b>
-  <strong>$925.00</strong>
+    <strong>骷心巫龍：</strong><span>$220.00</span> → <b>
+  <strong>$150.00</strong>
+</b>
+  </li><li>
+    <strong>剎陀羅：</strong><span>$90.00</span> → <b>
+  <strong>$30.00</strong>
+</b>
+  </li><li>
+    <strong>黑龍灰霸齒：</strong><span>$220.00</span> → <b>
+  <strong>$150.00</strong>
+</b>
+  </li><li>
+    <strong>庫紹：</strong><span>$90.00</span> → <b>
+  <strong>$30.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Goodnotes 隨時準備好記下您所有的點子，從速記到大型計畫都絕無遺漏。 現在，我們要更進一步！ 在強大的人工智慧和新的資訊擷取方式加持下，可協助連結線索、開啟洞見，並將想法轉化為行動。
-*現有的 Goodnotes 5 使用者可以無限期地繼續使用 Goodnotes 5 ，或升級為新的 Goodnotes。 無論如何，您的筆記都絕對安全！*
-專業人士：提高工作生產力
-■ 白板 + Goodnotes AI：我們最受歡迎的功能之一——腦力激盪、心智圖和圖表，隨著你的想法自由成長。 藉由經過強化的圖表工具和即時協作，團隊可以輕鬆地集思廣益、發展想法和解決問題，而 Goodnotes AI 可幫助您即時擷取和整理關鍵要點。
-■ Goodnotes AI 音訊與會議：完整參與所有對話，讓 Goodnotes 為您完成工作。 人工智慧驅動的轉錄和即時摘要會自動擷取討論，並將其結構化為清晰的會議紀要。 會議結束後，您可以將文字記錄與自己的筆記合併，在幾秒鐘內建立可分享的精緻文件。
-■ 文字文件 + 人工智慧：建立與您一起思考的文件。 透過豐富的內嵌區塊享受卓越的輸入體驗、利用外部的深入解析建立構想、與團隊夥伴無縫協作。 藉助人工智慧驅動的摘要、自動筆記生成和速記功能，您可以用史上最快的速度將粗略的筆記和會議轉換為完稿。
+  全球最讓人欲罷不能的防禦遊戲歸來——歡迎來到《王國保衛戰：前線！》
 
-■ 透過 AirPlay 或 HDMI 將裝置連線到外接螢幕，直接從 Goodnotes 呈現筆記、投影片和內容。
-■ 在簡報期間，使用雷射筆引導觀眾的注意力。
-■ 筆記可匯出至電子郵件、列印，或以 PDF 格式在任何地方分享。
-■ 將連結傳送到筆記型電腦，直接處理同一筆記，非常適合非同步工作或協作腦力激盪。
-■ 透過電子郵件將文件匯入您的自訂 Goodnotes 電子郵件。
-學生：輕鬆高分通過測驗
-■ 以神奇的同步效率為您寫作的內容錄製音訊，非常適合講演或報告。
-■ 能搜尋並立即找出任何班級的任何筆記。
-■ 利用學習卡組功能，以主動回憶和間隔的概念建立抽認卡，直接從筆記中學習和練習。
-■ 使用人工智慧摘要、精簡、調整文風、完善所輸入的文字。
-手帳：讓您的創意自由發揮
-■ 自訂紙張範本的尺寸和顏色，隨心所欲建立範本。
-■ 新增、建立或匯入貼紙、戳記、紙帶、影像等要素
-數位筆記本：以一本實體筆記本的價格享受無限制的數位筆記本。
-■ 將手寫和輸入的文字與圖片、貼紙、圖表和塗鴉結合。
-■ 採用自訂紙張範本，包括白紙、格線紙、康乃爾筆記紙、核對清單、計劃表等，建立電子筆記簿。
-■ 輕鬆瀏覽冗長的文件。 可自動匯入 PDF 目錄，或自行建立自訂大綱。
-■ 將所有筆記備份到 Google 雲端硬碟、Dropbox 或 OneDrive ，並使用 iCloud 在 iPad、iPhone 和 Mac 之間同步，確保筆記安全無虞。
-■ 可為自己的書寫內容調整尺寸、更改文字顏色，或將其移動到頁面上的其他位置。
+空前盛大激烈的王國保衛戰：「前線」是全新的關卡，帶來迅猛刺激、扣人心弦的玩法，讓這款原創遊戲成為廣受歡迎的獲獎佳作。在這場史詩級的冒險（災難）中，可點擊你的部隊，配合最新的防禦塔、關卡、英雄和更多好東東，守衛異國大陸，抵禦飛龍、食人植物和地下世界恐怖族群的侵擾，把敵人統統殲滅。（別擔心，前作舊版的好東東，全都有保留。現在是經典復刻版。） 
 
-特別說明：Goodnotes AI 功能將分階段逐步向用戶開放（僅適用於中國及香港地區）
+《王國保衛戰：前線》內容豐富，像是全新升級的火炮讓你垂涎，像素畫面帶給你娛樂好享受！
 
-隱私權政策：https://www.goodnotes.com/privacy-policy
-條款與條件：https://www.goodnotes.com/terms-and-conditions
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/ad/3e/65ad3edd-969d-9c87-010e-3d106c10b152/ASO_TC_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/37/e0/5637e048-1fa3-3701-6552-fe6aa0473c8b/ASO_TC_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/c6/48/e7c64893-30f5-549b-29ad-632f55e59bee/ASO_TC_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/af/cf/0aafcf74-1212-1ead-3ba2-b4ffa250a1a3/ASO_TC_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/f7/58/83f7585a-0418-d608-9177-9c934060e202/ASO_TC_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d3/1a/7ad31a5a-8457-665e-a15c-d20bbd2b51da/ASO_TC_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/dd/70/4add7055-a731-11ad-aab4-f9c6446fc4e9/ASO_TC_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/0c/4f/960c4fe3-4eb9-1e72-33f8-4504224fb221/ASO_TC_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/ad/9f/24ad9f8d-3ae7-eff5-5f7f-ae5c5f7210f3/ASO_TC_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/47/07/8047075a-e28e-7c2c-9cc9-38f54dec49e8/ASO_TC_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
+遊戲特點 
+
+· 鞏固異國大陸的前線——堅守沙漠、叢林還有地下世界的陣地 
+· 8種特別防禦塔升級！用弩弓堡壘、聖殿騎士、死靈法師，還有地震機把敵人切開、燒焦并踩碎 - 嘿，這次真的很不一樣哦 
+· 超過18種防禦塔技能！釋放死亡騎士、瘟疫雲或刺客，去竊取敵人寶藏，暗殺敵人！
+· 超過40種具有特殊技能的敵人！隨時待命，對抗沙漠塵暴、部落薩滿、遊牧部落和地下恐怖生物 · 16位傳奇英雄。選擇你的戰士，訓練他們的技能！
+· 每一關都有特別的部隊和特色！當心黑龍！
+· 殘酷的頭目戰鬥！嘿！早就告訴你要升級啦…
+· 超過70個成就，需要數小時去完成！
+· 經典、鋼鐵和英雄模式挑戰你的戰術技能！
+· 3種難度模式！準備好迎接真正的挑戰了嗎？開啟困難模式吧！悅耳的配樂、雄渾的配音，還有精緻美術，都能讓你沉浸！（还有卡通血液，效果逼真。）
+· 遊戲内有百科全書！真正的勇士知己知彼…還對自己的防禦塔了如指掌。
+學起來！
+
+《王國保衛戰》廣受好評：IGN編輯推薦、Slide To Play必玩遊戲、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、Touch Arcade評分4.5/5、CNET最佳iPad遊戲"
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/98/7a/86/987a86d2-fdb1-93d6-ba72-e32a563ec0fa/ab71f5a8-b824-46e2-9c67-e442db053624_screenshots_2208x12420016.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ff/49/dd/ff49ddf9-00c2-fe09-6b29-6e4ead585b5a/1c6165ce-f40b-41d0-8c57-c38b7f0080dc_screenshots_2208x12420017.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d5/1a/63/d51a63ea-b85f-01e0-3e8f-0c1a04ba2c00/55a5e131-875d-487f-b5d4-6a440c301c2c_screenshots_2208x12420018.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/86/24/c6/8624c6d9-e06a-3f13-1a90-9b42e359d98e/89bba438-5cbd-490f-a8bd-b230e3356943_screenshots_2208x12420019.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/28/f5/34/28f53413-955e-ae5b-bf70-bd22588e1d5d/c94c30c3-70f6-48eb-ac13-8d076a524ec9_screenshots_2208x12420020.jpg/406x228bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隨手記Pro–個人家庭生意記帳]]></title>
+        <id>隨手記Pro–個人家庭生意記帳-1761053738749</id>
+        <link href="https://apps.apple.com/tw/app/%E9%9A%A8%E6%89%8B%E8%A8%98pro-%E5%80%8B%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%84%8F%E8%A8%98%E5%B8%B3/id373454750?uo=4"/>
+        <updated>2025-10-21T13:35:38.749Z</updated>
+        <summary type="html"><![CDATA[专业会员·10人版-12个月（活动）: $2,490.00 → $2,290.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E9%9A%A8%E6%89%8B%E8%A8%98pro-%E5%80%8B%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%94%9F%E6%84%8F%E8%A8%98%E5%B8%B3/id373454750?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/3c/96/cd3c9652-479d-6ea8-a8c4-f9d68a9d9aaa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>专业会员·10人版-12个月（活动）：</strong><span>$2,490.00</span> → <b>
+  <strong>$2,290.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  多赚会花每一天，记账就要随手记！个人、家庭、生意账随心选。
+记账快捷又专业，轻松管理多人记账。多维度账单解读，全面了解你的财务状况。账单数据实时存，云端数据不丢失。
+
+【神象云账本】
+- 记一笔记账快捷又专业
+- 账本首页流水页，数据呈现更清晰
+- 云端存储数据，安全不丢失
+- 账本操作必留痕，安全又省心
+
+【海量账本模板，陪伴你的各个人生阶段】
+to成长中的你：
+- 高中生、大学生账本：生活费聪明花，课外兼职也能记
+- 班费账本：班委管钱大家看，班费收支更透明
+to工作中的你：
+- 差旅报销流水账：流水详尽不漏报
+- 网约司机、健身教练、装修队长：职业账本专属定制
+to爱生活的你：
+- 合租、恋爱、生活账：日常生活随心记
+- 旅游、宠物、爱好账：为自己所爱的事物，记录美好回忆
+- 攒钱、健身、目标账：设定一个小目标，让账本陪你变成想要的样子
+to创业中的你：
+- 奶茶、快餐、餐饮业：店铺经营实用工具
+- 服装、代购、零售业：成本营收全把控，应收应付不遗漏
+- 培训、酒店、服务业：各行各业全覆盖，首页报表指导经营
+to顾家的你：
+- 人情账本、结婚账本：人情红包收入支出一览无余
+- 儿童教育、宝宝账本：家人共享宝贝成长点滴
+- 汽车、储蓄家庭账本：日常生活分类全，全家合记一本账
+还有更多账本模板等你发现！
+
+【专业记账，省心易用】
+- 记一笔：多人协同共同记账，随时随地记一笔
+- 账本首页：首页即报表，数据卡片及图表让财务状况一目了然
+- 流水：从各个维度查看收支情况，拒绝糊涂账
+- 账户：全面了解你的各账户余额，手有余粮心不慌
+
+————献给热爱记账的你————
+生活需要一点仪式感。 有人每天早上一定要喝一杯咖啡， 有人每天睡前一定要写两句日记， 也有人每天都把挣到的和花过的每一分钱记录下来 在快节奏的时代，扫一扫就完成付款，动动手指就能解决三餐、完成购物。 移动支付把生活中的花销从实实在在的钱变成了一串变动的数字，很多时候我们对于花钱没有了概念，甚至，想不起来把钱花在了哪里。 这时，需要消费后的用心记账，提高自己对钱的敏感度。 希望热爱记账的你梳理财务状况的时候可以沉浸在随手记这个“工作台”！
+
+【联系我们】 使用过程中如遇问题，欢迎联系我们，可爱的客服妹纸会认真处理你的每一个反馈哦。
+- 在线客服："我的"-"求助反馈"-“功能咨询”/“业务咨询”
+- 留言路径：“我的”-“求助反馈”-“意见反馈”
+- 随手记官网：www.sui.com
+- 随手记微信：suishoujicom
+- 随手记服务条款：https://www.sui.com/help/agreement-mobile.html
+- 随手记隐私政策：https://www.sui.com/help/privacy.jsp
+如果您喜欢随手记，请在应用商店留下您的星星和评论，您的支持是我们进步的动力！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/13/21/56132101-0b31-aad1-5d0b-32bd0f1917aa/ea10ca35-1c07-4842-9a28-57b1525fbb41_1_U591a_U8d26_U672c.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/b5/da/94b5da67-f3d4-bd70-d45a-e476554d8187/3cfe3720-4d43-4a6b-b098-2999fc561269_2_U6d41_U6c34_U65e5_U5386.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/d4/22/67d42282-690d-d664-67dc-0069459d4c84/a892ff36-da7b-4388-b307-8a44b6e42bc5_3_U7ba1_U7406_U8d26_U6237.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/45/fd/5e45fddb-738d-c46d-616f-173c1e9873f7/e8301bc4-720e-40cb-8690-ea447f97f87c_4_U9080_U8bf7_U597d_U53cb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/b8/c3/7ab8c3bb-9376-e90f-1955-3ea1a7e29bc6/119dd367-4a30-4823-bb7f-ac09bec4fb60_5_U8bb0_U8d26_U952e_U76d8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/7e/f7/077ef716-fd2c-e28b-753a-8bd9767eec00/44704348-f02c-4005-b771-dab8dce97e11_6_U7edf_U8ba1_U62a5_U8868.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/f1/91/d7f191bd-729b-e82c-448b-3620ed4d2305/f4a756e6-c084-49eb-9f22-5daf055b1a61_7_U9996_U9875_U81ea_U5b9a_U4e49.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/9d/ce/279dce7a-c746-0804-2c54-ca97a089da28/e951cd8d-1846-4c45-b23f-6e542ba2797e__U5c0f_U7ec4_U4ef6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/19/91/45199130-274b-58f4-ab63-57bb15bcfde7/72d8fb00-7ef4-4f08-a0a2-bcaaa6e31d60__U65b0_U589e_U8d26_U672c.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

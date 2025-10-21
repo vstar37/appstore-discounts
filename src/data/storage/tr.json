@@ -11698,6 +11698,18 @@
     "history": [
       [
         {
+          "timestamp": 1761053738749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Plus Subscription": "₺399,99",
+            "Controller Subscription": "₺1.499,99",
+            "Lifetime license": "₺4.499,99",
+            "Monthly Subscription": "₺109,99",
+            "Yearly Subscription": "₺1.799,99"
+          }
+        },
+        {
           "timestamp": 1761002378093,
           "price": 0,
           "formattedPrice": "Free",
@@ -28894,6 +28906,25 @@
       "Weapon Upgrade Ticket x1 (D)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761053738749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Extra DLC Pack": "₺769,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺254,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (E)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (C)": "₺105,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760014047948,

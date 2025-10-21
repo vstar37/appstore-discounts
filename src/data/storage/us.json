@@ -181,6 +181,23 @@
     "history": [
       [
         {
+          "timestamp": 1761053738749,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "专业会员·无限版-1个月（活动）": "$12.99",
+            "专业会员·10人版-12个月（活动）": "$69.99",
+            "专业会员·5人版-12个月（活动）": "$49.99",
+            "专业会员·无限版-12个月（活动）": "$129.99",
+            "专业会员·10人版-1个月（活动）": "$6.99",
+            "专业会员·5人版-1个月（活动）": "$3.99",
+            "基础会员2年（活动）": "$29.99",
+            "基础会员1个月（活动）": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760930280000,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -27083,6 +27100,24 @@
       "Special Edition": "$35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761053738749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "$0.99",
+            "The Weekly Action Planner (Sun": "$8.99",
+            "2025-2026 Stay Focused ADHD Pl": "$10.99",
+            "1000 Kanji Workbook": "$14.99",
+            "2026 Essential Digital planner": "$10.99",
+            "2026 Daily Scheduler (Sunday,": "$10.99",
+            "2026 Smart Digital Planner (Mo": "$10.99",
+            "ADHD Student Planner 2025-2026": "$10.99",
+            "AI Pass (Monthly)": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760959162899,
