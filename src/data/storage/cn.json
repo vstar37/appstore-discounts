@@ -155,6 +155,25 @@
     "history": [
       [
         {
+          "timestamp": 1761150631699,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6香蕉贝": "¥6.00",
+            "连续包月": "¥28.00",
+            "30香蕉贝": "¥30.00",
+            "68香蕉贝": "¥68.00",
+            "连续包年": "¥273.00",
+            "1香蕉贝": "¥1.00",
+            "连续包季": "¥72.00",
+            "128香蕉贝": "¥128.00",
+            "免广告会员十二个月": "¥12.00",
+            "6随手贝": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761146636817,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -19536,7 +19555,10 @@
       "Yearly Subscription": "¥298.00",
       "Monthly Subscription": "¥35.00",
       "Controller Subscription": "¥228.00",
-      "Controller Plus Subscription": "¥58.00"
+      "Controller Plus Subscription": "¥58.00",
+      "Controller Essentials": "¥32.00",
+      "Controller Essentials Lifetime": "¥698.00",
+      "Controller Plus": "¥58.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19546,9 +19568,25 @@
       "Yearly Subscription": "¥138.00",
       "Monthly Subscription": "¥32.00",
       "Controller Subscription": "¥38.00",
-      "Controller Plus Subscription": "¥58.00"
+      "Controller Plus Subscription": "¥58.00",
+      "Controller Essentials": "¥32.00",
+      "Controller Essentials Lifetime": "¥698.00",
+      "Controller Plus": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761150631699,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Controller Essentials": "¥32.00",
+            "Lifetime license": "¥698.00",
+            "Controller Essentials Lifetime": "¥698.00",
+            "Controller Plus": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761143067303,

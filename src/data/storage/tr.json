@@ -11710,7 +11710,10 @@
       "Monthly Subscription": "₺109,99",
       "Lifetime license": "₺4.499,99",
       "Controller Subscription": "₺229,99",
-      "Controller Plus Subscription": "₺399,99"
+      "Controller Plus Subscription": "₺399,99",
+      "Controller Essentials": "₺229,99",
+      "Controller Essentials Lifetime": "₺4.499,99",
+      "Controller Plus": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11720,10 +11723,24 @@
       "Monthly Subscription": "₺109,99",
       "Lifetime license": "₺1.499,99",
       "Controller Subscription": "₺1.499,99",
-      "Controller Plus Subscription": "₺399,99"
+      "Controller Plus Subscription": "₺399,99",
+      "Controller Essentials": "₺229,99",
+      "Controller Essentials Lifetime": "₺4.499,99",
+      "Controller Plus": "₺399,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1761150631699,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Essentials": "₺229,99",
+            "Lifetime license": "₺4.499,99",
+            "Controller Essentials Lifetime": "₺4.499,99",
+            "Controller Plus": "₺399,99"
+          }
+        },
         {
           "timestamp": 1761081609565,
           "price": 0,

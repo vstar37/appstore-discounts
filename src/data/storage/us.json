@@ -17160,7 +17160,10 @@
       "Lifetime license": "$99.99",
       "Monthly Subscription": "$5.49",
       "Controller Subscription": "$39.99",
-      "Controller Plus Subscription": "$8.99"
+      "Controller Plus Subscription": "$8.99",
+      "Controller Essentials": "$4.99",
+      "Controller Essentials Lifetime": "$99.99",
+      "Controller Plus": "$8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -17170,9 +17173,25 @@
       "Lifetime license": "$49.99",
       "Monthly Subscription": "$5.49",
       "Controller Subscription": "$4.99",
-      "Controller Plus Subscription": "$8.99"
+      "Controller Plus Subscription": "$8.99",
+      "Controller Essentials": "$4.99",
+      "Controller Essentials Lifetime": "$99.99",
+      "Controller Plus": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761150631699,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Essentials": "$4.99",
+            "Lifetime license": "$99.99",
+            "Controller Essentials Lifetime": "$99.99",
+            "Controller Plus": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761020794670,
