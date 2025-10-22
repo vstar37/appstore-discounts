@@ -19558,7 +19558,8 @@
       "Controller Plus Subscription": "¥58.00",
       "Controller Essentials": "¥32.00",
       "Controller Essentials Lifetime": "¥698.00",
-      "Controller Plus": "¥58.00"
+      "Controller Plus": "¥58.00",
+      "Essentials Lifetime - Plus Addon": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19571,10 +19572,22 @@
       "Controller Plus Subscription": "¥58.00",
       "Controller Essentials": "¥32.00",
       "Controller Essentials Lifetime": "¥698.00",
-      "Controller Plus": "¥58.00"
+      "Controller Plus": "¥58.00",
+      "Essentials Lifetime - Plus Addon": "¥38.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1761153584934,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Controller Essentials": "¥32.00",
+            "Controller Essentials Lifetime": "¥698.00",
+            "Essentials Lifetime - Plus Addon": "¥38.00",
+            "Controller Plus": "¥58.00"
+          }
+        },
         {
           "timestamp": 1761150631699,
           "price": 0,
