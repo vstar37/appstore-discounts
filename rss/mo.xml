@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-10-22T05:25:20.615Z</updated>
+    <updated>2025-10-22T14:27:18.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-22T05:25:20.616Z</updated>
+        <updated>2025-10-22T14:27:18.197Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,16 +29,16 @@ feedId:73536165737884672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-1761110520609</id>
+        <id>Controller for HomeKit-1761143067303</id>
         <link href="https://apps.apple.com/mo/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-10-22T05:22:00.609Z</updated>
-        <summary type="html"><![CDATA[Controller Plus Subscription: USD 79.99 → USD 8.99]]></summary>
+        <updated>2025-10-22T14:24:27.303Z</updated>
+        <summary type="html"><![CDATA[Monthly Subscription: USD 5.49 → USD 4.49]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/controller-for-homekit/id1198176727?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5c/f8/ce5cf8f0-538e-e788-1473-b4b8f8590e64/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>Controller Plus Subscription：</strong><span>USD 79.99</span> → <b>
-  <strong>USD 8.99</strong>
+    <strong>Monthly Subscription：</strong><span>USD 5.49</span> → <b>
+  <strong>USD 4.49</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>

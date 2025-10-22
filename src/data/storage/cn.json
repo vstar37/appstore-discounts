@@ -7361,6 +7361,16 @@
     "history": [
       [
         {
+          "timestamp": 1761143067303,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "移除广告": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 0,
           "formattedPrice": "免费",
@@ -19517,11 +19527,25 @@
       "PRO yearly subscription": "¥173.00",
       "Lifetime license": "¥328.00",
       "Yearly Subscription": "¥138.00",
-      "Monthly Subscription": "¥35.00",
+      "Monthly Subscription": "¥32.00",
       "Controller Subscription": "¥38.00",
       "Controller Plus Subscription": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761143067303,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Controller Subscription": "¥38.00",
+            "Yearly Subscription": "¥298.00",
+            "Lifetime license": "¥698.00",
+            "Controller Plus Subscription": "¥58.00",
+            "Monthly Subscription": "¥32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760991962386,

@@ -5895,6 +5895,16 @@
     "history": [
       [
         {
+          "timestamp": 1761143067303,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 0,
           "formattedPrice": "免費",
@@ -13207,12 +13217,24 @@
       "Yearly Subscription": "USD 19.99",
       "PRO yearly subscription": "USD 24.99",
       "Lifetime license": "USD 49.99",
-      "Monthly Subscription": "USD 5.49",
+      "Monthly Subscription": "USD 4.49",
       "Controller Subscription": "USD 4.99",
       "Controller Plus Subscription": "USD 8.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1761143067303,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Subscription": "USD 4.99",
+            "Yearly Subscription": "USD 39.99",
+            "Controller Plus Subscription": "USD 8.99",
+            "Lifetime license": "USD 99.99",
+            "Monthly Subscription": "USD 4.49"
+          }
+        },
         {
           "timestamp": 1761110520609,
           "price": 0,

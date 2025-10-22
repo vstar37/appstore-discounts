@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-21T23:24:09.726Z</updated>
+    <updated>2025-10-22T14:27:18.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,67 +21,49 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-21T23:24:09.727Z</updated>
+        <updated>2025-10-22T14:27:18.194Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防史诗冒险]]></title>
-        <id>Kingdom Rush Frontiers 塔防史诗冒险-1761088848744</id>
-        <link href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4"/>
-        <updated>2025-10-21T23:20:48.744Z</updated>
-        <summary type="html"><![CDATA[波恩哈特: ¥48.00 → ¥38.00<br/>沙塔尔: ¥22.00 → ¥8.00<br/>阿什比特: ¥48.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Controller for HomeKit]]></title>
+        <id>Controller for HomeKit-1761143067303</id>
+        <link href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4"/>
+        <updated>2025-10-22T14:24:27.303Z</updated>
+        <summary type="html"><![CDATA[Monthly Subscription: ¥35.00 → ¥32.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5c/f8/ce5cf8f0-538e-e788-1473-b4b8f8590e64/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>波恩哈特：</strong><span>¥48.00</span> → <b>
-  <strong>¥38.00</strong>
-</b>
-  </li><li>
-    <strong>沙塔尔：</strong><span>¥22.00</span> → <b>
-  <strong>¥8.00</strong>
-</b>
-  </li><li>
-    <strong>阿什比特：</strong><span>¥48.00</span> → <b>
-  <strong>¥38.00</strong>
+    <strong>Monthly Subscription：</strong><span>¥35.00</span> → <b>
+  <strong>¥32.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  全世界最令人着迷的防御游戏重磅回归 —— 欢迎来到《王国保卫战：前线》！ 
+  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
 
-《王国保卫战：前线》规模更加宏大，战况更胜从前，堪称全新水准的快节奏、超迷人游戏玩法，可谓是实至名归。轻按指挥你的的部队，展开一场史诗级的冒险，保卫这片异国大陆免受飞龙、食人植物和地下世界可怕居民的侵害 —— 你完全可以利用华丽的新防御塔、关卡、英雄和众多好东西，助你将敌人碾碎！（别担心，我们仍然提供前作中的好东西，只不过现在已是陈年经典。） 
+* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
+* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
+* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
+* BACKUPS: Secure your setup and restore it easily when needed.
+* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
+* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
+* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
+* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
+* LOGS: Monitor all activities and changes in your smart home.
+* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
 
-《王国保卫战：前线》涵盖众多内容，它就像是完全升级版的诱人火炮，将像素化的欢乐径直发射到你笑逐颜开的小脸上... 可疼了！ 
+Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
 
-游戏
+For more information, visit our website: https://www.controllerforhomekit.com
 
-•  巩固异国新大陆的前线 —— 在沙漠、丛林甚至地下世界中坚守阵地！
+Privacy Policy: 
+https://controllerforhomekit.com/privacy-en/
 
-•  八种全新专业防御塔升级！你可以用弩兵堡垒、强大的圣殿骑士、亡灵甚至地震机切开、烤焦和践踏你的敌人 —— 嘿，我们告诉过你会动摇一切的。
-
-•  超过18种防御塔技能！释放死亡骑手、瘟疫毒云或刺客，暗杀你的敌人！
-
-•  超过40位具有独特技能的敌人！随时待命，对抗沙漠沙虫、部落萨满、游牧部落和地下世界恐怖生物。
-
-• 十六位传奇英雄。选择你的战士，训练他们的技能！
-
-•  每个关卡都会出现特殊单位和特色！注意黑龙！
-
-•  残酷无情的头目战！嘿，我们告诉过你会有这些升级...
-
-•  70多个成就，让你尽享游戏时间！
-
-•  经典、钢铁和英雄游戏模式，挑战你的战术技能！
-
-•  三种难度模式！你是否准备迎接真正的挑战？试试困难模式吧！
-振奋人心的配乐，圆润醇厚的旁白，加上图文并茂的动画效果，真令人陶醉其中而不能自拔！（自然也包括动画的鲜血效果。）
-
-•  游戏内百科全书！真正的战士知己知彼... 对防御塔的了解也不例外。用功研读吧！
-
-《王国保卫战》所获赞誉：IGN编辑精选游戏，Slide To Play必玩游戏，148 Apps编辑精选游戏，Jay is Games年度游戏，Pocket Gamer金奖，Touch Arcade 4.5/5，CNET。最佳iPad游戏
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e4/d0/0f/e4d00fcd-188d-fd5a-d105-835ed009c5bd/a317a203-92f2-4e87-9e66-bc34f6146e23_screenshots_2208x12420011.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/db/36/28/db36287e-872c-b2bb-e4ca-880fb04e4e64/ed2440e8-7636-4721-9cd6-e6611ee15246_screenshots_2208x12420012.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/44/9c/8a/449c8a55-c61f-2507-f4a6-4b85479272b4/ce301336-b1fa-4b2a-aa90-c274d5374365_screenshots_2208x12420013.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e9/49/3c/e9493ccd-0f7b-99ee-ec09-a046b8893f50/26187e05-8313-40e0-9f8b-c1558caf7bd7_screenshots_2208x12420014.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/9c/ff/279cff26-14e4-a77a-e316-2a44a896833b/95e7c5b8-6e36-4971-b952-799de509b935_screenshots_2208x12420015.jpg/406x228bb.jpg" />]]></content>
+Terms of Use: 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
