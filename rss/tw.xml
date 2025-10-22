@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-21T21:23:26.219Z</updated>
+    <updated>2025-10-22T01:53:20.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-21T21:23:26.220Z</updated>
+        <updated>2025-10-22T01:53:20.051Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:73536236398899200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
-        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761081609565</id>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761097814686</id>
         <link href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
-        <updated>2025-10-21T21:20:09.565Z</updated>
+        <updated>2025-10-22T01:50:14.686Z</updated>
         <summary type="html"><![CDATA[骷心巫龍: $220.00 → $150.00<br/>剎陀羅: $90.00 → $30.00<br/>黑龍灰霸齒: $220.00 → $150.00<br/>庫紹: $90.00 → $30.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
