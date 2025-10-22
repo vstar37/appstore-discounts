@@ -1373,6 +1373,23 @@
     "history": [
       [
         {
+          "timestamp": 1761107212142,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "扫描全能王高级帐户（一年）": "USD 39.99",
+            "扫描全能王高级帐户（一个月）": "USD 6.99",
+            "掃描全能王高級帳戶": "USD 49.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99",
+            "一頁傳真": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761056449329,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -13169,7 +13186,7 @@
       "Lifetime license": "USD 99.99",
       "Monthly Subscription": "USD 5.49",
       "Controller Subscription": "USD 34.99",
-      "Controller Plus Subscription": "USD 8.99"
+      "Controller Plus Subscription": "USD 79.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -13182,6 +13199,20 @@
       "Controller Plus Subscription": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761107212142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime license": "USD 99.99",
+            "Yearly Subscription": "USD 39.99",
+            "Monthly Subscription": "USD 5.49",
+            "Controller Subscription": "USD 4.99",
+            "Controller Plus Subscription": "USD 79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760991962386,
@@ -18205,6 +18236,23 @@
       "Monthly Project Budget (Green)": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761107212142,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "USD 11.99",
+            "Goodnotes 6 免費試用": "USD 0.00",
+            "特別版": "USD 28.99",
+            "虛線方格：草稿紙張": "USD 0.99",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "USD 0.00",
+            "好心智雜誌": "USD 0.00",
+            "心儀地點封面": "USD 0.99",
+            "秋貓貼紙組": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761038700144,
