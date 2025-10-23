@@ -6585,6 +6585,16 @@
     "history": [
       [
         {
+          "timestamp": 1761188743146,
+          "price": 5,
+          "formattedPrice": "$5.00",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 0,
           "formattedPrice": "Free",
@@ -27252,6 +27262,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761188743146,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$11.99",
+            "Special Edition": "$35.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes Pro (Yearly)": "$35.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
         {
           "timestamp": 1761183959674,
           "price": 0,
