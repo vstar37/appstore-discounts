@@ -27994,6 +27994,25 @@
     "history": [
       [
         {
+          "timestamp": 1761226457915,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "德語音頻": "USD 0.00",
+            "Tales of Valor - Russian": "USD 0.00",
+            "《Tales of Valor》": "USD 0.00",
+            "Tales of Valor - Spanish": "USD 0.00",
+            "Opposing Fronts - French": "USD 0.00",
+            "Opposing Fronts - Spanish": "USD 0.00",
+            "Tales of Valor - French": "USD 0.00",
+            "戰役任務 6-10": "USD 0.00",
+            "高畫質模型": "USD 0.00",
+            "法語音頻": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
