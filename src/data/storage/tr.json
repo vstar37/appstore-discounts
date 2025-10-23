@@ -12966,7 +12966,8 @@
       "Legendary Voyage(30%off)": "₺129,99",
       "LegendaryVoyage,MysticTreasure": "₺179,99",
       "MEDIUM⁵ Echoes(30%off)": "₺129,99",
-      "MEDIUM⁵ Echoes": "₺179,99"
+      "MEDIUM⁵ Echoes": "₺179,99",
+      "Give Up TREATMENT Vol.8": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -13037,9 +13038,29 @@
       "Legendary Voyage(30%off)": "₺129,99",
       "LegendaryVoyage,MysticTreasure": "₺129,99",
       "MEDIUM⁵ Echoes(30%off)": "₺129,99",
-      "MEDIUM⁵ Echoes": "₺179,99"
+      "MEDIUM⁵ Echoes": "₺179,99",
+      "Give Up TREATMENT Vol.8": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761204141438,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Give Up TREATMENT Vol.8": "₺179,99",
+            "Endless Pirouette": "₺249,99",
+            "Novice Rider Pack": "₺39,99",
+            "Valentine Stage": "₺179,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺249,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺1.499,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761107212142,
