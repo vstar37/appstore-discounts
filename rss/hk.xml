@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-10-23T08:34:17.554Z</updated>
+    <updated>2025-10-23T09:28:19.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T08:34:17.555Z</updated>
+        <updated>2025-10-23T09:28:19.328Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,20 +29,16 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
-        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761208285386</id>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761211521210</id>
         <link href="https://apps.apple.com/hk/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
-        <updated>2025-10-23T08:31:25.386Z</updated>
-        <summary type="html"><![CDATA[骷心巫龍: HK$ 58.00 → HK$ 38.00<br/>剎陀羅: HK$ 22.00 → HK$ 8.00]]></summary>
+        <updated>2025-10-23T09:25:21.210Z</updated>
+        <summary type="html"><![CDATA[大型英雄包 2: HK$ 118.00 → HK$ 98.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>骷心巫龍：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b>
-  </li><li>
-    <strong>剎陀羅：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
+    <strong>大型英雄包 2：</strong><span>HK$ 118.00</span> → <b>
+  <strong>HK$ 98.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
