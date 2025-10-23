@@ -13210,7 +13210,7 @@
       "Monthly Subscription": "USD 5.49",
       "Controller Subscription": "USD 34.99",
       "Controller Plus Subscription": "USD 79.99",
-      "Controller Essentials": "USD 4.49",
+      "Controller Essentials": "USD 39.99",
       "Controller Plus": "USD 8.99",
       "Controller Essentials Lifetime": "USD 99.99",
       "Essentials Lifetime - Plus Addon": "USD 4.99"
@@ -13231,6 +13231,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761208285386,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Essentials Lifetime - Plus Addon": "USD 4.99",
+            "Controller Plus": "USD 8.99",
+            "Controller Essentials": "USD 39.99",
+            "Controller Essentials Lifetime": "USD 99.99"
+          }
+        },
         {
           "timestamp": 1761153584934,
           "price": 0,
