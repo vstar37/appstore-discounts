@@ -17405,6 +17405,19 @@
     "history": [
       [
         {
+          "timestamp": 1761236935979,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Essentials": "HK$ 38.00",
+            "Controller Essentials Lifetime": "HK$ 788.00",
+            "Essentials Lifetime - Plus Addon": "HK$ 38.00",
+            "Controller Plus": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761233050694,
           "price": 0,
           "formattedPrice": "免費",
@@ -20000,7 +20013,8 @@
       "奇航秘寶（30%off）": "HK$ 23.00",
       "奇航秘寶": "HK$ 28.00",
       "五維迴響(30%off)": "HK$ 23.00",
-      "五維迴響": "HK$ 28.00"
+      "五維迴響": "HK$ 28.00",
+      "出院後 48 小時": "HK$ 28.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20071,9 +20085,29 @@
       "奇航秘寶（30%off）": "HK$ 23.00",
       "奇航秘寶": "HK$ 23.00",
       "五維迴響(30%off)": "HK$ 23.00",
-      "五維迴響": "HK$ 28.00"
+      "五維迴響": "HK$ 28.00",
+      "出院後 48 小時": "HK$ 28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761236935979,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "出院後 48 小時": "HK$ 28.00",
+            "五維迴響(30%off)": "HK$ 23.00",
+            "五維迴響": "HK$ 28.00",
+            "火辣辣！大胃王挑戰暢吃卡": "HK$ 23.00",
+            "奇航秘寶（30%off）": "HK$ 23.00",
+            "奇航秘寶": "HK$ 28.00",
+            "MSR Anthology_Vol.01（50%off）": "HK$ 23.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+            "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761183959674,
@@ -29722,6 +29756,22 @@
     "history": [
       [
         {
+          "timestamp": 1761236935979,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 108.00",
+            "特別版": "HK$ 253.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "Goodnotes Pro (Yearly)": "HK$ 319.00",
+            "好心智雜誌": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761226457915,
           "price": 0,
           "formattedPrice": "免費",
@@ -35714,6 +35764,16 @@
       "Value for Value": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761236935979,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761233050694,
