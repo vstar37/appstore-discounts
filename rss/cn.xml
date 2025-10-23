@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-23T16:32:17.427Z</updated>
+    <updated>2025-10-23T17:22:19.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T16:32:17.428Z</updated>
+        <updated>2025-10-23T17:22:19.038Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,15 +29,19 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[VidHub - 高清影片视频播放器，快速播放云盘网盘]]></title>
-        <id>VidHub - 高清影片视频播放器，快速播放云盘网盘-1761236935979</id>
+        <id>VidHub - 高清影片视频播放器，快速播放云盘网盘-1761239969434</id>
         <link href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4"/>
-        <updated>2025-10-23T16:28:55.979Z</updated>
-        <summary type="html"><![CDATA[终身VIP(Apple TV 平台): ¥178.00 → ¥89.00]]></summary>
+        <updated>2025-10-23T17:19:29.434Z</updated>
+        <summary type="html"><![CDATA[终身VIP(iPhone & iPad平台): ¥178.00 → ¥89.00<br/>终身VIP(Mac平台): ¥178.00 → ¥89.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>终身VIP(Apple TV 平台)：</strong><span>¥178.00</span> → <b>
+    <strong>终身VIP(iPhone & iPad平台)：</strong><span>¥178.00</span> → <b>
+  <strong>¥89.00</strong>
+</b>
+  </li><li>
+    <strong>终身VIP(Mac平台)：</strong><span>¥178.00</span> → <b>
   <strong>¥89.00</strong>
 </b>
   </li>
