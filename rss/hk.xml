@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-10-23T18:36:08.800Z</updated>
+    <updated>2025-10-23T19:21:17.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:67474973430475776+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T18:36:08.801Z</updated>
+        <updated>2025-10-23T19:21:17.507Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,20 +29,16 @@ feedId:67474973430475776+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1761244369493</id>
+        <id>VidHub -Video Library &amp; Player-1761247097052</id>
         <link href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-10-23T18:32:49.493Z</updated>
-        <summary type="html"><![CDATA[生命周期VIP(Apple TV 版): HK$ 228.00 → HK$ 118.00<br/>生命周期: HK$ 268.00 → HK$ 128.00]]></summary>
+        <updated>2025-10-23T19:18:17.052Z</updated>
+        <summary type="html"><![CDATA[生命周期VIP(iPhone & iPad 版): HK$ 228.00 → HK$ 118.00]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/vidhub-video-library-player/id1659622164?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>生命周期VIP(Apple TV 版)：</strong><span>HK$ 228.00</span> → <b>
+    <strong>生命周期VIP(iPhone & iPad 版)：</strong><span>HK$ 228.00</span> → <b>
   <strong>HK$ 118.00</strong>
-</b>
-  </li><li>
-    <strong>生命周期：</strong><span>HK$ 268.00</span> → <b>
-  <strong>HK$ 128.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
