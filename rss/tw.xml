@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-23T14:26:18.995Z</updated>
+    <updated>2025-10-23T15:27:17.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,65 +21,51 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T14:26:18.995Z</updated>
+        <updated>2025-10-23T15:27:17.554Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEATH STRANDING DIRECTOR'S CUT]]></title>
-        <id>DEATH STRANDING DIRECTOR'S CUT-1761229412727</id>
-        <link href="https://apps.apple.com/tw/app/death-stranding-directors-cut/id6449748961?uo=4"/>
-        <updated>2025-10-23T14:23:32.727Z</updated>
-        <summary type="html"><![CDATA[价格: $1,290.00 → $690.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/death-stranding-directors-cut/id6449748961?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$1,290.00</span> → <b>
-  <strong>$690.00</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  傳奇遊戲製作人小島秀夫帶來顛覆傳統的遊戲體驗，在這無可比擬的《死亡擱淺導演剪輯版》中加以擴展。 
- 
-在未來，一場名為「死亡擱淺」的神秘事件，開啟了生死兩界間的大門，彼世的生物在殘破不堪、關係疏離的末日世界四處遊蕩。 
- 
-玩家扮演山姆·布橋斯，一肩扛起責任，在面目全非的美國聯繫僅餘的倖存者，為人類社會帶來希望。 
-你能一步步重新聯繫這個分崩離析的世界嗎？ 
- 
-《死亡擱淺導演剪輯版》Mac 版充分運用如 MetalFX Upscaling 等 Metal 3 功能，帶來無與倫比的精細畫質與驚人的效能。此外還包含高幀率的拍照模式，以及與 Valve Corporation 的《HALF-LIFE》系列和 CD Projekt Red 的 《電馭叛客 2077》的聯動內容。使用 Social Strand System™ 與全球玩家保持連繫。
+        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
+        <id>VidHub -Video Library &amp; Player-1761233050694</id>
+        <link href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4"/>
+        <updated>2025-10-23T15:24:10.694Z</updated>
+        <summary type="html"><![CDATA[生命周期VIP(Apple TV 版): $990.00 → $490.00<br/>生命周期: $990.00 → $490.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>生命周期VIP(Apple TV 版)：</strong><span>$990.00</span> → <b>
+  <strong>$490.00</strong>
+</b>
+  </li><li>
+    <strong>生命周期：</strong><span>$990.00</span> → <b>
+  <strong>$490.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
 
-Mac 與 iOS
-• 如欲遊玩此產品，需登入 iCloud 並啟動 iCloudDrive。
-• 此產品可離線遊玩，但若想完整體驗 Social Strand System™ 的功能，則必須使用網路連線。線上遊玩時會產生電信費用。
+Some of the key features that VidHub offers include:
+- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
+- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
+- High-quality video playback for HD, 4K, HDR, and various other resolutions
+- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
+- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
+- Support downloading and deleting cloud files
+- Support renaming cloud files, support add character, replace character, regular expression renaming method.
+- Support direct-link to Emby, Jellyfin, Plex media server.
+- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
 
-iOS 版專屬說明
-• 首次遊玩此產品時，您需下載額外資料。下載約 13 GB 的遊戲內容後即可開始遊玩，但隨著遊戲進行將持續下載額外遊戲內容，總共需下載約 50 GB 的資料。如欲使用多種語言的語音資料，需下載額外內容。
+All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
 
-FAQs
-https://505.games/DSDCAppStoreFAQ
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/0d/24/6d0d2461-e372-5e08-4569-437b2fd51902/cf50affd-3bcc-49f5-9dd2-45ecedf502f4_DSDC_Mac_Higgs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/57/79/a3/5779a3b7-455e-3025-b239-d0e78f3c2e20/2ec2c950-3d7b-4bcf-ae92-dd50a7fcf04d_DSDC_Mac_Sam.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/8f/14/d38f14ff-5d7e-c0b1-a6ea-cebc3e991c78/a26a0e41-5590-40de-ba64-51250fae188f_DSDC_iPad129_BB.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/28/cd/5128cdae-535a-a320-ff22-9c8a4e62ef2d/26bc9f26-21a0-407b-81e3-083f1fadb1b6_DSDC_iPad129_Sam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/e6/bb/a2e6bb89-2599-4f25-5e88-57adf8df16b7/51303ce2-eb25-4e0f-86de-cdd804af9aa2_DSDC_iPad129_Mission.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/b8/ea/3cb8ea1b-dee1-61d1-efdd-9f4d85a6c83b/45ce2e3e-ea92-4cd7-88f1-ce0935bd96dd_DSDC_iPad129_Ladder.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/50/84/7050841d-5665-1193-f834-70a2f698841f/7254f44e-c30f-485b-8067-f36710573424_DSDC_iPad129_Gazers.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/9a/c8/139ac8f7-6e13-dd30-406a-af1f9d2692b5/779f9f5c-6b2d-48f7-a35d-f2d439f15ac6_DSDC_iPad129_Delivery.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水準管 HD]]></title>
-        <id>水準管 HD-1761229412727</id>
-        <link href="https://apps.apple.com/tw/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4"/>
-        <updated>2025-10-23T14:23:32.727Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%B0%B4%E6%BA%96%E7%AE%A1-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  精準水平儀,包含水平管及水平泡兩種測量方式。
+Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
 
-功能:
-√ 水平標尺及水平泡
-√ 支援 iPhone 和 iPad
-
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
+Privacy Policy and Terms of Use
+https://okaapps.com/privacy_vidhub
+https://okaapps.com/terms_vidhub
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>

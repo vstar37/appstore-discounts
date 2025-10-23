@@ -17383,7 +17383,7 @@
       "Monthly Subscription": "HK$ 43.00",
       "Controller Subscription": "HK$ 288.00",
       "Controller Plus Subscription": "HK$ 68.00",
-      "Controller Essentials": "HK$ 38.00",
+      "Controller Essentials": "HK$ 288.00",
       "Controller Essentials Lifetime": "HK$ 788.00",
       "Controller Plus": "HK$ 68.00",
       "Essentials Lifetime - Plus Addon": "HK$ 38.00"
@@ -17404,6 +17404,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761233050694,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Essentials Lifetime - Plus Addon": "HK$ 38.00",
+            "Controller Plus": "HK$ 68.00",
+            "Controller Essentials": "HK$ 288.00",
+            "Controller Essentials Lifetime": "HK$ 788.00"
+          }
+        },
         {
           "timestamp": 1761153584934,
           "price": 0,
@@ -35703,6 +35714,16 @@
       "Value for Value": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761233050694,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Value for Value": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760970107054,
