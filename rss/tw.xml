@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-23T16:32:17.430Z</updated>
+    <updated>2025-10-24T14:26:18.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,47 +21,74 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T16:32:17.431Z</updated>
+        <updated>2025-10-24T14:26:18.698Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1761236935979</id>
-        <link href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-10-23T16:28:55.979Z</updated>
-        <summary type="html"><![CDATA[生命周期VIP(iPhone & iPad 版): $990.00 → $490.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/vidhub-video-library-player/id1659622164?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[瓦爾登 - 終極個人管理工具]]></title>
+        <id>瓦爾登 - 終極個人管理工具-1761315778409</id>
+        <link href="https://apps.apple.com/tw/app/%E7%93%A6%E7%88%BE%E7%99%BB-%E7%B5%82%E6%A5%B5%E5%80%8B%E4%BA%BA%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1595313870?uo=4"/>
+        <updated>2025-10-24T14:22:58.409Z</updated>
+        <summary type="html"><![CDATA[Lifetime Membership: $320.00 → $290.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%93%A6%E7%88%BE%E7%99%BB-%E7%B5%82%E6%A5%B5%E5%80%8B%E4%BA%BA%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/5d/e0/a35de047-9117-707e-dc20-67251788deeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
   <li>
-    <strong>生命周期VIP(iPhone & iPad 版)：</strong><span>$990.00</span> → <b>
-  <strong>$490.00</strong>
+    <strong>Lifetime Membership：</strong><span>$320.00</span> → <b>
+  <strong>$290.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Looking for a feature-packed and efficient media player to manage, organize, and play different types of video content? Enter VidHub! As the newest and most popular media player, VidHub serves up more than just the ability to play all types of video formats. With extensive media library management and network sharing functionalities, VidHub promises stable and speedy video playback for an exceptional user experience.
+  **App Store 編輯推薦**
+瓦爾登是一款專注於個人管理的應用程式，致力於幫助用戶更好地實現自我管理，平衡工作、學習與生活。
 
-Some of the key features that VidHub offers include:
-- Support iOS, Mac, Apple TV platform, data synchronization through iCloud
-- Support for a comprehensive range of video formats, including .mkv、.avi、.mp4、.mov、.rmvb、.wmv, and more
-- High-quality video playback for HD, 4K, HDR, and various other resolutions
-- The ability to enable and disable subtitles, with support for embedded and external subtitle formats such as SRT, SSA, and SUB
-- Network sharing capabilities, with support for SMB/CIFS, WebDav, and other protocols, as well as access to cloud-based video files from Dropbox, Google Drive, OneDrive, and Baidu Netdisk, Aliyun disk, 139 drive, 115 netdisk, enabling easy access to video files on remote servers and cloud storage services.
-- Support downloading and deleting cloud files
-- Support renaming cloud files, support add character, replace character, regular expression renaming method.
-- Support direct-link to Emby, Jellyfin, Plex media server.
-- Built-in media library management tools, with an intuitive interface for displaying videos and customizable sorting options by type, date, rating, and more.
+功能介紹
+※ 待辦事項&日程管理
+- 支援檢查清單（Checklist）及清單模板
+- 支援重複計劃（每天、每週、每月），提前提醒，截止日期
+- 支援過期任務順延，支援收集箱（Inbox）功能
+- 支援四象限工作法則，獨創優先級評估系統，根據任務的輕重緩急合理安排日程
+- 支援日曆時間軸和列表兩種顯示模式
 
-All in all, VidHub offers a fully-featured and outstanding media player experience, delivering the smoothest and highest-quality viewing experience for all types of video content, with all the customizations and features one could desire.
+※ 番茄鐘、正計時
+- 內置番茄鐘，並嚴格按照番茄工作法進行設計
+- 支援鎖屏實時活動、靈動島（僅 iOS 16.1+）
+- 支援設置每日番茄鐘目標、休息時間，並從待辦計劃中選取需要專注的待辦任務
+- 支援正計時功能，可統計專注任務所花時間
 
-Note: The metadata and artwork are sourced from TMDB, a movie and TV show database that is maintained by the community.
+※ 目標進度管理
+- 量化目標，支援目標分組和進度筆記功能，搭配簡潔美觀的進度條，清晰追踪你的目標進度。
+- 無論是學習進度、讀書進度、工作進度，都可以對其量化。
+- 支援趨勢圖，可以按天、週、月、季度、年查看
 
-Privacy Policy and Terms of Use
-https://okaapps.com/privacy_vidhub
-https://okaapps.com/terms_vidhub
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/e4/8f/1de48ff4-706e-fa5d-5cd0-86b990803f4b/60128da9-d9d4-4829-b6ff-6765d1d06860_2en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/ef/bf/e4efbfa2-e48e-eb68-3e6c-8a6c8f7e1e99/04c2eec2-fd34-4fb4-9981-5e7e356e592d_3en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/8d/f0/ed8df0e8-e36f-de57-b2b5-8e37ae7000fd/4841f5b2-b4c5-496a-8fdb-d15f31f44aa1_4en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6f/2a/b96f2a2b-642f-bd93-f481-b5ea553c7d7f/97a486e8-42ba-48a8-83dd-9711a6874ea3_7en.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/cf/c6/31cfc684-6696-5a11-5ab1-535ca6f8a70b/58e4ca58-5e2f-48f0-9d23-583cd8bf8400_2en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/cc/0c/bfcc0c19-e4ad-7f60-f5fb-48976dc86945/8618424d-9bab-4794-8d82-62c545b368a6_3en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/39/54/76395487-54e4-2b07-c26f-97ed0a1aa022/1e7b24c9-4b36-4672-a7d0-57571b63b1ce_4en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/58/84/925884fd-891d-8a2a-35d1-c0283e83150b/bbf59fd1-ec42-45c3-b0d9-01db0deb2546_7en.jpg/576x768bb.jpg" />]]></content>
+※ 閃念筆記
+- 碎片化筆記、日記記錄、靈感記錄
+- 支援文本、圖片功能，融合自定義標籤，支援全文搜索標籤搜索
+- 支援筆記補錄功能
+
+※ 螢幕小組件
+目前支援今日任務、進度管理、閃念筆記小組件，並且支援設置背景
+
+※ 鎖屏小組件
+支援年進度、本週專注統計圖、待辦計劃、閃念筆記
+
+※ 統計中心（目前僅支援專注時間的統計）
+提供豐富的匯總數據、直觀的圖表，方便用戶回顧和查詢
+
+※ iCloud
+支援自動備份，跨設備數據同步
+
+※ 隱私保護
+支援 FaceID （指紋）解鎖應用
+
+※ 其他
+無廣告、無後台，免費用戶友好，數據完全存儲到本地和個人的 iCloud 帳戶，只有用戶本人才可訪問數據。
+-----------------
+訂閱說明
+確認訂閱後將向您的 App Store 帳戶收取費用，訂閱以年或月為計費周期。訂閱服務將會在當前周期結束時自動續訂並收取費用
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/56/29/eb562901-7979-3bdb-9fad-af53abfb5afd/342a4df3-5fa5-4209-aafa-4eadd14cad07_5.5-tc-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/4a/be/064abe94-9c71-1366-8f36-93716664ed3a/d6633597-5faa-4868-9996-cc557868f8a5_5.5-tc-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/e1/8b/a8e18bbe-3935-c719-720d-4be9b38aa891/22bbaa90-ccd0-41fe-a3aa-71f279668446_5.5-tc-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/6a/b5/1c6ab503-fc9b-f65f-bb18-394908b7395c/1f1a01bd-8368-498f-8278-b73bef300648_5.5-tc-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/7e/45/227e4516-4b52-f934-a921-811615049d01/aa93e0b9-4aa9-48ed-94e2-52e2453cff8d_5.5-tc-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/de/d2/4bded261-dfcd-833f-250b-77610ce67011/e5096f61-9440-4722-950a-10ca701b7080_5.5-tc-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/1b/02/e91b0272-e673-fe1c-22af-84fe107d3184/97defbba-ef1a-45a4-bdfd-118fbddfb112_5.5-tc-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d1/b2/49d1b2a2-8a66-f0cd-7574-fd388dfa71b8/330a90e3-ed67-4d4a-a4e7-8c3cdf243f4f_5.5-tc-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/fb/5e/0ffb5e26-4eea-ef8e-3c84-3006bd041cf8/74703f95-0166-46e9-9ab2-eb70efe130f7_12.9-tc-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/3f/39/d43f399b-aa82-fabd-b163-ddc863654267/b4e6eb5a-f48a-48f8-a2a3-13734494fdbe_12.9-tc-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/b6/6c/89b66c3a-2948-f55d-0808-caa2b824070a/585d773b-e1d6-4170-a20c-82821b162766_12.9-tc-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/5c/56/cf5c5614-01cf-6b3f-e82e-79ee4d4e6d5d/43a219a7-c219-47eb-8c2d-feb4ab68942f_12.9-tc-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/73/b95f7349-da40-b127-b998-da08beaf7a91/7c5dd3ea-8b3a-4a81-98ba-8971df39bb41_12.9-tc-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/1c/af/e71caf56-c568-b89d-3398-3e865207e200/cc5d13f7-e507-4004-ae38-d129680a9d31_12.9-tc-statistic.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-24T08:33:18.610Z</updated>
+    <updated>2025-10-24T14:26:18.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,49 +21,78 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-24T08:33:18.611Z</updated>
+        <updated>2025-10-24T14:26:18.695Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Controller for HomeKit]]></title>
-        <id>Controller for HomeKit-1761294602750</id>
-        <link href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4"/>
-        <updated>2025-10-24T08:30:02.750Z</updated>
-        <summary type="html"><![CDATA[Controller Essentials: ¥298.00 → ¥32.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/controller-for-homekit/id1198176727?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5c/f8/ce5cf8f0-538e-e788-1473-b4b8f8590e64/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[瓦尔登 - 日程管理，待办计划，一个就够]]></title>
+        <id>瓦尔登 - 日程管理，待办计划，一个就够-1761315778409</id>
+        <link href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4"/>
+        <updated>2025-10-24T14:22:58.409Z</updated>
+        <summary type="html"><![CDATA[终身会员: ¥78.00 → ¥58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E5%BE%85%E5%8A%9E%E8%AE%A1%E5%88%92-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/5d/e0/a35de047-9117-707e-dc20-67251788deeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>Controller Essentials：</strong><span>¥298.00</span> → <b>
-  <strong>¥32.00</strong>
+    <strong>终身会员：</strong><span>¥78.00</span> → <b>
+  <strong>¥58.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
+  瓦尔登 是一款专为个人打造的日程管理应用，它包含了待办事项，目标进度管理，以及笔记备忘录功能，得到了众多用户的喜爱，并且获得了 App Store 官方编辑推荐、PriceTag等知名自媒体的推荐，为了获得最佳体验，我们专门为 iPhone、iPad、Mac 做了适配，希望你会喜欢这款简洁却强大的应用。
 
-* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
-* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
-* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
-* BACKUPS: Secure your setup and restore it easily when needed.
-* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
-* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
-* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
-* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
-* LOGS: Monitor all activities and changes in your smart home.
-* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
+我们的用户群体覆盖十分广，无论你是学生还是上班族，都可以用 瓦尔登 来管理自己每天的工作学习日常，安排每天的工作任务，记录自己的目标，写下自己灵光乍现的想法，甚至，使用番茄钟专注当下。
 
-Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
+瓦尔登 不追求 All in One，只希望把精力都聚焦在核心功能上，始终把体验放在第一位，去除不必要的繁冗。
 
-For more information, visit our website: https://www.controllerforhomekit.com
+-----------------
+※ 日历模块
+- 拥有精心打造的日历时间轴，可实现任务的自由拖拽调整，
+- 支持月视图显示
+- 支持同步系统自带 日历
 
-Privacy Policy: 
-https://controllerforhomekit.com/privacy-en/
+※ 任务中心（以 GTD 工作法为核心理念）
+- 普通模式下，显示 今日、明日、已过期 的任务列表，对最近的日程安排有一个大致的了解，聚焦当下的任务
+- 四象限模式，按任务的优先级分块显示，任务的轻重缓急清晰呈现，同时还提供了一套独创的优先级评估系统，帮助用户在安排任务时做到心中有数
+- 重复任务设置，支持基本的重复计划（每日、每周、每月），提前提醒，可设置任务截止日期
+- 检查清单（Checklist）和清单模版，可提供简单的任务处理流程
+- 任务标题日期时间可智能识别提取，效率满满
+- 收集箱（Inbox）功能，这是 GTD 方法论不可或缺的一环，记录一些还未决定何时安但可能会遗漏的任务或者想法
+- 内置 番茄钟，严格按照番茄工作法设计，支持灵动岛和实施活动，支持设置每日番茄目标、休息时间、任务，除此以外，还支持正计时功能，
 
-Terms of Use: 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
+※ 目标进度
+- 支持目标量化，可设置目标分组，并且提供可视化进度展示（进度条&进度环），清晰追踪目标进度
+- 支持目标趋势图，可以回顾自己过去一段时间的目标进度变化
+- 支持目标进度笔记，可以记录实现目标过程中的一些想法和总结
+
+※ 闪念笔记（备忘录）
+- 碎片化笔记、日记记录、灵感记录
+- 支持文本、图片功能，融合自定义标签，支持全文搜索标签搜索
+- 支持笔记补录功能
+
+※ 小组件（锁屏小组件）
+- 支持今日待办、本周待办、月视图、四象限，目标趋势、闪念笔记、年进度等，并提供可交互功能，可直接在小组件勾选完成任务或者更新目标进度，效率进一步提升！
+
+※ 统计中心
+提供丰富的汇总数据、直观的图表，方便用户回顾和查询
+
+※ iCloud
+支持自动备份，跨设备数据同步
+
+※ 隐私保护
+支持 FaceID （指纹）解锁应用
+
+※ 其他
+无广告、无后台，免费用户友好，数据完全存储到本地和个人的 iCloud 账户，只有用户本人才可访问数据
+
+-----------------
+订阅说明
+确认订阅后将向您的 App Store 账户收取费用，订阅以年或月为计费周期。订阅服务将会在当前周期结束时自动续订并收取费用，取消自动续订需要在当前订阅周期结束 24 小时前完成。
+--用户条款：http://freelancer-x.com/app-terms/
+--隐私策略：http://freelancer-x.com/app-privacy-policy/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/7d/21/067d217e-523a-9dc8-bbbf-1e20fed1a9a9/211c2b8c-6d5f-4361-b501-542c5b3be63d_5.5-cn-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/35/3d/8c353d97-6a26-8935-adf2-3352324ce199/759fa999-3433-461b-80dd-abbe68ced2ac_5.5-cn-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/8a/15/c08a1551-5dd4-2c94-75a9-b5d060f5e706/f162d07f-be6d-4e43-bad2-ded4af144c3c_5.5-cn-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/3a/6b/533a6b58-27ba-b9fd-cff6-b3559a105882/93d650cd-c638-4e9e-b947-483653cd6b60_5.5-cn-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/76/72/4c/76724cf3-6f03-9b6c-3eb2-1de406d57d0f/8c8ca5c2-ef09-4f56-beab-203fbb70ae28_5.5-cn-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c9/a5/81/c9a58149-1c17-285d-8b29-5d3ba618cd80/677896da-7ab1-42ed-bf7c-2e0831417b03_5.5-cn-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/c4/5b/ffc45b6e-f257-22a6-dc93-132173efaa02/730c92c0-feac-4926-b49f-ad5a7359ea17_5.5-cn-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bb/e1/16/bbe1168b-2d01-1774-aa03-1a8b3a4a0cdc/d481083e-e31b-4e7d-8a83-e67cb595e15b_5.5-cn-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/96/92/3d969204-df6c-2282-92c3-3782d2d56d01/0c8c44c8-ff09-4614-b502-8253c802bc7c_12.9-cn-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/0f/c3/3d0fc301-b20a-97fe-06e4-aeb1513a56d8/98d7ed83-d79b-4af9-81b2-dc9496897a8c_12.9-cn-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1c/01/1b/1c011ba6-b88a-57a9-7cf2-1534f97e160f/fc1c6ca2-37be-4bc9-80fc-1cfa6b407b78_12.9-cn-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/4e/ae/e44eae6f-932f-fbb3-ada4-22a9ccfb1596/ed8c9439-8aad-45f2-b83a-b0a20e902d3c_12.9-cn-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/85/3e/e1/853ee1e6-c19a-ff9a-e327-dd42e903ef18/0f1e6a82-045d-4f63-97be-a4a999c9a15a_12.9-cn-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f3/77/7d/f3777de4-c648-0530-6a89-d57907185574/d8650961-b539-4bc3-82cc-7651b5d2a181_12.9-cn-statistic.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
