@@ -17553,6 +17553,22 @@
     "history": [
       [
         {
+          "timestamp": 1761290474469,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "₺39,99",
+            "The Weekly Action Planner (Sun": "₺399,99",
+            "2025-2026 Stay Focused ADHD Pl": "₺499,99",
+            "1000 Kanji Workbook": "₺699,99",
+            "2026 Essential Digital planner": "₺499,99",
+            "2026 Daily Scheduler (Sunday,": "₺499,99",
+            "2026 Smart Digital Planner (Mo": "₺499,99",
+            "ADHD Student Planner 2025-2026": "₺499,99",
+            "AI Pass (Monthly)": "₺379,00"
+          }
+        },
+        {
           "timestamp": 1761279989082,
           "price": 0,
           "formattedPrice": "Free",
@@ -20271,6 +20287,18 @@
       "Annual": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761290474469,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99",
+            "Monthly": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761107212142,
