@@ -17181,7 +17181,7 @@
       "Controller Plus Subscription": "$8.99",
       "Controller Essentials": "$4.99",
       "Controller Essentials Lifetime": "$99.99",
-      "Controller Plus": "$8.99",
+      "Controller Plus": "$79.99",
       "Essentials Lifetime - Plus Addon": "$4.99"
     },
     "minPriceInfo": {
@@ -17199,6 +17199,19 @@
       "Essentials Lifetime - Plus Addon": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761312776913,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Controller Essentials": "$4.99",
+            "Controller Essentials Lifetime": "$99.99",
+            "Controller Plus": "$79.99",
+            "Essentials Lifetime - Plus Addon": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761153584934,
