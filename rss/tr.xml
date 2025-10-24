@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-24T07:24:18.274Z</updated>
+    <updated>2025-10-24T23:23:20.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,57 +21,52 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-24T07:24:18.274Z</updated>
+        <updated>2025-10-24T23:23:20.453Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MoneyTrack: Expense & Budget]]></title>
-        <id>MoneyTrack: Expense &amp; Budget-1761290474469</id>
-        <link href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4"/>
-        <updated>2025-10-24T07:21:14.469Z</updated>
-        <summary type="html"><![CDATA[Lifetime: ₺899,99 → ₺800,00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/moneytrack-expense-budget/id1473785373?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/1e/90/061e9027-0582-5879-71cd-5eeb8324915a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Walden - Calendar/ToDo/Notes]]></title>
+        <id>Walden - Calendar/ToDo/Notes-1761348010666</id>
+        <link href="https://apps.apple.com/tr/app/walden-calendar-todo-notes/id1595313870?uo=4"/>
+        <updated>2025-10-24T23:20:10.666Z</updated>
+        <summary type="html"><![CDATA[Lifetime Membership: ₺449,99 → ₺349,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/walden-calendar-todo-notes/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/5d/e0/a35de047-9117-707e-dc20-67251788deeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime：</strong><span>₺899,99</span> → <b>
-  <strong>₺800,00</strong>
+    <strong>Lifetime Membership：</strong><span>₺449,99</span> → <b>
+  <strong>₺349,99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  MoneyTrack - Streamlined Personal Finance Tracker
+  Walden is an App focused on personal management, carefully designed to bring users only a quality experience, hope you like it.
 
-Track every penny, master your financial freedom. A pure expense tracking app with no ads, no splash screens, and no investment promotions.
+Function Introduction
+To-Do List
+Integrate the four quadrants of work, according to the priority of the task rational scheduling.
+Support repeat schedule and reminders.
 
-■ CORE FEATURES
-• Auto-Tracking: Deep integration with Shortcuts allows automatic expense recording triggered by your transactions
-• Comprehensive Entries: Support for income, expenses, reimbursements, transfers, credit card payments, installments, and debt management
-• Insightful Analytics: Visualize spending patterns with pie charts, bar graphs and trend lines to quickly identify financial issues
-• Precise Budgeting: Set annual/monthly budgets for total spending and categories with dynamic daily budget adjustments
+Pomodoro
+Walden's built-in tomato clock is designed strictly according to the tomato work method
+You can set daily tomato clock goals, rest time, and select the tasks to focus on from the to-do list 
 
-■ COMPLETE ASSET MANAGEMENT
-• Unified management of multiple account types (cash, bank cards, credit cards, store cards)
-• Balance sheet and asset curve for real-time financial status tracking
-• Credit card management system (payment reminders, limit management, interest-free period calculation)
-• Multi-currency asset recording with support for all major currency exchange rates
+Progress Management
+Quantify your goals, support goal grouping and progress notes, with a simple and beautiful progress bar, clearly track your goal progress.
 
-■ THOUGHTFUL FUNCTIONS
-• Multiple Ledgers: Flexibly separate different financial records
-• Shared Accounting: Invite family and friends to maintain transparent shared finances
-• Cloud Backup: Free data synchronization across devices with secure protection
-• Flexible Import/Export: Support for importing data from multiple platforms and exporting in Excel format
-• Recurring Entries: Customisable automatic entry tasks that generate transactions on schedule
-• Installment Tracking: Easily monitor payment schedules and receive timely reminders
-• Sub-Categories: Unlimited categorisation options to meet personalised needs
+Flash Notes
+Integrate custom tags, support full-text search and display by tags.
+In our daily life, there will always be a moment of light and whimsy, it can be the emotion after reading a text, it can be the resonance of listening to a song, or simply want to record the moment's thoughts.
+If you are like me and want to practice writing long articles, then you can start by writing a paragraph every day and gradually improve your writing skills day by day.
 
-■ CROSS-PLATFORM EXPERIENCE
-Synchronise across iPhone, iPad and PC with real-time updates, recording every expenditure wherever you are.
-
-■ FOCUSED ON FINANCE MANAGEMENT
-We do one thing only — help you better manage your personal finances. No investment promotions, no community distractions, just a pure and efficient expense tracking experience.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/a1/d2/70a1d289-5510-c521-b71a-1e2bd2f1f5d0/4c08a5c5-ee61-4ede-a5e3-f847aae27d3b_AppStore_U4e3b_U9875-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/48/8f/a7488f10-f2d9-e187-8f74-1c211dc072eb/94a1d58a-a1ec-4f1b-9431-5b1a747e0f26_AppStore_U591c_U95f4-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/f5/e3/52f5e31c-7fd2-b520-e4a7-1d41e346f581/d9e33f86-70b8-499d-a193-2a83e4a7b7fd_AppStore_U7edf_U8ba1-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/cd/f2/ffcdf22f-68fb-f162-a19d-770f0175df37/087f4064-82ea-4f94-b079-ff7fc0cbdd09_AppStore_U9884_U7b97-_U6a2a_U5c4f.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a8/e4/1da8e450-6baf-5a3d-b710-39db4470c7ab/75ec52ca-db89-40cb-9d92-31433b7bc3c6_AppStore_U4e3b_U9875-_U7ad6_U5c4f.png/576x768bb.png" />]]></content>
+-----------------
+Subscription Instructions
+--Subscription period: 1 month, 1 year (non-automatic renewal, please feel free to purchase)
+-- Payment: Payment will be deducted through the user's iTunes account, and payment will be made once the user confirms the purchase.
+--User Terms: http://freelancer-x.com/app-terms/
+-- Privacy Policy: http://freelancer-x.com/app-privacy-policy/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/21/d5/8f21d5d8-e74f-1114-ac37-7b0fbc8048a5/e798229d-a5f5-4da1-b3dd-fea8a5f5e43f_5.5-en-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/51/30/05513013-9eb7-0cba-8b97-b1129cb8afb9/20cf7e5d-e72e-4944-8cd4-35a9d926fb53_5.5-en-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/31/1e/5d311eb7-f52e-a34d-8264-a556cb0d6793/bee6f7f4-fc32-4949-ab67-9ab26dc44220_5.5-en-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/02/2b/8c022b9c-440d-a6c5-c01c-0eb52fe26c9c/4d35f5fd-eb91-4b0b-9ef9-97631f9aff6e_5.5-en-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/5f/71/515f7150-1f25-a205-b590-8cd99680356c/c63beae0-c30a-4bf2-948c-61be7cab522e_5.5-en-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/78/e0/7878e08a-a453-ca2a-0c04-c52f41da8c19/271240fe-3333-41c2-b321-57b8bbb83308_5.5-en-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/8e/4a/eb8e4a64-f6b0-1ce6-8bac-7b08f562d880/15da4778-915c-4041-933f-1684dc7532aa_5.5-en-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/99/11/64991111-171d-24b6-9ed4-7fcb1a6718bf/5ff46c6f-2189-49a7-84f7-a6087d1450c0_5.5-en-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/b7/cf/1ab7cf91-cd4a-a9a3-0c3b-2e83c9f4b25c/88ee21c9-d1ca-4cfd-9959-1c2d74da9784_12.9-en-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0c/39/c60c39f5-a4d6-26d8-8a79-e58c073b602b/22e4b76f-83c2-4281-a563-5c7480a980c2_12.9-en-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ba/5a/f5ba5a8e-0154-e9d5-0751-e2b58007543b/a10255ef-dbc4-4462-9a72-ec95b4d250b3_12.9-en-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/08/35/020835a4-dc50-8089-6fb3-1ae92751b615/700da85e-08a1-4dab-8a11-f999846066d2_12.9-en-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/00/05/86000549-97ea-1e0f-fea3-e34de85648c9/97b9b07d-4ecb-4fcc-8226-648cca0061b9_12.9-en-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/b3/d5/09b3d5da-c111-e2e9-89f0-b78c57d8f4a7/7402b5bf-7ffc-4535-85de-f758faa432fd_12.9-en-statistic.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
