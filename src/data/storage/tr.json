@@ -4018,6 +4018,25 @@
     "history": [
       [
         {
+          "timestamp": 1761279989082,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bonehart": "₺299,99",
+            "Ashbite": "₺299,99",
+            "Chest of gems": "₺449,99",
+            "Bag of gems": "₺229,99",
+            "Nivus": "₺39,99",
+            "Dante": "₺229,99",
+            "Kutsao": "₺129,99",
+            "Grawl": "₺129,99",
+            "Sha'tra": "₺129,99",
+            "Captain Blackthorne": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760847983056,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -17528,10 +17547,26 @@
       "Goodnotes 6 (1년)": "₺449,00",
       "Essential (Yearly)": "₺449,00",
       "Pro (Yearly)": "₺1.369,99",
-      "Special Edition": "₺1.369,99",
+      "Special Edition": "₺1.099,99",
       "Monthly Project Budget (Green)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761279989082,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.099,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761064155952,

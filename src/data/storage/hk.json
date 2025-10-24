@@ -20127,6 +20127,23 @@
     "history": [
       [
         {
+          "timestamp": 1761279989082,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_0": "HK$ 218.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "MSR特選曲目組合包_Vol.02": "HK$ 48.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "新手上路包": "HK$ 8.00",
+            "Miku in Museland": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1761239969434,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -29808,6 +29825,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761279989082,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Goodnotes 6（1 年）": "HK$ 108.00",
+            "特別版": "HK$ 253.00",
+            "Goodnotes 6 免費試用": "HK$ 0.00",
+            "虛線方格：草稿紙張": "HK$ 8.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "HK$ 0.00",
+            "Goodnotes Pro (Yearly)": "HK$ 319.00",
+            "好心智雜誌": "HK$ 0.00",
+            "秋貓貼紙組": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1761274935167,
           "price": 0,

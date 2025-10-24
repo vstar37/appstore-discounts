@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-23T23:22:20.136Z</updated>
+    <updated>2025-10-24T04:29:19.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,29 +21,59 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-23T23:22:20.137Z</updated>
+        <updated>2025-10-24T04:29:19.034Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Level HD.]]></title>
-        <id>Level HD.-1761261560473</id>
-        <link href="https://apps.apple.com/tr/app/level-hd/id510249014?uo=4"/>
-        <updated>2025-10-23T23:19:20.473Z</updated>
-        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/level-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺39,99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  √ Carpenter's level
-√ Supports iPhone and iPad
+        <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
+        <id>Goodnotes: AI Notes, Docs, PDF-1761279989082</id>
+        <link href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
+        <updated>2025-10-24T04:26:29.082Z</updated>
+        <summary type="html"><![CDATA[Special Edition: ₺1.369,99 → ₺1.099,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/bf/07/5dbf0719-5e2b-7843-80f0-772f83d44919/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Special Edition：</strong><span>₺1.369,99</span> → <b>
+  <strong>₺1.099,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Goodnotes has always been the place to capture your ideas — from quick notes to big plans. Now, it goes further. With powerful AI and new ways to capture information, Goodnotes helps you connect the dots, unlock insights, and turn ideas into action.
 
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
+*Existing Goodnotes 5 users can continue to use Goodnotes 5 indefinitely or upgrade to the new Goodnotes. Either way, your notes are safe!*
+
+For professionals: Increase productivity at work
+■ Whiteboard + Goodnotes AI: One of our most requested features — brainstorm, mind-map, and diagram freely on an infinite canvas that grows with your ideas. Enhanced diagramming tools and real-time collaboration make it easy for teams to workshop, ideate, and problem-solve together, while Goodnotes AI helps you capture and organize key takeaways instantly. 
+■ Goodnotes AI Audio & Meetings: Stay fully present in every conversation while Goodnotes does the work for you. AI-powered transcription and live summarization automatically capture discussions and structure them into clear meeting minutes. After the meeting, merge transcripts with your own notes to create polished, shareable documents in seconds. 
+■ Text Documents + AI: Create documents that think with you. Enjoy a superior typing experience with rich inline blocks, build on ideas with external insights, and collaborate seamlessly with teammates. With AI-powered summarization, automated note generation, and transcript support, you can turn rough notes and meetings into finished content faster than ever. 
+■ Present your notes, slides, and content directly from Goodnotes when you connect your device via AirPlay or HDMI to an external screen. 
+■ Use Laser Pointer to guide your audience’s attention during your presentation.
+■ Export your notes to email, print, or share them anywhere as PDFs. 
+■ Send a link to your notebooks to work on the same notes directly — perfect for asynchronous work or collaborative brainstorming. 
+■ Import documents by emailing them to your custom Goodnotes email. 
+
+For students: Ace your exams with ease
+■ Record audio notes that are magically synced to the moment you write — perfect for lectures or presentations.
+■ Search and instantly find any of your notes from any class. 
+■ Study and practice straight from your notes with Study Sets — flashcards built on active recall and spaced repetition. 
+■ Use AI to summarize, shorten, change the tone of your words, and perfect your typed text. 
+
+For planners: Let your creativity flow 
+■ Customize the size and color of your paper templates to create the template you want. 
+■ Add, create, or import stickers, stamps, washi tapes, images, and more 
+
+Digital notebooks: unlimited notebooks for the price of a single physical one. 
+■ Combine handwriting and typed text on one page, alongside images, stickers, diagrams, and doodles. 
+■ Create digital notebooks with customizable paper templates, including Blank Paper, Ruled Paper, Cornell Paper, Checklists, Planners, and more. 
+■ Navigate long documents with ease. PDF tables of contents are automatically imported; or create custom outlines yourself. 
+■ Back up all your notes to Google Drive, Dropbox, or OneDrive, and use iCloud to sync across iPad, iPhone, and Mac — so your notes are always safe. 
+■ Edit your writing by resizing it, changing the text color, or moving it to another spot on the page. 
+Privacy Policy: https://www.goodnotes.com/privacy-policy
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/8e/a9/688ea90e-945a-18bc-587f-1cd7f8af2ec7/ASO_EN_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/ca/9916caa6-24cd-7bf4-b706-3c13feb289b2/ASO_EN_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/7a/56/4d7a565c-6196-d5f3-fd3c-a43974a14478/ASO_EN_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/7f/83/a27f8361-a94d-2e2b-fc4b-eafa3cdf6a9e/ASO_EN_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3b/5d/ba3b5d02-5042-7b27-8cb2-918fbd658488/ASO_EN_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a0/a0/6da0a071-fffb-58e4-b22c-388418f1a41b/ASO_EN_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/8b/7d0f8bc4-8c8d-27aa-6f82-6903df878c0d/ASO_EN_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/83/89/4d83896c-8e7c-bacd-9ef6-0ac0123fa0f6/ASO_EN_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/99/ce/db99ce15-b5df-3c97-7e1f-4a10fb0a928a/ASO_EN_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/d2/3f16d24d-54ab-6565-5e04-bec402af7e3a/ASO_EN_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>
