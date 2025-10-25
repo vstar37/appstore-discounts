@@ -39206,6 +39206,21 @@
     "history": [
       [
         {
+          "timestamp": 1761369636248,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期VIP(Apple TV 版)": "$490.00",
+            "生命周期VIP(Mac 版)": "$990.00",
+            "生命周期VIP(iPhone & iPad 版)": "$990.00",
+            "年方案": "$320.00",
+            "月方案": "$50.00",
+            "生命周期": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761236935979,
           "price": 0,
           "formattedPrice": "免費",
