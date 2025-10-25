@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-24T23:23:20.451Z</updated>
+    <updated>2025-10-25T04:29:00.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,52 +21,59 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-24T23:23:20.453Z</updated>
+        <updated>2025-10-25T04:29:00.701Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Walden - Calendar/ToDo/Notes]]></title>
-        <id>Walden - Calendar/ToDo/Notes-1761348010666</id>
-        <link href="https://apps.apple.com/tr/app/walden-calendar-todo-notes/id1595313870?uo=4"/>
-        <updated>2025-10-24T23:20:10.666Z</updated>
-        <summary type="html"><![CDATA[Lifetime Membership: ₺449,99 → ₺349,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/walden-calendar-todo-notes/id1595313870?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/5d/e0/a35de047-9117-707e-dc20-67251788deeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
+        <id>Goodnotes: AI Notes, Docs, PDF-1761366338733</id>
+        <link href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
+        <updated>2025-10-25T04:25:38.733Z</updated>
+        <summary type="html"><![CDATA[Special Edition: ₺1.369,99 → ₺1.099,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/bf/07/5dbf0719-5e2b-7843-80f0-772f83d44919/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime Membership：</strong><span>₺449,99</span> → <b>
-  <strong>₺349,99</strong>
+    <strong>Special Edition：</strong><span>₺1.369,99</span> → <b>
+  <strong>₺1.099,99</strong>
 </b>
   </li>
 </ul><h2>Application Description</h2><p>
-  Walden is an App focused on personal management, carefully designed to bring users only a quality experience, hope you like it.
+  Goodnotes has always been the place to capture your ideas — from quick notes to big plans. Now, it goes further. With powerful AI and new ways to capture information, Goodnotes helps you connect the dots, unlock insights, and turn ideas into action.
 
-Function Introduction
-To-Do List
-Integrate the four quadrants of work, according to the priority of the task rational scheduling.
-Support repeat schedule and reminders.
+*Existing Goodnotes 5 users can continue to use Goodnotes 5 indefinitely or upgrade to the new Goodnotes. Either way, your notes are safe!*
 
-Pomodoro
-Walden's built-in tomato clock is designed strictly according to the tomato work method
-You can set daily tomato clock goals, rest time, and select the tasks to focus on from the to-do list 
+For professionals: Increase productivity at work
+■ Whiteboard + Goodnotes AI: One of our most requested features — brainstorm, mind-map, and diagram freely on an infinite canvas that grows with your ideas. Enhanced diagramming tools and real-time collaboration make it easy for teams to workshop, ideate, and problem-solve together, while Goodnotes AI helps you capture and organize key takeaways instantly. 
+■ Goodnotes AI Audio & Meetings: Stay fully present in every conversation while Goodnotes does the work for you. AI-powered transcription and live summarization automatically capture discussions and structure them into clear meeting minutes. After the meeting, merge transcripts with your own notes to create polished, shareable documents in seconds. 
+■ Text Documents + AI: Create documents that think with you. Enjoy a superior typing experience with rich inline blocks, build on ideas with external insights, and collaborate seamlessly with teammates. With AI-powered summarization, automated note generation, and transcript support, you can turn rough notes and meetings into finished content faster than ever. 
+■ Present your notes, slides, and content directly from Goodnotes when you connect your device via AirPlay or HDMI to an external screen. 
+■ Use Laser Pointer to guide your audience’s attention during your presentation.
+■ Export your notes to email, print, or share them anywhere as PDFs. 
+■ Send a link to your notebooks to work on the same notes directly — perfect for asynchronous work or collaborative brainstorming. 
+■ Import documents by emailing them to your custom Goodnotes email. 
 
-Progress Management
-Quantify your goals, support goal grouping and progress notes, with a simple and beautiful progress bar, clearly track your goal progress.
+For students: Ace your exams with ease
+■ Record audio notes that are magically synced to the moment you write — perfect for lectures or presentations.
+■ Search and instantly find any of your notes from any class. 
+■ Study and practice straight from your notes with Study Sets — flashcards built on active recall and spaced repetition. 
+■ Use AI to summarize, shorten, change the tone of your words, and perfect your typed text. 
 
-Flash Notes
-Integrate custom tags, support full-text search and display by tags.
-In our daily life, there will always be a moment of light and whimsy, it can be the emotion after reading a text, it can be the resonance of listening to a song, or simply want to record the moment's thoughts.
-If you are like me and want to practice writing long articles, then you can start by writing a paragraph every day and gradually improve your writing skills day by day.
+For planners: Let your creativity flow 
+■ Customize the size and color of your paper templates to create the template you want. 
+■ Add, create, or import stickers, stamps, washi tapes, images, and more 
 
------------------
-Subscription Instructions
---Subscription period: 1 month, 1 year (non-automatic renewal, please feel free to purchase)
--- Payment: Payment will be deducted through the user's iTunes account, and payment will be made once the user confirms the purchase.
---User Terms: http://freelancer-x.com/app-terms/
--- Privacy Policy: http://freelancer-x.com/app-privacy-policy/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/21/d5/8f21d5d8-e74f-1114-ac37-7b0fbc8048a5/e798229d-a5f5-4da1-b3dd-fea8a5f5e43f_5.5-en-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/51/30/05513013-9eb7-0cba-8b97-b1129cb8afb9/20cf7e5d-e72e-4944-8cd4-35a9d926fb53_5.5-en-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/31/1e/5d311eb7-f52e-a34d-8264-a556cb0d6793/bee6f7f4-fc32-4949-ab67-9ab26dc44220_5.5-en-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/02/2b/8c022b9c-440d-a6c5-c01c-0eb52fe26c9c/4d35f5fd-eb91-4b0b-9ef9-97631f9aff6e_5.5-en-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/5f/71/515f7150-1f25-a205-b590-8cd99680356c/c63beae0-c30a-4bf2-948c-61be7cab522e_5.5-en-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/78/e0/7878e08a-a453-ca2a-0c04-c52f41da8c19/271240fe-3333-41c2-b321-57b8bbb83308_5.5-en-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/8e/4a/eb8e4a64-f6b0-1ce6-8bac-7b08f562d880/15da4778-915c-4041-933f-1684dc7532aa_5.5-en-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/99/11/64991111-171d-24b6-9ed4-7fcb1a6718bf/5ff46c6f-2189-49a7-84f7-a6087d1450c0_5.5-en-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/b7/cf/1ab7cf91-cd4a-a9a3-0c3b-2e83c9f4b25c/88ee21c9-d1ca-4cfd-9959-1c2d74da9784_12.9-en-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0c/39/c60c39f5-a4d6-26d8-8a79-e58c073b602b/22e4b76f-83c2-4281-a563-5c7480a980c2_12.9-en-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ba/5a/f5ba5a8e-0154-e9d5-0751-e2b58007543b/a10255ef-dbc4-4462-9a72-ec95b4d250b3_12.9-en-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/08/35/020835a4-dc50-8089-6fb3-1ae92751b615/700da85e-08a1-4dab-8a11-f999846066d2_12.9-en-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/00/05/86000549-97ea-1e0f-fea3-e34de85648c9/97b9b07d-4ecb-4fcc-8226-648cca0061b9_12.9-en-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/b3/d5/09b3d5da-c111-e2e9-89f0-b78c57d8f4a7/7402b5bf-7ffc-4535-85de-f758faa432fd_12.9-en-statistic.jpg/552x414bb.jpg" />]]></content>
+Digital notebooks: unlimited notebooks for the price of a single physical one. 
+■ Combine handwriting and typed text on one page, alongside images, stickers, diagrams, and doodles. 
+■ Create digital notebooks with customizable paper templates, including Blank Paper, Ruled Paper, Cornell Paper, Checklists, Planners, and more. 
+■ Navigate long documents with ease. PDF tables of contents are automatically imported; or create custom outlines yourself. 
+■ Back up all your notes to Google Drive, Dropbox, or OneDrive, and use iCloud to sync across iPad, iPhone, and Mac — so your notes are always safe. 
+■ Edit your writing by resizing it, changing the text color, or moving it to another spot on the page. 
+Privacy Policy: https://www.goodnotes.com/privacy-policy
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/8e/a9/688ea90e-945a-18bc-587f-1cd7f8af2ec7/ASO_EN_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/ca/9916caa6-24cd-7bf4-b706-3c13feb289b2/ASO_EN_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/7a/56/4d7a565c-6196-d5f3-fd3c-a43974a14478/ASO_EN_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/7f/83/a27f8361-a94d-2e2b-fc4b-eafa3cdf6a9e/ASO_EN_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3b/5d/ba3b5d02-5042-7b27-8cb2-918fbd658488/ASO_EN_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a0/a0/6da0a071-fffb-58e4-b22c-388418f1a41b/ASO_EN_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/8b/7d0f8bc4-8c8d-27aa-6f82-6903df878c0d/ASO_EN_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/83/89/4d83896c-8e7c-bacd-9ef6-0ac0123fa0f6/ASO_EN_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/99/ce/db99ce15-b5df-3c97-7e1f-4a10fb0a928a/ASO_EN_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/d2/3f16d24d-54ab-6565-5e04-bec402af7e3a/ASO_EN_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>
