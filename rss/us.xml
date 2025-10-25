@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-24T03:05:19.842Z</updated>
+    <updated>2025-10-25T03:08:00.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,62 +21,52 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-24T03:05:19.843Z</updated>
+        <updated>2025-10-25T03:08:00.773Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEATH STRANDING DIRECTOR'S CUT]]></title>
-        <id>DEATH STRANDING DIRECTOR'S CUT-1761274935167</id>
-        <link href="https://apps.apple.com/us/app/death-stranding-directors-cut/id6449748961?uo=4"/>
-        <updated>2025-10-24T03:02:15.167Z</updated>
-        <summary type="html"><![CDATA[Price: $39.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/death-stranding-directors-cut/id6449748961?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$39.99</span> → <b>
-  <strong>$19.99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. 
- 
-In the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. 
- 
-As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. 
- Can you reunite the shattered world, one step at a time?
+        <title type="html"><![CDATA[Walden - Calendar/ToDo/Notes]]></title>
+        <id>Walden - Calendar/ToDo/Notes-1761361477928</id>
+        <link href="https://apps.apple.com/us/app/walden-calendar-todo-notes/id1595313870?uo=4"/>
+        <updated>2025-10-25T03:04:37.928Z</updated>
+        <summary type="html"><![CDATA[Lifetime Membership: $9.99 → $7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/walden-calendar-todo-notes/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/5d/e0/a35de047-9117-707e-dc20-67251788deeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime Membership：</strong><span>$9.99</span> → <b>
+  <strong>$7.99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Walden is an App focused on personal management, carefully designed to bring users only a quality experience, hope you like it.
 
-DEATH STRANDING DIRECTOR'S CUT on iOS includes a HIGH FRAME RATE, PHOTO MODE, and cross-over content from Valve Corporation's HALF-LIFE series and CD Projekt Red's Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.
+Function Introduction
+To-Do List
+Integrate the four quadrants of work, according to the priority of the task rational scheduling.
+Support repeat schedule and reminders.
 
-Mac and iOS
-• Sign-in to iCloud and activation of iCloudDrive are required to play this product.
-• This product can be played offline, but a network connection is required to fully experience the Social Strand System™. Communication fees will be incurred during online play.
+Pomodoro
+Walden's built-in tomato clock is designed strictly according to the tomato work method
+You can set daily tomato clock goals, rest time, and select the tasks to focus on from the to-do list 
 
-Only for iOS version
-• When playing this product for the first time, you will be required to download additional data. You can start the game once you have downloaded approximately 13 GB, but additional downloads will occur as the game progresses, requiring a total of approximately 50 GB of downloads. Additional downloads will occur when additional language voice data is used.
+Progress Management
+Quantify your goals, support goal grouping and progress notes, with a simple and beautiful progress bar, clearly track your goal progress.
 
-FAQs
-https://505.games/DSDCAppStoreFAQ
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/0d/24/6d0d2461-e372-5e08-4569-437b2fd51902/cf50affd-3bcc-49f5-9dd2-45ecedf502f4_DSDC_Mac_Higgs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/57/79/a3/5779a3b7-455e-3025-b239-d0e78f3c2e20/2ec2c950-3d7b-4bcf-ae92-dd50a7fcf04d_DSDC_Mac_Sam.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/8f/14/d38f14ff-5d7e-c0b1-a6ea-cebc3e991c78/a26a0e41-5590-40de-ba64-51250fae188f_DSDC_iPad129_BB.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/28/cd/5128cdae-535a-a320-ff22-9c8a4e62ef2d/26bc9f26-21a0-407b-81e3-083f1fadb1b6_DSDC_iPad129_Sam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/e6/bb/a2e6bb89-2599-4f25-5e88-57adf8df16b7/51303ce2-eb25-4e0f-86de-cdd804af9aa2_DSDC_iPad129_Mission.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/b8/ea/3cb8ea1b-dee1-61d1-efdd-9f4d85a6c83b/45ce2e3e-ea92-4cd7-88f1-ce0935bd96dd_DSDC_iPad129_Ladder.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/50/84/7050841d-5665-1193-f834-70a2f698841f/7254f44e-c30f-485b-8067-f36710573424_DSDC_iPad129_Gazers.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/9a/c8/139ac8f7-6e13-dd30-406a-af1f9d2692b5/779f9f5c-6b2d-48f7-a35d-f2d439f15ac6_DSDC_iPad129_Delivery.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level HD.]]></title>
-        <id>Level HD.-1761274935167</id>
-        <link href="https://apps.apple.com/us/app/level-hd/id510249014?uo=4"/>
-        <updated>2025-10-24T03:02:15.167Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/level-hd/id510249014?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  √ Carpenter's level
-√ Supports iPhone and iPad
+Flash Notes
+Integrate custom tags, support full-text search and display by tags.
+In our daily life, there will always be a moment of light and whimsy, it can be the emotion after reading a text, it can be the resonance of listening to a song, or simply want to record the moment's thoughts.
+If you are like me and want to practice writing long articles, then you can start by writing a paragraph every day and gradually improve your writing skills day by day.
 
-Level. URL scheme is "EWBubbleLevel://"
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
+-----------------
+Subscription Instructions
+--Subscription period: 1 month, 1 year (non-automatic renewal, please feel free to purchase)
+-- Payment: Payment will be deducted through the user's iTunes account, and payment will be made once the user confirms the purchase.
+--User Terms: http://freelancer-x.com/app-terms/
+-- Privacy Policy: http://freelancer-x.com/app-privacy-policy/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/21/d5/8f21d5d8-e74f-1114-ac37-7b0fbc8048a5/e798229d-a5f5-4da1-b3dd-fea8a5f5e43f_5.5-en-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/51/30/05513013-9eb7-0cba-8b97-b1129cb8afb9/20cf7e5d-e72e-4944-8cd4-35a9d926fb53_5.5-en-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/31/1e/5d311eb7-f52e-a34d-8264-a556cb0d6793/bee6f7f4-fc32-4949-ab67-9ab26dc44220_5.5-en-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/02/2b/8c022b9c-440d-a6c5-c01c-0eb52fe26c9c/4d35f5fd-eb91-4b0b-9ef9-97631f9aff6e_5.5-en-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/5f/71/515f7150-1f25-a205-b590-8cd99680356c/c63beae0-c30a-4bf2-948c-61be7cab522e_5.5-en-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/78/e0/7878e08a-a453-ca2a-0c04-c52f41da8c19/271240fe-3333-41c2-b321-57b8bbb83308_5.5-en-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/8e/4a/eb8e4a64-f6b0-1ce6-8bac-7b08f562d880/15da4778-915c-4041-933f-1684dc7532aa_5.5-en-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/99/11/64991111-171d-24b6-9ed4-7fcb1a6718bf/5ff46c6f-2189-49a7-84f7-a6087d1450c0_5.5-en-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/b7/cf/1ab7cf91-cd4a-a9a3-0c3b-2e83c9f4b25c/88ee21c9-d1ca-4cfd-9959-1c2d74da9784_12.9-en-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/0c/39/c60c39f5-a4d6-26d8-8a79-e58c073b602b/22e4b76f-83c2-4281-a563-5c7480a980c2_12.9-en-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ba/5a/f5ba5a8e-0154-e9d5-0751-e2b58007543b/a10255ef-dbc4-4462-9a72-ec95b4d250b3_12.9-en-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/08/35/020835a4-dc50-8089-6fb3-1ae92751b615/700da85e-08a1-4dab-8a11-f999846066d2_12.9-en-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/00/05/86000549-97ea-1e0f-fea3-e34de85648c9/97b9b07d-4ecb-4fcc-8226-648cca0061b9_12.9-en-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/b3/d5/09b3d5da-c111-e2e9-89f0-b78c57d8f4a7/7402b5bf-7ffc-4535-85de-f758faa432fd_12.9-en-statistic.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
