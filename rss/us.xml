@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-26T10:24:18.120Z</updated>
+    <updated>2025-10-26T11:19:18.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-26T10:24:18.121Z</updated>
+        <updated>2025-10-26T11:19:18.153Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,15 +29,19 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[VidHub -Video Library & Player]]></title>
-        <id>VidHub -Video Library &amp; Player-1761474073238</id>
+        <id>VidHub -Video Library &amp; Player-1761477386479</id>
         <link href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4"/>
-        <updated>2025-10-26T10:21:13.238Z</updated>
-        <summary type="html"><![CDATA[Lifetime VIP(Apple TV only): $29.99 → $14.99]]></summary>
+        <updated>2025-10-26T11:16:26.479Z</updated>
+        <summary type="html"><![CDATA[Lifetime VIP(iPhone&iPad only): $29.99 → $14.99<br/>Lifetime VIP(Mac Only): $29.99 → $14.99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/93/d5/9b93d593-490e-74da-bb60-1a04523aa3ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
-    <strong>Lifetime VIP(Apple TV only)：</strong><span>$29.99</span> → <b>
+    <strong>Lifetime VIP(iPhone&iPad only)：</strong><span>$29.99</span> → <b>
+  <strong>$14.99</strong>
+</b>
+  </li><li>
+    <strong>Lifetime VIP(Mac Only)：</strong><span>$29.99</span> → <b>
   <strong>$14.99</strong>
 </b>
   </li>
