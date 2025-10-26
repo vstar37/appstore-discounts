@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-10-25T01:46:19.032Z</updated>
+    <updated>2025-10-26T04:29:05.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,75 +21,52 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-25T01:46:19.033Z</updated>
+        <updated>2025-10-26T04:29:05.531Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forest 專注森林 - 讀書專注番茄鐘]]></title>
-        <id>Forest 專注森林 - 讀書專注番茄鐘-1761356605717</id>
-        <link href="https://apps.apple.com/mo/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4"/>
-        <updated>2025-10-25T01:43:25.717Z</updated>
-        <summary type="html"><![CDATA[年訂閱（早鳥）: USD 249.00 → USD 25.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/forest-%E5%B0%88%E6%B3%A8%E6%A3%AE%E6%9E%97-%E8%AE%80%E6%9B%B8%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id866450515?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/eb/90/6ceb905e-44f2-3b27-edf1-4ecc26a1ddb9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防生存戰爭]]></title>
+        <id>Kingdom Rush Frontiers 塔防生存戰爭-1761452742011</id>
+        <link href="https://apps.apple.com/mo/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4"/>
+        <updated>2025-10-26T04:25:42.011Z</updated>
+        <summary type="html"><![CDATA[骷心巫龍: USD 6.99 → USD 4.99<br/>崗牢: USD 2.99 → USD 0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E7%94%9F%E5%AD%98%E6%88%B0%E7%88%AD/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>年訂閱（早鳥）：</strong><span>USD 249.00</span> → <b>
-  <strong>USD 25.00</strong>
+    <strong>骷心巫龍：</strong><span>USD 6.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b>
+  </li><li>
+    <strong>崗牢：</strong><span>USD 2.99</span> → <b>
+  <strong>USD 0.99</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  ## 136 國家中排名第一名的生產力工具 app；超過兩百萬付費用戶的專注神器
-## 我們的用戶在世界各地種下超過 1,500,000 棵真樹
-## 簡單有趣的方式幫助您保持專注，培養高效率的生活習慣
-    
-紐約時報：「如果你想要放下手機、專注當下，真誠地和你的家人朋友們渡過相聚的時光，Forest 是你的最佳選擇。」
-    
-數位時代：「好的習慣必須要一段時間養成，要改善低頭族、不時會滑手機的症狀也不是一天兩天，記得多多使用這款App來幫助你改掉壞習慣，重新找回專注的自己。」
-    
-不論你是在圖書館讀書或是在辦公室上班，每當你希望有一段專心工作或學習的時間，你可以在 Forest 中種下一顆種子。在接下來的時間內，這顆種子將會慢慢地成長為一棵大樹。若是你禁不起誘惑，在這段時間內離開這個 app，你充滿生機、可愛的小樹將會枯萎而死。每一天，你都會有一片森林種滿了你今天所有茁壯的大樹，每一棵樹都代表了你曾經努力的時光。伴隨著畫面中生長的小樹，成就感以及責任感將會幫助你暫時離開手機，全心投入到手邊的工作，建立高效率與專注的生活習慣。 #治療拖延症 #提升時間效率 #遇見心流 #戒除手機成癮
-    
-保持專注，拒當低頭族！
-    
-保持專注：
-• 基於番茄工作法（番茄鐘）把時間抓回自己手中
-• 種植漂亮的小樹，並專注於生活中更重要的事情上
-• 因應不同專注情境，自訂你的應用程式允許名單，種樹時名單外的 App 將會被屏蔽（iOS 16 以上）
-• 用你專注的時光，一點一滴茁壯你的森林
-    
-滿滿的成就感：
-• 和朋友們分享你的成果並與全世界的使用者一同競賽
-• 用專注的時光累積 Forest 金幣，解鎖超過 90 種精心設計的大樹、灌木及背景白噪音
-• 與家人、好友一起，開始一局種樹挑戰
-• 達成成就獲得額外獎勵
-• 在保持專心的同時，與 Trees for the Future 一起為世界種下真正的樹苗
-    
-歷史回顧：
-• 自定義任務標籤，讓你花在各個任務的時間分配一目瞭然，幫助助你自主時間管理
-• 回顧你一週、一個月甚至一整年累積的大森林
-• 可追蹤你每日的手機使用時數與頻率
-• 以時間軸的形式回顧你在 Forest 經歷的專注旅程
-• 將你的專心時間記錄在蘋果健康 App
-    
-現在就放下手機，種出專屬自己的專注森林！
-    
-注意事項：
-• Forest 是一個 iPhone, iPad, Apple Watch 通用的應用程式，買一次即可在不同 iOS 設備上使用。於 iPhone, iPad 能使用上述提及的完整功能，於 Apple Watch 可提供查看今日專注紀錄以及顯示即時專注狀態。若要下載/解鎖其他非 iOS 平台的版本需要另外購買，不過只要登入同一個 Forest 帳號，你的帳號資料便可以在不同平台的設備間同步。
-• 由於 iOS 系統限制，允許名單功能需要 iOS/iPadOS 16 以上才能使用。iOS/iPadOS 15 以下的裝置無法使用允許名單，在種樹時離開 Forest 會導致小樹枯萎。
- • 種植真樹功能因為預算限制，每個帳號最多只能兌換五棵真樹。除此之外，我們時常會有一些限時活動可以種植更多的真樹，請記得關注我們的社交平台訊息，或是 app 內部通知。
- • Forest 在 App Store 上僅有此唯一版本，其他雷同或是刻意假冒 Forest 的軟體皆不是本團隊開發的產品，感謝您對於原創者的支持！
-    
-你可以在這些社群平台找到我們：：
-在 Facebook 給我們個讚: https://www.facebook.com/forestapp.cc/
-在 Twitter 跟隨我們: https://twitter.com/forestapp_cc
-在 Instagram 追蹤我們: https://www.instagram.com/forest_app/
-    
-我們還有提供瀏覽器的擴充套件，立即前往 www.forestapp.cc 查看吧！
-    
-- 音效設計 : Shi Kuang Lee
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/db/c7/8bdbc7ed-c41b-bbbd-c8d2-4bcef2a92969/f2b6bbcf-7885-419f-9666-3d88480e592d_iPhone5.5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/b9/25/71b92545-9fee-54ff-afdb-e67f07761c0b/9eca0da0-7790-42f7-a4e1-fb33d06033bf_iPhone5.5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/ee/a7/3eeea703-1e5d-fb4c-093a-008c52c9707a/75719620-5726-48d1-94ed-6e641f74a204_iPhone5.5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/fb/cf/4bfbcfb3-3bf4-292f-c87a-85a0307dd328/0e369b47-1d89-4a0f-af69-45dfffe064cf_iPhone5.5_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/ea/ef/43eaef51-beca-643e-05ce-186b51fc600b/e089caff-340e-46a0-88a3-f832ebd7e97b_iPhone5.5_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/1a/15/0e1a15b1-1c04-a884-f60d-1ef29d2e168b/9a001b53-53db-4bb6-b127-93e52595231e_iPhone5.5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/a6/f9/26a6f924-875c-fad6-2b5b-b43184d833c4/54328093-1c36-47c1-b0fc-a365d488bb36_iPhone5.5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/ed/81/e2ed81c6-08b5-a927-fde6-fad73839a9fc/68646ed4-9168-4f06-92d7-8d954f92b51d_iPhone5.5_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/2a/a7/972aa718-5cb2-96dd-2df5-9a9ec55e5158/2e6406f0-690a-46c7-8ecf-2faa3e2b61be_iPad_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/49/9e/ac499e0f-199d-500f-98b5-caec75b92836/5c0d3935-5617-4d7a-895b-5ffad32aa2da_iPad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ac/cb/ceaccb8e-f186-7a4c-7561-00b511ceae8c/f8abf6cb-2f12-4018-9439-65286f821bf8_iPad_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/46/b0/f046b04e-0926-8536-a590-477ebb96621d/1e8e02ce-ac1d-49cf-8134-c856d98d455f_iPad_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/e1/63/fde1632c-2bc5-a16a-8f64-e0a8f6cf6774/1ecac2fc-2a35-4a36-900f-58195c8fc41f_iPad_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/4d/17/f64d17e1-2f68-d5c7-d1bc-da82d14efecb/d0848a44-4d03-48d7-9a00-0cbad526438e_iPad_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/05/8d/fd058dcb-22ca-0b13-c2e6-480ef9823885/48a793db-8b0c-41f5-a50e-e41c08f46c92_iPad_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/75/db/4d75db3d-8d57-60a7-1e14-872f03e1447c/9463ad4f-973f-4bfa-89b9-34eb48ec9c9b_iPad_8.png/576x768bb.png" />]]></content>
+  全球最讓人欲罷不能的防禦遊戲歸來——歡迎來到《王國保衛戰：前線！》
+
+空前盛大激烈的王國保衛戰：「前線」是全新的關卡，帶來迅猛刺激、扣人心弦的玩法，讓這款原創遊戲成為廣受歡迎的獲獎佳作。在這場史詩級的冒險（災難）中，可點擊你的部隊，配合最新的防禦塔、關卡、英雄和更多好東東，守衛異國大陸，抵禦飛龍、食人植物和地下世界恐怖族群的侵擾，把敵人統統殲滅。（別擔心，前作舊版的好東東，全都有保留。現在是經典復刻版。） 
+
+《王國保衛戰：前線》內容豐富，像是全新升級的火炮讓你垂涎，像素畫面帶給你娛樂好享受！
+
+遊戲特點 
+
+· 鞏固異國大陸的前線——堅守沙漠、叢林還有地下世界的陣地 
+· 8種特別防禦塔升級！用弩弓堡壘、聖殿騎士、死靈法師，還有地震機把敵人切開、燒焦并踩碎 - 嘿，這次真的很不一樣哦 
+· 超過18種防禦塔技能！釋放死亡騎士、瘟疫雲或刺客，去竊取敵人寶藏，暗殺敵人！
+· 超過40種具有特殊技能的敵人！隨時待命，對抗沙漠塵暴、部落薩滿、遊牧部落和地下恐怖生物 · 16位傳奇英雄。選擇你的戰士，訓練他們的技能！
+· 每一關都有特別的部隊和特色！當心黑龍！
+· 殘酷的頭目戰鬥！嘿！早就告訴你要升級啦…
+· 超過70個成就，需要數小時去完成！
+· 經典、鋼鐵和英雄模式挑戰你的戰術技能！
+· 3種難度模式！準備好迎接真正的挑戰了嗎？開啟困難模式吧！悅耳的配樂、雄渾的配音，還有精緻美術，都能讓你沉浸！（还有卡通血液，效果逼真。）
+· 遊戲内有百科全書！真正的勇士知己知彼…還對自己的防禦塔了如指掌。
+學起來！
+
+《王國保衛戰》廣受好評：IGN編輯推薦、Slide To Play必玩遊戲、148Apps編輯推薦、Jay is Games年度遊戲獎、Pocket Gamer金獎、Touch Arcade評分4.5/5、CNET最佳iPad遊戲"
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/98/7a/86/987a86d2-fdb1-93d6-ba72-e32a563ec0fa/ab71f5a8-b824-46e2-9c67-e442db053624_screenshots_2208x12420016.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ff/49/dd/ff49ddf9-00c2-fe09-6b29-6e4ead585b5a/1c6165ce-f40b-41d0-8c57-c38b7f0080dc_screenshots_2208x12420017.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d5/1a/63/d51a63ea-b85f-01e0-3e8f-0c1a04ba2c00/55a5e131-875d-487f-b5d4-6a440c301c2c_screenshots_2208x12420018.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/86/24/c6/8624c6d9-e06a-3f13-1a90-9b42e359d98e/89bba438-5cbd-490f-a8bd-b230e3356943_screenshots_2208x12420019.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/28/f5/34/28f53413-955e-ae5b-bf70-bd22588e1d5d/c94c30c3-70f6-48eb-ac13-8d076a524ec9_screenshots_2208x12420020.jpg/406x228bb.jpg" />]]></content>
     </entry>
 </feed>
