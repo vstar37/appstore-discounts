@@ -39450,6 +39450,14 @@
     "history": [
       [
         {
+          "timestamp": 1761510208507,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759846991348,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
