@@ -6108,6 +6108,14 @@
     "history": [
       [
         {
+          "timestamp": 1761488323128,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761229412727,
           "price": 0,
           "formattedPrice": "免費",
@@ -17494,6 +17502,17 @@
     "history": [
       [
         {
+          "timestamp": 1761488323128,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Essentials": "HK$ 38.00",
+            "Controller Essentials Lifetime": "HK$ 788.00",
+            "Essentials Lifetime - Plus Addon": "HK$ 38.00",
+            "Controller Plus": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1761485151902,
           "price": 0,
           "formattedPrice": "免費",
@@ -28636,6 +28655,19 @@
       "Return to Castlevania": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761488323128,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "The Bad Seed": "HK$ 32.00",
+            "Fatal Falls": "HK$ 32.00",
+            "The Queen and the Sea": "HK$ 32.00",
+            "Return to Castlevania": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760942076249,
@@ -42928,6 +42960,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761488323128,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755872499175,
