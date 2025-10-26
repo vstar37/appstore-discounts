@@ -17494,6 +17494,19 @@
     "history": [
       [
         {
+          "timestamp": 1761485151902,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Essentials Lifetime - Plus Addon": "HK$ 38.00",
+            "Controller Plus": "HK$ 68.00",
+            "Controller Essentials": "HK$ 288.00",
+            "Controller Essentials Lifetime": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761236935979,
           "price": 0,
           "formattedPrice": "免費",
