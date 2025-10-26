@@ -3482,6 +3482,14 @@
     "history": [
       [
         {
+          "timestamp": 1761520787995,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761261560473,
           "price": 0,
           "formattedPrice": "Free",
@@ -16601,6 +16609,19 @@
     "history": [
       [
         {
+          "timestamp": 1761520787995,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "The Bad Seed": "₺179,99",
+            "Fatal Falls": "₺179,99",
+            "QUEEN AND THE SEA  DLC": "₺179,99",
+            "Return to Castlevania": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748388030516,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -26377,6 +26398,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761520787995,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755904818807,
