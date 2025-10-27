@@ -14476,7 +14476,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Premium": "HK$ 273.00"
+      "Premium": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14484,6 +14484,16 @@
       "Premium": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761575023222,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "HK$ 388.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760942076249,
@@ -38528,6 +38538,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761575023222,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758291628604,
