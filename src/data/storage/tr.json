@@ -13010,7 +13010,8 @@
       "LegendaryVoyage,MysticTreasure": "₺179,99",
       "MEDIUM⁵ Echoes(30%off)": "₺129,99",
       "MEDIUM⁵ Echoes": "₺179,99",
-      "Give Up TREATMENT Vol.8": "₺179,99"
+      "Give Up TREATMENT Vol.8": "₺179,99",
+      "48 Hours After Discharge": "₺179,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -13082,9 +13083,29 @@
       "LegendaryVoyage,MysticTreasure": "₺129,99",
       "MEDIUM⁵ Echoes(30%off)": "₺129,99",
       "MEDIUM⁵ Echoes": "₺179,99",
-      "Give Up TREATMENT Vol.8": "₺179,99"
+      "Give Up TREATMENT Vol.8": "₺179,99",
+      "48 Hours After Discharge": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761603620799,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "48 Hours After Discharge": "₺179,99",
+            "MEDIUM⁵ Echoes(30%off)": "₺129,99",
+            "MEDIUM⁵ Echoes": "₺179,99",
+            "Big Eater Challenge Pass": "₺129,99",
+            "Legendary Voyage(30%off)": "₺129,99",
+            "LegendaryVoyage,MysticTreasure": "₺179,99",
+            "MSR Anthology_Vol.01（50%off）": "₺129,99",
+            "MUSE RADIO FM106(30%off)": "₺99,99",
+            "MUSE RADIO FM106": "₺129,99",
+            "Aim to Be a Rhythm Master!(30%": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761204141438,
@@ -17600,6 +17621,23 @@
       "Monthly Project Budget (Green)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761603620799,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00",
+            "AI Pass (Monthly)": "₺379,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761460284816,
