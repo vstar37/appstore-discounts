@@ -26480,6 +26480,16 @@
     "history": [
       [
         {
+          "timestamp": 1761578660645,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761319439206,
           "price": 0.99,
           "formattedPrice": "$0.99",

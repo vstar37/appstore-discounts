@@ -16765,6 +16765,16 @@
     "history": [
       [
         {
+          "timestamp": 1761578660645,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761319439206,
           "price": 4.99,
           "formattedPrice": "₺4,99",

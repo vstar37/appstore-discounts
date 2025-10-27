@@ -25743,6 +25743,16 @@
     "history": [
       [
         {
+          "timestamp": 1761578660645,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761319439206,
           "price": 30,
           "formattedPrice": "$30.00",
