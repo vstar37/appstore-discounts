@@ -6370,6 +6370,14 @@
     "history": [
       [
         {
+          "timestamp": 1761535394184,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761274935167,
           "price": 0,
           "formattedPrice": "Free",
@@ -26308,6 +26316,19 @@
     "history": [
       [
         {
+          "timestamp": 1761535394184,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748402117992,
           "price": 8.99,
           "formattedPrice": "$8.99",
@@ -41066,6 +41087,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761535394184,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755918267487,
