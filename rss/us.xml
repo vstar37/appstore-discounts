@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-27T05:27:16.419Z</updated>
+    <updated>2025-10-27T08:34:21.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,52 +21,85 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-27T05:27:16.420Z</updated>
+        <updated>2025-10-27T08:34:21.018Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch: Battery Monitor]]></title>
-        <id>Juice Watch: Battery Monitor-1761542634922</id>
-        <link href="https://apps.apple.com/us/app/juice-watch-battery-monitor/id1485101937?uo=4"/>
-        <updated>2025-10-27T05:23:54.922Z</updated>
-        <summary type="html"><![CDATA[Value for Value: $24.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juice-watch-battery-monitor/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/96/5a/cd965a62-df28-9e0a-1be3-ae406f50e79a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Value for Value：</strong><span>$24.99</span> → <b>
-  <strong>$0.99</strong>
-</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+        <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
+        <id>Be Focused Pro - Focus Timer-1761553892728</id>
+        <link href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4"/>
+        <updated>2025-10-27T08:31:32.728Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$7.99</strong>
+</b>）
+</h2><h2>Application Description</h2><p>
+  Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and track your progress throughout the day, week or custom period. Use Be Focused on your iPhone, iPad, or Mac — everything stays perfectly in sync.
 
-Juice Watch is a simple app designed to do two things well:
+Task Management
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+•	Create and manage tasks
+•	Add notes and due dates to tasks
+•	Organize tasks with tags and filters
+•	Paste task lists from other apps
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+Timer Control
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+•	Start, pause, or skip intervals
+•	Auto-start the next interval (optionally)
+•	Plan intervals needed for task completion and track accuracy
+•	Manage completed intervals
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+Timer Customization
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+•	Set durations for work sessions, short and long breaks
+•	Define number of intervals before a long break
+•	Set a daily goal for completed intervals 
+•	Assign different timer settings to individual tasks
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+Reports
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+•	View detailed reports to monitor your progress
+•	Export your data in CSV format
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+Sounds and Notifications
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+•	Chronometer ticking sound with adjustable frequency
+•	Variety of alarm sounds
+•	Interactive notifications
+•	Adjustable volume for alarms and chronometer
 
-Note: The Juice Watch complication must be installed on your active watch face for the app to work as expected.
+Integration
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+•	Sync across all your devices (iPhone, iPad, Mac) *
+•	Integration with Focus Matrix to manage tasks using urgent/important principle **
+•	Integration with Shortcuts app to automate workflow
+
+Quick Access
+
+•	Widgets for Lock Screen and Home Screen
+•	Live activities for Lock Screen and Dynamic Island
+•	Control to start or stop the timer from the Lock Screen, Controls Center, or Action Button
+
+Automation
+
+•	Integration with Shortcuts app (control tasks and timers via Shortcuts app)
+•	Automate Shortcuts execution on events in Be Focused app
+
+Device Support
+
+•	Apple Watch support
+•	Also available for Mac
+•	Dark and Light mode support
+
+* Sync with Mac requires Be Focused Pro for macOS, sold separately.
+** Integration with Focus Matrix requires the Pro version of Focus Matrix, sold separately.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/82/4d/20824d7d-c5d0-a566-2d98-b902acf5d294/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/37/2b/e8372bbc-f76a-dea2-8a0e-31de2d6d876f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/1c/7b/281c7b07-ee07-5935-34e4-8df4e5837b87/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/78/bf/ad78bfab-e77f-f3f9-5d47-27d9cbe9286b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/5d/65/575d65dc-00bc-9560-7bd9-b0342086c9c2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/21/20/bc2120f7-69ce-9d73-bb9d-c146ee30bd1e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/d6/22/4cd62246-cfb7-a199-9104-ee4c26e4e305/9cabfa62-9a99-45ca-87e0-fa2615013278_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/31/88/7d3188e8-5486-9f20-1f21-23c92f07b21c/efbc24b1-b12f-42e8-a1fb-f985ed0c7199_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/78/4d/7a784d0e-470b-c69b-060f-35de586f19ec/e9d26e1e-fc76-4205-934c-68bc0a3f34ac_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/d1/ec/f0d1ecd8-26fb-af21-cc6f-da018bc2fe37/23f7f239-0c56-457b-ab5e-708dc85b3df4_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/30/89/a23089ea-5ac2-ae96-77b7-5f9beccfdbb7/8899c3f3-bc66-4c66-832d-a3454224ac48_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/13/2b/c5/132bc5eb-1d98-e735-a34d-60fa03c74e36/8d4fd987-3e8c-4145-aaca-ce7591d18b2b_6.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
