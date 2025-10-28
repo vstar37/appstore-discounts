@@ -14850,6 +14850,20 @@
     "history": [
       [
         {
+          "timestamp": 1761650314994,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "Annual Special SVIP": "$12.99"
+          }
+        },
+        {
           "timestamp": 1761647153075,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -17983,6 +17997,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761650314994,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
         {
           "timestamp": 1761647153075,
           "price": 2.99,
