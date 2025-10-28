@@ -14850,6 +14850,23 @@
     "history": [
       [
         {
+          "timestamp": 1761647153075,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew quarterly": "$3.99",
+            "90 Days SVIP": "$2.99",
+            "Annual Special SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99",
+            "100 Days SVIP": "$2.99",
+            "Quarterly SVIP": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760915961181,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -17965,6 +17982,25 @@
       "Geometric Frame Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761647153075,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "$0.99",
+            "Social Frame Package": "$0.99",
+            "Magazine Frame Package": "$0.99",
+            "Black Frame Pack": "$0.99",
+            "Geometric Frame Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Retro Frame Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Upgrade Deluxe Edition": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761477386479,

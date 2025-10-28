@@ -26676,7 +26676,8 @@
       "心儀地點封面": "$30.00",
       "Goodnotes 6 One-Time Payment": "$1,150.00",
       "特別版": "$1,150.00",
-      "Monthly Project Budget (Green)": "$10.00"
+      "Monthly Project Budget (Green)": "$10.00",
+      "Essential (Yearly)": "$390.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26878,9 +26879,27 @@
       "心儀地點封面": "$30.00",
       "Goodnotes 6 One-Time Payment": "$925.00",
       "特別版": "$925.00",
-      "Monthly Project Budget (Green)": "$10.00"
+      "Monthly Project Budget (Green)": "$10.00",
+      "Essential (Yearly)": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761647153075,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$390.00",
+            "特別版": "$925.00",
+            "Goodnotes 6 免費試用": "$0.00",
+            "虛線方格：草稿紙張": "$30.00",
+            "多功能计划本-用于学习、工作和生活（粉棕色主题-中文含贴纸）": "$0.00",
+            "好心智雜誌": "$0.00",
+            "秋貓貼紙組": "$0.00",
+            "心儀地點封面": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761452742011,
