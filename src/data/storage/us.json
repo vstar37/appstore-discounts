@@ -14633,7 +14633,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Premium": "$34.99"
+      "Premium": "$49.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14641,6 +14641,16 @@
       "Premium": "$34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761620981251,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760942076249,
@@ -36625,6 +36635,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761620981251,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758339005239,
