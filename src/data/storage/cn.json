@@ -4564,6 +4564,21 @@
     "history": [
       [
         {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "Cloud Backup Yearly": "¥58.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -21946,6 +21961,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥98.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "完整版解锁": "¥12.00"
+          }
+        },
         {
           "timestamp": 1761744946827,
           "price": 0,

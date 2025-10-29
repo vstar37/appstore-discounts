@@ -3516,6 +3516,21 @@
     "history": [
       [
         {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760942076249,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -15370,6 +15385,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "HK$ 588.00",
+            "Parallels Desktop for Mac #4": "HK$ 588.00",
+            "訂閱 (1 年)": "HK$ 588.00",
+            "Parallels Desktop for Mac #2": "HK$ 588.00",
+            "Parallels Desktop for Mac #5": "HK$ 588.00",
+            "Parallels Desktop for Mac #3": "HK$ 588.00"
+          }
+        },
         {
           "timestamp": 1761744946827,
           "price": 0,
@@ -46034,6 +46062,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 143.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 108.00",
+            "武器專屬強化券 x5 (A)": "HK$ 51.00",
+            "武器專屬強化券 x3 (A)": "HK$ 37.00",
+            "武器專屬強化券 x1 (A)": "HK$ 16.00",
+            "金色公事包": "HK$ 7.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "綠色藥草吊飾": "HK$ 7.00",
+            "經典公事包": "HK$ 7.00"
+          }
+        },
         {
           "timestamp": 1761744946827,
           "price": 0,

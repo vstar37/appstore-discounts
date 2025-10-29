@@ -29650,6 +29650,23 @@
     "history": [
       [
         {
+          "timestamp": 1761747842137,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺869,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺579,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺194,99",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺264,99",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺78,99",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        },
+        {
           "timestamp": 1761744946827,
           "price": 0,
           "formattedPrice": "Free",
