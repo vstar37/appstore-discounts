@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-28T04:30:04.288Z</updated>
+    <updated>2025-10-29T04:32:17.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-28T04:30:04.289Z</updated>
+        <updated>2025-10-29T04:32:17.727Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,12 +29,12 @@ feedId:99063474310237184+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
-        <id>Goodnotes: AI Notes, Docs, PDF-1761625605700</id>
+        <id>Goodnotes: AI Notes, Docs, PDF-1761712169957</id>
         <link href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
-        <updated>2025-10-28T04:26:45.700Z</updated>
+        <updated>2025-10-29T04:29:29.957Z</updated>
         <summary type="html"><![CDATA[Special Edition: ₺1.369,99 → ₺1.099,99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/bf/07/5dbf0719-5e2b-7843-80f0-772f83d44919/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/84/7c/70847cb4-84f1-49c7-2e57-5f879db9de76/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
   <li>
     <strong>Special Edition：</strong><span>₺1.369,99</span> → <b>
