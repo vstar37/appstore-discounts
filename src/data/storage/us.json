@@ -27544,6 +27544,19 @@
     "history": [
       [
         {
+          "timestamp": 1761780059237,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "$11.99",
+            "Special Edition": "$35.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Marketplace Content": "$6.99",
+            "Goodnotes Pro (Yearly)": "$35.99"
+          }
+        },
+        {
           "timestamp": 1761776495382,
           "price": 0,
           "formattedPrice": "Free",
@@ -38724,6 +38737,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761780059237,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        },
         {
           "timestamp": 1761776495382,
           "price": 19.99,
