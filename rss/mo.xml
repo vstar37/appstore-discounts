@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-10-27T17:23:04.154Z</updated>
+    <updated>2025-10-29T03:21:18.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,50 +21,110 @@ feedId:73536165737884672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-27T17:23:04.154Z</updated>
+        <updated>2025-10-29T03:21:18.907Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch: Battery Monitor]]></title>
-        <id>Juice Watch: Battery Monitor-1761585584291</id>
-        <link href="https://apps.apple.com/mo/app/juice-watch-battery-monitor/id1485101937?uo=4"/>
-        <updated>2025-10-27T17:19:44.291Z</updated>
-        <summary type="html"><![CDATA[价格: USD 6.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/juice-watch-battery-monitor/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/96/5a/cd965a62-df28-9e0a-1be3-ae406f50e79a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
+        <id>FyTube -沒有廣告的 YouTube-1761707887060</id>
+        <link href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4"/>
+        <updated>2025-10-29T03:18:07.060Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/fytube-%E6%B2%92%E6%9C%89%E5%BB%A3%E5%91%8A%E7%9A%84-youtube/id1610668825?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/80/08/3b800886-6889-b43f-6ab8-cad413403fc5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>USD 6.99</span> → <b>
+  优惠信息（价格：<span>USD 4.99</span> → <b>
   <strong>免費</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
+  我們的應用程式可即時連接 YouTube，讓您自由播放任何影片。  
+以前所未有的方式享受 YouTube！  
+無廣告、無訂閱，還有專為您設計的獨家功能。
 
-Juice Watch is a simple app designed to do two things well:
+- 特殊功能  
+• 浮動播放（PIP）：觀看影片的同時可使用其他應用程式。  
+• 鎖屏模式：在螢幕關閉時繼續播放音訊。  
+• 睡眠定時器：設定自動關閉時間，安心入睡無憂。  
+• 循環播放模式：讓您最喜愛的影片無限重播。  
+• 歷史記錄：重新觀看已看過的影片，向左滑動即可刪除。  
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+FyTube 是不想錯過任何喜愛主題影片的完美選擇。  
+探索、播放並盡情享受您最愛的內容——不中斷、無干擾！
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+- 浮動播放  
+1. 進入全螢幕模式並點擊 PIP 按鈕（左上角第二個圖示）。  
+2. 影片會縮小成為 FyTube 內的浮動視窗。  
+3. 從底部上滑退出 FyTube 應用程式，影片仍會保持可見。  
+4. 浮動模式啟動！您可以使用任何應用程式，影片將繼續懸浮播放在螢幕上方。
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+- 鎖屏播放  
+1. 啟用浮動模式。  
+2. 當影片懸浮在其他應用上時，鎖定螢幕。  
+3. 完成！音訊會在背景中繼續播放。  
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+非常適合在駕駛或放鬆時收聽音樂、播客或您喜愛的節目。
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+- 睡眠定時器  
+安心入睡——應用程式會自動停止播放！  
+啟用此功能後，影片會在您設定的時間後自動停止播放。  
+非常適合睡覺或小憩時使用。  
+如何啟用？  
+點擊定時器按鈕，選擇播放時長，就完成了。  
+放鬆心情，讓應用程式為您處理一切！
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+- 循環播放模式  
+讓影片不間斷播放。  
+啟用此功能後，影片會無限循環播放。再次點擊按鈕即可關閉。  
+非常適合重複播放的歌曲、冥想或您喜愛的內容！
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+- 歷史記錄（新功能）  
+重新觀看您看過的影片。  
+點擊搜尋頁面左上角的「歷史記錄」圖示進入。  
+您可以按標題或日期搜尋，並向左滑動刪除任何影片。
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+-- 基本功能  
+• 全螢幕高畫質影片播放  
+• 簡潔易用的介面設計  
+• 隨時快轉或倒退——不錯過任何精彩片段  
+• 啟用字幕  
+• 調整播放速度  
+• 更改影片畫質  
+• 即時智慧搜尋與上傳日期篩選（按天、週、月、年、全部）  
+• 每部影片皆附帶相關影片推薦  
+• 探索最新影片，掌握最新資訊  
+• 直接連接 YouTube，可搜尋任意影片  
+• 支援 AirPlay 裝置播放  
+• 相容 VoiceOver（增強語音描述）  
+• 無需帳號登入  
+• 我們不會在未經允許的情況下儲存快取、Cookies 或個人資料——安全觀看  
+• 介面支援 29 種語言  
+• ……以及更多功能！
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+無廣告。無訂閱。  
+一次性購買 FyTube，體驗全新的串流播放享受——無中斷、功能強大！
 
-Note: The Juice Watch complication must be installed on your active watch face for the app to work as expected.
+最低系統需求：  
+• iOS 13 或更高版本  
+• 3G 或更快的網路連線  
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+隱私權政策：  
+https://fydub.com/privacy-policy_fytube  
+
+服務條款：  
+https://fydub.com/terms-of-service_fytube  
+
+- 應用相關關鍵字：  
+youtube, youtube music, youtube vanced, ad blocker for YouTube, 無廣告, 無訂閱, 跳過廣告, 音樂無廣告, ad-free, YouTube 應用程式, adblock, 屏蔽廣告, 內容攔截, 去廣告, 無廣告瀏覽, 跳廣告, 無廣告音樂, 無廣告影片 等等。  
+
+有問題嗎？  
+請造訪 fydub.com/fytube 或寄信至 fytube@fydub.com ——我們將樂意提供協助。  
+
+FyTube 與 YouTube 一同運作。  
+YouTube 名稱與標誌為 Google 公司註冊商標。保留所有權利。  
+© FyTube®
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/e2/f3/b9e2f302-23ae-179a-8242-201991a7ff5c/c1983b44-0d79-4ee3-a8e0-b75ecca7580f_imagen1-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/b2/b7/e0b2b752-2cb9-6375-446b-bfd87089923d/bd0e6f4d-bf1c-46e3-89a7-a3d92ade6c84_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/70/f7/7e70f758-63ac-29c2-68e0-51a8b1cb0622/604d18d7-22f1-4bb0-85ec-3c53c9e84d20_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/4b/77/694b77f9-023b-619d-6f9d-7ae6a06dacc0/5a4eb7ab-8789-4b6b-b295-24e00df14fc1_imagen2-ok2.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
