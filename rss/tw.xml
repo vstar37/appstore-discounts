@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-10-27T17:23:04.154Z</updated>
+    <updated>2025-10-29T06:38:17.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,50 +21,85 @@ feedId:73536236398899200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-27T17:23:04.155Z</updated>
+        <updated>2025-10-29T06:38:17.803Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Juice Watch: Battery Monitor]]></title>
-        <id>Juice Watch: Battery Monitor-1761585584291</id>
-        <link href="https://apps.apple.com/tw/app/juice-watch-battery-monitor/id1485101937?uo=4"/>
-        <updated>2025-10-27T17:19:44.291Z</updated>
-        <summary type="html"><![CDATA[价格: $220.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/juice-watch-battery-monitor/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/96/5a/cd965a62-df28-9e0a-1be3-ae406f50e79a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$220.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  Monitor your iPhone battery level from your wrist.
+        <title type="html"><![CDATA[Resident Evil 4]]></title>
+        <id>Resident Evil 4-1761719725606</id>
+        <link href="https://apps.apple.com/tw/app/resident-evil-4/id6462360082?uo=4"/>
+        <updated>2025-10-29T06:35:25.606Z</updated>
+        <summary type="html"><![CDATA[遊戲本體: $1,700.00 → $570.00<br/>武器專屬強化券 x3 (A): $199.00 → $150.00<br/>武器專屬強化券 x1 (A): $85.00 → $65.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/resident-evil-4/id6462360082?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/02/1a/bb021a23-70e7-e3e4-9405-fa76426bd453/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>遊戲本體：</strong><span>$1,700.00</span> → <b>
+  <strong>$570.00</strong>
+</b>
+  </li><li>
+    <strong>武器專屬強化券 x3 (A)：</strong><span>$199.00</span> → <b>
+  <strong>$150.00</strong>
+</b>
+  </li><li>
+    <strong>武器專屬強化券 x1 (A)：</strong><span>$85.00</span> → <b>
+  <strong>$65.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  生還僅是惡夢的開端。
 
-Juice Watch is a simple app designed to do two things well:
+前所未見的生物災害「拉昆市事件」已過去六年。
+成為特務的里昂·S·甘迺迪接獲命令，前往營救被綁架的總統千金。
+為此里昂踏進被「瘋狂」支配之地，他的結局會是……
+一場生與死、恐懼與釋懷互相交織的嚴酷營救劇即將揭開帷幕。
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
+透過直觀的操作和最新的畫面，以及再構成的故事重生為全新的生存恐怖體驗。
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+------------------------------------------------------------
+■透過「購買」可取得產品的使用許可。
+■啟動應用程式時需連線至網路。
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+請務必在購買/使用前閱讀 [ EULA ]。
+■About the End User License Agreement
+・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
+・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
+・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+Please confirm the terms above and agree to this Agreement before purchasing the Program. 
+------------------------------------------------------------
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+■您可以免費玩遊戲本體的一部分。
+要玩完整遊戲，請於程式內購買。 
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+■不支持鍵盤和滑鼠。
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
+注意：請參閱 Apple 網站以了解與 iPad 相容的控制器。有些控制器可能無法如預期般運作。
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+■此應用程式大小約為 30GB。
+【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
+我們建議在網路連線良好的環境中下載資料。
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+■根據連線速度估計的下載時間：
+	10Mbps - 超過 6 小時
+	100Mbps - 30 至 40 分鐘
+	300Mbps - 8 至 10 分鐘
 
-Note: The Juice Watch complication must be installed on your active watch face for the app to work as expected.
+■可在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+■購買注意事項
+・購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
+・應用程式內購買項目僅供進行購買的 Apple 帳號使用，且無法與家人共享群組的成員共用。
+
+■有關支援的OS及機種
+https://www.capcom-games.com/apple/zh-hant/
+------------------------------------------------------------
+
+RESIDENT EVIL is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/fe/b2/7bfeb254-9709-2ee6-e700-cfa59502399c/91bdff9d-b97f-4eb8-b875-10b150a6cca8_01_iPhone_2208x1242_SC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6f/52/07/6f52070c-480f-3a5a-392c-56d2b043a60e/e4c24298-cfe6-4688-b198-15ee6cde51b8_02_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/ef/4a/eaef4aa5-5ce5-47b8-6830-bb3aa20f1490/9f124a4b-7826-498f-9c4c-0783926458a2_03_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/30/a7/a9/30a7a974-a3bb-56a5-83fe-fb83be51c9b8/13ffb0de-bc9f-4b16-a13e-6dcf08212ea1_04_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/0f/aa/930faa0f-333c-49da-540d-736c35c5c569/0721138b-010a-40cc-b839-cb37bb0f02fd_05_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/e7/60/e6e76070-5229-8727-5614-997854029056/ae0e28e8-614c-4474-a5e3-e16580caf5bc_06_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/d9/3e/18d93ec6-cd03-2701-d40a-99935459eeaa/9fa119a6-6cf6-46be-864d-adf9a3f7ae8f_07_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/34/d9/e634d927-f33e-ab09-65f6-9b23aa463f84/f568ec5d-7503-48a5-834c-b7c1b1031562_08_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/95/da/31/95da31a4-ccde-7576-ddba-d3d1dee0320c/23cff6f9-caac-4a87-b2c0-e0581dee6705_09_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/36/fd/c2/36fdc2ac-d936-06f6-7a2d-406921365610/031e8fb1-dae8-4e5e-b8cd-1bba12ae8b89_iPhone55_10.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/e5/73/e7e57396-8d89-6fc0-9839-03f6f4fe7356/51dcfc6a-2d2e-406a-91d2-34641e9b6b19_01_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/28/0c/23/280c231a-dc7b-d15b-d2a0-a712e1db76ff/b788954f-84cb-4631-9724-aafb4eb16a4f_02_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/3d/1c/2c3d1c4b-c9b1-1e0c-8653-229e9191e599/df145c7b-e52d-430e-b14c-360465db3026_03_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a1/64/b8/a164b88d-1b47-59b1-13db-8ecee06e4948/9c19f40c-06ce-4866-9917-0e5df3568f77_04_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/f7/50/6af7508b-6342-a702-101d-4ea71579256a/4b661e85-95b5-42b4-ae56-6d359933ab08_05_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/88/42/8c88426a-251d-1f90-5eca-ad5e8550de5f/45c04cc0-b4f5-46cd-8448-a826f972fa80_06_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/c9/fb/c4c9fb32-24c4-13e4-db27-e5f5945d1bb6/6f4be4b2-9740-4eb1-9421-b9593a8da8a4_07_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/89/f9/cd/89f9cd2b-05ce-6ba8-0625-252b9eecff84/197568df-677e-40b7-9c95-79207936a247_08_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3e/33/c9/3e33c94b-14bc-41d2-6c5d-699b3fbe185b/9b0ceee9-51d0-4cd0-8854-bd0decb2d944_09_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/5f/9b/ad5f9b7b-6229-1243-2c60-3d985fa0c28d/1a35660f-3eaa-4102-b3d3-35b1fb69611c_iPad_10.PNG/552x414bb.png" />]]></content>
     </entry>
 </feed>
