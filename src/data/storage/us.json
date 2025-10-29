@@ -27544,6 +27544,24 @@
     "history": [
       [
         {
+          "timestamp": 1761776495382,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Project Budget (Green)": "$0.99",
+            "The Weekly Action Planner (Sun": "$8.99",
+            "2025-2026 Stay Focused ADHD Pl": "$10.99",
+            "1000 Kanji Workbook": "$14.99",
+            "2026 Essential Digital planner": "$10.99",
+            "2026 Daily Scheduler (Sunday,": "$10.99",
+            "2026 Smart Digital Planner (Mo": "$10.99",
+            "ADHD Student Planner 2025-2026": "$10.99",
+            "AI Pass (Monthly)": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761236935979,
           "price": 0,
           "formattedPrice": "Free",
@@ -38705,6 +38723,25 @@
       "French Audio": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761776495382,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761333483538,
