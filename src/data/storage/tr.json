@@ -10795,6 +10795,20 @@
     "history": [
       [
         {
+          "timestamp": 1761816305949,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761064155952,
           "price": 0,
           "formattedPrice": "Free",

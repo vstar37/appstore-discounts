@@ -7073,7 +7073,7 @@
       "Barrel Of Gems": "$4.99",
       "Bag Of Gems": "$2.99",
       "Special Offer Saitam": "$2.99",
-      "Big Hero Pack 2": "$12.99",
+      "Big Hero Pack 2": "$14.99",
       "Saitam": "$4.99",
       "Big Hero Pack": "$9.99",
       "Hero Pack 5": "$4.99",
@@ -7106,9 +7106,27 @@
       "Hero Pack 5": "$4.99",
       "Dierdre": "$0.99",
       "Handfull of gems": "$2.99",
-      "Karkinos": "$2.99"
+      "Karkinos": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761816305949,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Saitam": "$2.99",
+            "Bonehart": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Grawl": "$0.99",
+            "Kahz": "$2.99",
+            "Karkinos": "$0.99",
+            "Big Hero Pack 2": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761794013169,

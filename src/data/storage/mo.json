@@ -8952,6 +8952,23 @@
     "history": [
       [
         {
+          "timestamp": 1761816305949,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年訂閱（早鳥）": "USD 25.00",
+            "森日豪華禮包": "USD 18.99",
+            "森日精選禮包": "USD 12.99",
+            "Elite Package": "USD 9.99",
+            "Supreme Package": "USD 4.99",
+            "Advanced Package": "USD 2.99",
+            "Starter Package": "USD 0.99",
+            "年訂閱": "USD 25.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761361477928,
           "price": 0,
           "formattedPrice": "免費",
@@ -33056,6 +33073,25 @@
       "武器專屬強化券 x3 (B)": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761816305949,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 19.99",
+            "額外內容擴充包": "USD 14.99",
+            "武器專屬強化券 x5 (A)": "USD 7.49",
+            "武器專屬強化券 x3 (A)": "USD 5.29",
+            "武器專屬強化券 x3 (D)": "USD 5.29",
+            "武器專屬強化券 x3 (C)": "USD 5.29",
+            "武器專屬強化券 x1 (F)": "USD 2.29",
+            "武器專屬強化券 x1 (E)": "USD 2.29",
+            "武器專屬強化券 x1 (A)": "USD 2.29",
+            "武器專屬強化券 x1 (C)": "USD 2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761722546369,
