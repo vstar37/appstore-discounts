@@ -20338,6 +20338,25 @@
     "history": [
       [
         {
+          "timestamp": 1761806030137,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "出院後 48 小時": "HK$ 28.00",
+            "五維迴響(30%off)": "HK$ 23.00",
+            "五維迴響": "HK$ 28.00",
+            "火辣辣！大胃王挑戰暢吃卡": "HK$ 23.00",
+            "奇航秘寶（30%off）": "HK$ 23.00",
+            "奇航秘寶": "HK$ 28.00",
+            "MSR Anthology_Vol.01（50%off）": "HK$ 23.00",
+            "暮 色 電 台 ＦＭ１０６（30%off）": "HK$ 15.00",
+            "暮 色 電 台 ＦＭ１０６": "HK$ 23.00",
+            "Aim to Be a Rhythm Master!(30%": "HK$ 23.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761603620799,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
