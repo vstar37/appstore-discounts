@@ -17795,6 +17795,21 @@
     "history": [
       [
         {
+          "timestamp": 1761917528796,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.369,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00",
+            "AI Pass (Monthly)": "₺379,00"
+          }
+        },
+        {
           "timestamp": 1761895280829,
           "price": 0,
           "formattedPrice": "Free",
