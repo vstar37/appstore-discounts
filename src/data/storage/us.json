@@ -7111,6 +7111,22 @@
     "history": [
       [
         {
+          "timestamp": 1761928134676,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Saitam": "$2.99",
+            "Bonehart": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Grawl": "$0.99",
+            "Kahz": "$2.99",
+            "Karkinos": "$0.99",
+            "Big Hero Pack 2": "$14.99"
+          }
+        },
+        {
           "timestamp": 1761895280829,
           "price": 0.99,
           "formattedPrice": "$0.99",
