@@ -37635,6 +37635,14 @@
     "history": [
       [
         {
+          "timestamp": 1761920578539,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Value for Value": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1761917528796,
           "price": 48,
           "formattedPrice": "¥48.00",
@@ -39533,6 +39541,20 @@
       "解锁《一路向海》DLC捆绑包": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761920578539,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥6.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760942076249,
@@ -44637,6 +44659,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761920578539,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身VIP": "¥98.00",
+            "月度VIP": "¥12.00",
+            "年度VIP": "¥68.00",
+            "终身VIP(iPhone & iPad平台)": "¥89.00",
+            "终身VIP(Apple TV 平台)": "¥178.00",
+            "终身VIP(Mac平台)": "¥89.00",
+            "终身": "¥198.00",
+            "每年": "¥68.00",
+            "每月": "¥12.00"
+          }
+        },
         {
           "timestamp": 1761917528796,
           "price": 0,
