@@ -16974,6 +16974,17 @@
     "history": [
       [
         {
+          "timestamp": 1761942320239,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Controller Essentials": "$150.00",
+            "Controller Essentials Lifetime": "$2,990.00",
+            "Essentials Lifetime - Plus Addon": "$150.00",
+            "Controller Plus": "$290.00"
+          }
+        },
+        {
           "timestamp": 1761938237109,
           "price": 0,
           "formattedPrice": "免費",
