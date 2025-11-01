@@ -13236,6 +13236,24 @@
     "history": [
       [
         {
+          "timestamp": 1761971055972,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Touhou Mugakudan -Ⅰ-": "₺179,99",
+            "Novice Rider Pack": "₺39,99",
+            "Endless Pirouette": "₺249,99",
+            "Valentine Stage": "₺179,99",
+            "cyTus": "₺249,99",
+            "Rin·Len's Mirrorland": "₺399,99",
+            "Miku in Museland": "₺249,99",
+            "unlockall_29": "₺1.499,99",
+            "Let's GROOVE": "₺179,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761935569899,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -17828,6 +17846,22 @@
       "Monthly Project Budget (Green)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761971055972,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Essential (Yearly)": "₺449,00",
+            "Special Edition": "₺1.099,99",
+            "Goodnotes 6 Free Trial": "₺0,00",
+            "Pro (Yearly)": "₺1.369,99",
+            "Dotted Squares: Draft Papers": "₺39,99",
+            "Happy Place Covers": "₺39,99",
+            "Goodmind Journal": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761942320239,

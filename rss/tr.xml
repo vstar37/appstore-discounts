@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-10-31T23:23:18.885Z</updated>
+    <updated>2025-11-01T04:27:17.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,43 +21,59 @@ feedId:99063474310237184+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-10-31T23:23:18.886Z</updated>
+        <updated>2025-11-01T04:27:17.488Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEATH STRANDING DIRECTOR'S CUT]]></title>
-        <id>DEATH STRANDING DIRECTOR'S CUT-1761952816188</id>
-        <link href="https://apps.apple.com/tr/app/death-stranding-directors-cut/id6449748961?uo=4"/>
-        <updated>2025-10-31T23:20:16.188Z</updated>
-        <summary type="html"><![CDATA[Price: ₺899,99 → ₺399,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/death-stranding-directors-cut/id6449748961?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺899,99</span> → <b>
-  <strong>₺399,99</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. 
- 
-In the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. 
- 
-As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. 
- Can you reunite the shattered world, one step at a time?
+        <title type="html"><![CDATA[Goodnotes: AI Notes, Docs, PDF]]></title>
+        <id>Goodnotes: AI Notes, Docs, PDF-1761971055972</id>
+        <link href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4"/>
+        <updated>2025-11-01T04:24:15.972Z</updated>
+        <summary type="html"><![CDATA[Special Edition: ₺1.369,99 → ₺1.099,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/84/7c/70847cb4-84f1-49c7-2e57-5f879db9de76/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Special Edition：</strong><span>₺1.369,99</span> → <b>
+  <strong>₺1.099,99</strong>
+</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Goodnotes has always been the place to capture your ideas — from quick notes to big plans. Now, it goes further. With powerful AI and new ways to capture information, Goodnotes helps you connect the dots, unlock insights, and turn ideas into action.
 
-DEATH STRANDING DIRECTOR'S CUT on iOS includes a HIGH FRAME RATE, PHOTO MODE, and cross-over content from Valve Corporation's HALF-LIFE series and CD Projekt Red's Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.
+*Existing Goodnotes 5 users can continue to use Goodnotes 5 indefinitely or upgrade to the new Goodnotes. Either way, your notes are safe!*
 
-Mac and iOS
-• Sign-in to iCloud and activation of iCloudDrive are required to play this product.
-• This product can be played offline, but a network connection is required to fully experience the Social Strand System™. Communication fees will be incurred during online play.
+For professionals: Increase productivity at work
+■ Whiteboard + Goodnotes AI: One of our most requested features — brainstorm, mind-map, and diagram freely on an infinite canvas that grows with your ideas. Enhanced diagramming tools and real-time collaboration make it easy for teams to workshop, ideate, and problem-solve together, while Goodnotes AI helps you capture and organize key takeaways instantly. 
+■ Goodnotes AI Audio & Meetings: Stay fully present in every conversation while Goodnotes does the work for you. AI-powered transcription and live summarization automatically capture discussions and structure them into clear meeting minutes. After the meeting, merge transcripts with your own notes to create polished, shareable documents in seconds. 
+■ Text Documents + AI: Create documents that think with you. Enjoy a superior typing experience with rich inline blocks, build on ideas with external insights, and collaborate seamlessly with teammates. With AI-powered summarization, automated note generation, and transcript support, you can turn rough notes and meetings into finished content faster than ever. 
+■ Present your notes, slides, and content directly from Goodnotes when you connect your device via AirPlay or HDMI to an external screen. 
+■ Use Laser Pointer to guide your audience’s attention during your presentation.
+■ Export your notes to email, print, or share them anywhere as PDFs. 
+■ Send a link to your notebooks to work on the same notes directly — perfect for asynchronous work or collaborative brainstorming. 
+■ Import documents by emailing them to your custom Goodnotes email. 
 
-Only for iOS version
-• When playing this product for the first time, you will be required to download additional data. You can start the game once you have downloaded approximately 13 GB, but additional downloads will occur as the game progresses, requiring a total of approximately 50 GB of downloads. Additional downloads will occur when additional language voice data is used.
+For students: Ace your exams with ease
+■ Record audio notes that are magically synced to the moment you write — perfect for lectures or presentations.
+■ Search and instantly find any of your notes from any class. 
+■ Study and practice straight from your notes with Study Sets — flashcards built on active recall and spaced repetition. 
+■ Use AI to summarize, shorten, change the tone of your words, and perfect your typed text. 
 
-FAQs
-https://505.games/DSDCAppStoreFAQ
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/0d/24/6d0d2461-e372-5e08-4569-437b2fd51902/cf50affd-3bcc-49f5-9dd2-45ecedf502f4_DSDC_Mac_Higgs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/57/79/a3/5779a3b7-455e-3025-b239-d0e78f3c2e20/2ec2c950-3d7b-4bcf-ae92-dd50a7fcf04d_DSDC_Mac_Sam.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/8f/14/d38f14ff-5d7e-c0b1-a6ea-cebc3e991c78/a26a0e41-5590-40de-ba64-51250fae188f_DSDC_iPad129_BB.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/28/cd/5128cdae-535a-a320-ff22-9c8a4e62ef2d/26bc9f26-21a0-407b-81e3-083f1fadb1b6_DSDC_iPad129_Sam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/e6/bb/a2e6bb89-2599-4f25-5e88-57adf8df16b7/51303ce2-eb25-4e0f-86de-cdd804af9aa2_DSDC_iPad129_Mission.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/b8/ea/3cb8ea1b-dee1-61d1-efdd-9f4d85a6c83b/45ce2e3e-ea92-4cd7-88f1-ce0935bd96dd_DSDC_iPad129_Ladder.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/50/84/7050841d-5665-1193-f834-70a2f698841f/7254f44e-c30f-485b-8067-f36710573424_DSDC_iPad129_Gazers.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/9a/c8/139ac8f7-6e13-dd30-406a-af1f9d2692b5/779f9f5c-6b2d-48f7-a35d-f2d439f15ac6_DSDC_iPad129_Delivery.png/552x414bb.png" />]]></content>
+For planners: Let your creativity flow 
+■ Customize the size and color of your paper templates to create the template you want. 
+■ Add, create, or import stickers, stamps, washi tapes, images, and more 
+
+Digital notebooks: unlimited notebooks for the price of a single physical one. 
+■ Combine handwriting and typed text on one page, alongside images, stickers, diagrams, and doodles. 
+■ Create digital notebooks with customizable paper templates, including Blank Paper, Ruled Paper, Cornell Paper, Checklists, Planners, and more. 
+■ Navigate long documents with ease. PDF tables of contents are automatically imported; or create custom outlines yourself. 
+■ Back up all your notes to Google Drive, Dropbox, or OneDrive, and use iCloud to sync across iPad, iPhone, and Mac — so your notes are always safe. 
+■ Edit your writing by resizing it, changing the text color, or moving it to another spot on the page. 
+Privacy Policy: https://www.goodnotes.com/privacy-policy
+Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/8e/a9/688ea90e-945a-18bc-587f-1cd7f8af2ec7/ASO_EN_iPhone_5.5_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/ca/9916caa6-24cd-7bf4-b706-3c13feb289b2/ASO_EN_iPhone_5.5_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/7a/56/4d7a565c-6196-d5f3-fd3c-a43974a14478/ASO_EN_iPhone_5.5_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/7f/83/a27f8361-a94d-2e2b-fc4b-eafa3cdf6a9e/ASO_EN_iPhone_5.5_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3b/5d/ba3b5d02-5042-7b27-8cb2-918fbd658488/ASO_EN_iPhone_5.5_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/a0/a0/6da0a071-fffb-58e4-b22c-388418f1a41b/ASO_EN_iPhone_5.5_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/0f/8b/7d0f8bc4-8c8d-27aa-6f82-6903df878c0d/ASO_EN_iPhone_5.5_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/83/89/4d83896c-8e7c-bacd-9ef6-0ac0123fa0f6/ASO_EN_iPhone_5.5_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/99/ce/db99ce15-b5df-3c97-7e1f-4a10fb0a928a/ASO_EN_iPhone_5.5_9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/16/d2/3f16d24d-54ab-6565-5e04-bec402af7e3a/ASO_EN_iPhone_5.5_10.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>
